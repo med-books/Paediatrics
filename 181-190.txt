@@ -1,0 +1,298 @@
+181
+
+11
+Growth and puberty
+
+Measurement 181
+Puberty 183
+Short stature 186
+Tall stature 190
+Abnormal head growth 191
+Premature sexual development 193
+Delayed puberty 195
+Disorders of sexual differentiation (DSD) 196
+
+In contrast to adults, growth of all body parameters and, later, the development of puberty are key features of childhood and adolescence. Deviation from the norm needs to be recognised and the underlying cause identified and treated. This requires knowledge concerning normal growth and puberty.
+
+There are four phases of normal human growth (Fig. 11.1).
+
+Fetal
+
+This is the fastest period of growth, accounting for about 30% of eventual height. Size at birth is determined by the size of the mother and by placental nutrient supply, which in turn modulates fetal growth factors (IGF-2, human placental lactogen and insulin). Optimal placental nutrient supply is dependent on an adequate maternal diet. Size at birth is largely independent of the father’s height and of growth hormone. Severe intrauterine growth restriction and extreme prematurity when accompanied by poor postnatal growth can result in permanent short stature. Paradoxically, low birthweight increases the later metabolic risk of childhood obesity.
+
+The infantile phase
+
+Growth during infancy to around 18 months of age is also largely dependent on adequate nutrition. Good health and normal thyroid function are also necessary. This phase is characterised by a rapid but decelerating growth rate, and accounts for about 15% of eventual height. By the end of this phase, children have changed from their fetal length, largely determined by the uterine environment, to their genetically determined height. An inadequate rate of weight gain during this period is called ‘failure to thrive’ (see Ch. 12).
+
+Childhood phase
+
+This is a slow, steady but prolonged period of growth that contributes 40% of final height. Pituitary growth hormone (GH) secretion acting to produce insulin-like growth factor 1 (IGF-1) at the epiphyses is the main determinant of a child’s rate of growth, provided there is adequate nutrition and good health. Thyroid hormone, vitamin D and steroids also affect cartilage cell division and bone formation. Profound chronic unhappiness can decrease GH secretion and accounts for psychosocial short stature.
+
+Pubertal growth spurt
+
+Sex hormones, mainly testosterone and oestradiol, cause the back to lengthen and boost GH secretion. This adds 15% to final height. The same sex steroids cause fusion of the epiphyseal growth plates and a cessation of growth. If puberty is early, which is not uncommon in girls, the final height is reduced because of early fusion of the epiphyses (see below).
+
+Figure 11.1 Male and female height velocity charts (50th percentile) showing the determinants of childhood growth. The fetal and infantile phases are mainly dependent on adequate nutrition, whereas the childhood and pubertal phases are dependent on growth hormone and other hormones. Adult males are taller than females as they have a longer childhood growth phase, their peak height velocity is higher and their growth ceases later.
+
+Diagram labels:
+Height velocity (cm/year); Age (years); Males; Females.
+Fetal (30% of adult height): uterine environment.
+Infantile (15% of adult height): nutrition; good health and happiness; thyroid hormones.
+Childhood (40% of adult height): growth hormone; thyroid hormones; genes; good health and happiness.
+Pubertal (15% of adult height): testosterone and oestrogen; growth hormone.
+
+Measurement
+
+Growth must be measured accurately, with attention to correct technique and accurate plotting of the data:
+• Weight – readily and accurately determined with electronic scales but must be performed on a naked infant or a child dressed only in underclothing as an entire month’s or year’s weight gain can be represented by a wet nappy or heavy jeans, respectively.
+• Height – the equipment must be regularly calibrated and maintained. In children over 2 years of age, the standing height is measured as illustrated in Figure 11.2. In children under 2 years, length is measured lying horizontally (Fig. 11.3), using the mother to assist. Accurate length measurement in infants can be difficult to obtain, as the legs need to be held straight and infants often dislike being held still. For this reason, routine measurement of length in infancy is often omitted from child surveillance, but it should always be performed whenever there is doubt about an infant’s growth.
+• Head circumference – the occipitofrontal circumference is a measure of head and hence brain growth. The maximum of three measurements is used. It is of particular importance in developmental delay or suspected hydrocephalus.
+
+These measurements should be plotted as a simple dot on an appropriate growth centile chart. Standards for a population should be constructed and updated every generation to allow for the trend towards earlier puberty and taller adult stature from improved childhood nutrition. In 2009, the UK adopted the World Health Organization (WHO) new global Child Growth Standards for infants and children 0–4 years old (See Appendix Fig. A1). The new charts are based on the optimal growth of healthy children totally
+
+Figure 11.2 Measuring height accurately in children.
+
+Calibration checked.
+Head straight, eyes and ears level.
+Gentle upward traction on mastoid process.
+Knees straight.
+Barefoot, with feet flat on floor.
+Heels touching back of board.
+
+
+182
+
+breast-fed up to the age of 6 months. These charts allow for the lower weight of totally breast-fed infants and are therefore less likely to identify some breast-fed babies as underweight and may also allow early identification of bottle-fed babies gaining weight too rapidly.
+
+Height in a population is normally distributed and the deviation from the mean can be measured as a centile or standard deviation (Fig. 11.4). The bands on the growth reference charts have been chosen to be two-thirds of a standard deviation apart and correspond approximately to the 25th, 9th, 2nd and 0.4th centiles below the mean, and the 75th, 91st, 98th and 99.6th centiles above the mean. The further these centiles lie from the mean, the more likely it is that a child has a pathological cause for his short or tall stature. For instance, values below the 0.4th or above the 99.6th centile will occur by chance in only 4 per 1000 children and can be used as a criterion for referral from primary to specialist care. A single growth parameter should not be assessed in isolation from the other growth parameters: e.g. a child’s low weight may be in proportion to the height if short, but abnormal if tall. Serial measurements are used to show the pattern and determine the rate of growth. This is helpful in diagnosing or monitoring many paediatric conditions. The WHO charts include an adult height predictor and a BMI centile ready-reckoner.
+
+Figure 11.3 Measuring length in infants and young children. An assistant is required to hold the legs straight.
+
+Figure 11.4 Interpretation of the UK growth reference charts. The lines show the mean and bands which are two-thirds of a standard deviation (SD) apart. The centiles are shown in the diagram.
+
+Centiles and standard deviations:
+0.4th centile: −2.6 SD
+2nd centile: −2 SD
+9th centile: −1.3 SD
+25th centile: −0.66 SD
+50th centile: mean
+75th centile: +0.66 SD
+91st centile: +1.3 SD
+98th centile: +2 SD
+99.6th centile: +2.6 SD
+
+Summary: Measurement of children
+
+• Measurement must be accurate for meaningful monitoring of growth.
+• Growth parameters should be plotted on charts.
+• Significant abnormalities of height are:
+  – measurements outside the 0.4th or 99.6th centiles if the mid-parental height is not short or tall
+  – if markedly discrepant from weight
+  – serial measurements which cross growth centile lines after the first year of life.
+
+Puberty
+
+Puberty follows a well-defined sequence of changes that may be assigned stages, as shown in Figures 11.5 and 11.6. Over the last 20 years, the mean age at which puberty starts in girls has lowered. However, the age at which menarche occurs has remained stable. Therefore, females now remain in puberty for longer.
+
+In females the features of puberty are:
+• Breast development – the first sign, usually starting between 8.5 and 12.5 years.
+• Pubic hair growth and a rapid height spurt – occur almost immediately after breast development.
+• Menarche – occurs on average 2.5 years after the start of puberty and signals that growth is coming to an end, with only around 5 cm height gain remaining.
+
+Figure 11.5 Schematic drawings of male and female stages of puberty. Pubertal changes are shown according to the Tanner stages of puberty.
+
+(a) Female breast changes
+BI: Prepubertal.
+BII: Breast bud.
+BIII: Juvenile smooth contour.
+BIV: Areola and papilla project above breast.
+BV: Adult.
+
+(b) Pubic hair changes – female and male
+PHI: Pre-adolescent. No sexual hair.
+PHII: Sparse, pigmented, long, straight, mainly along labia or at base of penis.
+PHIII: Dark, coarser, curlier.
+PHIV: Filling out towards adult distribution.
+PHV: Adult in quantity and type with spread to medial thighs in male.
+
+(c) Male genital stages
+GI: Preadolescent.
+GII: Lengthening of penis.
+GIII: Further growth in length and circumference.
+GIV: Development of glans penis, darkening of scrotal skin.
+GV: Adult genitalia.
+
+In males:
+• Testicular enlargement to >4 ml volume measured using an orchidometer (Fig. 11.7) – the first sign of puberty.
+• Pubic hair growth – follows testicular enlargement, usually between 10 and 14 years of age.
+• Height spurt – when the testicular volume is 12–15 ml, after a delay of around 18 months. The height spurt in males occurs later and is of greater magnitude than in females, accounting for the greater final average height of males than females.
+
+Figure 11.6 Timing of puberty. Pubertal changes are shown according to the Tanner stages of puberty. (Diagrams based on Zitelli BJ, Davis HW. 1992. Atlas of Pediatric Physical Diagnosis, 2nd edn. Lippincott, Philadelphia; Johnson TR, Moore WM, Jeffries JE. 1978. Children are Different, 2nd edn. Ross Laboratories, Division of Abbot Laboratories, Columbus, OH.)
+
+Female: height spurt at 12 years; age of menarche 12¼–12½ years; breast stages II, III, IV; pubic hair stages II, III, IV.
+Male: height spurt at 14 years; penis stages II, III, IV; testicular volume 4 ml and 12 ml; pubic hair stages II, III, IV.
+
+Figure 11.7 Orchidometer to assess testicular volume (in ml). (From Wales JKH, Rogol AD, Wit JM. 2003. Pediatric Endocrinology and Growth. Mosby-Wolfe, London, with permission.)
+
+Figure 11.8 X-rays of the left wrist and hand to determine bone ages. This technique allows assessment of skeletal maturation from the time of appearance or maturity of the epiphyseal centres, using a standardised rating system. The child’s height can be compared with skeletal maturation and an adult height prediction made. The ages show bone age of each X-ray.
+
+In both sexes, there will be development of acne, axillary hair, body odour and mood changes.
+
+If puberty is abnormally early or late, it can be further assessed:
+• Bone age measurement from a hand and wrist X-ray to determine skeletal maturation (Fig. 11.8).
+• In females, pelvic ultrasound can be used to assess uterine size and endometrial thickness.
+
+
+183–185
+
+Menstruation has a wide range of normal variation. The normal cycle length varies between 21 and 45 days. The length of blood loss varies between 3 and 7 days and the average blood loss per cycle is <80 ml – passage of blood clots or the use of more than six pads per day implies heavy bleeding, which needs evaluation. Rarely, it can indicate clotting disorders such as von Willebrand disease.
+
+Summary: Puberty
+
+• The first sign in females is breast development; in males it is testicular enlargement.
+• In females the height spurt occurs shortly after breast development; in males it starts almost 18 months after the first signs of puberty.
+
+Short stature
+
+Short stature is usually defined as a height below the second centile (i.e. two standard deviations (SD) below the mean) or 0.4th centile (−2.6 SD). Only 1 in 50 children will be shorter than the 2nd centile and 1 in 250 (4 in 1000) shorter than the 0.4th centile. Most of these children will be normal, though short, with short parents, but the further the child is below these centiles, the more likely it is that there will be a pathological cause. However, the rate of growth (measured as height velocity; Fig. 11.1) may be abnormal long before a child’s height falls below these values. This growth failure can be identified from the child’s height falling across centile lines plotted on a height velocity chart (Fig. 11.1). This allows growth failure to be identified earlier, even though the child’s height is still above the 2nd centile.
+
+Measuring height velocity is a sensitive indicator of growth failure. Two accurate measurements at least 6 months but preferably a year apart allow calculation of height velocity in cm/year (Fig. 11.1). This is plotted at the midpoint in time on a height/velocity chart. A height velocity persistently below the 25th centile is abnormal and that child will eventually become short. A disadvantage of using height velocity calculations is that they are highly dependent on the accuracy of the height measurements and so tend not to be used outside specialist growth units.
+
+The height centile of a child must be compared with the weight centile and an estimate of their genetic target centile and range calculated from the height of their parents. This is calculated as the mean of the father’s and mother’s height with 7 cm added for the mid-parental target height of a boy, and 7 cm subtracted for a girl. The 9th–91st centile range of this estimate is given by ±10 cm in a boy and ±8.5 cm in a girl (see examples in Fig. 11.9).
+
+Most short children are psychologically well adjusted to their size. However, there may be problems from being teased or bullied at school, poor self-esteem and they are at a considerable disadvantage in most competitive sport. They are also assumed by adults to be younger than their true age and may be treated inappropriately.
+
+Familial
+
+Most short children have short parents and fall within the centile target range allowing for mid-parental height. Care needs to be taken, though, that both the child and a parent do not have a dominantly inherited growth disorder.
+
+Intrauterine growth restriction (IUGR) and extreme prematurity
+
+About one-third of children born with severe intrauterine growth restriction or who were extremely premature remain short. Growth hormone treatment may be indicated.
+
+Constitutional delay of growth and puberty
+
+These children have delayed puberty, which is often familial, usually having occurred in the parent of the same sex. It is commoner in males. It is a variation of the normal timing of puberty rather than an abnormal condition. It may also be induced by dieting or excessive physical training. An affected child will have delayed sexual changes compared with his peers, and bone age would show moderate delay. The legs will be long in comparison to the back. Eventually the target height will be reached. The condition may cause psychological upset. The onset of puberty can be induced with androgens or oestrogens.
+
+Endocrine
+
+Hypothyroidism, growth hormone (GH) deficiency, IGF-1 (insulin-like growth factor 1) deficiency and steroid excess are uncommon causes of short stature. They are associated with children being relatively overweight, i.e. their weight on a higher centile than their height.
+
+Hypothyroidism
+
+This is usually caused by autoimmune thyroiditis during childhood (see Ch. 25). This produces growth failure, usually with excess weight gain. It may go undiagnosed for many years and lead to short stature. When treated, catch-up growth rapidly occurs but often with a rapid entry into puberty that can limit final height. Congenital hypothyroidism is diagnosed soon after birth by screening and so does not result in any abnormality of growth.
+
+Growth hormone deficiency
+
+This may be an isolated defect or secondary to panhypopituitarism. Pituitary function may be abnormal in congenital mid-facial defects or as a result of a craniopharyngioma (a tumour affecting the pituitary region), a hypothalamic tumour or trauma such as head injury, meningitis and cranial irradiation. Craniopharyngioma usually presents in late childhood and may result in abnormal visual fields (characteristically a bitemporal hemianopia as it impinges on the optic chiasm), optic atrophy or papilloedema on fundoscopy. In growth hormone deficiency, the bone age is markedly delayed. Laron syndrome is a condition due to defective growth hormone receptors resulting in growth hormone insensitivity. Patients with this condition have high growth hormone levels but low levels of the downstream active product of growth hormone known as insulin-like growth factor 1 (IGF-1) produced at the growth plate and in the liver. Rare abnormalities in the gene producing IGF-1 have also recently been discovered in children.
+
+Corticosteroid excess, Cushing syndrome
+
+This is usually iatrogenic, as corticosteroid therapy is a potent growth suppressor. This effect is greatly reduced by alternate day therapy, but some growth suppression may be seen even with relatively low doses of inhaled or topical steroids in susceptible individuals. Non-iatrogenic Cushing syndrome is very unusual in childhood and may be caused by pituitary or adrenal pathology. Growth failure may be very severe, usually with excess weight gain, although normalisation of body shape and height occurs on withdrawal of treatment or treatment of the underlying steroid excess. Cushing syndrome during puberty can result in permanent loss of height (see Ch. 25).
+
+Nutritional/chronic illness
+
+This is a relatively common cause of abnormal growth. These children are usually short and underweight: i.e. their weight is on the same or a lower centile than their height. Inadequate nutrition may be due to insufficient food, restricted diets or poor appetite associated with a chronic illness, or from the increased nutritional requirement from a raised metabolic rate. Chronic illnesses which may present with short stature include:
+• Coeliac disease, which usually presents in the first 2 years of life, but can present late with growth failure. Coeliac disease may result in short stature without gastrointestinal symptoms.
+• Crohn disease.
+• Chronic renal failure – may be present in the absence of a history of renal disease.
+
+Psychosocial deprivation
+
+Children subjected to physical and emotional deprivation may be short and underweight and show delayed puberty. This condition may be extremely difficult to identify, but affected children show catch-up growth if placed in a nurturing environment.
+
+Chromosomal disorder/syndromes
+
+Many chromosomal disorders and syndromes are associated with short stature. Down syndrome is usually diagnosed at birth, but Turner (Fig. 8.6 and see Ch. 8), Noonan (Fig. 8.17) and Russell–Silver syndromes may present with short stature. Turner syndrome may be particularly difficult to diagnose clinically and should be considered in all short females.
+
+Extreme short stature
+
+There are a few rare conditions that cause extreme short stature in children. These include absolute resistance to growth hormone (Laron syndrome), and primordial dwarfism. Idiopathic short stature (ISS) refers to short stature that does not have a diagnostic explanation. In addition, abnormalities in a gene called SHOX (short stature homeobox) located on the X chromosome lead to severe short stature with skeletal abnormalities when present on both copies of the gene. Absence of one SHOX gene in Turner syndrome is thought to be the cause of short stature in this condition (and additional copies in Klinefelter syndrome produce taller than normal stature). Polymorphisms in this gene probably account for a proportion of idiopathic short stature.
+
+Disproportionate short stature
+
+This is confirmed by measuring:
+• Sitting height – base of spine to top of head.
+• Subischial leg length – subtraction of sitting height from total height.
+• Limited radiographic skeletal survey to identify the skeletal abnormality.
+
+Charts exist to assess the normality of body proportions. Conditions with abnormal body proportions are rare and may be caused by disorders of the formation of bone (skeletal dysplasias). They include achondroplasia and other short-limbed dysplasias. If the legs are extremely short, treatment by surgical leg lengthening may be appropriate. The back may be short from severe scoliosis or some storage disorders, such as the mucopolysaccharidoses.
+
+Examination and investigation
+
+Plotting present and previous heights and weights on appropriate growth charts, together with the clinical features, usually allows the cause to be identified without any investigations (Fig. 11.9a-i). Previous height and weight measurements should be available from the parent-held personal child health record. The bone age may be helpful, as it is markedly delayed in some endocrine disorders, e.g. hypothyroidism and growth hormone deficiency, and is used to estimate adult height potential. Investigations that may be indicated are shown in Table 11.1.
+
+Growth hormone treatment of short stature
+
+Growth hormone deficiency is treated with biosynthetic growth hormone, which is given by subcutaneous injection, usually daily. It is expensive and the management of growth hormone deficiency is undertaken at specialist centres. The best response is seen in children with the most severe hormone deficiency. Other indications include Turner syndrome, Prader–Willi syndrome (Fig. 8.19), chronic renal failure, SHOX (short stature homeobox) deficiency and intrauterine growth restriction (IUGR). In Prader–Willi syndrome (an imprinting disorder resulting in early hypotonia and feeding difficulties followed by short stature, obesity and learning difficulties), growth hormone improves muscular
+
+
+187
+
+strength and body composition as well as modestly improving final height. Recently, recombinant IGF-1 has been used to treat children with growth hormone resistance (e.g. Laron syndrome) and IGF-1 deficiency who would have previously not responded to growth hormone treatment. Recombinant IGF-1 therapy is still very expensive and is confined to a few specialised centres.
+
+Figure 11.9 Causes of short stature. Charts © Child Growth Foundation, reproduced with permission. Further supplies and information from www.healthforallchildren.co.uk.
+
+Diagram labels:
+(a) Familial: following growth centile within predicted range for parental height.
+(b) Severe intrauterine growth restriction or prematurity: short from birth.
+(c) Constitutional delay of growth and puberty: short stature accentuated by delayed puberty; delayed bone age.
+(d) Endocrine: growth hormone deficiency; hypothyroidism; steroid excess (iatrogenic; Cushing syndrome); IGF-1 deficiency. Falling off height centiles; weight centile > height centile; short and overweight; markedly delayed bone age.
+(e) Nutrition/chronic illness: gastrointestinal (coeliac, Crohn); chronic renal failure. Falling off height centiles; weight centile < height centile; delayed bone age.
+(f) Psychosocial: emotional deprivation/neglect.
+(g) Syndromes: Turner; Noonan; Down; Russell–Silver. Dysmorphic features. Consider Turner syndrome in all short females. Figure labels include Russell–Silver syndrome.
+(h) Extreme short stature: rare.
+(i) Disproportion: skeletal dysplasia – legs > back; storage disorders – back > legs. Figure label: Achondroplasia.
+
+Table 11.1 Investigations considered for short stature
+
+Investigation — Significance
+
+X-ray of wrist and hand for bone age — Some delay in constitutional delay of growth and puberty. Marked delay for hypothyroidism or growth hormone deficiency or other endocrine causes.
+Full blood count — Anaemia in coeliac or Crohn disease.
+Creatinine and electrolytes — Creatinine raised in chronic renal failure.
+Calcium, phosphate, alkaline phosphatase — Renal and bone disorders.
+Thyroid-stimulating hormone (TSH) — Raised in primary hypothyroidism.
+Karyotype — Turner syndrome shows 45XO, other chromosomal disorders.
+Endomysial and anti-tissue transglutaminase IgA antibodies — Usually present in coeliac disease.
+CRP (acute-phase reactant) and erythrocyte sedimentation rate (ESR) — Raised in Crohn disease.
+Growth hormone provocation tests (using insulin, glucagon, clonidine or arginine in specialist centres) — Growth hormone deficiency.
+IGF-1 — Disorders of the growth hormone axis, including IGF-1 deficiency.
+0900 cortisol and dexamethasone suppression test — Cushing syndrome.
+MRI scan if neurological symptoms/signs — Craniopharyngioma or intracranial tumour.
+Limited skeletal survey — Skeletal dysplasia, scoliosis.
+
+
+190
+
+Tall stature
+
+This is a less common presenting complaint than short stature, as many parents are proud that their child is tall. However, some adolescents (mainly females) become concerned about excessive height during their pubertal growth spurt. The causes are shown in Table 11.2. Most tall stature is inherited from tall parents. Obesity in childhood ‘fuels’ early growth and may result in tall stature; however, because puberty is often somewhat earlier than average, it does not increase final height.
+
+Secondary endocrine causes are rare. Both congenital adrenal hyperplasia and precocious puberty lead to early epiphyseal fusion so that eventual height is reduced after an early excessive growth rate.
+
+Marfan (a disorder of loose connective tissue) and Klinefelter (XXY – an excess of SHOX dose) syndromes
+
+Table 11.2 Causes of excessive growth or tall stature
+
+Familial — Most common cause.
+
+Obesity — Puberty is advanced, so final height centile is less than in childhood.
+
+Secondary
+• Hyperthyroidism.
+• Excess sex steroids – precocious puberty from whatever cause.
+• Excess adrenal androgen steroids – congenital adrenal hyperplasia.
+• True gigantism (excess GH secretion).
+
+Syndromes
+Long-legged tall stature:
+• Marfan syndrome.
+• Homocystinuria.
+• Klinefelter syndrome (47 XXY and XXY karyotype).
+
+Proportionate tall stature at birth:
+• Maternal diabetes.
+• Primary hyperinsulinism.
+• Beckwith syndrome.
+• Sotos syndrome – associated with large head, characteristic facial features and learning difficulties.

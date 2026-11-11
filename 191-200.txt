@@ -1,0 +1,325 @@
+191
+
+Summary
+Assessment of a child with short stature
+
+Examination of the growth chart:
+• Following growth centile lines for length/height, weight and head circumference?
+  Consider familial, low birthweight, constitutional delay of growth and puberty, syndromes and skeletal dysplasias
+• Growth failure with crossing of centile lines?
+  Consider endocrine (including therapeutic corticosteroids), nutrition/chronic illness, psychosocial deprivation
+
+Determine the mid-parental height
+• For genetic target range
+
+History
+• Birth length, weight, head circumference and gestational age
+• Pregnancy history: infection, intrauterine growth restriction, drug use, alcohol/smoking
+• Feeding history
+• Developmental milestones
+• Family history of constitutional delay of growth and puberty or other diseases?
+• Consanguinity pertaining to inherited conditions
+• Features of chronic illness, endocrine causes, e.g. hypothyroidism, pituitary tumour, Cushing syndrome or psychosocial deprivation?
+• Medications, e.g. corticosteroids?
+
+Examination
+• Dysmorphic features – chromosome/syndrome present?
+  (But in Turner syndrome other stigmata may be absent)
+• Chronic illness, e.g. Crohn, cystic fibrosis, coeliac disease?
+• Evidence of endocrine causes?
+• Disproportionate short stature from skeletal dysplasia?
+• Pubertal stage?
+
+Diagnosis
+Cause can usually be determined from the above and no tests are required.
+
+Both cause long-legged tall stature, and in XXY there is also infertility and learning difficulties.
+
+Tall children may be disadvantaged by being treated as older than their chronological age. Excessive height in prepubertal or early pubertal adolescent females and males can be treated with oestrogen therapy and testosterone therapy, respectively, to induce premature fusion of the epiphyses, but as it produces variable results and has potentially serious side-effects, it is seldom undertaken. Surgical destruction of the epiphyses in the legs may also be considered in extreme cases.
+
+Abnormal head growth
+
+Most head growth occurs in the first 2 years of life and 80% of adult head size is achieved before the age of 5 years. This largely reflects brain growth, but small or large heads may be familial and the mid-parental head percentile may need to be calculated. At birth, the sutures and fontanelle are open. During the first few months of life, the head circumference may increase across centiles, especially if small for gestational age. The posterior fontanelle has closed by 8 weeks, and the anterior fontanelle by 12–18 months. If there is a rapid increase in head circumference, raised intracranial pressure should be excluded.
+
+Microcephaly
+
+Microcephaly, a head circumference below the 2nd centile, may be:
+• Familial – when it is present from birth and development is often normal
+• An autosomal recessive condition – when it is associated with developmental delay
+
+
+192
+
+Case History
+11.1 Microcephaly
+
+Figure 11.10 shows the head circumference chart of Tim, who was healthy and was developing normally. At 9 months of age, he was rushed to hospital as he was unrousable from profound hypoglycaemia secondary to the deliberate administration of insulin by his mother, who had diabetes. Although Tim was taken into care and had no further hypoglycaemic episodes, his head circumference shows cessation of growth. He has developed moderate learning difficulties and mild cerebral palsy.
+
+Figure 11.10 Tim’s head circumference chart.
+Chart © Child Growth Foundation, reproduced with permission. Further supplies and information from www.healthforallchildren.co.uk.
+
+Box 11.1 Causes of a large head
+• Tall stature
+• Familial macrocephaly
+• Raised intracranial pressure
+• Hydrocephalus – progressive or arrested
+• Chronic subdural haematoma
+• Cerebral tumour
+• Neurofibromatosis
+• Cerebral gigantism (Sotos syndrome)
+• CNS storage disorders, e.g. mucopolysaccharidosis (Hurler syndrome).
+
+• Caused by a congenital infection
+• Acquired after an insult to the developing brain, e.g. perinatal hypoxia, hypoglycaemia or meningitis, when it is often accompanied by cerebral palsy and seizures (see Case History 11.1).
+
+Macrocephaly
+
+Macrocephaly is a head circumference above the 98th centile. The causes of a large head are listed in Box 11.1. Most are normal children and often the parents have large heads. A rapidly increasing head circumference, even if the head circumference is still below the 98th centile, suggests raised intracranial pressure and may be due to hydrocephalus, subdural haematoma or brain tumour. It must be investigated promptly by intracranial ultrasound if the anterior fontanelle is still open, otherwise by CT or MRI scan.
+
+If an infant’s head circumference is enlarging and crossing centile lines – check for raised intracranial pressure.
+
+Asymmetric heads
+
+Skull asymmetry may result from an imbalance of the growth rate at the coronal, sagittal or lambdoid sutures, although the head circumference increases normally. Occipital plagiocephaly, a parallelogram-shaped head with flattening of the back of the skull, is seen with increased frequency since the advice to parents that babies should sleep lying on their back to reduce the risk of sudden infant death syndrome. It improves with time as the infant becomes more mobile. Plagiocephaly is also seen in infants with hypotonia. Preterm infants may develop long, flat heads from lying on their sides for long periods on the hard surface of incubators unless provided with a soft surface to lie on and their head position is changed frequently (see Fig. 11.11). Under these circumstances, it is not associated with abnormal development.
+
+Craniosynostosis
+
+The sutures of the skull bones start to fuse during infancy but do not finally fuse until late childhood. Premature fusion of one or more sutures (craniosynostosis) may lead to distortion of the head shape. Craniosynostosis is usually localised (Box 11.2). It most often affects the sagittal suture, when it results in a long narrow skull (Fig. 11.12). Rarely it affects the lambdoid suture to result in skull asymmetry, which needs to be differentiated from plagiocephaly, where there is asymmetric flattening of one side of the skull from positional moulding.
+
+
+193
+
+Abnormal head shape
+Box 11.2 Forms of craniosynostosis
+
+Localised
+• Sagittal suture – long narrow skull
+• Coronal suture – asymmetrical skull
+• Lambdoid suture – flattening of skull
+
+Generalised
+• Multiple sutures resulting in microcephaly and developmental delay
+• Genetic syndromes, e.g. with syndactyly in Apert syndrome, with exophthalmos in Crouzon syndrome.
+
+Figure 11.11 Long flat head of a preterm infant. This can be avoided by lying preterm infants on a soft surface and regularly changing their head position.
+
+Figure 11.12 Differentiating craniosynostosis from plagiocephaly.
+Labels: Coronal; Sagittal; Lambdoid; Fused sagittal suture; Frontal protuberance; Ear displaced anteriorly; Ear displaced posteriorly; All sutures are open; Flattening; Closed lambdoid suture; Plagiocephaly (positional moulding); Lambdoidal synostosis.
+
+Figure 11.13 Crouzon syndrome showing the typical shallow orbits and exophthalmos. Craniofacial reconstructive surgery is required to prevent visual loss and cerebral damage from raised intracranial pressure and for cosmetic appearance.
+
+Craniosynostosis may be generalised (Box 11.2), when it may be a feature of a syndrome (Fig. 11.13). The fused suture may be felt or seen as a palpable ridge and confirmed on skull X-ray or cranial CT scan. If necessary, the condition can be treated surgically because of raised intracranial pressure or for cosmetic reasons. Such operations are performed in specialist centres for craniofacial reconstructive surgery.
+
+Premature sexual development
+
+The development of secondary sexual characteristics before 8 years old in females and 9 years old in males is defined as outside the normal range in the UK. It may be due to:
+• Precocious puberty when it is accompanied by a growth spurt
+• Premature breast development (thelarche)
+• Premature pubic hair development (pubarche).
+
+Precocious puberty
+
+Precocious puberty (PP) may be categorised according to the levels of the pituitary-derived gonadotropins, follicle-stimulating hormone (FSH) and luteinising hormone (LH), (Fig. 11.14) as:
+• Gonadotropin-dependent (central, ‘true’ PP) from premature activation of the hypothalamic–pituitary–gonadal axis
+• Gonadotropin-independent (pseudo, ‘false’ PP) from excess sex steroids.
+
+Females
+
+This is usually idiopathic or familial and follows the normal sequence of puberty. Organic causes are rare and are associated with:
+• dissonance, when the sequence of pubertal changes is abnormal, e.g. isolated pubic hair with virilisation of the genitalia, suggesting excess
+
+
+194
+
+Figure 11.14 Causes of precocious puberty.
+Gonadotropin-dependent (↑LH >↑FSH)
+Pituitary; LH ++; FSH +; gonad enlarges; oestrogen from ovary ++; testosterone from testis ++ and adrenal +.
+Causes: idiopathic/familial; CNS abnormalities—congenital anomalies, e.g. hydrocephalus; acquired, e.g. post-irradiation, infection, surgery; tumours, e.g. microscopic hamartomas; hypothyroidism.
+
+Gonadotropin-independent (↓FSH, ↓LH), rare
+Gonad or extra-gonadal source; feedback; breast enlargement; oestrogen; pubic hair growth, acne, body odour; testosterone.
+Causes: adrenal disorders—tumours, congenital adrenal hyperplasia; ovarian tumour (granulosa cell); testicular tumour (Leydig cell); exogenous sex steroids.
+
+• androgens from either congenital adrenal hyperplasia or an androgen-secreting tumour
+• rapid onset
+• neurological symptoms and signs, e.g. neurofibromatosis.
+
+Ultrasound examination of the ovaries and uterus is helpful in establishing the cause of precocious puberty. In the premature onset of normal puberty, multicystic ovaries and an enlarging uterus will be identified.
+
+Precocious puberty in females is commonly due to the premature onset of normal puberty.
+
+Males (see Case History 11.2)
+
+This is uncommon and usually has an organic cause, particularly intracranial tumours. Examination of the testes may be helpful:
+• Bilateral enlargement suggests gonadotropin release, usually from an intracranial lesion
+• Small testes suggest an adrenal cause (e.g. a tumour or adrenal hyperplasia)
+• A unilateral enlarged testis suggests a gonadal tumour.
+
+Tumours in the hypothalamic region are best investigated by cranial MRI scan.
+
+Central precocious puberty in males more often has an organic cause.
+
+Management
+
+The management of precocious puberty is directed towards:
+• detection and treatment of any underlying pathology, e.g. intracranial tumour in males, and reducing the rate of skeletal maturation if necessary. Skeletal maturation is assessed by bone age. An early growth spurt may result in early cessation of growth and a reduction in adult height.
+• addressing psychological/behavioural difficulties associated with early progression through puberty.
+
+Deciding whether to treat a girl who is simply going through puberty early needs further consideration. If treatment is required for gonadotropin-dependent disease, gonadotropin-releasing hormone (GnRH) analogues are the treatment of choice. In gonadotropin-independent cases, the source of excess sex steroids needs to be identified. Inhibitors of androgen or oestrogen production or action (e.g. medroxyprogesterone acetate, cyproterone acetate, testolactone, ketoconazole) may be used.
+
+Premature breast development (thelarche)
+
+This usually affects females between 6 months and 2 years of age. The breast enlargement may be asymmetrical and rarely progresses beyond stage 3. It is differentiated from precocious puberty by the absence of axillary and pubic hair and of a growth spurt. It is non-progressive and self-limiting. Investigations are not usually required (see Case History 11.3).
+
+Premature pubarche (adrenarche)
+
+This occurs when pubic hair develops before 8 years of age in females and before 9 years in males but with no other signs of sexual development. It is most commonly caused by an accentuation of the normal maturation of androgen production by the adrenal gland (adrenarche). It is more common in Asian and Afro-Caribbean children. There may be a slight increase in growth rate. It is usually self-limiting. An ultrasound scan of the ovaries and uterus and a bone age should be obtained to exclude central precocious puberty. A more aggressive course of virilisation would suggest late-onset non-salt-losing congenital adrenal hyperplasia (CAH) or an adrenal tumour. Obtaining a urinary steroid profile helps differentiate premature pubarche from late onset CAH or an adrenal tumour. Children who develop premature pubarche are at an increased risk of developing polycystic ovarian syndrome (PCOS) in later life.
+
+Delayed puberty
+
+Delayed puberty is often defined as the absence of pubertal development by 14 years of age in females and 15 years in males. The causes of delayed puberty are listed in Box 11.3.
+
+In contrast to precocious puberty, the problem is more common in males, in whom it is mostly due to constitutional delay in growth and puberty (CDGP). This is often familial, usually having occurred in the parent of the same sex. It may also be induced by dieting or excessive physical training. Children affected with constitutional delay in growth and puberty are short during childhood, with a delay in sexual maturation and have delayed skeletal maturity on bone age. The legs will be long in comparison to the back (eunuchoid body habitus). Eventually the target height will be reached as growth in affected children will continue for longer than in their peers. The condition may cause considerable psychological upset from teasing, poor self-esteem and disadvantage in competitive sport.
+
+In boys, assessment includes:
+• Pubertal staging, especially testicular volume
+• Identification of chronic systemic disorders.
+
+In girls, karyotype should be performed to identify Turner syndrome, and thyroid and sex steroid hormones should be measured. The aims of management are to:
+• identify and treat any underlying pathology
+• ensure normal psychological adaptation to puberty and adulthood
+• accelerate growth and promote entry into puberty if necessary.
+
+Following reassurance that puberty will occur, treatment is usually not required. Should treatment be wanted, oral oxandrolone can be used in young males. This weakly androgenic anabolic steroid will induce some catch-up growth but not secondary sexual characteristics. In older boys, low-dose intramuscular testosterone will accelerate growth as well as inducing secondary sexual characteristics. Females may be treated with oestradiol.
+
+Box 11.3 Causes of delayed puberty
+
+Constitutional delay of growth and puberty/familial
+By far the commonest
+
+Low gonadotropin secretion
+(hypogonadotropic hypogonadism)
+• Systemic disease
+  – Cystic fibrosis, severe asthma, Crohn disease, organ failure, anorexia nervosa, starvation, excess physical training
+• Hypothalamo-pituitary disorders
+  – Panhypopituitarism
+  – Isolated gonadotropin or growth hormone deficiency
+  – Intracranial tumours (including craniopharyngioma)
+  – Kallmann syndrome (LHRH deficiency and inability to smell)
+• Acquired hypothyroidism
+
+High gonadotropin secretion
+(hypergonadotropic hypogonadism)
+• Chromosomal abnormalities
+  – Klinefelter syndrome (47 XXY)
+  – Turner syndrome (45 XO)
+• Steroid hormone enzyme deficiencies
+• Acquired gonadal damage
+  – Post-surgery, chemotherapy, radiotherapy, trauma, torsion of the testis, autoimmune disorder.
+
+Disorders of sexual differentiation (DSD)
+
+The fetal gonad is initially bipotential (Fig. 11.17). In the male, a testis-determining gene on the Y chromosome (SRY) is responsible for the differentiation of the gonad into a testis. The production of testosterone and its metabolite, dihydrotestosterone, results in the development of male genitalia. In the absence of SRY, the gonads become ovaries and the genitalia female.
+
+Rarely, newborn infants may be born with a disorder of sexual differentiation and there may be uncertainty about the infant’s sex. A disorder of sexual differentiation may be secondary to:
+• Excessive androgens producing virilisation in a female – the commonest cause of this is congenital adrenal hyperplasia
+• Inadequate androgen action, producing under-virilisation in a male – this can result from inability to respond to androgens (a receptor problem – androgen insensitivity syndrome, which may be complete or partial) or to convert testosterone to dihydrotestosterone (5α-reductase deficiency) or abnormalities of the synthesis of androgens from cholesterol
+• Gonadotrophin insufficiency, also seen in several syndromes such as Prader–Willi syndrome and congenital hypopituitarism, which results in a small penis and cryptorchidism
+• Ovotesticular disorder of sex development (DSD) (previously known as true hermaphroditism), caused by both XX- and Y-containing cells being present in the fetus leading to both testicular and ovarian tissue being present and a complex external phenotype; this is rare.
+
+All parents and their relatives are desperate to know the sex of their newborn baby. However, if the genitalia are abnormal, the infant’s sex must not be assigned until detailed assessment by medical, surgical and psychological specialists has been performed followed by full discussion with the parents. Birth registration must be delayed until this has been completed.
+
+Sexuality is complex and depends on more than the phenotype, chromosomes and hormone levels. Before the most appropriate sex of rearing is decided upon, the karyotype needs to be determined, adrenal and sex hormone levels measured, and ultrasound of the internal structures and gonads performed. Sometimes laparoscopic imaging and biopsy of internal structures are necessary. In many disorders of sexual differentiation, it has been usual to raise the child as a female, as it is easier to fashion female external genitalia, whereas it is not possible surgically to create an adequately functioning penis. However, it may be impossible to predict the sexual identity of the child in eventual adult
+
+196
+
+life and further support or gender reassignment may be required. For this reason, there is a move toward delaying definitive surgery to allow the affected individual to give informed consent to any reconstructive procedures. This is a controversial area and is best managed by experienced multidisciplinary teams.
+
+If there is abnormal sexual differentiation at birth:
+• Do not guess the infant’s gender
+• The most common cause of a disorder of sexual development is female virilisation from congenital adrenal hyperplasia.
+
+Figure 11.17 Sexual differentiation in the fetus.
+Labels: Male; Female; Undifferentiated gonad in fetus; Sex-determining region on Y chromosome (SRY gene); No sex-determining SRY gene; Testes; Ovaries and female genitalia; Leydig cells; Sertoli cells; Testosterone; 5 alpha reductase; Dihydrotestosterone; Virilised external genitalia; Anti-Müllerian hormone (AMH); Inhibits uterus and fallopian tubes; Maintains male internal genitalia (vas, cord, seminal vesicles).
+
+Congenital adrenal hyperplasia (CAH)
+
+A number of autosomal recessive disorders of adrenal steroid biosynthesis result in congenital adrenal hyperplasia. Its incidence is about 1 in 5000 births, and it is commoner in the offspring of consanguineous marriages. Over 90% have a deficiency of the enzyme 21-hydroxylase, which is needed for cortisol biosynthesis. About 80% are also unable to produce aldosterone, leading to salt loss (low sodium and high potassium) (Fig. 11.18). In the fetus, the resulting cortisol deficiency stimulates the pituitary to produce adrenocorticotrophic hormone (ACTH), which drives overproduction of adrenal androgens.
+
+Presentation:
+• Virilisation of the external genitalia in female infants, with clitoral hypertrophy and variable fusion of the labia (see Case History 11.4)
+• In the infant male, the penis may be enlarged and the scrotum pigmented, but these changes are seldom identified
+• A salt-losing adrenal crisis in the 80% of males who are salt losers; this occurs at 1–3 weeks of age, presenting with vomiting and weight loss, floppiness and circulatory collapse
+• Tall stature in the 20% of male non-salt losers; both male and female non-salt losers also develop a muscular build, adult body odour, pubic hair and acne from excess androgen production, leading to precocious pubarche.
+
+There may be a family history of neonatal death if a salt-losing crisis had not been recognised and treated.
+
+Diagnosis
+
+This is made by finding markedly raised levels of the metabolic precursor 17α-hydroxyprogesterone in the blood. In salt losers, the biochemical abnormalities are:
+• Low plasma sodium
+• High plasma potassium
+• Metabolic acidosis
+• Hypoglycaemia.
+
+
+198
+
+Figure 11.18 Abnormal adrenal steroid biosynthesis from 21-hydroxylase deficiency is the commonest form of congenital adrenal hyperplasia. ACTH, adrenocorticotrophic hormone.
+Labels: Congenital adrenal hyperplasia; Mineralocorticoids; Glucocorticoids; Sex hormones; ACTH (↑); Cholesterol; Pregnenolone; 17OH-pregnenolone; DHEA (dehydroepiandrosterone) (↑); Progesterone; 17α OH-progesterone (↑); Androstenedione (↑); Block in 21-hydroxylase; Deoxycorticosterone; Deoxycortisol (↓); 11-beta hydroxylase; Aldosterone (↓); Cortisol (↓); Testosterone (↑).
+
+Case History
+11.4 Abnormal genitalia at birth
+
+The appearance of this newborn infant’s genitalia is shown in Figure 11.19.
+
+Investigation revealed:
+• A normal female karyotype, 46XX
+• The presence of a uterus on ultrasound examination
+• A markedly raised plasma 17α-hydroxyprogesterone concentration, confirming congenital adrenal hyperplasia
+• A low sodium and a high potassium level
+• A low bicarbonate (metabolic acidosis) and high urea (dehydration).
+
+Plasma electrolytes identified a low sodium and a high potassium, indicating that the baby had the salt-losing form of CAH. After detailed explanation with her parents, she was started on oral hydrocortisone and fludrocortisone replacement therapy and oral salt replacement (NaCl). Surgery was performed at 9 months of age to reduce clitoral size and separate the labia. Her growth, biochemistry and bone age were monitored frequently at follow-up and she attained normal adult height. Psychological counselling and support were offered around puberty and further genital surgery was needed before she became sexually active.
+
+Figure 11.19 Abnormal genitalia at birth. Investigation established that this was a female infant with congenital adrenal hyperplasia causing clitoral hypertrophy with fusion of the labia.
+
+Severe hypospadias and bilateral undescended testes – a male or virilised female? The karyotype and a pelvic ultrasound are required.
+
+Management
+
+Affected females will sometimes require corrective surgery to their external genitalia within the first year but as they have a uterus and ovaries they should usually be reared as girls and are able to have children. Definitive surgical reconstruction is usually delayed until late puberty. Males in a salt-losing crisis require saline, dextrose and hydrocortisone intravenously.
+
+The long-term management of both sexes is with:
+• Lifelong glucocorticoids to suppress ACTH levels (and hence testosterone) to allow normal growth and maturation
+• Mineralocorticoids (fludrocortisone) if there is salt loss; before weaning, infants may need added sodium chloride
+• Monitoring of growth, skeletal maturity and plasma androgens and 17α-hydroxyprogesterone – insufficient hormone replacement results in increased ACTH secretion and androgen excess, which will cause rapid initial growth and skeletal maturation at the expense of final height; excessive hormonal replacement will result in skeletal delay and slow growth
+• Additional hormone replacement to cover illness or surgery, as they are unable to mount a cortisol response.
+
+Death can occur from adrenal crisis at the time of illness or injury. Females require surgery to reduce clitoromegaly and a vaginoplasty before sexual intercourse is attempted. Females often experience psychosexual problems, which may relate to the high androgen levels experienced in utero prior to diagnosis.
+
+Prenatal diagnosis and treatment are possible when a couple have had a previously affected child. Dexamethasone may be given to the mother around the time of conception, and continued if the fetus is found to be female, in order to reduce fetal ACTH drive and hence the virilisation.
+
+Summary
+Congenital adrenal hyperplasia
+• Autosomal recessive disorder of adrenal steroid biosynthesis
+• Females present with virilisation of the external genitalia
+• Males present with salt loss (80%) or tall stature and precocious puberty (20%)
+• Long-term medical management with lifelong glucocorticoids, mineralocorticoids/sodium chloride if salt loss
+• Additional corticosteroids to cover illness or surgery
+• Salt-losing adrenal crisis needs urgent treatment with hydrocortisone, saline and glucose given intravenously
+• Monitor growth, skeletal maturity, plasma androgens and 17α-hydroxyprogesterone
+• Surgery for females.
+
+Further reading
+
+Brook C, Clayton P, Brown R: Brook’s Clinical Paediatric Endocrinology, ed 6, Oxford, 2009, Blackwell.
+Lifshitz F, editor: Pediatric Endocrinology, ed 5, New York, 2007, Marcel Dekker.
+Wales JKH, Rogol AD, Wit JM: Pediatric Endocrinology and Growth. London, 2003, Saunders.
+
+199
+
+200
+
+This page intentionally left blank
+
