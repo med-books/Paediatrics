@@ -1,0 +1,416 @@
+41
+
+Equipment for developmental testing
+Simple basic equipment is all that is needed for most developmental assessments. Equipment is aimed at bringing out the child’s skills using play. Cubes, a ball, picture book, doll and miniature toys such as a tea-set, crayons and paper allow a quick but useful screen of mobility, hand skills, play, speech and language. These items allow the child to relax by having fun at the same time as facilitating observer assessment of his skills.
+
+Summary: Pattern of child development
+When analysing a young child’s developmental progress:
+• Consider the child’s age and then focus your questions on the areas of likely current developmental progress
+• Offer the child suitable toys to find out about skills through play
+• Observe how the child uses the toys and interacts with people.
+
+Developmental screening and assessment
+
+Developmental screening (checks of whole populations of children at set ages by trained professionals) is a formal process within the child health surveillance and promotion programme. It is also an essential role of all health professionals to screen a young child’s developmental progress opportunistically at every health contact, e.g. by the general practitioner for a sore throat, in the Accident and Emergency department for a fall or on admission to a paediatric ward. In this way, every child contact is optimised to check that development is progressing normally.
+
+There are a number of problems inherent in developmental screening:
+• It is a subjective clinical opinion, and therefore has its limitations
+• A single observation of development may be limited by the child being tired, hungry, shy or simply not wishing to take part
+• While much of the focus of early developmental progress in infants is centred on motor development, this is a poor predictor of problems in cognitive function and later school performance. Development of speech and language is a better predictor of cognitive function but is less easy to assess rapidly and may come at a time of less contact with health professionals.
+
+The reliability of screening tests can be improved by adding a questionnaire completed by parents beforehand. Screening is being increasingly targeted towards children at high risk or when there are parental concerns.
+
+Developmental assessment is the detailed analysis of particular areas of development and follows concern after screening that a child’s developmental progress may be abnormal in some way. It is part of the diagnostic process and includes investigation, therapy and advice on how to optimise the child’s progress. Developmental assessment is by referral to a specialist service and this may be the developmental paediatrician, therapy disciplines, or the local multidisciplinary child development service, which will include a paediatrician.
+
+A range of tests have been developed to screen or to assess development in a formal reproducible manner. Screening tests include the Schedule of Growing Skills and the Denver Developmental Screening Test. Standardised tests that assess the development of infants and young children include the Griffiths and the Bailey Infant Development Scales. They are used, for example, in follow-up studies of preterm infants. There are also standardised tests concentrating on assessing specific aspects of development (e.g. the Reynell language scale, the Gross Motor Function Measure (GMFM) and the Autism Diagnostic Interview). All but the screening tests are time-consuming and require training for reliable results.
+
+Cognitive function (higher mental function) can be assessed objectively with formal IQ tests by clinical or educational psychologists. However, IQ tests:
+• may be affected by cultural background and linguistic skills
+• do not test all skill areas
+• do not necessarily reflect an individual child’s ultimate potential
+• may be compromised by individual disabilities, such as a motor disorder as in cerebral palsy.
+
+‘Verbal’ intelligence tests, especially those for younger children, reflect general intellectual skills, particularly relating to language. ‘Performance’ or ‘non-verbal’ intelligence tests assess abilities independent of language. Verbal and performance intelligence testing allows formulation of a verbal IQ (VIQ) and performance IQ (PIQ), which together give an overall IQ figure.
+
+Summary: Developmental screening and assessment
+• Developmental screening – checks of whole populations or groups of children at set ages by trained professionals
+• Developmental assessment – detailed analysis of overall development or specific areas of development.
+
+
+42
+
+Children with disabilities may have problems with speech or hand skills that may compromise testing, so that results in these situations have to be interpreted with care.
+
+Cognitive (higher mental function) assessment of school-age children using IQ and other tests is carried out by clinical or educational psychologists.
+
+Child health surveillance
+In the UK, the healthy child programme (HCP) was introduced in 2009 (previously the child health promotion programme). It spans from pregnancy to 19 years old, but the main emphasis is on ages 0–5 years.
+
+It offers families a programme of:
+• Screening tests – early detection
+• Immunisation – disease prevention
+• Developmental reviews – including a specific screening at 2 years, an age when less obvious areas of developmental concern may arise with language skills
+• Health promotion – information and guidance to support parenting and healthy choices.
+
+There is a ‘universal’ programme, and a ‘progressive’ programme for families thought to be more at risk. Those in the progressive programme include infants or children with health or developmental problems, children at increased risk of obesity or families considered to be at higher risk, e.g. at-risk first-time mothers; parents with learning difficulties, drug or alcohol abuse or serious mental illness, insensitive (i.e. intrusive or passive) parenting interactions or domestic violence. These families receive additional intervention according to need. The programme is a compromise between the desire to detect problems and provide early intervention for all, while avoiding an excessive number of assessments. The way the healthy child programme (HCP) is organised is shown in Table 3.2. At each review, a check is made for specific physical abnormalities and on the child’s overall development, health and growth. Selected health promotion topics are considered. There is an emphasis on parental opinion for vision, hearing, speech and language, as parents are usually excellent at the early detection of these problems. Details of each review are entered into the child’s personal child health record kept by parents and brought whenever the child is seen by a health professional.
+
+The HCP is carried out in primary care, usually by health visitors. If problems are identified, an action plan is made for the child, which could involve advice and monitoring progress or referral to the general practitioner or specialist.
+
+Summary: The child health surveillance and promotion programme
+• is provided in primary care
+• includes immunisation, health promotion and developmental screening
+• emphasises the role of parents in the early detection of developmental problems.
+
+Hearing
+During the later stages of pregnancy, the fetus responds to sound. At birth, a baby startles to sound, but there is a marked preference for voices. The ability to locate and turn towards sounds comes later in the first year. A checklist for parents of normal hearing responses during infancy is shown in Box 3.1.
+
+Box 3.1 Hearing checklist for parents
+
+Shortly after birth
+Startles and blinks at a sudden noise, e.g. slamming of door
+
+By 1 month
+Notices sudden prolonged sounds, e.g. a vacuum cleaner, and pauses and listens when they begin
+
+By 4 months
+Quietens or smiles to the sound of your voice even when he cannot see you. He may also turn his head or eyes towards you if you come up from behind and speak to him from the side
+
+By 7 months
+Turns immediately to your voice across the room or to very quiet noises made on each side, so long as he is not too occupied with other things
+
+By 9 months
+Listens attentively to familiar everyday sounds and searches for very quiet sounds made out of sight. Should also show pleasure in babbling loudly and tunefully
+
+By 12 months
+Shows some response to his own name and to other familiar words. May respond when you say ‘no’ and ‘bye-bye’, even when he cannot see any accompanying gesture
+
+If you suspect that your baby is not hearing normally, seek advice from your health visitor or doctor.
+Used with permission from Dr Barry McCormick, Children’s Hearing Assessment Centre, Nottingham, UK.
+
+
+43
+
+Table 3.2 The healthy child programme (HCP) provided by integrated local services, usually led by a health visitor
+
+Age and checked by | Screening | General examination and immunisation | Health promotion
+
+Antenatal (by 12th week of pregnancy)
+Midwife, GP or obstetrician
+Screening: Antenatal screening for fetal conditions (see NICE guidelines for antenatal care)
+General examination and immunisation: Maternal health, fetal growth, maternal immunisation (rubella)
+Health promotion: Universal: smoking and alcohol intake, mental health, breast-feeding
+
+Newborn–72 h
+Usually hospital doctor; may be trained midwife, neonatal nurse practitioner or GP
+Screening: Screening on examination includes eyes (red reflex), developmental dysplasia of the hip (DDH), testes in boys. Newborn Hearing Screening Programme. Bilirubin check by 48 h if jaundiced.
+General examination and immunisation: Normal newborn examination: general examination, weight and head circumference plotted on centile graph, BCG offered (repeated at 1, 2, 12 months) if at risk. Hepatitis B vaccine if indicated (mother HepBsAg positive). Vitamin K.
+Health promotion: Universal: feeding, personal child health record and Birth to Five book, promoting sensitive parenting, prevention of sudden infant death syndrome
+
+5–8 days (ideally Day 5)
+Midwife
+Screening: Blood spot test for biochemical and haematological screening
+
+New baby review (by 14 days)
+Home visit by midwife or health visitor
+Screening: Assess child and family health needs, including parental mental health needs
+General examination and immunisation: Examine baby for nutritional status and prolonged jaundice
+Health promotion: Infant feeding, promote sensitive parenting, advice on promoting development, home safety
+
+6–8 weeks
+General practitioner
+Screening: Physical examination: cardiac abnormalities (heart murmurs and femoral pulses), DDH, testicular descent in boys, red reflex of fundus, matters of parental concern
+General examination and immunisation: Full physical examination, weight, head circumference and plot growth centiles. Vision/hearing – any parental concern? 1st immunisation – DTaP/IPV, Hib, PCV.
+Health promotion: Nutrition, immunisations, recognition of illness, avoid passive smoking, crying and sleep problems, maternal mental health
+
+3 months
+Child health clinic
+Screening: General review of progress, address parental concerns such as growth
+General examination and immunisation: 2nd immunisation – DTaP/IPV/Hib, MenC
+Health promotion: Support families by providing access to parenting and child health information
+
+4 months
+Child health clinic
+Screening: General review of progress
+General examination and immunisation: Third immunisation – DTaP/IPV/Hib, PCV MenC
+Health promotion: Weaning on to solids around 6 months
+
+7–9 months
+Health visiting team
+Screening: Systematic assessment of the child’s physical, emotional and social development and family needs
+General examination and immunisation: If parental concern – hearing, vision, development, growth
+Health promotion: Distribution of books, accident prevention: choking, scalds and burns, safety gates, nutrition and dental care, skin care (sunburn)
+
+12–13 months
+Child health clinic
+Screening: General review of progress
+General examination and immunisation: Immunisation – Hib, MenC, PCV, MMR
+Health promotion: Dental health
+
+2–2½ year review
+Health visiting team coordinate this key review
+Screening: Nutrition, active play, personal, social and emotional development, speech, language and communication
+General examination and immunisation: Review immunisation status and physical status according to parental concerns
+Health promotion: Obesity prevention, injury prevention, advice on how to seek medical help
+
+3–5 years (preschool)
+Health visiting team
+Screening: General review of progress
+General examination and immunisation: 3–4 years immunisation – MMR, DTaP/IPV
+Health promotion: Health promotion and supporting parents
+
+By 5 years (to be completed soon after school entry)
+School nurse
+Screening: Orthoptist: screen all children for visual impairment (4–5 years). School nurse: hearing screening (audiometry), growth
+General examination and immunisation: Review immunisation status. Measure height and weight, plot centiles. Physical examination if parental concern.
+Health promotion: Health promotion and supporting parents
+
+5–11 years
+School nurse
+Screening: Share information about preschool background, assessment of emotional health, psychological well-being and mental health
+General examination and immunisation: Nursing care provided according to needs
+Health promotion: Promote healthy weight, support for parents and carers
+
+11–16 years
+School nurse
+Screening: Health review at school transition at 10–11 and 15–16 years by questionnaires, engaging primary care in mid-teens, emotional health, psychological well-being and mental health
+General examination and immunisation: Immunisation (13–16 years) – Td/IPV. Human papilloma virus (HPV) in girls. If at risk – BCG, Hep B, influenza.
+Health promotion: Sexual health, promote healthy weight
+
+16–19 years (Further Education)
+School nurse, GP
+Screening: Share information from school with adult services, emotional health, psychological well-being and mental health
+General examination and immunisation: Review immunisation status
+Health promotion: Sexual health, encourage physical activity, support for parents and carers
+
+Adapted from: The Healthy Child Programme 2009, Department of Health, London, UK.
+DTaP/IPV: Diphtheria, tetanus, pertussis, polio immunization; Hib: Haemophilus B influenzae; PCV: Pneumococcal; MenC: Meningitis C; Td/IPV: Diphtheria, tetanus, polio; MMR: Measles, Mumps and Rubella
+a Bookstart – national programme to encourage parents and carers to enjoy books with their children from an early age.
+b The national child measurement programme – height and weight of all reception and year 6 children.
+
+
+44
+
+Hearing tests
+
+Newborn
+Early detection and treatment of hearing impairment improves the outcome for speech and language and behaviour. In order to detect hearing impairment in the newborn period, hearing can be tested by:
+• Evoked otoacoustic emission (EOAE) (Fig. 3.9a)
+  – an earphone produces a sound which evokes an echo or emission from the ear if cochlear function is normal.
+• Auditory brainstem response (ABR) audiometry (Fig. 3.9b) – computer analysis of EEG waveforms evoked in response to a series of auditory stimuli.
+
+Universal neonatal hearing screening has been introduced in many countries. In the UK, initial screening is performed using different combinations of EOAE testing or ABR audiometry. If a normal response cannot be obtained, the child is referred to an audiologist.
+
+Distraction testing
+This was the mainstay of hearing screening but has been replaced by universal neonatal screening. It is now only used as a screening test for infants who have not had newborn screening or as a diagnostic test. It is performed at 7–9 months of age (Fig. 3.10). The test relies on the baby locating and turning appropriately towards sounds. High- and low-frequency sounds are presented out of the infant’s field of vision. Testing is unreliable if not carried out by properly trained staff, since it can be difficult to identify hearing-impaired infants as they are particularly adept at using non-auditory cues.
+
+Visual reinforcement audiometry
+This is particularly useful to assess impairment in infants between 10 and 18 months, although it can be used between the age of 6 months and 3 years. Hearing thresholds are established using visual rewards (illumination of toys) to reinforce the child’s head turn to stimuli of different frequencies. Localisation of the stimuli is not necessary and insert earphones may be used to obtain ear-specific information, thus making it more useful than free field tests such as distraction and performance testing (Fig. 3.11).
+
+Performance and speech discrimination testing
+Performance testing using high- and low-frequency stimuli and speech discrimination testing using miniature toys can be used for children with suspected hearing loss at 18 months to 4 years of age (Fig. 3.12).
+
+Audiometry
+Threshold audiometry using headphones, where the child responds to a pure tone stimulus, can be used to detect and assess the severity of hearing loss in children from 4 years old.
+
+Parental concern
+At all ages, parental concern about hearing warrants further assessment.
+
+Summary: Hearing
+• Early detection and treatment of hearing impairment improves the outcome of speech and language, and behaviour.
+• Newborn hearing screening is performed for the early identification of hearing impairment.
+• If there is parental concern about hearing, further assessment is warranted.
+
+Vision
+A newborn infant’s vision is limited; the visual acuity is only about 6/200 (can see at 6 metres what a normally sighted adult can see at 200 metres). The peripheral retina is well developed but the fovea is immature and the optic nerve unmyelinated. Well-focused images on the retina are required for the acquisition of visual acuity and any obstruction to this, e.g. from a cataract, will interfere with the normal development of the optic pathways and visual cortex unless corrected early in life.
+
+Many newborn infants can fix and follow horizontally a face or coloured ball or the image of a target of concentric black and white circles. Most squint transiently, particularly when the baby tries to look at near objects and the eyes over-converge.
+
+By about 6 weeks of age, both eyes should move together when following a light source. By 12 weeks, no squint should be present. Babies slowly develop the ability to focus at different distances. Visual acuity also improves: from 6/60 at 3 months to being able to poke at 1 cm objects at 8 months and at 1 mm objects (e.g. ‘hundreds and thousands’ cake sprinkles) at 15 months. Adult levels are reached by 3–4 years of age, when the child can match pictures or letters at 6/6 using both eyes together.
+
+Summary: Vision
+• Term newborn infants can fix and follow horizontally and prefer to watch faces.
+• Visual acuity is poor in the newborn but increases to adult levels by 4 years of age.
+• Vision screening is performed at school entry or in preschool children.
+
+
+45
+
+Hearing screening of newborn infants
+
+(a) Evoked otoacoustic emission (EOAE)
+Click generated from ear phones
+Detects normal sound vibrations from outer hair cells in the cochlea
+
+Advantages:
+• Simple and quick to perform, though is affected by ambient noise
+
+Disadvantages:
+• Misses auditory neuropathy as function of auditory nerve or brain not tested
+• Relatively high false-positive rate in first 24 hours after birth as vernix or amniotic fluid are still in ear canal
+• Not a test of hearing but a test of cochlear function
+
+(b) Automated auditory brainstem response (AABR)
+Auditory stimulus via earphones
+Signal via ear and auditory nerve to brain
+Auditory nerve to brain
+EEG waveforms – computerised analysis determines if normal or abnormal
+
+Advantages:
+• Screens hearing pathway from ear to brainstem
+• Low false-positive rate
+
+Disadvantages:
+• Affected by movement, so infants need to be asleep or very quiet, so time consuming
+• Complex computerised equipment, but is mobile
+• Requires electrodes applied to infant’s head, which parents may dislike
+
+Figure 3.9 Universal neonatal hearing screening is usually performed using (a) otoacoustic emission testing or (b) auditory brainstem response audiometry.
+
+
+46
+
+Hearing tests
+
+Figure 3.10 Distraction hearing test. The test is hard to perform reliably as babies with hearing difficulties learn to compensate by using shadows, smells and guesswork to locate the presenter. The test must be done by well-trained professionals.
+
+Figure 3.12 Speech discrimination testing using miniature toys to detect hearing loss in children between 18 months and 4 years of age.
+
+Figure 3.11 Visual reinforcement audiometry. While an assistant plays with the child, sounds of a specific frequency are emitted from a speaker. When the child turns to it, the tester lights up a toy by the speaker to reinforce the sound with a visual reward. This test is particularly useful at 10–18 months.
+
+
+47
+
+Vision testing
+The assessment of vision at different ages is shown in Table 3.3. All children in the UK are screened for visual acuity and squint at school entry. In some parts of the UK, screening is carried out in preschool children at 4–5 years.
+
+Table 3.3 Testing vision at different ages
+
+Birth
+Face fixation and following
+
+6–8 weeks
+Fix and follow bright toy, optokinetic nystagmus
+
+6 months
+Reaches well for toys, preferential looking tests
+
+2½ years
+Can identify or match pictures of reducing size (Kay pictures)
+
+4 years
+Can identify or match letters in linear optotype book (Crowded LogMAR)
+
+6 years onwards
+Can identify or match letters on a LogMAR chart
+
+Note: Using single letters/pictures instead of lines underestimates amblyopia severity (see Ch. 4).
+
+Further reading
+Meggitt C: Child Development, Oxford, 2007, Heinemann.
+
+Website (accessed May 2011)
+Department of Health: Birth to Five, 2009. Available at www.nhs.uk/birthtofive.
+
+
+48
+
+This page intentionally left blank
+
+
+49
+
+4
+Developmental problems and the child with special needs
+
+Contents
+Abnormal development – key concepts 50
+Developmental delay 52
+Abnormal motor development 52
+Abnormal speech and language development 56
+Abnormal development of social/communication skills (autistic spectrum disorders) 57
+Slow acquisition of cognitive skills/general learning difficulty 57
+Specific learning difficulty 58
+Hearing impairment 59
+Abnormalities of vision 61
+Multidisciplinary child development services 63
+Education 65
+Transition of care to adult services 65
+The rights of disabled children 66
+
+Any child whose development is delayed or disordered needs assessment to determine the cause and management. Neurodevelopmental problems present at all ages, with an increasing number now recognised antenatally (Table 4.1). Many are identified in the neonatal period because of abnormal neurology or dysmorphic features. During infancy and early childhood, problems often present at an age when a specific area of development is most rapid and prominent, i.e. motor problems during the first 18 months of age, speech and language problems between 18 months and 3 years and social and communication disorders between 2 and 4 years. Abnormal development may be caused not only by neurodevelopmental problems (Table 4.2) but also by ill health or if the child’s physical or psychological needs are not met.
+
+When performing a clinical examination on a young child with a developmental problem:
+• Ask the parent what their child can and cannot do. Start at a level below what a child is likely to be able to do to retain confidence of the parent and child.
+• Observe the child from the first moment seen.
+• Make it fun. Your examination should be perceived as a game by the child, although they may not always follow your rules.
+• Toys to use are cubes, a ball, car, doll, pencil, paper, pegboard, miniature toys, picture book. Adapt their use to the child.
+• Formulate a developmental picture in terms of gross motor; vision and fine motor; hearing, speech and language; and social, emotional and behaviour. As you become more confident you will screen all these skills simultaneously.
+• At the end of developmental screening you should be able to describe what a child is able to do and what the child cannot do, if the abilities are within normal limits for age and, if not, which developmental fields are outside the normal range.
+• Clinical signs to look for that may aid diagnosis or guide investigation are:
+  – patterns of growth: height, weight, head circumference with centile plotting
+  – dysmorphic features: face, limbs, body proportions, cardiac, genitalia
+  – skin: neurocutaneous stigmata, injuries, cleanliness
+  – central nervous system examination: abnormal posture/symmetry, wasting, power and tone, deep tendon reflexes, clonus, plantar responses, sensory examination, cranial nerves
+  – cardiovascular examination: abnormalities are associated with many dysmorphic syndromes
+  – visual function and ocular abnormalities
+  – hearing: by questioning parents about hearing and language development and checking if neonatal hearing screening was done
+
+
+50
+
+Table 4.1 Features that may suggest neurodevelopmental concerns by age
+
+Prenatal
+Positive family history, e.g. affected siblings or family members; ethnicity, e.g. Tay–Sachs disease in Jewish parents
+Antenatal screening tests, e.g. ultrasound including nuchal thickness and triple blood test for conditions such as Down syndrome, neural tube defects (spina bifida) and hydrocephalus. Amniocentesis for chromosomal disorders
+
+Perinatal
+Following birth asphyxia/neonatal encephalopathy
+Preterm infants with intraventricular haemorrhage/periventricular leucomalacia, post-haemorrhagic hydrocephalus
+Dysmorphic features
+Abnormal neurological behaviour – tone, feeding, movement, seizures, visual inattention
+
+Infancy
+Global developmental delay
+Delayed or asymmetric motor development
+Vision or hearing concerns by parent or after screening
+Neurocutaneous/dysmorphic features
+
+Preschool
+Speech and language delay
+Abnormal gait, clumsy motor skills
+Poor social communication skills
+
+School age
+Problems with balance and coordination
+Learning difficulties
+Attention control
+Hyperactivity
+Specific learning difficulties, e.g. dyslexia, dyspraxia
+Social communication difficulties
+
+Any age
+Acquired brain injury, e.g. after meningitis, head injury
+Loss of skills
+
+– patterns of mobility, dexterity, hand dominance, communication and social skills, general behaviour
+– cognition.
+
+Many examination findings can be predicted from observation of functional skills.
+
+Many parental concerns about their child’s development are found to be variations of the norm, in which case the parents should be reassured. If in doubt, observe the child’s progress over a period of time.
+
+Abnormal development – key concepts
+The terminology can be confusing, but:
+• Delay – implies slow acquisition of all skills (global delay) or of one particular field or area of skill (specific delay), particularly in relation to developmental problems in the 0–5 years age group
+• Learning difficulty – used in relation to children of school age and may be cognitive, physical, both or relate to specific functional skills
+• Disorder – maldevelopment of a skill.
+
+The following are agreed definitions:
+• Impairment – loss or abnormality of physiological function or anatomical structure
+• Disability – any restriction or lack of ability due to the impairment
+• Disadvantage – this results from the disability, and limits or prevents fulfilment of a normal role. It is situationally specific; a child with a learning disability may, for example, be a good skier or enjoy swimming.
+
+The term ‘handicap’ is now discouraged as it can imply a person deserves pity. Difficulty and disability are often used interchangeably, but difficulty is used particularly in an educational context.
+
+The pattern of abnormal development (global or specific) can be categorised as (Fig. 4.1):

@@ -1,0 +1,432 @@
+[PDF page 1]
+
+Illustrated Textbook of Paediatrics
+Fourth Edition
+
+[PDF page 2]
+
+Illustrated Textbook of Paediatrics
+Fourth Edition
+
+[PDF page 3]
+
+Commissioning Editor: Pauline Graham
+Development Editor: Sally Davies
+Project Manager: Alan Nicholson
+Designer: Stewart Larking
+Illustration Manager: Gillian Richards
+Illustrator: Cactus
+
+[PDF page 4]
+
+Illustrated Textbook of Paediatrics
+Fourth Edition
+
+Edited by
+Dr Tom Lissauer MB BChir FRCPCH
+Honorary Consultant Paediatrician, Imperial College Healthcare Trust,
+London, UK
+
+Dr Graham Clayden MD FRCPCH FHEA
+Honorary Reader in Paediatrics, Kings College London,
+School of Medicine at Guy’s, Kings and St Thomas’ Hospitals,
+London, UK
+
+Foreword by
+Professor Sir Alan Craft
+Emeritus Professor of Child Health, Newcastle University,
+Past President Royal College of Paediatrics and Child Health
+
+Edinburgh  London  New York  Oxford  Philadelphia  St Louis  Sydney  Toronto  2012
+
+[PDF page 5]
+
+© 2012 Elsevier Ltd. All rights reserved.
+
+No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage and retrieval system, without permission in writing from the publisher. Details on how to seek permission, further information about the Publisher’s permissions policies and our arrangements with organizations such as the Copyright Clearance Center and the Copyright Licensing Agency, can be found at our website: www.elsevier.com/permissions.
+
+This book and the individual contributions contained in it are protected under copyright by the Publisher (other than as may be noted herein).
+
+Fourth edition 2012
+Third edition 2007
+Second edition 2001
+First edition 1997
+
+ISBN 978 0 7234 3565 5
+International ISBN 978 0 7234 3566 2
+
+British Library Cataloguing in Publication Data
+A catalogue record for this book is available from the British Library
+
+Library of Congress Cataloging in Publication Data
+A catalog record for this book is available from the Library of Congress
+
+Notices
+Knowledge and best practice in this field are constantly changing. As new research and experience broaden our understanding, changes in research methods, professional practices, or medical treatment may become necessary.
+
+Practitioners and researchers must always rely on their own experience and knowledge in evaluating and using any information, methods, compounds, or experiments described herein. In using such information or methods they should be mindful of their own safety and the safety of others, including parties for whom they have a professional responsibility.
+
+With respect to any drug or pharmaceutical products identified, readers are advised to check the most current information provided (i) on procedures featured or (ii) by the manufacturer of each product to be administered, to verify the recommended dose or formula, the method and duration of administration, and contraindications. It is the responsibility of practitioners, relying on their own experience and knowledge of their patients, to make diagnoses, to determine dosages and the best treatment for each individual patient, and to take all appropriate safety precautions.
+
+To the fullest extent of the law, neither the Publisher nor the authors, contributors, or editors, assume any liability for any injury and/or damage to persons or property as a matter of products liability, negligence or otherwise, or from any use or operation of any methods, products, instructions, or ideas contained in the material herein.
+
+Working together to grow libraries in developing countries
+www.elsevier.com | www.bookaid.org | www.sabre.org
+
+The publisher’s policy is to use paper manufactured from sustainable forests.
+
+Printed in China
+
+[PDF page 6]
+
+Contents
+
+Foreword vii
+Acknowledgements viii
+Preface ix
+Contributors xi
+
+1. The child in society 1
+2. History and examination 13
+3. Normal child development, hearing and vision 31
+4. Developmental problems and the child with special needs 49
+5. Care of the sick child 67
+6. Paediatric emergencies 81
+7. Accidents, poisoning and child protection 97
+8. Genetics 115
+9. Perinatal medicine 133
+10. Neonatal medicine 155
+11. Growth and puberty 181
+12. Nutrition 201
+13. Gastroenterology 219
+14. Infection and immunity 241
+15. Allergy 271
+16. Respiratory disorders 277
+17. Cardiac disorders 301
+18. Kidney and urinary tract disorders 325
+19. Genitalia 347
+20. Liver disorders 355
+21. Malignant disease 365
+22. Haematological disorders 381
+23. Emotions and behaviour 405
+24. Skin disorders 423
+25. Endocrine and metabolic disorders 433
+26. Musculoskeletal disorders 451
+27. Neurological disorders 469
+28. Adolescent medicine 493
+
+Appendix 503
+Index 511
+
+v
+
+[PDF page 7]
+
+This page intentionally left blank
+
+[PDF page 8]
+
+Foreword
+
+When the late Frank A. Oski wrote the foreword for the first edition of this book in 1997, he gave it fulsome praise and predicted that it would become a ‘standard by which all other medical textbooks will be judged’. He was a great man and a wonderful writer, so his prediction was no doubt welcomed by the authors, both well known for their contribution to undergraduate and postgraduate medical education and assessment.
+
+I have a much easier task in writing the foreword for the fourth edition in 2011. The mere fact that there is a fourth edition is testimony in itself, but there is also the fact that this book has become the recommended paediatric textbook in countless medical schools throughout the world and has been translated into 8 languages. I have travelled the world over the last 15 years and wherever I have been in a paediatric department, the distinctive sunflower cover of ‘Lissauer and Clayden’ has been there with me. Whether it is Hong Kong, Malaysia, Oman or South Shields, it is there!
+
+It is not surprising that it has won major awards for innovation and excellence at the British Medical Association and Royal Society of Medicine book awards. The book is well established and widely read for the simple reason that it is an excellent book. Medicine is now so complex and information so vast that students are no longer expected to know all there is to know about medicine. What they need are the core principles and guidance as to where to find out more. This book gives the core principles, but also provides a great deal more for the student who wishes to extend his or her knowledge. It is in a very accessible form and has a style and layout which facilitates learning. There are many diagrams, illustrations and case histories to bring the subject to life and to impart important messages. This new edition includes summaries to help revision and also provides access to online assessment tools.
+
+It has been thoroughly updated with many new authors, each of whom is an expert in their own field, but who has been chosen because of their ability to impart the key principles in a non-specialist way. The text focuses on the key areas of paediatrics and new sections include child protection and global health.
+
+There are now countless doctors throughout the world for whom this textbook has been their introduction to the fascinating and rewarding world of paediatrics.
+
+For students, it is all they need to know and a bit more. For postgraduates, it provides the majority of information needed to get through postgraduate examinations and stimulates and guides the reader into the world of clinical paediatrics where practical experience can be gained, built on the sound foundation of the Lissauer and Clayden knowledge base.
+
+The authors are to be congratulated on the continuing success of this book.
+
+I can only echo what Frank Oski said in his preface to the first edition: ‘I wish I had written this book’!
+
+Professor Sir Alan Craft
+Emeritus Professor of Child Health, Newcastle University
+Past President Royal College of Paediatrics and Child Health
+
+vii
+
+[PDF page 9]
+
+Acknowledgements
+
+We would like to acknowledge the major contribution made to previous editions by the following contributors:
+
+First edition:
+Lynn Ball (Haematological disorders), Nigel Curtis (Paediatric emergencies, Infection and Immunity), Gill Du Mont (Skin), Tony Hulse (Growth and puberty; and Endocrine and metabolic disorders), Nigel Klein (Paediatric emergencies, Infection), Nicholas Madden (Genitalia), Angus Nicoll (Development, language, hearing and vision), Karen Simmer (Perinatal medicine, Neonatal medicine), Elizabeth Thompson (Genetics).
+
+Second edition:
+Paula Bolton-Maggs (Haematological disorders), Jon Couriel (Respiratory disorders), Ruth Gilbert (Evidence-based medicine), Dennis Gill (History and examination), Raanan Gillon (Ethics), Peter Hill (Emotions and behaviour), Nigel Klein (Infection and immunity), Simon Nadel (Paediatric emergencies), Barbara Phillips (Environment), Andrew Redington (Cardiac disorders), John Sills (Bones and joints), Rashmin Tamhne (The child in society), Michael Weindling (Perinatal medicine, Neonatal medicine).
+
+Third edition:
+Dr Ulrich Baumann (Liver disorders), Dr Mitch Blair (The child in society), Dr Tom Blyth (Allergy and immunity), Professor Ian Booth (Nutrition, Gastroenterology), Dr Michelle Cummins (Haematological disorders), Dr Iolo Doull (Respiratory disorders), Dr Saul Faust (Infection), Professor Elena Garralda (Emotions and behaviour), Dr Alison Giles (Paediatric Neurology), Professor George Haycock (Kidney and urinary tract), Dr Helen Jenkinson (Malignant disease), Professor Deirdre Kelly (Liver disorders), Dr Helen Kingston (Genetics), Professor Gideon Lack (Allergy and immunity), Mr Anthony Lander (Gastroenterology), Dr Vic Larcher (Care of the sick child – Ethics), Dr Hermione Lyall (Infection), Dr Ian Maconochie (Environment), Dr Maud Meates-Dennis (Care of the sick child – Evidence-based medicine), Dr Lesley Rees (Kidney and urinary tract), Dr Terry Segal (Adolescent medicine), Professor Jo Sibert (Environment), Professor Tauny Southwood (History and examination; Bones, joints and rheumatic disorders), Mr Mark Stringer (Genitalia), Dr Rob Tasker (Paediatric emergencies), Professor David Thomas (Genitalia), Dr Russell Viner (Adolescent medicine), Professor Andrew Whitelaw (Perinatal medicine; Neonatal medicine).
+
+We would also like to thank Dr Bernie Borgstein for advice on Paediatric Audiology, Professor Alistair Fielder and Ms Clare Roberts for advice on Paediatric Ophthalmology and Professor Ed Wraith for advice on Metabolic Disorders.
+
+The contributors to this edition have extensively drawn on the material prepared for previous editions.
+
+viii
+
+[PDF page 10]
+
+Preface
+
+This textbook has been written for undergraduates. Our aim has been to provide the core information required by medical students for the 6–10 weeks assigned to paediatrics in the curriculum of most undergraduate medical schools. We are delighted that it has become so widely used not only in the UK but also in northern Europe, India, Pakistan, Australia, South Africa and other countries. We are also pleased that nurses, therapists and other health professionals who care for children have found the book helpful. It will also be of assistance to doctors preparing for postgraduate examinations such as the Diploma of Child Health (DCH) and Membership of the Royal College of Paediatrics and Child Health (MRCPCH).
+
+The huge amount of positive feedback we have received on the first three editions from medical students, postgraduate doctors and their teachers in the UK and abroad has spurred us on to produce this new edition. We have updated the text and some sections, such as child protection and global health, have been rewritten to incorporate significant advances.
+
+In order to make learning from this book easier, we have followed a lecture-note style using short sentences and lists of important features. Illustrations have been used to help in the recognition of important signs or clinical features and to make the book more attractive and interesting to use. Key learning points are identified and case histories chosen to demonstrate points within their clinical context. Summary boxes of important facts have been included to help with revision.
+
+The male gender for children has been used throughout the book for stylistic simplicity.
+
+We would like to thank all our contributors and Pauline Graham at Elsevier for their assistance in producing this new edition. Thanks also to Ann Goldman, Rachel and David and Sam Lissauer for their ideas and assistance, and for their understanding of the time taken away from the family in the preparation of this new edition.
+
+We welcome any comments about the book.
+
+Tom Lissauer and Graham Clayden
+
+ix
+
+[PDF page 11]
+
+This page intentionally left blank
+
+[PDF page 12]
+
+Contributors
+
+Mrs Aruna Abhyankar
+Consultant Paediatric Surgeon
+University Hospital of Wales, Cardiff, UK
+Ch. 19: Genitalia
+
+Dr Shruti Agrawal
+Consultant Paediatric Intensivist
+St Mary’s Hospital, Imperial College NHS Trust,
+London, UK
+Ch. 6: Paediatric emergencies
+
+Professor Stephen J Allen
+Professor of Paediatrics and International Health
+Swansea Medical School, Swansea, UK
+Ch. 1: The child in society
+
+Dr Cornelius Ani
+Consultant Child and Adolescent Psychiatrist and Honorary Clinical Senior Lecturer
+Academic Unit of Child and Adolescent Psychiatry, Imperial College London, St Mary’s Hospital, London, UK
+Ch. 23: Emotions and behaviour
+
+Dr Jonathan Bishop
+Consultant in Paediatric Gastroenterology
+Royal Hospital for Sick Children, Glasgow, UK
+Ch. 12: Nutrition
+Ch. 13: Gastroenterology
+Ch. 20: Liver disorders
+
+Dr Robert J Boyle
+Clinical Senior Lecturer in Paediatrics
+Imperial College London and Honorary Consultant Paediatric Allergist, St Mary’s Hospital, London, UK
+Ch. 15: Allergy
+
+Dr Malcolm Brodlie
+SpR in Paediatric Respiratory Medicine
+Great North Children’s Hospital, Newcastle Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK
+Ch. 16: Respiratory disorders
+
+Dr Subarna Chakravorty
+Clinical Research Fellow
+Department of Haematology, Imperial College London, UK
+Ch. 22: Haematological disorders
+
+Professor Angus John Clarke
+Professor and Honorary Consultant in Clinical Genetics
+Institute of Medical Genetics, University Hospital of Wales, Cardiff, UK
+Ch. 8: Genetics
+
+Dr Graham Clayden
+Honorary Reader in Paediatrics, Kings College London, School of Medicine at Guy’s, Kings and St Thomas’ Hospitals, London, UK
+(Editor)
+
+Dr Paul Dimitri
+Consultant, Paediatric Endocrinology
+Sheffield Children’s NHS Trust
+Sheffield Children’s Hospital, Sheffield, UK
+Ch. 11: Growth and puberty
+Ch. 25: Endocrine and metabolic disorders
+
+Dr Rachel Dommett
+Academic Clinical Lecturer
+University of Bristol, School of Clinical Sciences, Bristol, UK
+Ch. 21: Malignant disease
+
+xi
+
+[PDF page 13]
+
+Contributors
+
+Professor Helen E Foster
+Professor of Paediatric Rheumatology, Newcastle University and Honorary Consultant
+Newcastle Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK
+Ch. 26: Musculoskeletal disorders
+
+Dr Stephen Hodges
+Consultant Paediatric Gastroenterologist
+Newcastle Hospitals NHS Foundation Trust
+Honorary Clinical Senior Lecturer Child Health
+Newcastle University, Newcastle upon Tyne, UK
+Ch. 12: Nutrition
+Ch. 13: Gastroenterology
+Ch. 20: Liver disorders
+
+Dr Siobhan Jaques
+Specialist Registrar in Paediatrics
+Imperial College Healthcare Trust
+London, UK
+Ch. 2: History and examination
+
+Dr Sharmila Jandial
+Arthritis Research UK Research Fellow and Specialist Registrar in Paediatrics
+Department of Paediatric Rheumatology, Newcastle Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK
+Ch. 26: Musculoskeletal disorders
+
+Dr Larissa Kerecuk
+Consultant Paediatric Nephrologist
+Department of Paediatric Nephrology, Birmingham Children’s Hospital, Birmingham, UK
+Ch. 18: Kidney and urinary tract disorders
+
+Dr Ike Lagunju
+Consultant Paediatrician, Department of Paediatrics, University College Hospital, Ibadan, Nigeria
+Ch. 1: The child in society
+
+Dr Tom Lissauer
+Honorary Consultant Paediatrician
+Imperial College Healthcare Trust, London, UK
+(Editor)
+Ch. 2: History and examination
+Ch. 5: Care of the sick child
+Ch. 9: Perinatal medicine
+Ch. 10: Neonatal medicine
+
+Dr Janet E McDonagh
+Senior Lecturer in Paediatric and Adolescent Rheumatology and Clinical Lead for Adolescent Health
+University of Birmingham, Institute of Child Health, Birmingham Children’s Hospital NHS Foundation Trust, Birmingham, UK
+Ch. 28: Adolescent medicine
+
+Dr Michael C McKean
+Consultant in Paediatric Respiratory Medicine
+Great North Children’s Hospital, Newcastle Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK
+Ch. 16: Respiratory disorders
+
+Dr Richard W Newton
+Consultant Paediatric Neurologist
+Royal Manchester Children’s Hospital, Manchester, UK
+Ch. 27: Neurological disorders
+
+Raúl Pardíñaz-Solís
+Global Health Manager
+Skillshare International, Leicester, UK
+Ch. 1: The child in society
+
+Dr Sanjay Patel
+Clinical Research Fellow
+Academic Department of Paediatrics, Paediatric Infectious Diseases, Imperial College London, London, UK
+Ch. 2: History and examination
+
+xii
+
+[PDF page 14]
+
+Dr Andrew Prendergast
+Senior Lecturer in Paediatric Infection and Immunity
+Wellcome Trust Intermediate Clinical Fellow
+Honorary Consultant Paediatrician
+Queen Mary and Westfield College, University of London, London, UK
+Ch. 14: Infection and immunity
+
+Professor Irene AG Roberts
+Professor of Paediatric Haematology
+Department of Haematology, Imperial College London, London, UK
+Ch. 22: Haematological disorders
+
+Dr Rebecca C Salter
+Consultant in Paediatric Emergency Medicine
+St Mary’s Hospital, Imperial College Healthcare Trust, London, UK
+Ch. 7: Accidents, poisoning and child protection
+
+Dr Peter Sidebotham
+Associate Professor of Child Health
+University of Warwick, Coventry, UK
+Ch. 1: The child in society
+
+Dr Kathleen Sim
+Academic Clinical Fellow
+Paediatric Infectious Diseases, Imperial College London, St Mary’s Hospital Campus, London, UK
+Ch. 2: History and examination
+
+Mr Gerard P S Siou
+Consultant ENT and Head & Neck Surgeon
+Freeman Hospital, Newcastle upon Tyne, UK
+Ch. 16: Respiratory disorders
+
+Dr Diane P L Smyth
+Consultant in Paediatric Neurology and Neurodisability
+St Mary’s Hospital, Imperial College Healthcare Trust, London, UK
+Ch. 3: Normal child development, hearing and vision
+Ch. 4: Developmental problems and the child with special needs
+
+Professor Michael Stevens
+CLIC Professor of Paediatric Oncology
+School of Clinical Sciences, University of Bristol, Bristol, UK
+Ch. 21: Malignant disease
+
+Dr Sharon E Taylor
+Consultant Child and Adolescent Psychiatrist
+Academic Unit of Child and Adolescent Psychiatry
+Imperial College London and St Mary’s Hospital, London, UK
+Ch. 23: Emotions and behaviour
+
+Dr Gareth Tudor-Williams
+Reader and Honorary Consultant in Paediatric Infectious Diseases
+Imperial College London and Imperial College Healthcare Trust, St Mary’s Hospital, London, UK
+Ch. 14: Infection and immunity
+
+Dr Robert M R Tulloh
+Consultant Paediatric Cardiologist
+Bristol Royal Hospital for Children, Bristol, UK
+Ch. 17: Cardiac disorders
+
+Professor Julian L Verbov
+Honorary Professor of Dermatology
+University of Liverpool
+Consultant Paediatric Dermatologist
+Royal Liverpool Children’s Hospital, Liverpool, UK
+Ch. 24: Skin disorders
+
+Dr Jerry K H Wales
+Senior Lecturer in Paediatric Endocrinology
+Academic Unit of Child Health, Sheffield Children’s Hospital, Sheffield, UK
+Ch. 11: Growth and puberty
+Ch. 25: Endocrine and metabolic disorders
+
+xiii
+
+[PDF page 15]
+
+Professor Andrew R Wilkinson
+Professor of Paediatrics & Perinatal Medicine
+University of Oxford, Neonatal Unit, Women’s Centre, John Radcliffe Hospital, Oxford, UK
+Ch. 9: Perinatal medicine
+Ch. 10: Neonatal medicine
+
+Dr Neil Wimalasundera
+Consultant in Paediatric Neurodisability
+The Wolfson Neurodisability Service, Great Ormond Street Hospital, London, UK
+Ch. 3: Normal child development, hearing and vision
+Ch. 4: Developmental problems and the child with special needs
+
+xiv
