@@ -1,0 +1,515 @@
+71
+
+Pain
+
+It is easy to ignore or underestimate pain in children. Pain should ideally be anticipated and prevented.
+
+Acute pain
+
+This may be caused by:
+
+• Tissue damage, e.g. burns or trauma
+• Specific disease process, e.g. sickle cell crisis
+• Medical intervention, i.e. investigations or procedures
+• Surgery.
+
+Chronic pain
+
+In children, chronic severe pain sometimes occurs as a result of disease such as malignant disease or juvenile idiopathic arthritis. Intermittent pain of mild or moderate severity, e.g. headache or recurrent abdominal pain, is more common.
+
+Older children can describe the nature and severity of the pain they are experiencing. In younger children, assessing pain is more difficult. Observation and parental impression are commonly used and a number of self-assessment tools have been designed for children over 3 years old (Fig. 5.6).
+
+Management
+
+The approaches to pain management are listed in Box 5.2. This should allow pain to be prevented or kept to a minimum. Age-appropriate explanation should be given when possible and the approach be reassuring; however, it is imperative not to lie to children, otherwise they will lose trust in what they are told in the future. Distraction techniques such as blowing bubbles, telling stories, holding family toys or playing computer games, as well as the involvement of trained play specialists, can be highly successful in ameliorating pain in children. Some children develop particular preferences for a particular venepuncture site or distraction technique, and this should be accommodated as far as possible.
+
+For minor medical procedures, e.g. venepuncture or inserting an intravenous cannula, pain can be alleviated by explanation and the use of a topical anaesthetic. Additional and appropriate use of inhalation agents such as nitrous oxide (laughing gas) or the adjunctive use of mild sedation alongside pain relief, e.g. intranasal midazolam, can be helpful for more painful procedures such as suturing a wound. For more invasive procedures, e.g. bronchoscopy, a general anaesthetic should be given.
+
+Postoperative pain can be markedly reduced by local infiltration of the wound, nerve blocks and postoperative analgesics. For severe pain, there was reluctance in the past to use morphine in children for fear of depressing breathing. This should not occur when morphine is given in appropriate dosage under nursing supervision to children with a normal respiratory drive. Intravenous morphine can be given using a patient-controlled delivery system in older children or a nurse-controlled system in young children.
+
+Pain should be anticipated and prevented rather than treated.
+
+Box 5.2 Approaches to pain management
+
+Explanation and information
+• Psychological, by the parent, doctor, nurse or play specialist
+• Behavioural
+• Distraction
+• Hypnosis
+
+Medical
+• Local: anaesthetic cream, local anaesthetic infiltration, nerve blocks, warmth or cold, physiotherapy, transcutaneous electrical nerve stimulation (TENS)
+• Analgesics:
+  – Mild – paracetamol, NSAIDs
+  – Moderate – codeine, NSAIDs
+  – Strong – morphine
+• Sedatives and anaesthetic agents:
+  – Intranasal midazolam, nitrous oxide, general anaesthetic
+• Anti-epileptic and antidepressant drugs for neuropathic pain
+
+Consider the route for analgesics – oral if possible, otherwise intravenous, subcutaneous or rectal.
+(NSAIDs, non-steroidal anti-inflammatory drugs).
+
+Figure 5.6 An example of a scoring system for pain assessment in children. Wong Baker Faces scale. (From Wong DL et al. 2001. Wong’s Essentials of Pediatric Nursing, St Louis, MO. Copyright Mosby. Reprinted with permission).
+
+Pain scale faces:
+0 – NO HURT
+2 – HURTS LITTLE BIT
+4 – HURTS LITTLE MORE
+6 – HURTS EVEN MORE
+8 – HURTS WHOLE LOT
+10 – HURTS WORST
+
+
+72
+
+Prescribing medicines for children
+
+There are marked differences in the absorption, distribution and elimination of drugs between children and adults.
+
+Absorption
+
+In the neonate and infant, oral formulations of drugs are given as liquids. However, their intake cannot be guaranteed and absorption is unpredictable as it is affected by gastric emptying and acidity, gut motility and the effects of milk in the stomach. In acutely ill neonates and infants, drugs are given intravenously to ensure reliable and adequate blood and tissue concentrations. Intramuscular injections should be avoided if at all possible as there is little muscle bulk available for injection, absorption is variable and they are painful. Rectal administration can be used for some drugs; absorption is more reliable, but this route is not popular in the UK. Significant systemic absorption can occur across the skin, particularly in pre-term infants. Occasionally this can be used therapeutically, but is a potential cause of toxicity, e.g. alcohol and iodine absorption from cleansing solutions applied to the skin for procedures.
+
+Young children find it difficult to take tablets and a liquid formulation is required. Most are glucose-free. Persuading children to take medicines is often a problem, especially if the preparation has an unpleasant taste; experience and imagination help to overcome their reluctance. Adherence (compliance) is improved when medicines are only required once or twice a day and if regimens are kept simple.
+
+Distribution
+
+Water comprises a larger percentage of the body in the neonate (80%) than in older children and adults (55%). Drugs which distribute within the extracellular fluid will require a larger dose relative to body weight in infants than in adults. As extracellular fluid correlates with body surface area, this is used when accurate drug dosage is required, e.g. cytotoxic agents. For drugs with a high margin of safety, drug dosages are expressed per kilogram body weight or based on age, with the assumption that the child is of average size. Weight-based dosages should not simply be extrapolated to older children, as the dosage will be excessively large.
+
+In the first few months of life, the plasma protein is low. More of a drug may be unbound and pharmacologically active. In jaundiced babies, bilirubin may compete with some drugs, e.g. sulphonamides, for albumin binding sites, making such drugs unsuitable for use in this situation.
+
+Elimination
+
+In neonates, drug biotransformation is reduced, as microsomal enzymes in the liver are immature. This leads to a prolonged half-life of drugs metabolised in the liver, e.g. theophylline. Renal excretion is reduced by the low glomerular filtration rate, which increases the half-life of some drugs, e.g. vancomycin. Measuring the plasma drug concentration is necessary under these circumstances.
+
+Summary
+
+Regarding medicines for children
+• Oral formulations need to be given as liquids in infants and young children
+• Medicines are usually prescribed per kilogram of body weight, but check the maximum dose
+• Intramuscular drugs should be avoided if at all possible
+• Intravenous drug dosages can easily be miscalculated as they vary widely in children because of their different size, and drugs often need to be diluted; all dosages and dilutions must be checked independently by two trained members of staff
+• To improve compliance, use formulations requiring the least number of times to be taken per day
+• Always check drug dosage in the BNF (British National Formulary) for children.
+
+Breaking bad news
+
+Doctors often face the difficult task of imparting bad news to parents and children. In paediatric practice, it may be because there is:
+• a serious congenital abnormality at birth, e.g. chromosomal disorder
+• the diagnosis of a disabling condition, e.g. cerebral palsy, neurodegenerative disorder, gross intracranial abnormality seen at ultrasound in pre-term infants
+• a serious illness, e.g. meningitis or malignant disease, or an accident, e.g. head injury
+• sudden death of a child, e.g. sudden infant death syndrome (SIDS).
+
+Initial interview
+
+The manner in which the initial interview is conducted is very important. It may have a profound influence on the parents’ ability to cope with the problem and their subsequent relationship with health professionals. Parents often continue to recall and recount, for many years, details of the initial interview when they were informed that their child had a serious problem. Parents of children with life-threatening illnesses have said that what they valued most was open, sympathetic, direct and uninterrupted discussion in private that allowed sufficient time for doctors to repeat and clarify information and for them to ask questions (Box 5.3).
+
+Discharge from hospital
+
+Children should be discharged from hospital as soon as clinically and socially appropriate. Although there is increasing pressure to reduce the length of hospital stay to a minimum, this must not allow discharge planning to be neglected. Before discharge from hospital, parents and children should be informed of:
+• The reason for admission and any implications for the future
+• Details of medication and other treatment
+• Any clinical features which should prompt them to seek medical advice, and how this should be obtained
+• The existence of any voluntary self-help groups if appropriate
+• Problems or questions likely to be asked by other family members or in the community. These should be anticipated by the doctor and discussed. What do the nursery or school, babysitters or friends need to know? What about sports, etc?
+
+In addition:
+• Suitability of home circumstances needs to be assessed, particularly when the home requires adaptation for special needs
+• Social support may need to be arranged, especially in relation to child protection
+• Medical information should be added to the child’s personal child health record
+• Consider which professionals should be informed about the admission and what information it is relevant for them to receive. This must be done before or at the time of discharge. The aim is to provide a seamless service of care, treatment and support, with the family and all the professionals fully informed (Fig. 5.7). This can be facilitated for children with a chronic illness or disability by having a key worker to coordinate their care.
+
+
+73
+
+Box 5.3 How parents wish to be told the diagnosis of a life-threatening illness
+
+Setting
+• In private
+• Uninterrupted
+• Unhurried
+• Both parents (or friend/relative) present if possible
+• Senior doctor
+• Nurse or social worker present
+
+Establish contact
+• Find out what the family knows or suspects
+• Respect the family’s vulnerability
+• Use the child’s name
+• Do not avoid looking at them
+• Be direct, open, sympathetic
+
+Provide information
+• Flexibility is essential
+• Do not protect from bad news, but pace giving it
+• Name the illness
+• Describe symptoms relevant to child’s condition
+• Discuss aetiology – parents will usually want to know
+• Anticipate and answer questions. Do not avoid difficult issues because parents have not thought to ask
+
+Explain long-term prognosis
+• If the child is likely to die, listen to concerns about time, place and nature of death
+• Outline the support/treatment available
+
+Address feelings
+• Be prepared to tolerate reactions of shock, especially anger or weeping
+• Acknowledge uncertainty
+• How is it likely to affect the family?
+• What and how to tell other children, relatives and friends?
+
+Concluding the interview
+• Elicit what parents have understood
+• Clarify and repeat
+• Acknowledge that it may be difficult for parents to absorb all the information
+• Mention sources of support
+• If possible, give parents contact telephone number
+• Give address of self-help group
+
+Follow-up
+• Offer early follow-up
+• Suggest to families that they write down questions in preparation for the next appointment
+• Ensure adequate communication of content of interview to:
+  – other members of staff
+  – general practitioner and health visitor
+  – other professionals, e.g. a referring paediatrician.
+
+Adapted from Woolley H, Stein A, Forrest GC et al. 1989. Imparting the diagnosis of life-threatening illness in children. British Medical Journal 298:1623–1626.
+
+Ethics
+
+Situations arise in paediatric practice in which the course of action that should be followed is unclear. Knowledge of the ethical theories and principles which underpin medical practice is helpful in understanding the issues involved. It is important to justify decisions to investigate or treat in accordance with these principles, and in language that is clear to all concerned.
+
+Definitions of the principles of medical ethics
+• Non-maleficence – do no harm (psychological and/or physical)
+• Beneficence – positive obligation to do good (these two principles have been part of medical ethics since the Hippocratic Oath)
+
+
+74
+
+Figure 5.7 Some of the professionals who may need to be informed on admission or discharge about a child admitted to hospital.
+
+Hospital inpatient stay and discharge planning connects with:
+• School
+• General practitioner
+• Health visitor
+• Community paediatric services
+• Consultants in other specialities
+• Child development team
+• Dietician
+• Tertiary centre
+• Social services
+• Paediatric home care team
+• Occupational therapist
+• Speech and language therapist
+• Physiotherapist
+• Psychologist
+• Child psychiatrist
+
+Definitions of the principles of medical ethics (continued)
+• Justice – fairness for all, equity and equality of care
+• Respect for autonomy – respect for individuals’ rights to make informed and thought-out decisions for themselves in accordance with their capabilities
+• Truth-telling and confidentiality – important aspects of autonomy that support trust, essential in the doctor–patient relationship
+• Duty – the moral obligation to act irrespective of the consequences in accordance with moral laws which are universal, apply equally to all and which respect persons as autonomous beings
+• Utility – the obligation to do the greatest good for the greatest number
+• Rights – justifiable moral claims, e.g. the right to life, respect, education, which impose moral obligations upon others.
+
+Application of ethical principles to paediatrics
+
+Non-maleficence
+
+Children are more vulnerable to harm. This includes their suffering from fear of procedures, which they may be too young to express verbally. Doctors may do harm from lack of skill or knowledge, especially if they do not treat children frequently.
+
+Beneficence
+
+The child’s interest is paramount. In the UK, this is enshrined in the Children Act 1989 and the UN Convention on the Rights of the Child. This may sometimes conflict with parental autonomy, such as the emergency treatment of a child where the parent is not immediately available or when details are given to social workers in suspected child abuse.
+
+Justice
+
+This involves ensuring a comprehensive child health service, including the prevention of illness, and equal access to healthcare, even when poverty, language barriers and parental disability are present.
+
+Autonomy
+
+Children have restricted but developing rights in law. Parents are trusted to make decisions on their child’s behalf because they will usually act in the child’s best interests, but there may be circumstances, e.g. child abuse, in which this is not the case.
+
+Truth-telling
+
+It is more difficult with children than adults to be sure that they understand what is happening to them. For example, it is easy to reassure children falsely that procedures will not hurt; when they find this is untrue, trust will be lost for future occasions.
+
+Consent
+
+Valid consent is required for all medical interventions other than emergencies or when urgent intervention is necessary to prevent serious risk of present or future harm. It provides the ethical and legal authority for action which would otherwise be a common assault or interfere with the right of individuals to decide what should be done to them (autonomous choice). To be valid, consent must be sufficiently informed, and freely given by a person who is competent to do so. Clinicians have a duty to provide sufficient information to enable a reasonable person to make the decision and must answer all questions honestly. Information has to be given in language that is clear and understandable. In UK law, the legal age of consent to medical treatment is 16 years. The right of children below this age to give consent depends on their competence rather than their age. They may consent to medical examination and treatment provided they can demonstrate that they have the maturity and judgement to understand and appraise the nature and implications of the proposed treatment, including the risks and alternative courses of action. This is known as Gillick competence.
+
+When a child lacks the maturity and judgement to give consent, this capacity is given to a person having parental responsibility – usually a natural parent, or to a court.
+
+
+75
+
+A court. In practice, problems occur only when there is disagreement between the child and the parents and clinicians over treatment, e.g. contraception for under 16-year-olds.
+
+When a girl less than 16 years of age requests contraception without parental knowledge, a professional can provide it if satisfied that she cannot be persuaded to inform her parents, that she is likely to have sex with or without contraception and that receiving contraception is in her best interests. These are known as the Fraser guidelines.
+
+Despite including children’s views in consent, legal judgements have not supported children who refuse treatment parents and clinicians feel to be in their best interests, especially if its purpose is to save life or prevent serious harm, e.g. heart transplantation for acute cardiomyopathy in an intelligent 15-year-old patient. Where disputes cannot be resolved by negotiation or mediation, or there is doubt over the legality of what is proposed, legal advice should be sought. Whatever the outcome, children should have their views heard and be given reasons as to why they are being over-ridden.
+
+Confidentiality
+
+Children are owed the same duty of confidentiality as adults, irrespective of their legal capacity. In general, personal information about them should not be shared without their consent or agreement unless it is necessary for their health or to protect them from serious harm, e.g. in actual or suspected child abuse.
+
+Best interests
+
+It is a general ethical and legal maxim that the best interests of the child are paramount. Doctors therefore have a duty to save life, restore health and prevent disease by treatments that confer maximum benefit and minimal harm and which respect the autonomy of the child as far as possible. Parents have the ethical and legal duty to make decisions on behalf of their child, provided that they act in their best interests. Disputes may arise over what constitutes best interests and who should decide about them; they may require legal intervention, especially when the withholding or withdrawing of life-sustaining treatment is involved. Courts have generally been supportive of the position that in some circumstances the burden to the child of providing life-sustaining treatment outweighs its benefits.
+
+Case Histories 5.1 and 5.2 demonstrate some of the ethical problems encountered in paediatrics.
+
+The ethics of research in paediatrics
+
+Research involving children is important in promoting children’s health and well-being and may provide an evidence base for practice. Children differ from adults in their anatomy, physiology, disease patterns and responses to therapy but many drugs in current use have not been tested on them. However, children are perhaps more vulnerable to the harm which may be produced by research and should be protected against it.
+
+Case History 5.1 Meningococcal septicaemia
+
+Jack, aged 5 years, has a fever and purpuric rash and you suspect he may have potentially fatal meningococcal septicaemia. Jack hates needles and makes it clear that he rejects any sort of injection. ‘No I don’t want an injection, go away’ is the message, loud and clear, when you try to take blood, do a lumbar puncture, and insert an indwelling intravenous cannula for his antibiotics. Yet with the full and anxious approval of his parents, you go ahead and do these things anyway. But if Jack was 25 years old and made it clear that he refused your interventions, while you’d strongly urge him to give permission and explain that he was in real danger of dying as a result of such refusal, you would not (presumably) treat him against his will, even if his mother and father still urged you to do so.
+
+In contrast to normal adult medical ethics, in paediatrics the autonomy of the patient either is not present at all (as in babies and young infants) or is often not sufficiently developed to be respected if the child’s decision conflicts with what appropriate other people consider to be in that child’s best interests. The decisions about the child’s medical care are generally entrusted to the parents. Why the parents? They are given the privilege and responsibility of making decisions on behalf of their children largely because they are most likely to protect and promote the interests of their children. The normal assumption in paediatric practice is that doctors should work closely with parents and give advice that parents may or may not accept. Wherever possible, a mutually trusting and respectful working relationship should be developed and maintained, both because it will be in the best interests of the child and because it will tend to lead to far better experiences of medical care for all involved.
+
+Also, consider whether your decision would have been the same about performing an extra venepuncture for a special blood test for an ethically approved research project.
+
+Distinction is often made between therapeutic research, where there is an intention to benefit the individual subject, and non-therapeutic research, which carries a wider societal benefit but without intent to benefit individuals. Research that fails to benefit individuals may be ethical provided that it involves an acceptable level of risk.
+
+Where a child suffers from a particular disease, e.g. acute lymphoblastic leukaemia, randomised clinical trials may be used to compare treatment regimens. The ethical justification for such trials is that there is no good reason to believe that one of the treatments would be better than the other – ‘therapeutic equipoise’ – and that the standard treatment used for comparative purposes is the best currently available.
+
+The situation is different when an investigation, e.g. blood test, X-ray or intervention, is proposed for normal
+
+
+76
+
+Case History 5.2 Acute lymphatic leukaemia, truth-telling and stopping treatment
+
+Jane, aged 10 years, has acute lymphoblastic leukaemia which was diagnosed 4 years ago. She has relapsed, with early involvement of the central nervous system. She is well known to the staff of her local children’s ward as she has had four relapses of her leukaemia and a previous bone marrow transplant. It is the opinion of her paediatric consultant that no further medical treatment is likely to be curative. Jane asks one of the junior paediatric doctors why her parents had been so upset following a recent discussion with the consultant, at which she had not been present. The parents had made it very clear to all the staff that they did not want their child to be informed of the poor prognosis, nor would they tell her why she was not having further chemotherapy.
+
+The parents have heard of a new drug which is claimed, in some reports on the internet, to help such children. However, it is very expensive, there is evidence that it does not cross the blood–brain barrier and the doctors consider it highly unlikely to be of benefit. The parents insist on a trial of the drug.
+
+Ethical issues to consider are:
+• Autonomy – the parents claim the right to control the information reaching their child on the grounds that it is in her best interests as judged by them.
+• Truth-telling – the staff feel that it would be wrong to reassure her falsely.
+• Non-maleficence – the parents wish to avoid the shock of the news and the loss of hope in their daughter.
+• Beneficence – the staff wish to support the child effectively, which would be difficult if she were to be isolated by ignorance of what is upsetting her family and carers.
+• Justice – should scarce resources be used on this new drug? Because her parents are desperate, should Jane be given a drug which, in the specialist’s opinion, will not benefit her?
+• Best interests – what are Jane’s best interests and who should decide them? What weight should be given to Jane’s own views based on her experience of her illness?
+
+In such situations, further discussion between the parents and staff whom they trust is usually the key to resolving the situation. The parents will need to understand the mutual benefits of adopting as open a pattern of communication as possible. They may be helped by a member of staff being present or helping them talk or listen to the child, who will usually understand more than the parents suspect.
+
+Parents almost always wish to do the best for their child. Detailed explanation is likely to help them see that the child’s best interests may not be to seek further cure but to accept a change of focus towards palliative care. A second opinion from an independent specialist may be helpful, as may a specific ethical review. If, despite all efforts to reach agreement, the parents reject the doctor’s advice, it is fairest to let a court of law decide whether or not to accept the parents’ demands.
+
+Children as part of a control group in a trial or for the purpose of establishing a normal range. Both can be ethically justified provided that the procedure in question carries no more risk than generally encountered and accepted in everyday life.
+
+Whatever the nature of the research a number of criteria must be met:
+• Appropriate research should be first carried out in adults or older children.
+• The project should have a sound scientific basis and be well designed.
+• The researchers should be competent to carry it out in the time specified.
+• Sufficient information should be given in a form comprehensible to the child and family to enable them to give valid consent to participation, e.g. by provision of information sheets in an appropriate form and language or by the use of independent translators.
+• Parents must have the option to withdraw their child from the research at any stage without prejudice.
+• The project must be reviewed and approved by an independent scientific and ethical process (Research Ethics Committee).
+
+Summary
+
+Ethics in paediatrics
+• Both clinicians and parents aim to do what is in their child’s best interests
+• Conflicting views can usually be resolved by good communication
+• If not resolved – help may be sought from further, wider communication, or a second, truly independent opinion, or sometimes from hospital ethical committees; or may go to court.
+• Older children who understand the issues and have strong views as to what should or should not be done to them – there is increasing ethical and legal support for them to exercise as much autonomy as they are capable of.
+
+
+77
+
+Evidence-based paediatrics
+
+Clinicians have always sought to make decisions in the best interests of their patients. However, such decisions have often been made intuitively, given as clinical opinion, which is difficult to generalise, scrutinise or challenge. Evidence-based practice provides a systematic approach to enable clinicians to efficiently use the best available evidence, usually from research, to help them solve their clinical problems. The difference between this approach and old-style clinical practice is that clinicians need to know how to turn their clinical problems into questions that can be answered by the research literature, to search the literature efficiently, and to analyse the evidence, using epidemiological and biostatistical rules (Figs 5.8, 5.9). Sometimes, the best available evidence will be a high-quality systematic review of randomised controlled trials, which are directly applicable to a particular patient. For other questions, lack of more valid studies may mean that one has to base one’s decision on previous experience with a small number of similar patients. The important factor is that, for any decision, clinicians know the strength of the evidence, and therefore the degree of uncertainty. As this approach requires clinicians to be explicit about the evidence they use, others involved in the decisions (patients, parents, managers and other clinicians) can debate and judge the evidence for themselves.
+
+Why practise evidence-based paediatrics?
+
+There are many examples from the past where, through lack of evidence, clinicians have harmed children, e.g.
+
+• Blindness from retinopathy of prematurity. In the 1950s, following anecdotal reports, many neonatal units started nursing all premature infants in additional ambient oxygen, irrespective of need. This reduced mortality, but as no properly conducted trials were performed of this new therapy, it took several years for it to be realised that it was also responsible for many thousands of babies becoming blind from retinopathy of prematurity.
+• Advice that babies should sleep lying on their front (prone), which increases the risk of sudden infant death syndrome (SIDS). Medical advice given during the 1970s and 1980s, to put babies to sleep prone, appears to have been based on physiological studies in preterm babies, which showed better oxygenation when nursed prone. Furthermore, autopsies on some infants who died of SIDS showed milk in the trachea, which was assumed to have been aspirated and this was thought to be more likely if they were lying on their back. However, an accumulation of more valid evidence from cohort and case–control studies showed that placing term infants prone was associated with an increased risk of SIDS.
+
+Evidence-based medicine allows clinicians to be explicit about the probability (or risk) of important outcomes. For example, in discussing with parents the prognosis of a child who has had a febrile seizure, one can state that ‘the risk of developing epilepsy is 1 in 100’, instead of using vague terms, such as ‘he/she is unlikely to develop epilepsy’.
+
+Explicit analysis of evidence has also become more important with the increasing delivery of healthcare by teams rather than individuals. Each team member needs to understand the rationale for decisions and the probability of different outcomes in order to make their own clinical decisions and to provide consistent information to patients and parents.
+
+To what extent is paediatric practice based on sound evidence?
+
+There are two paediatric specialities in which there is a considerable body of reliable, high-quality evidence underpinning clinical practice, namely paediatric oncology and, to a lesser extent, neonatology. Management protocols of virtually all children with cancer are part of multicentre trials designed to identify which treatment gives the best possible results. The trials are national or, increasingly, international, and include short- and long-term follow-up. Examples of the range of evidence available in paediatrics are given in Box 5.4. In general, the evidence base for paediatrics is poorer than in adult medicine. Reasons for this include:
+• The relatively small number of children with significant illness requiring investigation and treatment. To overcome this, multicentre trials are required, which are more difficult to organise and expensive.
+• Additional ethical limitations:
+  – Subjecting children to additional investigations or giving a new treatment is severely limited by the inability of the child to give consent. Some parents are concerned that participating in a trial could mean that their child could receive treatment that turns out to be inferior to the standard treatment and could have unknown side-effects.
+  – There is concern over the ability of parents to give truly informed consent immediately after the acute onset of serious illness, e.g. the birth of a preterm infant, meningococcal septicaemia or meningitis.
+• There is limited investment by the pharmaceutical industry in drug trials, as drug use in children is insufficient to justify the cost and ethical difficulties of conducting trials. As a result, approximately 50% of drug treatments in children are unlicensed (‘off label’).
+
+The consequence is that there is less of a culture of randomised controlled trials in paediatrics compared with adult medicine.
+
+For evidence-based practice to become more widespread, clinicians must recognise the need to ask
+
+
+78
+
+Figure 5.8 Application of evidence-based medicine to clinical problems.
+
+Application of evidence-based medicine to clinical problems
+
+Clinical problem
+
+What evidence is needed to reach your decision?
+
+Clinical problems are often complex and the different elements (aetiology, diagnosis, therapy, prognosis) need to be tackled as separate questions. Most clinical questions can be structured into these three components:
+
+Patient population — A population similar to your patient
+Intervention — e.g. giving antibiotics compared with not giving antibiotics
+Clinical outcome — The most important outcomes, good or bad
+
+Frame question
+
+Search the research literature. Use search filters for efficiency. For randomised clinical trials and systematic reviews of interventions, go to Cochrane Library. If there is nothing which addresses your question, or if your question is about prognosis or diagnosis, you need to use an online database, such as MEDLINE.
+
+Search for the evidence
+
+Appraise the validity (closeness to the truth) and usefulness (relevance to your patient) of the evidence.
+
+In intervention studies, there is a hierarchy of validity:
+• A systematic review of randomised controlled trials (RCTs)
+• Individual RCTs
+• Cohort studies
+• Case–control studies
+• Case reports or anecdotal experience of respected authorities
+
+If your question is about a diagnostic test or observation, you need a study that has made an independent, blind comparison with an adequate reference standard based on patients with a similar spectrum of disease to your patient.
+
+If about prognosis, you need a study that follows a group of patients similar to your patient (cohort), over an adequate period of time, to see what happens to them.
+
+Appraise the evidence
+
+Incorporate the evidence into clinical or policy decisions. This depends on judgements about the validity and relevance of the evidence, the probability of the different outcomes, and the values assigned to them by the patient, clinician and wider society. They are also heavily influenced by what is feasible within the organisation. We will often agree on the validity of the evidence and the probability of the different outcomes, but decisions may differ because the people involved hold different values.
+
+Make a decision
+
+Ensure that evidence-based decisions are translated into practice and measure the wider effects of implementation on healthcare. This may involve audit.
+
+Evaluate your performance
+
+
+79
+
+Figure 5.9 An example of an evidence-based medicine approach to a clinical problem – the treatment of acute otitis media with antibiotics.
+
+Example of evidence-based practice in solving a clinical problem – the management of acute otitis media
+
+Clinical problem:
+Should you treat a 3-year-old boy with otitis media with antibiotics?
+
+Frame question
+
+Population: Children with acute otitis media
+Intervention: Antibiotics compared with none
+Outcomes:
+• Pain
+• Hearing loss
+• Adverse drug side-effects
+• Other complications
+
+Search for the evidence
+
+Cochrane Library – 22 meta-analyses, one corresponding best to this child
+
+Appraise the evidence
+
+Reduced risk / Increased risk
+
+Outcomes shown:
+• Pain at 24 hours
+• Pain at 2–7 days
+• Deafness at 3 months
+• Perforation
+• Contralateral otitis media
+• Vomiting, diarrhoea or rash
+• Late recurrences
+
+Odds ratio
+
+Antibiotics have no effect on pain in the first 24 hours, but a 30% reduction in pain at 2–7 days.
+
+There is a possible reduction in hearing loss, perforation of the drum and contralateral otitis media but this does not reach statistical significance.
+
+There is a near doubling in the chance of diarrhoea, rashes and abdominal pain.
+
+However:
+• for the risk of severe complications of the disease (mastoiditis, meningitis) or of antibiotic therapy, the sample size was too small
+• potential costs to society in antibiotic resistance and finance have not been evaluated.
+
+Make a decision
+
+You explain to the parent that antibiotics:
+• would reduce the risk of pain lasting 2–7 days but about 17 children need to be treated for one to benefit, and this would not reduce the risk of hearing loss
+• would increase the risk of minor side-effects.
+
+The decision whether or not to treat depends on the parents’ values about pain and adverse side-effects. One approach would be to give this information and a prescription for antibiotics to parents and ask them to wait 2–3 days and use their prescription only if the child is still unwell.
+
+(Sanders S, Glasziou PP, Del Mar C et al. (2004 last updated 2008). Antibiotics for acute otitis media in children. Cochrane Database of Systematic Reviews (1) CD000219).
+
+
+80
+
+Box 5.4 Examples of the range of evidence available in paediatrics
+
+1. Clear evidence of benefit
+
+Surfactant therapy in pre-term infants
+
+The meta-analysis (see Fig. 10.12) from a Cochrane systematic review shows that mortality is reduced by 40% in preterm infants with respiratory distress syndrome (RDS) treated with surfactant compared with placebo.
+
+This evidence was rapidly produced and introduced into practice as:
+– Respiratory distress syndrome is a common cause of death and morbidity in a neonatal intensive care unit
+– There is a clearly understood disease mechanism for respiratory distress syndrome, i.e. surfactant deficiency
+– The effect of surfactant treatment was immediately obvious at the cot-side – ventilator settings usually have to be reduced shortly after administration
+– Potential benefits and side-effects could be clearly defined and identified
+– Neonatologists are a relatively small group of doctors who meet regularly – national and international studies could be organised and their results quickly disseminated
+– There was financial support and involvement from the pharmaceutical industry.
+
+2. Clear evidence, but need to balance benefits and harms
+
+Antibiotic treatment for children with otitis media
+
+As shown in Figure 5.9, there is a balance of risk and benefits.
+
+3. No clear evidence
+
+Bulk-forming laxatives for constipation
+
+Bulk-forming laxatives, such as methylcellulose or ispaghula husk, are used in children with constipation. However, this is not based on clear evidence. There are no systematic reviews and no randomised controlled studies of these agents in children.
+
+Some possible reasons for the lack of evidence on the use of these laxatives in this common condition are:
+– constipation is not a life-threatening disorder
+– the causes are multifactorial and the disease mechanism is not clearly defined
+– there is a belief that there are likely to be few side-effects to the use of bulk-forming laxatives and clinicians are prepared to prescribe them without clear evidence
+– there is limited support for studies from the pharmaceutical industry
+– the research agenda is not driven by such clinical problems.
+
+Evidence-based medicine is not cookbook medicine. Incontrovertible evidence is rare, and clinical decisions complex, which is why clinical care is provided by clinicians and not technicians. Evidence-based healthcare cannot change this, but is an essential tool to help clinicians make rational, informed decisions together with their patients. In addition, evidence-based paediatrics provides a way for clinicians to articulate their priorities for research and thereby set a research agenda which is relevant to service needs.
+
+Summary
+
+Evidence-based paediatrics
+• requires clinical problems to be framed into questions, to search the literature and then appraise the evidence in order to make a decision
+• is less well developed than in adult medicine
+• should be adopted whenever possible; however, clinical decisions are complex and the evidence base usually informs rather than determines clinical decision-making.
+
+Further reading
+
+Websites (Accessed May 2011)
+
+CEBM (Centre for Evidence-Based Care, Oxford)
+Available at: http://www.cebm.net
+
+Every Child Matters – national framework for services for children and young people. Available at: www.education.gov.uk
+
+http://www.tripdatabase.com
+http://clinicalevidence.bmj.com/ceweb
+http://www.cochrane.org

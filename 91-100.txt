@@ -1,0 +1,640 @@
+91
+
+Table 6.3 Causes, history and examination and investigation of coma
+
+Cause | History and examination | Diagnostic investigations
+
+Infection
+Meningitis or meningoencephalitis
+History and examination:
+• Fever
+• Irritability, lethargy, drowsiness
+• Poor feeding, vomiting
+• Rash, e.g. meningococcal purpura
+• Seizures
+• Neck stiffness and pain; bulging fontanelle
+• Overseas travel
+Diagnostic investigations:
+• Full blood count
+• Culture of blood, urine, infected sites, CSF (unless contraindicated) for bacteria and viruses
+• Acute-phase reactant
+• Rapid bacterial antigen/PCR tests for organisms
+
+Status epilepticus or post-ictal
+History and examination:
+• Past history of seizures
+• Neurocutaneous lesions on the skin
+• Developmental delay
+• Ongoing seizure activity, e.g. abnormal eye movements
+• Focal neurological signs
+Diagnostic investigations:
+• Blood glucose
+• Electrolytes – sodium, potassium, calcium, magnesium
+• Drug levels if on anticonvulsants
+• EEG
+• CT scan
+
+Trauma – accidental/non-accidental
+History and examination:
+• History of road traffic accident, fall, etc.
+• Bruising, haemorrhage
+• Fractures – cervical spine, etc.
+• Focal neurology
+• Retinal haemorrhages
+Diagnostic investigations:
+• Radiological – plain X-rays or CT/MRI scans
+
+Intracranial tumour or haemorrhage/infarct/abscess
+History and examination:
+• Symptoms or signs of raised intracranial pressure
+• Focal neurological signs, e.g. squint
+Diagnostic investigations:
+• Cranial CT/MRI scan
+• Haemorrhage – coagulation screen, screen for procoagulant disorders (protein C/S deficiency)
+
+Metabolic
+
+1. Diabetes mellitus
+History and examination:
+• Previously diagnosed diabetes mellitus
+• Diabetic ketoacidosis
+Diagnostic investigations:
+• Blood glucose, plasma electrolytes
+• Urine for glucose and ketones
+• Blood gas analysis
+
+2. Hypoglycaemia
+History and examination:
+• Any acutely ill child
+• Known diabetes mellitus
+• Sudden onset of coma
+Diagnostic investigations:
+• Low blood glucose
+
+3. Inborn errors of metabolism
+History and examination:
+• Previous history of loss of consciousness
+• Sudden collapse
+• Consanguinity, death or illness of siblings
+• Developmental delay
+• Hepatomegaly
+Diagnostic investigations:
+• Blood glucose
+• Blood gas analysis
+• Blood ammonia, lactate
+• Urine amino and organic acids
+• Plasma amino acids
+
+4. Hepatic failure
+History and examination:
+• Jaundice
+• Abnormal bleeding
+Diagnostic investigations:
+• Abnormal liver function tests
+• Prolonged prothrombin time
+
+5. Acute renal failure
+History and examination:
+• Oliguria, hypertension
+Diagnostic investigations:
+• Abnormal creatinine
+
+Poisoning
+History and examination:
+• Accidental – poison usually identified
+• Deliberate – tablets may be found, also illicit drugs and alcohol
+Diagnostic investigations:
+• Toxicology screen
+• Plasma level for paracetamol and salicylates
+
+Shock
+History and examination:
+• Septicaemia
+• Dehydration
+• Cardiac failure
+Diagnostic investigations:
+• Full blood count and cultures
+• Urea, electrolytes, blood gas
+
+Hypertension
+History and examination:
+• Symptoms and signs of raised intracranial pressure
+• Fundoscopy – hypertensive changes
+Diagnostic investigations:
+• Left ventricular hypertrophy on ECG or echocardiography
+• Creatinine and electrolytes
+
+Respiratory failure
+History and examination:
+• Respiratory failure
+Diagnostic investigations:
+• Chest X-ray
+• Arterial blood gas – hypoxia, hypercarbia
+
+
+92
+
+Figure 6.12 Management protocol for status epilepticus. (Adapted from Advanced Life Support Group. 2005. Advanced Paediatric Life Support. The Practical Approach, 4th edn. Blackwell BMJ Books, London.)
+
+Management protocol for status epilepticus
+
+Airway, Breathing, Circulation
+
+Check blood glucose.
+If blood glucose is <3 mmol/L, give glucose IV and recheck blood glucose.
+
+Vascular access:
+• Lorazepam 0.1 mg/kg
+
+No vascular access:
+• Diazepam 0.5 mg/kg PR or midazolam (buccal) 0.5 mg/kg
+
+No response in 10 min:
+• If there is IV access, give lorazepam 0.1 mg/kg IV.
+• If there is no IV access, these drugs may cause or compound pre-existing respiratory depression, and mechanical ventilation may be required.
+
+No response in 10 min:
+• Stop fitting with anticonvulsant.
+• Paraldehyde 0.4 ml/kg PR.
+
+No response in 10 min: call for senior help.
+
+Phenytoin 18 mg/kg IV/IO over 20 min or phenobarbital 15 mg/kg if on oral phenytoin.
+
+Call anaesthetist or intensivist.
+No response in 20 min:
+• Rapid-sequence induction with thiopental
+• Mechanical ventilation
+• Transfer to PICU
+
+Detailed specialist investigation and assessment will be required if clinical, biochemical or physiological abnormalities are identified.
+
+The death of a child
+
+The risk of death is four times greater during infancy than at any other age in childhood. In many, a serious condition will have been diagnosed before or after birth, such as a congenital abnormality or complications of prematurity. Deaths which occur suddenly and unexpectedly in infancy are known as sudden unexpected death in infancy (SUDI). In some, a previously undiagnosed congenital abnormality, e.g. congenital heart disease, will be found at autopsy. Rarely, an inherited metabolic disorder is identified, in particular the fatty acid oxidation defect medium-chain acyl-CoA dehydrogenase deficiency (MCAD), which can very rarely result in sudden death in infants, but is increasingly identified in the UK from routine biochemical screening (Guthrie test). After 1 month of age, in most instances of sudden death in a previously well infant, no cause is identified and the death is classified as sudden infant death syndrome (SIDS). The vast majority of such deaths, even when occurring more than once in the same family, are due to natural causes. Rarely, the death may be due to suffocation or other forms of non-accidental injury.
+
+
+93
+
+Figure 6.13 Emergency treatment of anaphylaxis. (Adapted from Resuscitation Council (UK) 2008 Resuscitation Guidelines.)
+
+Anaphylactic reaction?
+ABCDE
+
+Diagnosis:
+Acute problem:
+Airway: swelling, hoarseness, stridor
+Breathing: tachypnoea, wheeze, cyanosis, SpO₂ <92%
+Circulation: pale, clammy, hypotension, drowsy, coma
+
+Call for help.
+Put patient in supine position with legs raised.
+
+Adrenaline (epinephrine) 1:1000 (give IM unless experienced with IV)
+<6 years: 150 micrograms (0.15 ml)
+6–12 years: 300 micrograms (0.3 ml)
+>12 years: 500 micrograms (0.5 ml)
+
+If available:
+• Establish airway
+• High flow oxygen
+• IV fluid (20 ml/kg crystalloids)
+• Chlorpheniramine (IM or slow IV)
+• Hydrocortisone (IM or slow IV)
+
+Monitor:
+• Pulse oximetry
+• ECG
+• Blood pressure
+
+Box 6.4 Causes and investigations to be considered in apparent life-threatening events
+
+Causes
+• Infections – respiratory syncytial virus (RSV), pertussis
+• Seizures
+• Gastro-oesophageal reflux (present in one-third of normal infants)
+• Upper airways obstruction – natural or imposed
+• No cause identified
+
+Uncommon causes
+• Cardiac arrhythmia
+• Breath-holding
+• Anaemia
+• Heavy wrapping/heat stress
+• Central hypoventilation syndrome
+• Cyanotic spells from intrapulmonary shunting
+
+Investigations to be considered
+• Blood glucose (as soon as possible)
+• Blood gas (as soon as possible)
+• Oxygen saturation monitoring
+• Cardiorespiratory monitoring
+• EEG
+• Oesophageal pH monitoring
+• Barium swallow
+• Full blood count
+• Urea and electrolytes, liver function tests
+• Lactate
+• Urine (collect and freeze first sample)
+  – metabolic studies
+  – microscopy and culture
+  – toxicology
+• ECG – for QTc conduction pathway abnormality
+• Chest X-ray
+• Lumbar puncture
+
+Sudden infant death syndrome
+
+This is defined as the sudden and unexpected death of an infant or young child for which no adequate cause is found after a thorough postmortem examination. There is marked variation in the incidence of SIDS in different countries, suggesting that environmental factors are important (Box 6.5). SIDS occurs most commonly at 2–4 months of age (Fig. 6.14). The risk for subsequent children is slightly increased.
+
+In the UK, the incidence of SIDS has fallen dramatically during the last 20 years (Fig. 6.15), coinciding with a national ‘Back to Sleep’ campaign (Fig. 6.16). This advocates that:
+• Infants should be put to sleep on their back (not their front or side)
+• Overheating by heavy wrapping and high room temperature should be avoided
+• Infants should be placed in the ‘feet to foot’ position
+
+
+94
+
+Box 6.5 Factors associated with SIDS
+
+The infant
+• Age 1–6 months, peak at 12 weeks
+• Low birthweight and preterm (but 60% are normal birthweight term infants)
+• Sex (boys 60%)
+• Multiple births
+
+The parents
+• Low incomeᵃ
+• Poor or overcrowded housing
+• Maternal age (mother aged <20 years has three times the risk of a mother aged 25–29 years, but 80% of affected mothers are >20 years old)ᵃ
+• Single unsupported mother (twice the rate of supported mothers)
+• High maternal parityᵃ
+• Maternal smoking during pregnancy (1–9 cigarettes/day doubles the risk: >20/day increases the risk five-fold)ᵃ
+• Parental smoking after baby’s birth
+
+The environment
+• The infant sleeps lying prone
+• The infant is overheated from high room temperature and too many clothes and covers, particularly when ill.
+
+ᵃ Three of these four factors are present in over 40% of SIDS but only 8% of control families.
+Based on data from Fleming P, Blair P, Bacon C et al. 2000. Sudden Unexpected Deaths in Infancy. The Stationery Office, London.
+
+Figure 6.14 Age distribution of SIDS. (Based on data from Fleming P, Blair P, Bacon C et al. 2000. Sudden Unexpected Deaths in Infancy. The Stationery Office, London, with permission.)
+
+Age (months): 1–12
+
+Figure 6.15 Decline in the number of deaths from SIDS in the UK from 1.9/1000 live births in 1989 to 0.31 in 2008.
+
+Year: 1990–2008
+SIDS per 1000 live births
+
+Figure 6.16 Key features of the ‘Back to Sleep’ campaign.
+
+Prevention of sudden infant death syndrome
+• Lie infant on back
+• Do not smoke during pregnancy or in the same room as infant
+• Avoid overheating:
+  – Hot
+  – Comfortable (16–20°C)
+  – Cold
+• Place in ‘feet to foot position’
+• Keep head uncovered
+
+
+95
+
+Figure 6.17 A recommended approach to the management of the sudden unexpected death of an infant. There are local variations in its implementation. (Adapted from RCPCH. 2004. Sudden Unexpected Death in Infancy. The report of a working group convened by the Royal College of Pathologists and The Royal College of Paediatrics and Child Health. RCPCH, London. Available at: www.rcpath.org and www.rcpch.ac.uk (Accessed January 2011).)
+
+Management of the sudden unexpected death of an infant
+
+Resuscitation
+Infant found dead at home – take to Accident and Emergency Department.
+Initiate resuscitation unless inappropriate.
+
+Care of parents
+Should be cared for by specific member of staff.
+History should be obtained.
+
+Baby pronounced dead
+Detailed clinical examination by consultant.
+Remove endotracheal tube and intraosseous needles but retain venous lines.
+Retain child’s clothes and any bedding and nappy for police.
+
+Investigations performed:
+• Nasopharyngeal aspirate for virology and bacteriology
+• Blood for toxicology, metabolic screen (on Guthrie card), chromosomes if dysmorphic
+• Blood culture
+• Urine (catheter specimen) – for biochemistry, toxicology and freeze immediately
+• Lumbar puncture – CSF for virology and routine culture, if clinically indicated
+
+SUDI paediatrician, coroner, police and primary care team and other healthcare professionals informed.
+
+Breaking the news to the parents
+Performed by the paediatrician. Explain that the police and coroner will be involved, a postmortem is required, tissue blocks and slides will be taken and retained permanently as part of the medical record.
+Give parents the opportunity to donate tissues and organs.
+Inform them that the involvement of the police does not imply that they are being blamed for their child’s death.
+
+Parents offered to see and hold their baby
+Parents should be offered the opportunity to see and hold their child. Encourage as helps them accept the reality of their child’s death. They may wish to see the child again within the next few days. The family may wish a minister of religion to be called.
+
+Initial strategy discussion
+SUDI paediatrician and supervising police officer.
+Social services review to identify if previously involved or any child protection issues.
+
+Home visit within 24 hours
+Police visit the home to talk with the parents and examine the place where the baby died.
+SUDI paediatrician may also attend.
+Detailed history obtained.
+Report compiled for the coroner.
+
+Postmortem
+Performed by paediatric pathologist.
+Preliminary postmortem result.
+
+Case discussion
+Multi-agency meeting, including SUDI paediatrician, police, GP/health visitor and, where appropriate, the social worker.
+All relevant information reviewed.
+Possibility of abuse or neglect considered.
+Report is sent to the coroner.
+Paediatrician writes a detailed letter to the parents providing information about the cause of the infant’s death and arranges to meet them.
+
+Follow-up and bereavement counselling
+Follow-up to provide family an opportunity to discuss the final results of the postmortem and consider its implications for future pregnancies. Genetic counselling may be indicated.
+Bereavement counselling – available from health professionals and other agencies.
+
+
+96
+
+• Parents should not smoke near their infants
+• Parents should seek medical advice promptly if their infant becomes unwell
+• Parents should have the baby in their bedroom for the first 6 months of life
+• Parents should avoid bringing the baby into their bed when they are tired or have taken alcohol, sedative medicines or drugs
+• Parents should avoid sleeping with their infant on a sofa, settee or armchair.
+
+Summary
+
+Sudden infant death syndrome (SIDS)
+• SIDS is the commonest cause of death in children aged 1 month to 1 year.
+• The peak age is 2–4 months.
+• SIDS has been dramatically reduced by lying babies on their back to sleep.
+
+Following the sudden death of a child
+
+The sudden death of a child is one of the most distressing events that can happen to a family. If close family members are absent, arrangements should be made for them to come, if this is possible. The family should be spoken to sympathetically and in private (see Ch. 5). An outline of the recommended management after an infant has died suddenly and unexpectedly is shown in Figure 6.17.
+
+Summary
+
+Following an unexpected death
+• The parents should be offered the opportunity to see and hold their child.
+• The coroner must be informed and a postmortem performed.
+• The parents should be informed about the postmortem, that investigations will be performed and that the police will be involved and they should be reassured that this is standard practice.
+• Follow-up and bereavement counselling should be offered.
+
+Further reading
+
+Advanced Life Support Group: Advanced Paediatric Life Support. The Practical Approach, ed 4, Blackwell BMJ Books, 2005, London.
+
+Goldman A, Hain R, Lieben S: The Oxford Textbook of Palliative Care in Children, ed 2, Oxford, 2011, Oxford University Press. Medical, psychological and practical issues of caring for terminally ill children and their families.
+
+RCPCH: Sudden Unexpected Death in Infancy. The report of a working group convened by the Royal College of Pathologists and The Royal College of Paediatrics and Child Health, London, 2004, RCPCH. Available at: www.rcpath.org and www.rcpch.ac.uk (Accessed May 2011).
+
+Resuscitation Council (UK): Updated guidelines on paediatric life support, London, 2008, 2010. Resuscitation Council (UK).
+
+
+97
+
+7
+Accidents, poisoning and child protection
+
+Accidents 97
+Poisoning 102
+Child protection 106
+
+Children need a safe, healthy and nurturing environment to achieve their full potential. Environmental hazards include accidents and poisons. Protecting children and young people from harm is a primary responsibility of parents, families and carers, but all members of society, including doctors, teachers and other professionals, play an important role in advocating for safe environments for children.
+
+The risk of accidents, poisons and abuse is increased by:
+• Poverty
+• Poor-quality, overcrowded homes
+• Lack of a safe environment for play
+• Poor parenting skills, which may be due to parental psychiatric illness, drug and alcohol abuse, violent temperament, poor education or lack of social support.
+
+Accidents
+
+Accidents (now often called ‘unintentional injuries’) are extremely common. In the UK, one in four children attend an A&E department each year; about half because of an accident. They are more common in boys. Most accidents cause only minor injury but can also be fatal. Injuries, mostly accidents, and poisoning are the major cause of death in children 1–14 years of age in the UK (Figs 7.1, 7.2). Accidents also cause significant disability and suffering, including post-traumatic stress disorder. Head injury with brain damage is the major cause of disability from accidents. Cosmetic damage following burns, scalds and other accidents may cause the child profound psychological harm.
+
+Figure 7.1 Causes of death in children aged 1–14 years in England and Wales (2008).
+
+Injuries and poisoning
+Malignant diseases
+Neurological disorders
+Congenital malformations
+Respiratory disorders
+Infections
+Congenital disorders
+Other
+
+Total deaths 1201
+
+Figure 7.2 Causes of fatal injuries and poisoning in children in England and Wales (2008). The most common cause of injuries is road traffic accidents.
+
+Cyclist
+Passenger
+Pedestrian
+Road traffic accidents
+Fire
+Drowning
+Falls
+Poisoning
+Assault
+Other accidents
+Other
+
+Total deaths 244
+
+
+98
+
+Injuries are the most common cause of death in children over 1 year of age.
+
+Types of accident affecting children
+
+Most accidents affecting children depend on the child’s age and development.
+
+In babies and toddlers they can usually be anticipated by an observant adult and may be prevented by vigilant supervision.
+
+Accident prevention
+
+The prevention of childhood accidents is clearly important. Doctors and nurses who treat children and see the effects of accidents are particularly well placed to provide the community with advice on appropriate preventive measures (Fig. 7.3). In order to prevent accidents:
+• The relationship between an individual type of accident and the child’s developmental level must be considered
+• Specific solutions should be based on detailed epidemiology, e.g. child-resistant containers are the best method to limit children’s access to medicines
+• Changes backed by legislation are the most successful.
+
+Organisations such as the Royal Society for the Prevention of Accidents and the Children Accident Prevention Trust are important resources in helping reduce accidents by providing education and lobbying for legislative changes, e.g. bicycle helmet wearing.
+
+The number of children killed in accidents has declined markedly over the past 20 years.
+
+Road traffic accidents
+
+Road traffic accidents (RTAs) are the most common cause of accidental death or serious injury in childhood and in 2008 accounted for 23 000 children killed or injured on the UK’s roads. RTAs can be divided into several types.
+
+Pedestrian road traffic accidents
+
+Children’s involvement in road traffic accidents is mostly as pedestrians. Boys between the ages of 5 and 9 years are at maximum risk, particularly after school. Children are unable to estimate the speed or dangers of traffic and to foresee dangerous situations. Social and economic factors play a part, with children in social class 5 being 5 times more likely to be killed as a pedestrian than children in social class 1.
+
+Child passengers in cars
+
+Unrestrained children become missiles inside cars during crashes, even at low speeds. There is good evidence that child restraint systems prevent injury and death and they are required by law in the UK for all children <135 cm tall.
+
+Bicycle accidents
+
+Bicycle accidents are common during childhood. A boy has a 1 in 80 chance of having a cycling-related head injury severe enough to warrant admission to hospital during childhood. Although 70% of cycle deaths involve a head injury, only 1 in 5 children >10 years wear a helmet.
+
+Head injuries
+
+Minor head injuries in childhood are common, and the vast majority of children recover without suffering any ill effects. However, about 1 in 800 of these children develop serious problems. The aim of the management of head injuries is to identify those children requiring treatment and to avoid secondary damage to the brain from hypoxia or poor cerebral perfusion (Fig. 7.4).
+
+Head injury may result in concussion, a reversible impairment of consciousness, a subdural or extradural haematoma or intracerebral contusion (see Ch. 27).
+
+In infants, as their skull sutures have not fused, cranial volume may increase from an extradural or subdural bleed before neurological signs or symptoms develop. The haemoglobin concentration may fall and they may become shocked.
+
+Figure 7.3 Examples of accident prevention.
+
+Examples shown:
+• Experienced guides supervising climbing, walking or canoeing expeditions
+• Close refereeing of scrums and mauls in rugby
+• Head protection in horseriding and cricket
+• Correctly fitted car seats
+• Drivers’ legal responsibility that children use them
+• Window safety catches
+• Stairguards
+• Falls down stairs
+• Sports injuries
+• Car passenger accidents
+• Window falls
+• Swimming pool drowning
+• Bicycle accidents
+• Helmets
+• Surrounding fence
+• Bedclothes and furniture fires
+• Accidental poisoning
+• House fires
+• Scalds
+• Glass injuries
+• Pedestrian road traffic accidents
+• Flame-resistant materials
+• Child-resistant containers
+• Run cold water first
+• Set thermostat to 40°C max
+• Thermostatic mixing valves
+• Laminated safety glass
+• Smoke alarms
+• Redesigned roads in residential areas:
+  – give priority to pedestrians
+  – separate off the traffic
+  – reduce traffic speed with speed bumps
+  – walking bus schemes – safely walked to school
+  – provide play areas for children
+
+
+99
+
+Accidental head injury management
+
+• Mild – discharge home with written advice
+• Potentially severe – monitor to avoid secondary damage
+• Severe – resuscitate, CT scan and neurosurgical referral.
+
+Internal injuries
+
+Children may suffer internal injuries associated with severe trauma. These include:
+• Abdominal injuries, including a ruptured spleen, ruptured liver, kidney and bowel. There should be a high index of suspicion for these internal injuries if there has been abdominal trauma or if the clinical setting suggests significant inflicted, i.e. abusive, injury. The child needs close observation. Abdominal ultrasound (focused abdominal sonography in trauma – FAST scan) and X-rays, including CT scan, may be helpful. If there is any doubt, a laparotomy/laparoscopy is undertaken. Intra-abdominal injuries such as a contained splenic bleed are increasingly managed conservatively with close monitoring, but paediatric surgical support must be available immediately in case surgery is required.
+• Chest injuries, including pneumothorax and haemopericardium, may require emergency treatment. These children should be managed in a paediatric intensive care unit.
+
+Burns and scalds
+
+Burns and scalds are a significant accidental (and non-accidental) cause of death, although most of the deaths occurring in house fires are caused by gas and smoke inhalation rather than thermal injury. Scalds in toddlers are common; children are scalded at lower temperatures than adults, as their skin is thinner. It is important to exclude inflicted burns.
+
+Management
+
+The severity of the injury is assessed:
+• Is the airway, breathing and circulation satisfactory?
+• Was there any smoke inhalation? If this has occurred, there is a danger of subsequent respiratory complications and carbon monoxide poisoning. All affected children should be observed and managed in hospital, with a low threshold to protect the airway before secondary problems develop.
+• Depth of the burn. In superficial burns, the skin will be epithelialised from surviving cells. In partial thickness burns, there is some damage to the dermis with blistering, and the skin is pink or mottled; regeneration for superficial and partial thickness burns is from the margins of the wound and from the residual epithelial layer surrounding the hair follicles deep within the dermis. In deep (full thickness) burns, the skin is destroyed down to and including the dermis and looks white or charred, is painless and involves hair follicles, hence skin grafting is often required. Deep burns need assessment and treatment in hospital.
+• Surface area of the burn. This should be calculated from a surface area chart (Fig. 7.5). The palm and adducted fingers cover about 1% of the body surface. Burns covering more than 5% full thickness and 10% partial thickness need assessment by burns specialists. Involvement of more than 70% of the body surface carries a poor chance of survival.
+• Involvement of special sites. Burns to the face may be disfiguring, those to the mouth may compromise the airway from oedema, and those to the hand/joints may cause functional loss from scarring. Burns to the perineum and other special sites should all be referred to a burns unit.
+
+Treatment
+
+This should be directed at:
+• relieving pain, assessed with a pain score; may require the use of strong analgesics such as intravenous morphine
+• treating shock with intravenous fluids, preferably plasma expanders, and close monitoring of haematocrit and urinary output. Children with more than 10% burns will require intravenous fluids
+• providing wound care. Burns should be covered with cling film (plastic wrapping), which reduces pain from contact with cold air and reduces the risk of infection. Blisters should be left alone. Irrigation
+
+
+100
+
+Figure 7.4 Head injuries in children. (Adapted from NICE Guideline, 2007.)
+
+Head injuries in children
+
+Damage caused by head injuries
+
+Primary damage
+• Cerebral contusions or lacerations
+• Dural tears
+• Diffuse axonal damage
+
+Secondary damage
+• Hypoxia from:
+  – airway obstruction or inadequate ventilation
+• Hypoglycaemia and hyperglycaemia
+• Reduced cerebral perfusion:
+  – hypotension from bleeding
+  – raised intracranial pressure
+• Haematoma: extradural, subdural, intracranial
+• Infection: from open wound or CSF leak
+
+Outline of initial management
+
+Head injury
+
+Primary survey
+• Airway and cervical spine
+• Breathing
+• Circulation and haemorrhage control
+• Disability:
+  – consciousness
+  – pupils
+• Exposure
+
+Secondary survey
+
+Mild head injury
+No CT head scan
+Home with written advice
+
+Potentially serious head injury
+• Witnessed loss of consciousness >5 min
+• Amnesia >5 min
+• Abnormal drowsiness
+• 3 or more discrete episodes of vomiting
+• Clinical suspicion of non-accidental injury
+• Post-traumatic seizure but no history of epilepsy
+• Glasgow Coma Score <15 (<14 if <1 year old)
+• Suspicion of open/depressed skull injury/tense fontanelle
+• Sign of basal skull fracture, e.g. CSF leak from nose/ears, purple around eyes (panda eyes) or over mastoid (Battle sign) or ear drum (haemotympanum)
+• <1 year old and bruise/swelling >5 cm on head
+• Dangerous mechanism – high-speed road traffic accident, fall from >3 m, high-speed injury from projectile object.
+
+Observe for secondary damage:
+• persisting coma
+• deteriorating Glasgow Coma Score
+• seizures without full recovery
+• focal neurological signs
+
+Evidence of secondary damage, penetrating injury or CSF leak:
+• Immediate CT head scan
+• Assess need for cervical spine imaging
+• Neurosurgical referral
+
+Irrigation [text continues on the next page]
