@@ -1,0 +1,532 @@
+PAGE 131
+
+Table 8.2 Genetic investigations
+
+Investigation: Cytogenetic analysis – karyotype
+Application: Chromosomes stained and visualised under a microscope. Detects alterations in chromosome number and structural rearrangements; this method is being replaced by molecular methods such as CGH.
+
+Investigation: Molecular cytogenetic analysis – FISH (fluorescent in situ hybridisation)
+Application: Fluorescent-labelled DNA probes to detect the presence, number and chromosomal location of specific chromosomal sequences. Useful for microdeletion syndromes.
+
+Investigation: Microarray comparative genomic hybridisation (aCGH)
+Application: Detects chromosomal imbalances using thousands of DNA probes to investigate a whole genome with much greater sensitivity than cytogenetic methods.
+
+Investigation: DNA analysis
+Application: Polymerase chain reaction (PCR) to amplify the DNA and determine the sequence of the relevant gene.
+
+Investigation: High throughput DNA sequencing
+Application: Rapid sequencing of whole genomes or many loci within the genome.
+
+Investigation: Linkage disequilibrium and genome-wide association studies (GWAS)
+Application: Comparing the frequency of combinations of alleles at nearby loci in a given population to identify genetic variants associated with complex diseases.
+
+• Establishing the correct diagnosis. This involves detailed history, examination and appropriate investigations that may include chromosome or DNA or other molecular genetic analysis, biochemical tests, X-rays and clinical photographs. Despite extensive investigation, including searching databases, the diagnosis may remain unknown, e.g. in children with learning disability and mild or non-specific dysmorphic features.
+• Risk estimation. This requires both diagnostic and pedigree information. Drawing a pedigree of three generations is an essential part of a clinical genetic assessment. The mode of inheritance may be apparent from the pedigree even when the precise diagnosis is not known. In some cases it may not be possible to define a precise recurrence risk and uncertainty may remain, e.g. conditions that only affect one member of a family and are known to follow autosomal dominant inheritance in some families and autosomal recessive inheritance in others (genetic heterogeneity).
+• Communication. Information must be presented in an understandable and unbiased way. Families often find written information helpful to refer back to and diagrams are often used to explain patterns of inheritance. The impact of saying ‘the recurrence risk is 5% or 1 in 20’ may be different from saying ‘the chance of an unaffected child is 95% or 19 out of 20’, and so both should be presented.
+• Discussing options for management and prevention. If there appears to be a risk to offspring, all reproductive options should be discussed. These include not having (any more) children, reducing intended family size, taking the risk and proceeding with pregnancy or having antenatal diagnosis and selective termination of an affected fetus. For some couples donor insemination or ovum donation may be appropriate and for others achieving a pregnancy through IVF (in vitro fertilisation) and preimplantation diagnosis may be possible.
+
+Box 8.14 Influences on decisions regarding options for genetic counselling
+• Magnitude of risk
+• Perceived severity of disorder
+• Availability of treatment
+• Person’s experience of the disorder
+• Family size
+• Availability of a safe and reliable prenatal diagnostic test
+• Parental cultural, religious or ethical values.
+
+Counselling should be non-directive, but should also assist in the decision-making process (Box 8.14). Information from lay support groups may also be helpful.
+
+Genetic counselling aims to allow parents greater autonomy and choice in reproductive decisions.
+
+
+PAGE 132
+
+Pre-symptomatic (predictive) testing
+
+Children may be referred because they are at increased risk of developing a genetic disorder in childhood or adult life.
+
+If the condition is likely to manifest in childhood (e.g. Duchenne muscular dystrophy) or if there are useful medical interventions available in childhood (e.g. screening by colonoscopy for colorectal tumours in children at risk of familial adenomatous polyposis coli), then genetic testing is appropriate in childhood.
+
+If the child is at risk of a late-onset and untreatable disorder (e.g. Huntington disease) or if the genetic test result is only relevant to reproductive questions in the future (the child’s genetic carrier status), then there is a case for deferring genetic testing until the child can be actively involved in making the decision. These difficult issues are often best handled through a process of genetic counselling supporting open and sustained communication within the family and especially between parents and children.
+
+Pre-symptomatic testing of disorders which manifest in adult life should not be performed until the individual can give informed consent.
+
+Further reading
+
+Firth HV, Hurst JA, Hall JG: Oxford Desk Reference – Clinical Genetics, Oxford, 2005, Oxford University Press.
+Book on the clinical approach to genetics and genetic counselling.
+
+Harper PS: Practical Genetic Counselling, ed 7, London, 2010, Arnold.
+
+Jones KL: Smith’s Recognisable Patterns of Human Malformation, ed 5, Philadelphia, 2005, WB Saunders.
+Diagnosing syndromes.
+
+Kingston HM: ABC of Clinical Genetics, ed 3, London, 2002, BMJ Books.
+
+Read A, Donnai D: The New Clinical Genetics, ed 2, Bloxham, 2010, Scion.
+
+Strachan T, Read AP: Human Molecular Genetics, ed 4, London, 2010, Garland.
+
+Turnpenny P, Ellard S: Emery’s Elements of Medical Genetics, ed 13, Edinburgh, 2007, Churchill Livingstone.
+General introduction to medical genetics.
+
+Young ID: Medical Genetics, Oxford (Oxford Core Texts), 2005, Oxford University Press.
+
+Websites (Accessed January 2011)
+
+Contact-a-family: Available at: www.cafamily.org.uk.
+UK family support group alliance.
+
+Decipher: Available at: http://decipher.sanger.ac.uk.
+Database of Chromosome Imbalance and Phenotype in Humans using Ensembl Resources.
+
+E!Ensembl: Available at: http://www.ensembl.org.
+Genome browser.
+
+GeneTests: http://www.genetests.org.
+Review articles on selected genetic disorders.
+
+NCBI MapViewer: Available at: http://www.ncbi.nlm.nih.gov/projects/mapview.
+Genome browser.
+
+OMIM (Online Mendelian Inheritance in Man): Available at: http://www.ncbi.nlm.nih.gov/omim.
+
+The British, European and American Societies of Human Genetics: Available at: http://www.bshg.org.uk, http://www.eshg.org and http://www.ashg.org.
+Websites include professional and policy pages.
+
+Your Genes, Your Health: Available at: http://www.ygyh.org.
+Cold Spring Harbor website giving information on some common genetic disorders and links to DNA tutorials.
+
+
+PAGE 133
+
+9
+Perinatal medicine
+
+Pre-pregnancy care 133
+Antenatal diagnosis 134
+Obstetric conditions affecting the fetus 137
+Maternal conditions affecting the fetus 138
+Maternal drugs affecting the fetus 139
+Congenital infections 140
+Adaptation to extrauterine life 141
+Neonatal resuscitation 143
+Size at birth 147
+Routine examination of the newborn infant 148
+
+The term ‘perinatal medicine’ refers to medical care of the infant before, during and after birth, acknowledging the continuity of fetal and neonatal life. Using modern technology, such as high-resolution ultrasound and DNA analysis, detailed information about the fetus can now be obtained for a large and increasing number of conditions. Close cooperation is important between the professionals involved in the care of the pregnant mother and fetus and those caring for the newborn infant.
+
+Some definitions used in perinatal medicine are:
+• Stillbirth – fetus born with no signs of life ≥24 weeks of pregnancy
+• Perinatal mortality rate – stillbirths + deaths within the first week per 1000 live births and stillbirths
+• Neonatal mortality rate – deaths of liveborn infants within the first 4 weeks after birth per 1000 live births
+• Neonate – infant ≤28 days old
+• Preterm – gestation <37 weeks of pregnancy
+• Term – 37–41 weeks of pregnancy
+• Post-term – gestation ≥42 weeks of pregnancy
+• Low birthweight (LBW) – <2500 g
+• Very low birthweight (VLBW) – <1500 g
+• Extremely low birthweight (ELBW) – <1000 g
+• Small for gestational age – birthweight <10th centile for gestational age
+• Large for gestational age – birthweight >90th centile for gestational age.
+
+Pre-pregnancy care
+
+The better a mother’s state of health and nutrition, and the higher her socioeconomic living standard and the quality of healthcare she receives, the greater is the chance of a successful outcome to her pregnancy.
+
+Couples planning to have a baby often ask what they should do to optimise their chances of having a healthy child. They can be informed that for the mother:
+• Smoking reduces birthweight, which may be of critical importance if born preterm. On average, the babies of smokers weigh 170 g less than those of non-smokers, but the reduction in birthweight is related to the number of cigarettes smoked per day. Smoking is also associated with an increased risk of miscarriage and stillbirth. The infant has a greater risk of sudden infant death syndrome (SIDS).
+• Pre-pregnancy folic acid supplements reduce the risk of neural tube defects in the fetus. Low-dose folic acid supplementation is recommended for all women planning a pregnancy. A higher dose is recommended for women with, or have a close relative with, a previously affected fetus.
+• Any long-term conditions, such as diabetes and epilepsy, must be reviewed and management changed if necessary.
+• Certain medications such as retinoids, warfarin and sodium valproate must be avoided because of teratogenic effects.
+• Alcohol ingestion and drug abuse (opiates, cocaine) may damage the fetus.
+• Congenital rubella is preventable by maternal immunisation before pregnancy.
+• Exposure to toxoplasmosis should be minimised by avoiding eating undercooked meat and by wearing gloves when handling cat litter.
+• Listeria infection can be acquired from eating unpasteurised dairy products, soft ripened cheeses, e.g. brie, camembert and blue veined varieties, patés and ready-to-eat poultry, unless thoroughly re-heated.
+• Eating liver during pregnancy is best avoided as it contains a high concentration of vitamin A.
+
+Any pre-existing maternal medical condition (e.g. hypertension, HIV) or obstetric risk factors for complications of pregnancy or delivery (e.g. recurrent miscarriage or previous preterm delivery) should be identified and treated or monitored. Obesity increases the risk of developing gestational diabetes and pregnancy-induced hypertension.
+
+Couples at increased risk of inherited disorders should receive genetic counselling before pregnancy. They can then be fully informed, decide whether or not to proceed, and consider antenatal diagnosis if available. Pregnancies at increased risk of fetal abnormality include those in which:
+• the mother is older (if she is >35 years old, the risk of Down syndrome is >1 in 380), although screening is now available for all mothers
+• there is previous congenital abnormality
+• there is a family history of an inherited disorder
+• the parents are identified as carriers of an autosomal recessive disorder, e.g. thalassaemia
+• a parent carries a chromosomal rearrangement
+• parents are close blood relatives.
+
+Pre-pregnancy folic acid supplements reduce the risk of neural tube defects in the fetus.
+
+
+PAGE 134
+
+Antenatal diagnosis
+
+Antenatal diagnosis has become available for an increasing number of disorders. Screening tests performed on maternal blood and ultrasound of the fetus are listed in Box 9.1. The main diagnostic techniques for antenatal diagnosis are maternal serum screening, detailed ultrasound scanning, chorionic villus sampling (at >10 weeks of pregnancy) and amniocentesis (>15 weeks) (Fig. 9.1). In some rare conditions, preimplantation genetic diagnosis (PGD) allows genetic analysis of cells from a developing embryo before transfer to the uterus. The structural malformations and other lesions which can be identified on ultrasound are listed in Box 9.2, with an example in Figure 9.2.
+
+Antenatal screening for disorders affecting the mother or fetus allows:
+• reassurance where disorders are not detected
+• optimal obstetric management of the mother and fetus
+• interventions for a limited number of conditions, such as relieving bladder obstruction or draining pleural effusions, to improve perinatal outcome
+• counselling and neonatal management to be planned in advance
+• the option of termination of pregnancy to be offered for severe disorders affecting the fetus (see Case History 9.1) or compromising maternal health.
+
+Parents require accurate medical advice and counselling to help them with these difficult decisions. Many
+
+Box 9.1 Screening tests for antenatal diagnosis
+
+Maternal blood
+Blood group and antibodies – for rhesus and other red cell incompatibilities
+Hepatitis B
+Syphilis
+Rubella
+HIV infection
+Neural tube defects – raised maternal serum alphafetoprotein (MSAFP) with spina bifida or anencephaly, but ultrasound alone increasingly used
+Down syndrome – risk estimate calculated from age, biochemical markers combined with ultrasound screening for nuchal translucency (back of neck). Aim is to detect >75% with <3% false-positive rate. If high risk, fetal chromosome analysis is offered
+
+Ultrasound screening
+Gestational age – can be estimated reliably if early in pregnancy
+Multiple pregnancies – can be identified
+Structural malformation – 50–70% of major congenital malformations can be detected. If a significant abnormality is suspected, a more detailed scan by a specialist is indicated
+Fetal growth – can be monitored by serial measurement of abdominal circumference, head circumference and femur length
+Amniotic fluid volume – oligohydramnios may result from reduced fetal urine production (because of dysplastic or absent kidneys or obstructive uropathy), from prolonged rupture of the membranes or associated with severe intrauterine growth restriction. It may cause pulmonary hypoplasia and limb and facial deformities from pressure on the fetus (Potter syndrome)
+Polyhydramnios – is associated with maternal diabetes and structural gastrointestinal abnormalities, e.g. atresia in the fetus
+
+135
+
+Amniocentesis
+Chromosome/micro-array and DNA analysis
+Fetal infection – PCR
+
+Fetal blood sampling
+Fetal haemoglobin for anaemia
+Fetal infection serology
+Fetal blood transfusion
+
+Chorionic villus sampling
+Chromosome/micro-array and DNA analysis
+Fetal infection – PCR
+Enzyme analysis of inborn error of metabolism
+
+Preimplantation genetic diagnosis (PGD)
+In vitro fertilisation allows genetic analysis of cells from developing embryo before transfer to the uterus
+
+Fetoscopy
+Minimally invasive surgery, e.g. laser photocoagulation of communicating vessels in twin–twin transfusion syndrome.
+
+Non-invasive genetic diagnosis – free fetal DNA from maternal blood
+Identification of fetal gender and rhesus status
+
+Fetoscope
+Amniocentesis
+Ultrasound probe
+Ultrasound guided transabdominal chorionic villus sample
+Transcervical chorionic villus sample
+
+Figure 9.1 Some of the techniques used for antenatal diagnosis.
+
+Box 9.2 Main structural malformations and other lesions detectable by ultrasound
+
+CNS
+Anencephaly – always detected
+Spina bifida
+Hydrocephalus, microcephaly, encephalocele
+
+Cardiac
+About 50% of severe malformations detected on ‘routine’ screening, over 90% at specialist centres
+
+Intrathoracicᵃ
+Diaphragmatic hernia, congenital cystadenomatoid lung malformation (CCAM)
+Oesophageal atresia
+
+Facial
+Cleft lip
+
+Gastrointestinal
+Bowel obstruction, e.g. duodenal atresia
+Exomphalos and gastroschisis
+
+Genitourinary
+Dysplastic or cystic kidneys
+Obstructive disorders of kidneys or urinary tract (hydronephrosis, distended bladder)
+
+Skeletal
+Skeletal dysplasias, e.g. achondroplasia and limb reduction deformities
+
+Hydrops
+Oedema of the skin, pleural effusions and ascites
+
+Chromosomal
+Down syndrome – suspected from thickened back of neck (nuchal translucency), duodenal atresia or an atrioventricular canal defect of the heart. Other chromosomal disorders – from identifying multiple abnormalities
+
+Transient or minor structural disorders of the fetus are also detected, which may cause considerable anxiety.
+
+Antenatal diagnosis allows many congenital malformations which used to be diagnosed at birth or during infancy to be identified before birth.
+
+Fetal medicine
+
+The fetus can sometimes be treated by giving medication to the mother. Examples include:
+
+• Glucocorticoid therapy before preterm delivery accelerates lung maturity and surfactant production. This has been tested in over 15 randomised trials and markedly reduces
+
+
+136
+
+Example of antenatal diagnosis-gastroschisis
+
+Figure 9.2 Gastroschisis on antenatal ultrasound showing free loops of small bowel in the amniotic fluid (a) and following delivery (b). Antenatal diagnosis allowed the baby to be delivered at a paediatric surgical unit and the parents to be forewarned about the need for surgery. Satisfactory surgical repair was achieved. (Courtesy of Mr Karl Murphy.)
+
+(a)
+(b)
+
+Case History
+9.1 Antenatal diagnosis
+
+A routine ultrasound scan at 18 weeks’ gestation identified an abnormal ‘lemon-shaped’ skull (Fig. 9.3). This, together with an abnormal appearance of the cerebellum, is the Arnold–Chiari malformation, which is associated with spina bifida. An extensive spinal defect was confirmed on ultrasound. Dilatation of the cerebral ventricles and talipes already present in this fetus suggested a severe spinal lesion. After counselling, the parents decided to terminate the pregnancy.
+
+Figure 9.3 Transverse section showing a ‘lemon-shaped’ skull on ultrasound instead of the normal oval shape. This is associated with spina bifida. (Courtesy of Mr Guy Thorpe-Beeston.)
+
+The incidence of respiratory distress syndrome (RDS) (relative risk 0.66), of intraventricular haemorrhage (relative risk 0.54) and neonatal mortality (relative risk 0.69) in preterm infants. For optimal effect, a completed course needs to be given at least 24 h before delivery.
+
+• Digoxin or flecainide can be given to the mother to treat fetal supraventricular tachycardia.
+
+There are a few conditions where therapy can be given to the fetus directly:
+
+• Rhesus isoimmunisation. Severely affected fetuses become anaemic and may develop hydrops fetalis, with oedema and ascites. Infants at risk are identified by maternal antibody screening. Regular ultrasound of the fetus is performed to detect fetal anaemia non-invasively using Doppler velocimetry of the fetal middle cerebral artery. Fetal blood transfusion via the umbilical vein may be required regularly from about 20 weeks’ gestation. The incidence of rhesus haemolytic disease has fallen markedly since anti-D immunisation of mothers was introduced but hydrops fetalis is still seen due to other red blood cell antibodies such as Kell.
+
+• Perinatal isoimmune thrombocytopenia. This condition is analogous to rhesus isoimmunisation but involves maternal antiplatelet antibodies crossing the placenta. It is rare, affecting about 1 in 5000 births. Intracranial haemorrhage secondary to fetal thrombocytopenia occurs in up to 25%. The problem may be anticipated if there was a previously affected infant, when prenatal intravenous immunoglobulin can be given or repeated intrauterine platelet transfusions performed.
+
+Maternal glucocorticoid therapy before preterm delivery markedly reduces morbidity and mortality in the neonate.
+
+Fetal surgery
+
+Fetal surgery is a relatively new development with varying results. Procedures which have been performed include:
+
+• Catheter shunts inserted under ultrasound guidance. This is to drain fetal pleural effusions (pleuro-amniotic shunts), often from a chylothorax (lymphatic fluid) or congenital cystic adenomatous malformation of the lung. One end of a looped catheter lies in the chest, the other end in the amniotic cavity.
+
+• Laser therapy to ablate placental anastomoses which lead to the twin–twin transfusion syndrome (TTTS)
+
+
+137
+
+• Intrauterine shunting for obstruction to urinary outflow as with posterior urethral valves
+
+• Dilatation of stenotic heart valves via a transabdominal catheter inserted under ultrasound guidance into the fetal heart. Results appear promising
+
+• Endotracheal balloon occlusion for congenital diaphragmatic hernia, as tracheal obstruction in utero may promote lung growth
+
+• Surgical correction by hysterotomy. This is when the uterus is opened at 22–24 weeks’ gestation. It has been performed in a few specialist centres for spina bifida but may precipitate preterm delivery and its efficacy remains highly uncertain. Results of fetal surgery to close spina bifida suggest that hydrocephalus may be reduced but does not improve the prognosis of the spinal lesion.
+
+Outcome has mostly been very poor because of the severity of the conditions treated. Careful case selection and follow-up are required to ensure that these novel forms of treatment are of long-term benefit.
+
+Obstetric conditions affecting the fetus
+
+Pre-eclampsia
+
+Mothers with pre-eclampsia may require preterm delivery because of the maternal risks of eclampsia and of cerebrovascular accident or the fetal risks associated with placental insufficiency and growth restriction. Determining the optimal time for preterm delivery requires an evaluation of the risk to the mother and fetus of allowing the pregnancy to continue compared with the neonatal complications associated with preterm birth.
+
+Placental insufficiency and intrauterine growth restriction (IUGR)
+
+Fetal growth may be progressively restricted because of placental insufficiency. Transfer of oxygen and nutrients is reduced. The growth-restricted fetus will need to be monitored closely to prevent intrauterine death. This is done by measuring growth parameters, the biophysical profile (amniotic fluid volume, fetal movement, fetal tone, fetal breathing movements, fetal heart activity) and Doppler blood flow velocity (umbilical and middle cerebral artery). Absence or reversal of flow velocity during diastole carries an increased risk of morbidity from hypoxic damage to the gut or brain, or of intrauterine death. These measurements assist in deciding the optimal time for delivery of a growth-restricted fetus.
+
+Multiple births
+
+Twins occur naturally in the UK in 1 in 90 deliveries, triplets in 1 in 90², i.e. approximately 1 in 8000, and quadruplets in 1 in 90³, i.e. approximately 1 in every 700 000 deliveries. Over the last decade, the number of triplets and higher-order births has more than doubled, mainly from assisted reproduction programmes and advancing maternal age. One in 70 births is now a multiple birth, although the number of triplets and higher-order births has recently declined in the UK.
+
+The main problems for the infant associated with multiple births are:
+
+• Preterm labour. The median gestation for twins is 37 weeks, for triplets 34 weeks and for quads 32 weeks. Preterm delivery is the most important cause of the greater perinatal mortality of multiple births, especially for triplets and higher-order pregnancies. When a higher-order pregnancy is identified, embryo reduction may be offered.
+
+• Intrauterine growth restriction (IUGR). Fetal growth in one or more fetuses may deteriorate and needs to be monitored regularly.
+
+• Congenital abnormalities. These occur twice as frequently as in a singleton, but the risk is increased four-fold in monochorionic twins.
+
+• Twin–twin transfusion syndrome (TTTS) in monochorionic twins (shared placenta). May cause extreme preterm delivery, fetal death and discrepancy in growth.
+
+• Complicated deliveries, e.g. due to malpresentation of the second twin at vaginal delivery.
+
+Finding sufficient intensive care cots for preterm multiple births can be problematic.
+
+Although multiple births may look endearing, the families may need additional assistance and support:
+
+• Practical – with their care and housework (requires about 200 h/week for triplets in infancy!)
+• Emotional and physical exhaustion
+• Loss of privacy as a couple
+• Additional financial costs
+• Increased behavioural problems in the infants and their siblings. While being a multiple birth may provide companionship, affection and stimulation between each other, it may also engender domination, dependency and jealousy.
+
+There are local and national support groups for parents of multiple births.
+
+Summary
+
+Multiple births
+
+• have markedly increased over the last 20 years
+• are associated with an increased risk of prematurity, intrauterine growth restriction (IUGR), congenital malformations and twin–twin transfusion syndrome (in monochorionic twins)
+• are responsible for 30% of very low birthweight infants (<1.5 kg birthweight)
+• provide many additional problems for their parents to care for them.
+
+
+138
+
+Maternal conditions affecting the fetus
+
+Diabetes mellitus
+
+Women with insulin-dependent diabetes find it more difficult to maintain good diabetic control during pregnancy and have an increased insulin requirement. Poorly-controlled maternal diabetes is associated with polyhydramnios and pre-eclampsia, increased rate of early fetal loss, congenital malformations and late unexplained intrauterine death. Ketoacidosis carries a high fetal mortality. With meticulous attention to diabetic control, the perinatal mortality rate is now only slightly greater than in non-diabetics. The National Institute for Health and Clinical Excellence (NICE) has produced guidance on the management of diabetes and its complications from preconception to the postnatal period. The emphasis is on aiming for good control of blood glucose.
+
+Fetal problems associated with maternal diabetes are:
+
+• Congenital malformations. Overall, there is a 6% risk of congenital malformations, a three-fold increase compared with the non-diabetic population. The range of anomalies is similar to that for the general population, apart from an increased incidence of cardiac malformations, sacral agenesis (caudal regression syndrome) and hypoplastic left colon, although the latter two conditions are rare. Studies show that good diabetic control periconceptionally reduces the risk of congenital malformations.
+
+• Intrauterine growth restriction (IUGR). There is a three-fold increase in growth restriction in mothers with long-standing microvascular disease.
+
+• Macrosomia (Fig. 9.4). Maternal hyperglycaemia causes fetal hyperglycaemia as glucose crosses the placenta. As insulin does not cross the placenta, the fetus responds with increased secretion of insulin, which promotes growth by increasing both cell number and size. About 25% of such infants have a birthweight greater than 4 kg compared with 8% of non-diabetics. The macrosomia predisposes to cephalopelvic disproportion, birth asphyxia, shoulder dystocia and brachial plexus injury.
+
+Neonatal problems include:
+
+• Hypoglycaemia. Transient hypoglycaemia is common during the first day of life from fetal hyperinsulinism, but can often be prevented by early feeding. The infant’s blood glucose should be closely monitored during the first 24 h and hypoglycaemia treated
+
+• Respiratory distress syndrome (RDS). More common as lung maturation is delayed
+
+• Hypertrophic cardiomyopathy. Hypertrophy of the cardiac septum occurs in some infants. It regresses over several weeks but may cause heart failure from reduced left ventricular function
+
+• Polycythaemia (venous haematocrit >0.65). Makes the infant look plethoric. Treatment with partial exchange transfusion to reduce the haematocrit and normalise viscosity may be required.
+
+Gestational diabetes is when carbohydrate intolerance occurs only during pregnancy. Its definition and method of identification remain controversial. It is more common in women who are obese and in those of Afro-Caribbean and Asian ethnicity. The incidence of macrosomia and its complications is similar to that of the insulin-dependent diabetic mother, but the incidence of congenital malformations is not increased. However, there are an increasing number of mothers with type 2 non-insulin dependent diabetes, associated with the increase in obesity in the population. Their fetuses are also at increased risk of congenital malformations.
+
+Summary
+
+Maternal diabetes
+
+• Meticulous control pre-conceptually and during pregnancy markedly reduces fetal and neonatal morbidity and mortality.
+• The fetus may be macrosomic because of fetal hyperglycaemia resulting in hyperinsulinism, or growth-restricted secondary to maternal microvascular disease, and is at increased risk of congenital malformations.
+• The macrosomic infant is at increased risk of asphyxia and birth trauma from obstructed labour or delivery.
+• The newborn infant is prone to hypoglycaemia and polycythaemia.
+
+Figure 9.4 Infant of a diabetic mother showing macrosomia and plethora. Born vaginally at 36 weeks’ gestation, she weighed 5.5 kg and suffered a right-sided brachial plexus injury.
+
+Hyperthyroidism
+
+If mothers have had Graves’ disease, 1–2% of their newborn infants are hyperthyroid, due to circulating thyroid-stimulating antibody, which crosses the placenta and stimulates the fetal thyroid. Hyperthyroidism in the fetus is suggested by fetal tachycardia on the CTG trace, and fetal goitre may be evident on ultrasound; in the neonate it is suggested by irritability,
+
+
+139
+
+Weight loss, tachycardia, heart failure, diarrhoea and exophthalmos. Treatment with anti-thyroid drugs may be necessary for several months until the condition resolves.
+
+Systemic lupus erythematosus
+
+Systemic lupus erythematosus (SLE) with antiphospholipid syndrome is associated with recurrent miscarriage, intrauterine growth restriction, pre-eclampsia, placental abruption and preterm delivery. Some of the infants born to mothers with antibodies to the Ro (SS-A) or La (SS-B) antigens develop neonatal lupus syndrome, in which there is a self-limiting rash and, rarely, heart block.
+
+Autoimmune thrombocytopenic purpura
+
+In maternal autoimmune thrombocytopenic purpura (AITP), the fetus may become thrombocytopenic because maternal IgG antibodies cross the placenta and damage fetal platelets. Severe fetal thrombocytopenia places the fetus at risk of intracranial haemorrhage following birth trauma. Infants with severe thrombocytopenia or petechiae at birth should be given intravenous immunoglobulin. Platelet transfusions may be required if there is acute bleeding.
+
+Maternal drugs affecting the fetus
+
+Relatively few drugs are known definitely to damage the fetus (Table 9.1), but it is clearly advisable for pregnant women to avoid taking medicines unless it is essential. While the teratogenicity of a drug may be recognised if it causes malformations which are severe and distinctive, as with limb shortening following thalidomide ingestion, milder and less distinctive abnormalities may go unrecognised.
+
+The problem of establishing a link may be compounded by a delay of months or years before any problems present. An example of this is diethylstilboestrol (DES), given in the past for threatened miscarriage, and its subsequent association with vaginal adenosis and carcinoma of the vagina and cervix in female offspring during adolescence or early adult life.
+
+Alcohol and smoking
+
+Excessive alcohol ingestion during pregnancy is sometimes associated with the ‘fetal alcohol syndrome’. Its clinical features are growth restriction, characteristic face (Fig. 9.5), developmental delay and cardiac defects (up to 70%). The effects of less severe ingestion and binge-drinking remain uncertain but may affect growth and development, and mothers are advised to avoid alcohol (Department of Health, London, UK). Maternal
+
+Figure 9.5 Characteristic facies of fetal alcohol syndrome with: a saddle-shaped nose; maxillary hypoplasia; absent philtrum between the nose and upper lip; and short, thin upper lip. This child also has a strawberry naevus below the right nostril.
+
+Table 9.1 Maternal medication which may adversely affect the fetus
+
+Medication — Adverse effect on fetus
+
+Anticonvulsant therapy with carbamazepine, valproic acid (sodium valproate) or hydantoins (phenytoin)
+Fetal carbamazepine/valproate/hydantoin syndrome – midfacial hypoplasia, CNS, limb and cardiac malformations, developmental delay
+
+Cytotoxic agents
+Congenital malformations
+
+Diethylstilboestrol (DES)
+Clear-cell adenocarcinoma of vagina and cervix
+
+Iodides/propylthiouracil
+Goitre, hypothyroidism
+
+Lithium
+Congenital heart disease
+
+Tetracycline
+Enamel hypoplasia of the teeth
+
+Thalidomide
+Limb shortening (phocomelia)
+
+Vitamin A and retinoids
+Increased spontaneous abortions, abnormal face
+
+Warfarin
+Interferes with cartilage formation (nasal hypoplasia and epiphyseal stippling); cerebral haemorrhages and microcephaly
+
+
+140
+
+Cigarette smoking is associated in the fetus with an increased risk of miscarriage and stillbirth, a reduction in birthweight and IUGR (see pre-pregnancy care, earlier in this chapter).
+
+Drug abuse
+
+Maternal drug abuse with opiates is associated with an increased risk of prematurity and growth restriction. Many narcotic abusers take multiple drugs. Infants of mothers abusing heroin, methadone and other opiates during pregnancy often show evidence of drug withdrawal, with jitteriness, sneezing, yawning, poor feeding, vomiting, diarrhoea, weight loss and seizures during the first 2 weeks of life. Cocaine abuse is associated with placental abruption and preterm delivery, but rarely with withdrawal in the infant, although it may result in cerebral infarction. Amphetamine abuse is also associated with gastrointestinal and cerebral infarction. Mothers who abuse drugs, and their infants, are also at increased risk of hepatitis B and C and HIV infection. Hepatitis B vaccine is given to babies when indicated. Social and child protection aspects must be considered and Social Services involved.
+
+Infants who develop significant features of drug withdrawal require admission to the Neonatal Unit and treatment. Oral morphine, methadone and diazepam are used at different centres. One of the major problems in managing these infants is that the parents’ lifestyle and temperament are often not conducive to the needs of babies and young children. Close supervision or alternative caregivers are often required.
+
+If there are unexplained clinical signs in an infant, consider drug withdrawal.
+
+Drugs given during labour
+
+Potential adverse effects to the fetus of drugs given during labour are:
+
+• Opioid analgesics/anaesthetic agents. May suppress respiration at birth
+
+• Epidural anaesthesia. May cause maternal pyrexia during labour. It is often difficult to differentiate this from fever caused by an infection. There is an increase in the rate of forceps deliveries
+
+• Sedatives, e.g. diazepam. May cause sedation, hypothermia and hypotension in the newborn
+
+• Oxytocin and prostaglandin F2. May cause hyperstimulation of the uterus leading to fetal hypoxia. It is also associated with a small increase in bilirubin levels in the neonate
+
+• Intravenous fluids. May cause neonatal hyponatraemia unless they contain an adequate concentration of sodium.
+
+Congenital infections
+
+Intrauterine infection is usually from maternal primary infection during pregnancy. Those that can damage the fetus are:
+
+• Rubella
+• Cytomegalovirus (CMV)
+• Toxoplasma gondii
+• Parvovirus
+• Varicella zoster
+• Syphilis.
+
+Figure 9.6a Cataract from congenital rubella. Congenital heart disease and deafness are the other common defects.
+
+Figure 9.6b Clinical features of congenital rubella, cytomegalovirus (CMV), toxoplasmosis and syphilis.
+
+Growth restriction
+Eye defects: cataracts, microphthalmia, retinitis
+Pneumonitis
+Hepatomegaly
+Jaundice
+Hepatitis
+Virus in urine
+Bone abnormalities
+Intracerebral calcification
+Hydrocephalus
+Microcephalus
+Deafness
+Heart defects: cardiomegaly, patent ductus arteriosus
+Splenomegaly
+Rash: blueberry muffin or petechial
+Anaemia
+Neutropenia
+Thrombocytopenia
+
+Rubella
+
+The diagnosis of maternal infection must be confirmed serologically as clinical diagnosis is unreliable. The risk and extent of fetal damage are mainly determined by the gestational age at the onset of maternal infection. Infection before 8 weeks’ gestation causes deafness, congenital heart disease and cataracts in over 80% (Fig. 9.6a). About 30% of fetuses of mothers infected at 13–16 weeks’ gestation have impaired hearing; beyond 18 weeks’ gestation, the risk to the fetus is minimal.

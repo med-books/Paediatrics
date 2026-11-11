@@ -1,0 +1,447 @@
+PAGE 121
+
+Figure 8.8 Examples of pedigree symbols.
+
+Unaffected: Female, Male, Sex unknown
+Affected: Female, Male, Sex unknown
+Heterozygote (carrier) in autosomal recessive inheritance
+Female heterozygote (carrier) in X-linked inheritance
+Mating
+Consanguineous mating
+Mating with two offspring
+Abortion
+Dizygous twins
+Monozygotic twins
+Deceased
+Index case
+4 unaffected females
+
+Autosomal dominant inheritance
+
+Box 8.6 Examples of autosomal dominant disorders
+• Achondroplasia
+• Ehlers–Danlos syndrome
+• Familial hypercholesterolaemia
+• Huntington disease
+• Marfan syndrome
+• Myotonic dystrophy
+• Neurofibromatosis
+• Noonan syndrome
+• Osteogenesis imperfecta
+• Otosclerosis
+• Polyposis coli
+• Tuberous sclerosis.
+
+Figure 8.9a Autosomal dominant inheritance.
+
+Figure 8.9b Typical pedigree of an autosomal dominant disorder.
+
+Summary
+Autosomal dominant inheritance
+• Most common mode of Mendelian inheritance
+• Affected individual carries the abnormal gene on one of a pair of autosomes
+• 1 in 2 chance of inheriting the abnormal gene from affected parent, but there may be variation in expression, non-penetrance, no family history (new mutation, parental mosaicism, non-paternity) or homozygosity (rare).
+
+
+PAGE 122
+
+Variation in expression
+Within a family, some affected individuals may manifest the disorder mildly and others more severely. This may be the result of variation at other genes, environmental effects, or sheer chance.
+
+Non-penetrance
+Refers to the lack of clinical signs and symptoms in an individual who has inherited the abnormal gene. An example of this is otosclerosis, in which only about 40% of gene carriers develop deafness (Fig. 8.10).
+
+No family history of the disorder
+It therefore may be due to:
+• A new mutation in one of the gametes leading to the conception of the affected person. This is the most common reason for absence of a family history in dominant disorders, e.g. >80% of individuals with achondroplasia have unaffected parents.
+• Parental mosaicism – very occasionally a healthy parent harbours the mutation only in some of their cells, e.g. in their gonads. This can account for recurrences of autosomal dominant disorders in siblings born to apparently unaffected parents. It has been described in congenital lethal osteogenesis imperfecta.
+• Non-paternity – if the apparent father is not the biological father.
+
+Homozygosity
+In the rare situation where both parents are affected by the same autosomal dominant disorder, there is a 1 in 4 risk that a child will be homozygous for the altered gene. This usually causes a more severe phenotype which may be lethal, as with achondroplasia.
+
+Autosomal recessive inheritance
+An affected individual is homozygous for the abnormal gene, having inherited an abnormal allele from each parent, both of whom are unaffected heterozygous carriers (Box 8.7). For two carrier parents, the risk of each child, male or female, being affected is 1 in 4 (25%) (Fig. 8.11a,b). All offspring of affected individuals will be carriers.
+
+Consanguinity
+It is thought that we all carry 6–8 abnormal recessive genes. Fortunately, our partners usually carry different ones. Marrying a cousin or another relative increases the chance of both partners carrying the same abnormal autosomal recessive gene. Cousins who marry have a small increase in the risk of having a child with a recessive disorder.
+
+The frequencies of disease alleles at recessive gene loci vary between racial groups. When the gene occurs sufficiently often and the gene or its effect can be detected, population-based carrier screening can be performed and antenatal diagnosis offered for high-risk pregnancies where both parents are carriers. Disorders that can be screened for in this way include sickle cell disease in black Africans and Afro-Americans, the thalassaemias in those from Mediterranean or Asian populations and Tay–Sachs disease in Ashkenazi Jews.
+
+X-linked inheritance
+X-linked conditions are caused by alterations in genes found on the X chromosome. These may be inherited as X-linked recessive or X-linked dominant traits but the distinction between these is much less clear than in autosomal traits because of the variable pattern of X chromosome inactivation in females.
+
+In X-linked recessive inheritance (Box 8.8, Fig. 8.12a,b):
+• Males are affected
+• Female carriers are usually healthy
+• Occasionally a female carrier shows mild signs of the disease (manifesting carrier)
+• Each son of a female carrier has a 1 in 2 (50%) risk of being affected
+• Each daughter of a female carrier has a 1 in 2 (50%) risk of being a carrier
+• Daughters of affected males will all be carriers
+• Sons of affected males will not be affected, since a man passes a Y chromosome to his son.
+
+The family history may be negative, since new mutations and (gonadal) mosaicism are fairly common. Identification of carrier females in a family requires interpretation of the pedigree, the search for mild clinical manifestations and performing specific biochemical
+
+Figure 8.10 Example of non-penetrance. I1 and III2 have otosclerosis. II2 has normal hearing but must have the gene (a new mutation event is most unlikely to arise independently for a second time in the family). The gene is non-penetrant in II2.
+
+Summary
+X-linked recessive inheritance
+• Males are affected; females can be carriers but are usually healthy or have mild disease
+• Family history may be negative – new mutations and gonadal mosaicism
+• Identifying female carriers is important to be able to provide genetic counselling.
+
+
+PAGE 123
+
+Autosomal recessive inheritance
+
+Box 8.7 Examples of autosomal recessive disorders
+• Congenital adrenal hyperplasia
+• Cystic fibrosis
+• Friedreich ataxia
+• Galactosaemia
+• Glycogen storage diseases
+• Hurler syndrome
+• Oculocutaneous albinism
+• Phenylketonuria
+• Sickle cell disease
+• Tay–Sachs disease
+• Thalassaemia
+• Werdnig–Hoffmann disease (SMA I).
+
+Figure 8.11a Autosomal recessive inheritance.
+
+Figure 8.11b Pedigree to show autosomal recessive inheritance.
+
+Summary
+Autosomal recessive inheritance
+• Affected individuals are homozygous for the abnormal gene; each unaffected parent will be a heterozygous carrier
+• Two carrier parents have a 1 in 4 risk of having an affected child
+• Risk of these disorders is increased by consanguinity and within specific populations
+• Autosomal recessive disorders often affect metabolic pathways, whereas autosomal dominant disorders often affect structural proteins.
+
+or molecular tests. Identifying carriers is important because a female carrier has a 50% risk of having an affected son regardless of who her partner is, and X-linked recessive disorders are often very severe.
+
+X-linked dominant inheritance
+X-linked disorders where the mutation has a dominant effect are rare. Both males and females are affected, e.g. hypophosphataemic (vitamin D-resistant) rickets. In some disorders, male lethality is expected and the only affected individuals seen will be female, e.g. incontinentia pigmenti. In others, the condition may affect females because it arises predominantly through mutations at spermatogenesis.
+
+Y-linked inheritance
+Y-linked traits are extremely rare. Y-linked inheritance would result in only males being affected, with transmission from an affected father to all his sons.
+
+Y-linked genes determine sexual differentiation and spermatogenesis, and mutations are associated with infertility and so are rarely transmitted.
+
+Unusual genetic mechanisms
+
+Trinucleotide repeat expansion mutations
+This is a class of unstable mutations caused by unstable expansions of trinucleotide repeat sequences inherited in Mendelian fashion. Fragile X syndrome and myotonic dystrophy were among the first disorders found to be due to such mutations. Other disorders include Huntington disease, spinocerebellar ataxia and Friedreich’s ataxia. These disorders follow different patterns of inheritance but share certain unusual properties due to the nature of the underlying mutation. Clinical anticipation is often seen, with the disorders presenting at an earlier age and becoming more severe in successive
+
+
+PAGE 124
+
+X-linked recessive inheritance
+
+Box 8.8 Examples of X-linked recessive disorders
+• Colour blindness (red–green)
+• Duchenne and Becker muscular dystrophies
+• Fragile X syndrome
+• Glucose-6-phosphate dehydrogenase (G6PD) deficiency
+• Haemophilia A and B
+• Hunter syndrome (mucopolysaccharidosis II).
+
+Figure 8.12a X-linked recessive inheritance.
+
+Figure 8.12b Typical pedigree for X-linked recessive inheritance, showing Queen Victoria, a carrier for haemophilia A, and her family. It shows affected males in several generations, related through females, and that affected males do not have affected sons (contrast with autosomal dominant inheritance).
+
+Queen Victoria
+Edward VII
+Leopold of Albany
+George V
+Leopold of Battenburg
+Maurice
+George VI
+Queen Waldewar
+Henry of Prussia
+Tsarevitch Alexis of Russia
+Rupert
+Alfonso of Spain
+Gonzalo of Spain
+Elizabeth of Prussia II
+Affected male
+Carrier female
+Charles
+Anne
+Andrew
+Edward
+
+generations of a family as the triplet expands, and with entirely new mutations being exceptionally rare. There are two major categories of triplet repeat disorder, depending upon whether or not the triplet repeat is in the coding sequence of the gene.
+
+Fragile X syndrome
+The prevalence of significant learning difficulties in males due to fragile X syndrome is about 1 in 4000 (Fig. 8.13 and Box 8.9). This condition was initially diagnosed on the basis of the appearance of an apparent gap or break (a fragile site) in the distal part of the long arm of the X chromosome. Diagnosis is now achieved by molecular analysis of the CGG trinucleotide repeat expansion in the relevant gene (FMR1).
+
+Although it is inherited as an X-linked recessive disorder, a substantial proportion of obligate female carriers have learning difficulties (usually mild to moderate) and around one-fifth of males who inherit the mutation are phenotypically normal but may pass the disorder on to their grandsons through their daughters.
+
+These unusual findings are explained by the nature of the mutation, which occurs in ‘pre-mutation’ and ‘full mutation’ forms. The normal copy of the gene contains fewer than 50 copies of the CGG trinucleotide repeat sequence and is stable when transmitted to offspring. Genes with the pre-mutation contain 55–199 copies of the repeat sequence. This expansion causes no intellectual disability in male or female carriers, but is unstable and may become larger during transmission through females. Genes with the full mutation contain more than 200 copies of the repeat sequence. This affects gene function, causing the clinical features of fragile X syndrome in virtually all males and around half of female carriers. These full mutations always arise from expansion of pre-mutations, and never arise directly from normal genes. Hence all mothers of affected males are carriers.
+
+
+PAGE 125
+
+Fragile X
+
+Figure 8.13 A child with fragile X syndrome. At this age, the main physical feature is often the prominent ears.
+
+Box 8.9 Clinical findings in males in fragile X syndrome
+• Moderate–severe learning difficulty (IQ 20–80, mean 50)
+• Macrocephaly
+• Macro-orchidism – postpubertal
+• Characteristic facies – long face, large everted ears, prominent mandible and broad forehead, most evident in affected adults
+• Other features – mitral valve prolapse, joint laxity, scoliosis, autism, hyperactivity.
+
+Fragile X syndrome is the commonest familial form of learning difficulties and the second most common genetic cause of severe learning difficulties after Down syndrome.
+
+Mitochondrial or cytoplasmic inheritance
+Mitochondria are cytoplasmic organelles that function as major energy producers for the cell and contain their own DNA (mtDNA). Each cell contains thousands of copies of the mitochondrial genome. Inherited disorders of the mitochondria may result from mutations in the nuclear genome (the chromosomal genome of the cell nucleus) or in the mitochondria’s own genome. In disorders of the mtDNA, the mutation may be present in all or only some of the mitochondria, so that the tissues affected and the severity of the condition can be highly variable. Large deletions of the mtDNA can only be present in a proportion of the mitochondria as they would otherwise be lethal to the cell. Mutations in mtDNA cause overlapping clusters of disease phenotypes (e.g. Leber hereditary optic neuropathy and various mitochondrial myopathies and encephalopathies, MERFF, MELAS, NARP). Mitochondrial DNA mutations show only maternal transmission, since only the egg contributes mitochondria to the zygote.
+
+Imprinting and uniparental disomy
+In the past, it was assumed that the activity of a gene is the same regardless of whether it is inherited from the mother or father. It has been shown that the expression of some genes is influenced by the sex of the parent who had transmitted it. This phenomenon is called ‘imprinting’. An example involves Prader–Willi syndrome (PWS) (hypotonia, developmental delay, hyperphagia and obesity). The PWS chromosomal region is found at 15q11–13 (i.e. at bands 11–13 on the long arm of chromosome 15). The paternal copy of this chromosomal region has to function for normal development; in its absence, a child will develop PWS. Failure to inherit a functioning maternal copy of this chromosomal region results in an entirely different condition, Angelman syndrome (AS) (causing severe cognitive impairment, a characteristic facial appearance, ataxia and epilepsy), because only the maternal copy of one particular gene in this region is able to function (the paternal copy is inactive because of imprinting). There are two main ways that a child can develop one or other condition:
+
+• De novo deletion (Fig. 8.14). Parental chromosomes are normal, and a deletion occurs as a new mutation in the child. If the deletion occurs on the paternal chromosome 15, the child has Prader–Willi syndrome. If the deletion affects the maternal chromosome 15, the child has Angelman syndrome.
+• Uniparental disomy (Fig. 8.15). This is when a child inherits two copies of a chromosome from one parent and none from the other parent. In Prader–Willi syndrome the affected child has no paternal (but two maternal) copies of chromosome 15q11–13. In Angelman syndrome, the affected child has no maternal (but two paternal) copies of chromosome 15q11–13. This can be detected with DNA analysis.
+• There exist other mechanisms that can lead to these conditions.
+
+Imprinting is the unusual property of some genes that express only the copy derived from the parent of a given sex.
+
+
+PAGE 126
+
+Imprinting
+
+Imprinting from a deletion
+Chromosome 15
+Prader–Willi syndrome
+Angelman syndrome
+Deletion at 15q 11-13
+
+Imprinting from a uniparental disomy
+Chromosome 15
+Prader–Willi syndrome
+Angelman syndrome
+
+Figure 8.14 Genetic disorder resulting from deletion of an imprinted gene. If the deletion occurs on chromosome 15 inherited from the father, the child has Prader–Willi syndrome. If the deletion occurs on chromosome 15 from the mother, the child has Angelman syndrome.
+
+Figure 8.15 Genetic disorder resulting from uniparental disomy affecting imprinted chromosome region. A child who inherits two maternal chromosome 15s will have Prader–Willi syndrome. A child who inherits two paternal chromosome 15s will have Angelman syndrome.
+
+Polygenic, multifactorial or complex inheritance
+There is a spectrum in the aetiology of disease, from environmental factors (e.g. trauma) at one end to purely genetic causes (e.g. Mendelian disorder) at the other. Between these two extremes are many disorders which result from the interacting effects of several genes (hence the term polygenic) with or without the influence of environmental or other unknown factors, including chance (multifactorial or complex). The terms are used interchangeably (Box 8.10).
+
+Normal quantitative traits such as height and intelligence are inherited in this fashion, with many relevant influences including genetic constitution, environmental exposures and early life (including intrauterine) experiences. These parameters show a Gaussian (or ‘normal’) distribution in the population. Similarly, the liability of an individual to develop a disease of multifactorial or polygenic aetiology has a Gaussian distribution. The condition occurs when a certain threshold level of liability is exceeded. Relatives of an affected person show an increased liability due to inheritance of genes conferring susceptibility, and so a greater proportion of them than in the general population will fall beyond the threshold and will manifest the disorder (Fig. 8.16). The risk of recurrence of a polygenic disorder in a family is usually low and is most significant for first-degree relatives. Empirical recurrence risk data are used for genetic counselling. They are derived from family studies that have reported the frequency at which various family members are affected. Factors that increase the risk to relatives are:
+
+• having a more severe form of the disorder, e.g. the risk of recurrence to siblings is greater in bilateral cleft lip and palate than in unilateral cleft lip alone
+• close relationship to the affected person, e.g. overall risk to siblings or children is greater than to more distant relatives
+• multiple affected family members, e.g. the more siblings already affected, the greater the risk of recurrence
+• sex difference in prevalence, with the recurrence risk greater in the more commonly affected sex and if the affected individual is of the less commonly affected sex.
+
+The phenotype (clinical picture) of a disorder may have a heterogeneous (mixed) basis in different families; e.g. hyperlipidaemia leading to atherosclerosis and coronary heart disease can be due to a single gene disorder such as autosomal dominant familial hypercholesterolaemia, but some forms of hyperlipidaemia are polygenic and result from an interaction of the effect of several genes and dietary factors on various lipoproteins.
+
+In some complex disorders, such as Hirschprung disease, the molecular genetic basis and the important contribution of new mutations is becoming clear.
+
+In many multifactorial disorders, the ‘environmental factors’ remain obscure. Clear exceptions include dietary fat intake and smoking in atherosclerosis, and viral infection in insulin-dependent diabetes mellitus.
+
+
+PAGE 127
+
+Multifactorial, polygenic or complex inheritance
+
+Figure 8.16 Diagram showing the increased liability to a multifactorial disorder in relatives of an affected person.
+
+Number of individuals
+Threshold
+General population
+Familial cases
+Affected
+Liability
+
+Box 8.10 Conditions often associated with multifactorial (polygenic, complex) inheritance
+
+Congenital malformations
+• Neural tube defects (anencephaly and spina bifida)
+• Congenital heart disease
+• Cleft lip and palate
+• Pyloric stenosis
+• Congenital dislocation of the hip
+• Talipes equinovarus
+• Hypospadias
+
+Childhood
+• Atopy (especially asthma and eczema)
+• Epilepsy
+• Diabetes mellitus type 1 (insulin-dependent diabetes)
+
+Adult life
+• Atherosclerosis and coronary artery disease
+• Diabetes mellitus type 2
+• Alzheimer’s disease
+• Malignancy (especially the common cancers, e.g. breast and colorectal cancer)
+• Hypertension
+• Cerebrovascular disease (especially stroke).
+
+For neural tube defects, the risk of recurrence to siblings is lowered from about 4% to 1% or less in future pregnancies if the mother takes folic acid before conception and in the early weeks of pregnancy.
+
+Dysmorphology
+The term ‘dysmorphology’ literally means ‘the study of abnormal form’ and refers to the assessment of birth defects and unusual physical features that have their origin during embryogenesis.
+
+Pathogenic mechanisms
+
+Malformation
+A primary structural defect occurring during the development of a tissue or organ, e.g. spina bifida, cleft lip and palate.
+
+Deformation
+Implies an abnormal intrauterine mechanical force that distorts a normally formed structure, e.g. joint contractures or pulmonary hypoplasia due to fetal compression caused by severe oligohydramnios.
+
+Disruption
+Involves destruction of a fetal part which initially formed normally, e.g. amniotic membrane rupture may lead to amniotic bands which may cause limb reduction defects.
+
+Dysplasia
+Refers to abnormal cellular organisation or function of specific tissue types, e.g. skeletal dysplasias, dysplastic kidney disease.
+
+Clinical classification of birth defects
+
+Single-system defects
+These include single congenital malformations, such as spina bifida, which are often multifactorial in nature with fairly low recurrence risks.
+
+Sequence
+Refers to a pattern of multiple abnormalities occurring after one initiating defect. Potter syndrome (fetal compression and pulmonary hypoplasia) is an example of a sequence in which all abnormalities may be traced to one original malformation, renal agenesis.
+
+
+PAGE 128
+
+Syndromes recognised by ‘Gestalt’ (clinical recognition)
+
+Figure 8.17 Noonan syndrome affects males and females. There are some similarities to the phenotype in Turner syndrome, but it is caused by mutation in an autosomal dominant gene and the karyotype is normal.
+
+Figure 8.18 Williams syndrome is usually sporadic.
+
+Figure 8.19 Prader–Willi syndrome.
+
+Box 8.11 Clinical features of Noonan syndrome
+• Characteristic facies
+• Occasional mild learning difficulties
+• Short webbed neck with trident hair line
+• Pectus excavatum
+• Short stature
+• Congenital heart disease (especially pulmonary stenosis, atrial septal defect).
+
+Box 8.12 Clinical features of Williams syndrome
+• Short stature
+• Characteristic facies
+• Transient neonatal hypercalcaemia (occasionally)
+• Congenital heart disease (supravalvular aortic stenosis)
+• Mild to moderate learning difficulties.
+
+Box 8.13 Clinical features of Prader–Willi syndrome
+• Characteristic facies
+• Hypotonia
+• Neonatal feeding difficulties
+• Failure to thrive in infancy
+• Obesity in later childhood
+• Hypogonadism
+• Developmental delay
+• Learning difficulties.
+
+Association
+A group of malformations that occur together more often than expected by chance, but in different combinations from case to case, e.g. VACTERL association (Vertebral anomalies, Anal atresia, Cardiac defects, Tracheo-oEsophageal fistula, Renal anomalies, Limb defects).
+
+Syndrome
+When a particular set of multiple anomalies occurs repeatedly in a consistent pattern and there is known or thought to be a common underlying causal mechanism, this is called a ‘syndrome’. Multiple malformation syndromes are often associated with moderate or severe cognitive impairment and may be due to:
+• chromosomal defects
+• a single gene defect (dominant, recessive or sex-linked)
+• exposure to teratogens such as alcohol, drugs (especially anticonvulsants such as valproate, carbamazepine and phenytoin) or viral infections during pregnancy
+• unknown cause.
+
+Syndrome diagnosis
+Although most syndromes are individually rare, recognition of a dysmorphic syndrome is worthwhile as it may give information regarding:
+• risk of recurrence
+• prognosis
+• likely complications which can be sought and perhaps treated successfully if detected early
+• the avoidance of unnecessary investigations
+• experience and information which parents can share with other affected families through family support groups.
+
+Examples of syndromes recognisable by facial appearance are shown in Figures 8.17–8.19 (see also Boxes 8.11–8.13). The importance and impact of syndrome diagnosis is demonstrated in Case History 8.1. Databases are available to assist with the recognition of thousands of multiple congenital anomaly syndromes (e.g. London Dysmorphology Database (LDDB) & POSSUM).
+
+
+PAGE 129
+
+Summary
+Dysmorphology
+• comprises birth defects and abnormal clinical features originating during embryogenesis
+• may be a malformation, deformation, disruption or dysplasia
+• may be classified as a single-system defect, sequence, association or syndrome
+• syndromes are recognised by ‘Gestalt’ (clinical recognition).
+
+Gene-based therapies
+The treatment of most genetic disorders is based on conventional therapeutic approaches.
+
+Gene therapy involves the repair, suppression or artificial introduction of genes into genetically abnormal cells with the aim of curing the disease and is at an experimental stage for most genetic conditions being studied. There are still many technical and safety issues to be resolved. Gene therapy has been initiated in adenosine deaminase deficiency (a rare recessive immune disorder), malignant melanoma and cystic fibrosis, and
+
+Case History
+8.1 Syndrome diagnosis and genetic counselling
+
+Sean, the second child of healthy parents, was born at term by emergency caesarean section for fetal distress. The pregnancy had been uneventful and no abnormalities were detected on antenatal ultrasound scan. He developed respiratory distress and investigation for a cardiac murmur revealed an interrupted aortic arch and ventricular septal defect that required surgical correction in the neonatal period.
+
+The parents asked about recurrence risk for congenital heart disease and were referred to the genetic clinic. At that time, Sean was thriving and early developmental progress appeared normal. On examination, there were minor dysmorphic features, including a short philtrum, thin upper lip and prominent ears (Fig. 8.20). There was no family history of congenital heart disease or other significant problems and no abnormalities were detected on examination of the parents.
+
+Because of an association between outflow tract abnormalities of the heart and deletions of chromosome 22, cytogenetic analysis was performed using fluorescent in situ hybridisation (FISH). A submicroscopic deletion of the long arm of one chromosome 22 (band 22q11) was detected. Other features of DiGeorge syndrome (hypocalcaemia and T-cell deficiency), which occurs with the same chromosome deletion, were excluded by appropriate tests but could have been important in Sean’s medical management.
+
+Parental chromosome analysis showed no deletion at chromosome 22q11 in either parent, indicating a low recurrence risk for future pregnancies since gonadal mosaicism for this deletion is very rare. The older sibling was also normal on testing. Because the parents had normal karyotypes, their own brothers and sisters did not need to be offered tests.
+
+Identification of a 22q11 deletion indicated that other associated problems were likely. Subsequently, Sean required assessment by a multidisciplinary child development team (for developmental delay), that led to educational statementing and recommendation for appropriate placement in a school for children with special educational needs (learning difficulty), input from a clinical psychologist when behavioural problems appeared (ritualistic behaviour and obsessional tendencies), input from speech therapist and plastic surgeon (indistinct speech due to velopharyngeal incompetence) and audiology review (conductive hearing loss due to recurrent otitis media).
+
+The impact of the diagnosis and its implications was considerable for the family and the parents needed support from a variety of professionals while coming to terms with the various problems as they became apparent. Written information and details of the 22q11 support group were given to the parents. Medical care was coordinated by the paediatrician.
+
+There was the additional worry for the family about a subsequent pregnancy. Fetal echocardiography showed no evidence of congenital heart disease, but invasive tests for cytogenetic analysis were declined because of the low recurrence risk. The baby was born unaffected, with chromosome studies performed on a cord blood sample revealing no abnormality.
+
+Figure 8.20 Sean’s facial appearance showing the short philtrum (vertical groove in the upper lip), thin upper lip and prominent ears.
+
+
+PAGE 130
+
+Some clinical benefit has been reported in a few patients. At present, it is generally accepted that gene therapy should be limited to somatic (not germline) cells, so that the risk of adversely affecting future generations is minimised.
+
+However, other treatments based upon a genetic understanding of disease are being introduced into practice. Two examples are:
+• Suppressors of nonsense (stop codon, chain-terminating) mutations, which are under trial in patients with cystic fibrosis and Duchenne muscular dystrophy caused by the appropriate mutations.
+• Antisense oligo-DNA molecules that cause the skipping of specific exons in the Duchenne muscular dystrophy gene, i.e. complementary DNA molecules that bind and block exons around the faulty part of the gene (often deletions or duplications in Duchenne muscular dystrophy). This approach can restore the reading frame of the message downstream of the causal deletion; it is hoped that this will result in a milder form of the disease.
+
+Genetic services
+In the UK, all health regions have a clinical genetics centre where specialist genetic services are provided by consultants and other medical staff, genetic counsellors and laboratory scientists. Specialist genetic investigations and counselling are provided at the centre and at secondary and primary care. Increased recognition of disorders antenatally has necessitated expansion of perinatal genetic services in addition to paediatric and adult services.
+
+Genetic investigations
+For many years genetic investigation relied on determining the karyotype by visualisation under the microscope. This has been transformed by the tremendous advances in molecular testing.
+
+DNA analysis using polymerase chain reaction (PCR) allows rapid analysis on small samples. Its main impact for genetic counselling is:
+• Confirmation of a clinical diagnosis of an increasing number of single gene disorders
+• Detection of female carriers in X-linked disorders, e.g. Duchenne and Becker muscular dystrophies, haemophilia A and B
+• Carrier detection in autosomal recessive disorders, e.g. cystic fibrosis
+• Presymptomatic diagnosis in autosomal dominant disorders, e.g. Huntington disease, myotonic dystrophy, familial cancer syndromes
+• Antenatal diagnosis of an increasing number of Mendelian conditions.
+
+These are accomplished by the following.
+
+Mutation analysis
+For an increasing number of Mendelian disorders, it is possible to directly detect the actual mutation causing the disease. This provides very accurate results for confirmation of diagnosis, and presymptomatic or predictive testing. Identifying the mutation in an affected individual may be very time-consuming, but once this has been done, testing other relatives is usually fairly simple. Examples are:
+
+• Deletions: large deletion mutations are common in a variety of disorders including Duchenne and Becker muscular dystrophies, alpha-thalassaemia and 21-hydroxylase deficiency (congenital adrenal hyperplasia).
+• Point mutations and small deletions: these can be readily identified if the same mutation causes all cases of the disorder, as in sickle cell disease. For most disorders, however, there is a spectrum of mutations. About 78% of cystic fibrosis carriers in the UK possess the ΔF508 mutation, but over 900 other mutations have been identified. Most laboratories test for a certain number of the most common mutations in the population they serve.
+• Trinucleotide repeat expansion mutations: these are readily tested for because the mutation in a given disease is virtually always at the same site and can be amplified from the same oligo-DNA primers used in the amplification by PCR: the only difference is the size of the repeat sequence, which can be determined from the size of the DNA fragment containing the repeat.
+
+Genetic linkage
+If mutation analysis is not available, it may be possible to use DNA sequence variations (markers) located near to, or within, the disease gene to track the inheritance of this gene through a family. This type of analysis requires a suitable family structure and several key members need to be tested to identify appropriate markers before linkage testing can be used in diagnostic, predictive or prenatal testing.
+
+Some of the genetic investigations now available are summarised in Table 8.2.
+
+Genetic counselling
+The main aims of genetic counselling are supportive and educational. Genetic counselling aims to support and provide information for individuals, couples and families:
+• To understand their situation
+• To make their own decisions about managing the disease or risk of disease, including decisions about genetic testing and reproduction
+• To adjust to their situation of being affected by or at risk of the genetic condition.
+
+A primary goal of genetic counselling is to provide information to allow for greater autonomy and choice in reproductive decisions and other areas of personal life. Avoiding additional cases of genetic disease in a family may be a consequence of genetic counselling but is not the primary aim. The elements of genetic counselling include:
+• Listening to the questions and concerns of the patient, client or family.

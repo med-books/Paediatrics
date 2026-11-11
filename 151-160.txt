@@ -1,0 +1,425 @@
+151
+
+Some significant abnormalities detected on routine examination
+
+Box 9.6 Some significant abnormalities detected on routine examination
+
+Port-wine stain (naevus flammeus). Present from birth and usually grows with the infant (Fig. 9.14a). It is due to a vascular malformation of the capillaries in the dermis. Rarely, if along the distribution of the trigeminal nerve, it may be associated with intracranial vascular anomalies (Sturge–Weber syndrome), or severe lesions on the limbs with bone hypertrophy (Klippel–Trenaunay syndrome). Disfiguring lesions can now be improved with laser therapy.
+
+Strawberry naevus (cavernous haemangioma). Often not present at birth, but appear in the first month of life and may be multiple (Fig. 9.14b). It is more common in preterm infants. It increases in size until 3–15 months old, then gradually regresses. No treatment is indicated unless the lesion interferes with vision or the airway. Ulceration or haemorrhage may occur. Thrombocytopenia may occur with large lesions, when therapy with systemic steroids or interferon-α may be required.
+
+Natal teeth consisting of the front lower incisors – may be present at birth. If loose, they should be removed to avoid the risk of aspiration.
+
+Extra digits – are sometimes connected by a thin skin tag but may be completely attached containing bone (Fig. 9.14c) and should ideally be removed by a plastic surgeon or else tied off at its base. Skin tags anterior to the ear and accessory auricles should be removed by a plastic surgeon.
+
+Heart murmur – poses a difficult problem, as most murmurs audible in the first few days of life resolve shortly afterwards. However, some are caused by congenital heart disease. If there are any features of a significant murmur (see Ch. 17), upper and lower limb blood pressures, and pre- and post-ductal pulse oximetry should be checked followed by an echocardiogram. Otherwise, a follow-up examination is arranged and the parents warned to seek medical assistance if their baby feeds poorly, develops laboured breathing or becomes cyanosed.
+
+Midline abnormality over the spine or skull, such as a tuft of hair, swelling or naevus – requires further evaluation as it may indicate an underlying abnormality of the vertebrae, spinal cord or brain.
+
+Palpable and large bladder – if there is urinary outflow obstruction, particularly in boys with posterior urethral valves. Requires prompt evaluation with ultrasound.
+
+Talipes equinovarus – which cannot be corrected as in positional talipes.
+
+Figure 9.14a Port-wine stain in an infant.
+Figure 9.14b Strawberry naevus.
+Figure 9.14c Extra digits.
+
+
+152
+
+Table 9.3 Prevalence of serious congenital anomalies per 1000 live births (England and Wales)
+
+Anomaly — Prevalence
+
+Congenital heart disease — 6–8 (0.8 on the first day of life)
+Developmental dysplasia of the hip — 1.5 (but about 6/1000 have an abnormal initial clinical examination)
+Talipes — 1.0
+Down syndrome — 1.0
+Cleft lip and palate — 0.8
+Urogenital (hypospadias, undescended testes) — 1.2
+Spina bifida/anencephaly — 0.1
+
+Figure 9.15 (a) The hip is dislocated posteriorly out of the acetabulum (Barlow manoeuvre). (b) The dislocated hip is relocated back into the acetabulum (Ortolani manoeuvre).
+
+(a) Barlow manoeuvre
+(b) Ortolani manoeuvre
+
+In tightening of the muscles around the hip and prevents satisfactory examination. The pelvis is stabilised with one hand. With the other hand, the examiner’s middle finger is placed over the greater trochanter and the thumb around the distal medial femur. The hip is held flexed and adducted. The femoral head is gently pushed downwards. If the hip is dislocatable, the femoral head will be pushed posteriorly out of the acetabulum (Fig. 9.15a).
+
+The next part of the examination is to see if the hip can be returned from its dislocated position back into the acetabulum. With the hip abducted, upward leverage is applied (Fig. 9.15b). A dislocated hip will return with a ‘clunk’ into the acetabulum. Ligamentous clicks without any movement of the head of femur are of no significance. It should also be possible to abduct the hips fully, but this may be restricted if the hip is dislocated. Clinical examination does not identify some infants who have hip dysplasia from lack of development of the acetabular shelf. DDH is more common in girls (six-fold increase), if there is a positive family history (20% of affected infants), if the birth is a breech presentation (30% of affected infants) or if the infant has a neuromuscular disorder.
+
+Early recognition of DDH is important as early splinting in abduction reduces long-term morbidity. A specialist orthopaedic opinion should be sought in the management of this condition. Ultrasound examination of the hip joint is performed increasingly in many hospitals, either following an abnormal examination or to screen babies at increased risk (breech presentation or positive family history). Ultrasound examination can be performed to screen all babies, but is not currently recommended in the UK as it is expensive, requires considerable expertise and there are many false positives. It will, however, identify some babies missed on clinical examination.
+
+Vitamin K therapy
+
+Vitamin K deficiency may result in haemorrhagic disease of the newborn. This disorder can occur early, during the first week of life, or late, from 1 to 8 weeks of age. In most affected infants, the haemorrhage is mild, such as bruising, haematemesis and melaena, or prolonged bleeding of the umbilical stump or after a circumcision. However, some suffer from intracranial haemorrhage, half of whom are permanently disabled or die.
+
+Breast milk is a poor source of vitamin K, whereas infant formula milk has a much higher vitamin K content. Haemorrhagic disease of the newborn may occur in infants who are wholly breast-fed but not if fed with an infant formula. Infants of mothers taking anticonvulsants, which impair the synthesis of vitamin K-dependent clotting factors, are at increased risk of haemorrhagic disease, both during delivery and soon after birth. Infants with liver disease are also at increased risk.
+
+The disease can be prevented if vitamin K is given by intramuscular injection, and in the UK, it was widely given to all newborn infants immediately after birth. In the early 1990s, one study suggested a possible association between vitamin K given intramuscularly and the development of cancer in childhood, but this has not been found in other, much larger studies. It is still recommended that all newborn infants are given intramuscular vitamin K. However, parents may request oral vitamin K as an alternative. As absorption via the oral route is variable, three doses are needed over the first 4 weeks of life to achieve adequate liver storage. Mothers on anticonvulsant therapy should receive oral prophylaxis from 36 weeks’ gestation and the baby should be given intramuscular vitamin K.
+
+Vitamin K should be given to all newborn infants to prevent haemorrhagic disease of the newborn.
+
+
+153
+
+Biochemical screening (Guthrie test)
+
+Biochemical screening is performed on every baby. A blood sample, usually a heel prick, is taken when feeding has been established on day 5–9 of life. In the UK, all infants are screened for:
+
+• phenylketonuria
+• hypothyroidism
+• haemoglobinopathies (sickle cell and thalassaemia)
+• cystic fibrosis
+• MCAD (medium-chain acyl-CoA dehydrogenase) deficiency – a rare inborn error of mitochondrial fatty acid metabolism causing acute illness and hypoglycaemia following fasting, which may also present as an ALTE (acute life-threatening episode).
+
+Screening for cystic fibrosis is performed by measuring the serum immunoreactive trypsin, which is raised if there is pancreatic duct obstruction. If raised, DNA analysis is also performed to reduce the false-positive rate (see Ch. 16).
+
+In the UK, biochemical screening is performed on all babies to identify phenylketonuria, congenital hypothyroidism, haemoglobinopathies, cystic fibrosis and MCAD deficiency.
+
+Newborn hearing screening
+
+Universal screening has been introduced in the UK to detect severe hearing impairment in newborn infants. Early detection and intervention improves speech and language. Evoked otoacoustic emission (EOAE) testing, when an earphone is placed over the ear and a sound is emitted which evokes an echo or emission from the ear if cochlear function is normal, is used as the initial screening test. If a normal test is not achieved, testing with automated auditory brainstem response (AABR) audiometry, using computer analysis of EEG waveforms evoked in response to a series of clicks, is performed, with referral to a paediatric audiologist if abnormal (see Ch. 3 for further details).
+
+Newborn hearing screening is performed on all infants to detect severe hearing impairment.
+
+Further reading
+
+Lissauer T, Fanaroff A: Neonatology at a Glance, ed 2, Oxford, 2011, Blackwell.
+Rennie JM: Roberton’s Textbook of Neonatology, Edinburgh, 2011, Churchill Livingstone.
+Resuscitation Council, UK: Newborn Life Support, 3rd ed, 2011, Resuscitation Council (UK).
+
+Website (Accessed May 2011)
+
+Newborn Life Support: Resuscitation Council, UK.
+Available at: www.resus.org.uk.
+
+
+154
+
+This page intentionally left blank
+
+
+155
+
+10
+Neonatal medicine
+
+Hypoxic-ischaemic encephalopathy 156
+Birth injuries 157
+Stabilising the preterm or sick infant 159
+The preterm infant 159
+Jaundice 168
+Respiratory distress in term infants 172
+Infection 173
+Hypoglycaemia 175
+Neonatal seizures 176
+Cerebral infarction (neonatal stroke) 176
+Craniofacial disorders 176
+Gastrointestinal disorders 177
+
+The dramatic reduction in neonatal mortality throughout the developed world has resulted from advances in the management of newborn infants together with improvements in maternal health and obstetric care. Neonatal intensive care became increasingly available in the UK from 1975, and it is since that time that the mortality of very low birthweight (VLBW) infants has fallen (Fig. 10.1).
+
+About 8–10% of babies born in the UK are admitted to a neonatal unit for special medical and nursing care, although whenever possible babies are cared for on postnatal wards to avoid separating mothers from their babies. About 1–3% of babies require intensive care.
+
+(a) Neonatal mortality by birthweight
+(b) Causes of neonatal deaths
+
+Figure 10.1 (a) The dramatic fall in neonatal mortality rate in England and Wales in the second half of the twentieth century, according to birthweight. In very low birthweight infants (<1500 g), the marked fall in the mortality occurred after the introduction of intensive care. (b) Causes of neonatal deaths in England and Wales, 2008. (Adapted from the Audit Commission and ONS 2010).
+
+Graph labels: Neonatal mortality rate; Year; <1500g; 1500–1999g; 2000–2499g. Causes of neonatal deaths: Infection 5%; Other specific causes 4%; Congenital anomaly 23%; Immaturity 57%; Death from intrapartum causes 11%.
+
+In the UK, neonatal units are organised as networks, with units providing either:
+
+• special care (level 1)
+• short-term intensive care (level 2)
+• long-term intensive care (level 3), usually linked to specialist fetal and obstetric care to form a specialist tertiary perinatal centre.
+
+Modern technology allows even tiny preterm infants to benefit from the full range of intensive care, anaesthesia and surgery. If it is anticipated during pregnancy that the infant is likely to require long-term intensive care or surgery, it is preferable for the transfer to the tertiary centre to be made in utero. When a baby requires transfer postnatally, transport should be by an experienced team of doctors and nurses. Arrangements should also be made for parents to be close to their infant during this stressful time.
+
+
+156
+
+Hypoxic-ischaemic encephalopathy
+
+In perinatal asphyxia, gas exchange, either placental or pulmonary, is compromised or ceases altogether, resulting in cardiorespiratory depression. Hypoxia, hypercarbia and metabolic acidosis follow. Compromised cardiac output diminishes tissue perfusion, causing hypoxic-ischaemic injury to the brain and other organs. The neonatal condition is called hypoxic-ischaemic encephalopathy (HIE). It remains an important cause of brain damage, resulting in disability (Fig. 10.2) or death, and its prevention is one of the key aims of modern obstetric care. In developed countries, approximately 0.5–1/1000 liveborn term infants develop HIE and 0.3/1000 have significant neurologic disability. The incidence is higher in developing countries.
+
+Most cases of hypoxic-ischaemic encephalopathy (HIE) follow a significant hypoxic event immediately before or during labour or delivery. These include:
+
+• Failure of gas exchange across the placenta
+  – excessive or prolonged uterine contractions, placental abruption, ruptured uterus
+• Interruption of umbilical blood flow – cord compression including shoulder dystocia, cord prolapse
+• Inadequate maternal placental perfusion, maternal hypotension or hypertension – often with intrauterine growth restriction
+• Compromised fetus – anaemia, intrauterine growth restriction
+• Failure of cardiorespiratory adaptation at birth – failure to breathe.
+
+Figure 10.2 Brain damage from severe birth asphyxia.
+
+The clinical manifestations start immediately or up to 48 h after asphyxia, and can be graded:
+
+• Mild – the infant is irritable, responds excessively to stimulation, may have staring of the eyes and hyperventilation and has impaired feeding
+• Moderate – the infant shows marked abnormalities of tone and movement, cannot feed and may have seizures
+• Severe – there are no normal spontaneous movements or response to pain; tone in the limbs may fluctuate between hypotonia and hypertonia; seizures are prolonged and often refractory to treatment; multi-organ failure is present.
+
+The neuronal damage may be immediate from primary neuronal death or may be delayed from reperfusion injury causing secondary neuronal death. This delay offers the opportunity for neuroprotection with mild hypothermia.
+
+Management
+
+Skilled resuscitation and stabilisation of sick infants will minimise neuronal damage. Infants with HIE may need:
+
+• respiratory support
+• recording of amplitude-integrated electroencephalogram (aEEG, cerebral function monitor) to detect abnormal background activity to confirm early encephalopathy or identify seizures
+• treatment of clinical seizures with anticonvulsants
+• fluid restriction because of transient renal impairment
+• treatment of hypotension by volume and inotrope support
+• monitoring and treatment of hypoglycaemia and electrolyte imbalance, especially hypocalcaemia.
+
+Recent randomised clinical trials have shown that mild hypothermia (cooling to a rectal temperature of 33–34° C for 72 h by wrapping the infant in a cooling blanket) reduces brain damage if started within 6 h of birth.
+
+Prognosis
+
+When HIE is mild, complete recovery can be expected. Infants with moderate HIE who have recovered fully on clinical neurological examination and are feeding normally by 2 weeks of age have an excellent long-term prognosis, but if clinical abnormalities persist beyond that time, full recovery is unlikely. Severe HIE has a mortality of 30–40%, and, of the survivors, over 80% have neurodevelopmental disabilities, particularly cerebral palsy. If magnetic resonance imaging (MRI) at 4–14 days in a term infant shows significant abnormalities (bilateral abnormalities in the basal ganglia and thalamus and lack of myelin in the posterior limb of the internal capsule), there is a very high risk of later cerebral palsy (Fig. 10.3).
+
+Although hypoxic-ischaemic injury usually occurs antenatally or during labour or delivery, it may occur postnatally or be caused by a neonatal condition (e.g. inborn error of metabolism or kernicterus). The diagnosis ‘birth asphyxia’ has potentially serious medicolegal implications; it has been recommended that infants
+
+
+157
+
+Summary
+
+Hypoxic-ischaemic encephalopathy (HIE)
+
+Respiratory depression
+→ Hypoxaemia
+→ Hypercarbia
+→ Respiratory acidosis
+
+Circulatory depression
+→ Low cardiac output
+→ Decreased tissue perfusion
+→ Ischaemia
+→ Metabolic acidosis
+→ Capillary leak, oedema
+
+Hypoxic-ischaemic encephalopathy (HIE) with multi-organ dysfunction
+
+Encephalopathy
+Abnormal neurological signs
+Seizures
+
+Respiratory failure
+Persistent pulmonary hypertension of the newborn (PPHN)
+
+Myocardial dysfunction
+Hypotension
+
+Metabolic
+Hypoglycaemia
+Hypocalcaemia
+Hyponatraemia
+
+Other organ dysfunction
+Renal failure
+DIC (disseminated intravascular coagulation)
+
+Mild hypothermia for moderate and severe HIE reduces death and severe disability and increases the likelihood of survival with normal neurological function.
+
+Figure 10.3 Magnetic resonance image of the brain at term. Left: hypoxic-ischaemic encephalopathy (HIE) showing abnormal (white) signal in the basal ganglia and thalami (arrows) and absence of signal in the internal capsule bilaterally. Right: normal scan showing grey basal ganglia and a white signal from myelin in the posterior limb of the internal capsule.
+
+who have the clinical features of HIE should only be considered to have birth asphyxia if there is:
+
+• evidence of severe hypoxia antenatally or during labour or at delivery
+• resuscitation needed at birth
+• features of encephalopathy
+• evidence of hypoxic damage to other organs such as liver, kidney, or heart
+• no other prenatal or postnatal cause identified
+• characteristic findings on MRI neuroimaging.
+
+Birth injuries
+
+Infants may be injured at birth, particularly if they are malpositioned or too large for the pelvic outlet. Injuries may also occur during manual manoeuvres, from forceps blades or at Ventouse deliveries. Fortunately, now that Caesarean section is available in every maternity unit, heroic attempts to achieve a vaginal delivery with resultant severe injuries to the infant have become extremely rare.
+
+Soft tissue injuries
+
+These include:
+
+• Caput succedaneum (Fig. 10.4) – bruising and oedema of the presenting part extending beyond the margins of the skull bones; resolves in a few days
+• Cephalhaematoma (Figs 10.4, 10.5) – haematoma from bleeding below the periosteum, confined within the margins of the skull sutures. It usually involves the parietal bone. The centre of the haematoma feels soft. It resolves over several weeks
+• Chignon (Fig. 10.6) – oedema and bruising from Ventouse delivery
+• Bruising to the face after a face presentation and to the genitalia and buttocks after breech delivery.
+
+
+158
+
+Birth injuries
+
+Soft tissue injuries
+• Caput succedaneum, cephalhaematoma, chignon, bruises and abrasions
+• Subaponeurotic haemorrhage
+
+Nerve palsies
+• Brachial plexus – Erb palsy
+• Facial nerve palsy
+
+Fractures
+• Clavicle, humerus, femur
+
+Figure 10.4 Location of extracranial haemorrhages.
+
+Labels: Loose areolar tissue; Aponeurosis; Caput; Cephalhaematoma; Periosteum; Subaponeurotic haemorrhage; Skin; Skull bones; Venous sinus.
+
+Figure 10.5 A large cephalhaematoma.
+Figure 10.6 Chignon.
+Figure 10.7 Erb palsy. The affected arm lies straight, limp and with the hand pronated and the fingers flexed (waiter’s tip position).
+
+Preterm infants bruise readily from even mild trauma
+
+• Abrasions to the skin from scalp electrodes applied during labour or from accidental scalpel incision at Caesarean section
+• Forceps marks to face from pressure of blades – transient
+• Subaponeurotic haemorrhage (Fig. 10.4) (very uncommon) – diffuse, boggy swelling of scalp on examination, blood loss may be severe and lead to hypovolaemic shock and coagulopathy.
+
+Nerve palsies
+
+Brachial nerve palsy results from traction to the brachial plexus nerve roots. They may occur at breech deliveries or with shoulder dystocia. Upper nerve root (C5 and C6) injury results in an Erb palsy (Fig. 10.7). It
+
+
+159
+
+may be accompanied by phrenic nerve palsy causing an elevated diaphragm. Most palsies resolve completely, but should be referred to an orthopaedic or plastic surgeon if not resolved by 2–3 months. Most recover by 2 years. A facial nerve palsy may result from compression of the facial nerve against the mother’s ischial spine. It is unilateral, and there is facial weakness on crying but the eye remains open. It is usually transient, but methylcellulose drops may be needed for the eye. Rarely, nerve palsies may be from damage to the cervical spine, when there is lack of movement below the level of the lesion.
+
+Fractures
+
+Clavicle
+
+Usually from shoulder dystocia. A snap may be heard at delivery or the infant may have reduced arm movement on the affected side, or a lump from callus formation may be noticed over the clavicle at several days of age. The prognosis is excellent and no specific treatment is required.
+
+Humerus/femur
+
+Usually mid-shaft, occurring at breech deliveries, or fracture of the humerus at shoulder dystocia. There is deformity, reduced movement of the limb and pain on movement. They heal rapidly with immobilisation.
+
+Box 10.1 Medical problems of preterm infants
+
+• Need for resuscitation at birth
+• Respiratory
+  – Respiratory distress syndrome (RDS)
+  – Pneumothorax
+  – Apnoea and bradycardia
+• Hypotension
+• Patent ductus arteriosus
+• Temperature control
+• Metabolic
+  – Hypoglycaemia
+  – Hypocalcaemia
+  – Electrolyte imbalance
+  – Osteopenia of prematurity
+• Nutrition
+• Infection
+• Jaundice
+• Intraventricular haemorrhage/periventricular leukomalacia
+• Necrotising enterocolitis
+• Retinopathy of prematurity
+• Anaemia of prematurity
+• Iatrogenic
+• Bronchopulmonary dysplasia (chronic lung disease)
+• Inguinal hernias.
+
+Stabilising the preterm or sick infant
+
+Preterm infants of <34 weeks’ gestation and newborn infants who become seriously ill require their condition to be stabilised and monitored (Fig. 10.8). Many of them will need respiratory and circulatory support.
+
+The preterm infant
+
+The appearance, the likely clinical course, chances of survival and long-term prognosis depend on the gestational age at birth. The appearance and maturational changes of very preterm infants are described in Table 10.1 and the importance of parental involvement shown in Figures 10.10a and b. The external appearance and neurological findings can be scored to provide an estimate of an infant’s gestational age (see Appendix).
+
+The rate and severity of problems associated with prematurity decline markedly with increasing gestation. Infants born at 23–26 weeks’ gestation encounter many problems (Box 10.1), require many weeks of intensive and special care in hospital and have a high overall mortality. With modern intensive care, the prognosis is excellent after 32 weeks’ gestational age. The severity of an infant’s respiratory disease and of any episodes of infection largely determine the neonatal course and outcome.
+
+Respiratory distress syndrome
+
+In respiratory distress syndrome (RDS), (also called hyaline membrane disease), there is a deficiency of surfactant, which lowers surface tension. Surfactant is a mixture of phospholipids and proteins excreted by the type II pneumocytes of the alveolar epithelium. Surfactant deficiency leads to widespread alveolar collapse and inadequate gas exchange. The more preterm the infant, the higher the incidence of RDS; it is common in infants born before 28 weeks’ gestation and tends to be more severe in boys than girls. Surfactant deficiency is rare at term but may occur in infants of diabetic mothers. The term hyaline membrane disease derives from a proteinaceous exudate seen in the airways on histology. Glucocorticoids, given antenatally to the mother, stimulate fetal surfactant production and are given if preterm delivery is anticipated (see Ch. 9.)
+
+The development of surfactant therapy has been a major advance. The preparations are natural, derived from extracts of calf or pig lung. They are instilled directly into the lung via a tracheal tube. Multinational placebo-controlled trials show that surfactant treatment reduces mortality from RDS by about 40%, without increasing the morbidity rate (Fig. 10.11).
+
+At delivery or within 4 h of birth, babies with RDS develop clinical signs of:
+
+• tachypnoea >60 breaths/min
+• laboured breathing with chest wall recession (particularly sternal and subcostal indrawing) and nasal flaring
+
+
+160
+
+Stabilising preterm or sick infants
+
+Airway, breathing
+
+• Respiratory distress: tachypnoea, laboured breathing with chest wall recession, nasal flaring, expiratory grunting, cyanosis
+• Apnoea
+
+Management, as required:
+
+• Clear the airway
+• Oxygen
+• High-flow humidified oxygen therapy
+• CPAP (continuous positive airway pressure)
+• Mechanical ventilation
+
+Monitoring
+
+• Oxygen saturation (maintain at 88–95% if preterm)
+• Heart rate
+• Respiratory rate
+• Temperature
+• Blood pressure
+• Blood glucose
+• Blood gases
+• Weight
+
+Temperature control
+
+• Place in plastic bag at birth to keep warm if extremely preterm
+• Perform stabilisation under a radiant warmer or in a humidified incubator to avoid hypothermia.
+
+Figure 10.8 Stabilising preterm or sick infants is important to prevent complications. This preterm infant has leads on his limbs for monitoring heart rate and respiratory rate, temperature and oxygen saturation. There are arterial and intravenous cannulae and a nasotracheal tube for artificial ventilation.
+
+Venous and arterial lines
+
+Peripheral intravenous line
+
+Required for intravenous fluids, antibiotics and other drugs.
+
+Umbilical venous catheter
+
+May be used for intravenous access at resuscitation, in extremely preterm infants for the first few days or to administer high osmolality fluids (e.g. high-concentration dextrose) or medications needing central delivery (e.g. inotropes).
+
+Arterial line
+
+• Inserted if frequent blood gas analysis, blood tests and continuous blood pressure monitoring are required. Usually umbilical artery catheter (UAC), sometimes peripheral cannula if for short period or no umbilical artery catheter possible.
+• The arterial oxygen tension is maintained at 8–12 kPa (60–90 mmHg) and the CO₂ tension at 4.5–6.5 kPa (35–50 mmHg). Continuous non-invasive transcutaneous arterial blood gas monitoring may also be used.
+
+Central venous line for parenteral nutrition, if indicated
+
+Inserted peripherally when infant is stable.
+
+Chest X-ray with or without abdominal X-ray
+
+Assists in the diagnosis of respiratory disorders and to confirm the position of the tracheal tube and central lines.
+
+Investigations
+
+• Haemoglobin, neutrophil count, platelet count
+• Blood urea, creatinine, electrolytes and lactate
+• Culture – blood ± CSF ± urine
+• Blood glucose
+• CRP/acute phase reactant
+• Coagulation screen if indicated
+
+Antibiotics
+
+Broad-spectrum antibiotics are given.
+
+Minimal handling
+
+All procedures, especially painful ones, adversely affect oxygenation and the circulation. Handling the infant is kept to a minimum and done as gently, rapidly and efficiently as possible. Analgesia should be provided to prevent pain as necessary.
+
+Parents
+
+Although medical and nursing staff are usually fully occupied stabilising the baby, time must be found for parents and immediate relatives to allow them to see and touch their baby and to be kept fully informed.

@@ -1,0 +1,502 @@
+141
+
+Box 9.3 Diagnosis of congenital rubella, cytomegalovirus (CMV) and Toxoplasma infection
+
+Mother — Seroconversion on screening serology
+Fetus — Amniocentesis or chorionic villus sample, PCR
+Placenta — Microscopy for syphilis, PCR
+Urine from infant — Rubella, CMV – culture, PCR
+Blood, CSF, other samples from infant — Culture, PCR
+Blood serology — Rubella-specific IgM, CMV-specific IgM, Toxoplasma-specific IgM and persistently raised Toxoplasma IgG
+
+Viraemia after birth continues to damage the infant. Tests used to confirm the diagnosis are shown in Box 9.3. The range of clinical features characteristic of congenital infections is shown in Figure 9.6b.
+
+Congenital rubella is preventable. In the UK, it has become extremely rare since the measles/mumps/rubella (MMR) vaccine was introduced into the childhood immunisation programme, but this is dependent on the maintenance of a high vaccine uptake rate.
+
+Cytomegalovirus
+
+CMV is the most common congenital infection, affecting 3–4/1000 live births in the UK, with higher rates reported in parts of the USA. In Europe, 50% of pregnant women are susceptible to CMV. About 1% of susceptible women will have a primary infection during pregnancy, and in about 40% of them the infant becomes infected. The infant may also become infected following an episode of recurrent infection in the mother, but this is much less likely to damage the fetus. When an infant is infected:
+
+• 90% are normal at birth and develop normally
+• 5% have clinical features at birth, such as hepatosplenomegaly and petechiae (Fig. 9.6b), most of whom will have neurodevelopmental disabilities such as sensorineural hearing loss, cerebral palsy, epilepsy and cognitive impairment
+• 5% develop problems later in life, mainly sensorineural hearing loss.
+
+Infection in the pregnant woman is usually asymptomatic or causes a mild non-specific illness. There is no CMV vaccine and pregnant women are not screened for CMV. Antiviral therapy for infected infants with ganciclovir is under investigation in randomised controlled trials.
+
+Toxoplasmosis
+
+Acute infection with Toxoplasma gondii, a protozoan parasite, may result from the consumption of raw or undercooked meat and from contact with the faeces of recently infected cats. In the UK, fewer than 20% of pregnant women have had past infection, in contrast to 80% in France and Austria. Transplacental infection may occur during the parasitaemia of a primary infection, and about 40% of fetuses become infected. In the UK, the incidence of congenital infection is only about 0.1 per 1000 live births. Most infected infants are asymptomatic. About 10% have clinical manifestations (Fig. 9.6b), of which the most common are:
+
+• Retinopathy, an acute fundal chorioretinitis which sometimes interferes with vision
+• Cerebral calcification
+• Hydrocephalus.
+
+These infants usually have long-term neurological disabilities. Infected newborn infants are usually treated (pyrimethamine and sulfadiazine) for 1 year. Asymptomatic infants remain at risk of developing chorioretinitis into adulthood.
+
+Varicella zoster
+
+A total of 15% of pregnant women are susceptible to varicella (chickenpox). Usually, the fetus is unaffected but will be at risk if the mother develops chickenpox:
+
+• in the first half of pregnancy (<20 weeks), when there is a <2% risk of the fetus developing severe scarring of the skin and possibly ocular and neurological damage and digital dysplasia
+• within 5 days before or 2 days after delivery, when the fetus is unprotected by maternal antibodies and the viral dose is high. About 25% develop a vesicular rash. The illness has a mortality as high as 30%.
+
+Exposed susceptible mothers can be protected with varicella zoster immune globulin (VZIG) and treated with aciclovir. Infants born in the high-risk period should also receive zoster immune globulin and are often also given aciclovir prophylactically.
+
+If a mother develops chickenpox shortly before or after delivery, the infant needs protection from infection.
+
+Syphilis
+
+Congenital syphilis is rare in the UK. The clinical features are shown in Figure 9.6b. Those specific to congenital syphilis include a characteristic rash on the soles of the feet and hands and bone lesions. If mothers with syphilis identified on antenatal screening are fully treated 1 month or more before delivery, the infant does not require treatment and has an excellent prognosis. If there is any doubt about the adequacy of maternal treatment, the infant should be treated with penicillin.
+
+Adaptation to extrauterine life
+
+In the fetus, the lungs are filled with fluid, and oxygen is supplied by the placenta. The blood vessels that supply and drain the lungs are constricted (high
+
+
+142
+
+Figure 9.7 The fetal circulation.
+
+Ductus arteriosus
+Superior vena cava
+Right ventricular output mainly flows through the ductus arteriosus, bypassing the lungs
+RA
+LA
+RV
+LV
+Blood from the inferior vena cava mainly passes through the foramen ovale. Blood from the superior vena cava mainly flows into the right ventricle
+Descending aorta
+Inferior vena cava
+Ductus venosus
+Umbilical vein
+Umbilical arteries
+Oxygenation in the placenta
+Deoxygenated blood to the placenta via the umbilical arteries
+
+pulmonary vascular resistance), so most blood from the right side of the heart bypasses the lungs and flows through the ductus arteriosus into the aorta, and some flows across the foramen ovale (Fig. 9.7). Shortly before and during labour, lung liquid production is reduced. During descent through the birth canal, the infant’s chest is squeezed and some lung liquid drained. Multiple stimuli, including thermal, tactile and hormonal (with a particularly dramatic increase in catecholamine levels), initiate breathing. On average, the first breath occurs 6 s after delivery. Lung expansion is generated by intrathoracic negative pressure and a functional residual capacity is established. The mean time to establish regular breathing is 30 s. Once the infant gasps, the majority of the remaining lung fluid is absorbed into the lymphatic and pulmonary circulation.
+
+Pulmonary expansion at birth is associated with a rise in oxygen tension, and with falling pulmonary vascular resistance the pulmonary blood flow increases. Increased left atrial filling results in a rise in the left atrial pressure with closure of the foramen ovale. The flow of oxygenated blood through the ductus arteriosus causes physiological, and eventual anatomical, ductal closure. After an elective caesarean section, when the mother has not been in labour and the infant’s chest has not been squeezed through the birth canal, it may take several hours for the lung fluid to be completely absorbed, causing rapid, laboured breathing (transient tachypnoea of the newborn).
+
+Some infants do not breathe at birth. This may be due to asphyxia, when the fetus experiences a lack of oxygen during labour and/or delivery. It does not necessarily mean that the brain has been injured but asphyxia can lead to brain injury or death. A fetus deprived of oxygen in utero will attempt to breathe, but if this is unsuccessful (as it will be in utero), it will then become apnoeic (primary apnoea), during which time the heart rate is maintained. If oxygen deprivation continues, primary apnoea is followed by irregular gasping and then a second period of apnoea (secondary or terminal apnoea), when the heart rate and blood pressure fall. If delivered at this stage, the infant will only recover if help with lung expansion is provided, e.g. by positive pressure ventilation by mask or tracheal tube (Fig. 9.8).
+
+Figure 9.8 Changes in respiration and heart rate with continuous asphyxia. Once the infant has stopped gasping in secondary apnoea, resuscitation with lung expansion is required to establish regular respiration and restore the circulation.
+
+Graph labels: Breaths; Rapid breathing; Irregular gasping; Primary apnoea; Secondary apnoea; Intermittent positive pressure ventilation; Heart rate; Asphyxia; Time.
+
+The human fetus rarely experiences a continuous asphyxial insult, except after placental abruption or
+
+
+143
+
+Table 9.2 The Apgar score
+
+Score: 0 | 1 | 2
+
+Heart rate: Absent | <100 beats/min | ≥100 beats/min
+Respiratory effort: Absent | Gasping or irregular | Regular, strong cry
+Muscle tone: Flaccid | Some flexion of limbs | Well flexed, active
+Reflex irritability: None | Grimace | Cry, cough
+Colour: Pale/blue | Body pink, extremities blue | Pink
+
+complete occlusion of umbilical blood flow in a cord prolapse. More commonly, asphyxia, which occurs during labour and delivery is intermittent, e.g. from prolonged and frequent uterine contractions. Although birth asphyxia is an important cause of failure to establish breathing requiring resuscitation at birth, there are other causes, including birth trauma, maternal analgesic or anaesthetic agents, retained lung fluid, preterm infant or a congenital malformation which interferes with breathing.
+
+The Apgar score is used to describe a baby’s condition at 1 and 5 min after delivery (Table 9.2). It is also measured at 5-min intervals thereafter, if the infant’s condition remains poor. The most important components are the heart rate and respiration.
+
+Neonatal resuscitation
+
+Most infants do not require any resuscitation. Shortly after birth, the baby will take a breath or cry, establish regular breathing and become pink. The baby can be handed directly to his or her mother, and covered with a warm towel to avoid becoming cold. However, a newborn infant who does not establish normal respiration directly will need to be transferred to a resuscitation table for further assessment (Fig. 9.9a). There should be an overhead radiant heater and the infant should be dried and partially covered and kept warm. Suction of the mouth and nose is normally unnecessary and vigorous suction of the back of the throat may provoke bradycardia from vagal stimulation. If the infant’s breathing in the first minute of life is irregular or shallow, but the heart rate is satisfactory (>100 beats/min), breathing is encouraged with airway opening manoeuvres.
+
+If the infant does not start to breathe, or if the heart rate drops below 100 beats/min, airway positioning and lung inflation by breathing by mask ventilation are started (Fig. 9.9b–f). If the baby’s condition does not improve promptly, or if the infant is clearly in very poor condition at birth, additional assistance should be summoned immediately while continuing to maintain ventilation. If an attendant has the appropriate skills, tracheal intubation can be performed (Fig. 9.9g).
+
+After tracheal intubation, if the heart rate does not increase and adequate chest movement is not achieved, consider ‘DOPE’:
+
+• Displaced tube: often in the oesophagus or right main bronchus
+• Obstructed tube: especially meconium
+• Patient:
+  – tracheal obstruction
+  – lung disorders: lung immaturity or respiratory distress syndrome, pneumothorax, diaphragmatic hernia, lung hypoplasia, pleural effusion
+  – shock from blood loss
+  – birth asphyxia or trauma
+  – upper airways obstruction: choanal atresia.
+• Equipment failure: gas supply exhausted or disconnected.
+
+If there is any uncertainty about the adequacy of ventilation in an intubated baby, consider removing the tracheal tube, give mask ventilation and then re-intubate.
+
+If at any time the heart rate drops below 60 beats/min, provided adequate breathing has been achieved, chest compressions should be given (Fig. 9.9h–j). If the response to ventilation and chest compression remains inadequate, drugs should be given (Fig. 9.9k). Evidence for their efficacy is very poor.
+
+Providing lung inflation, evidenced by good chest wall movement, is the key to successful neonatal resuscitation.
+
+Meconium aspiration
+
+The passage of meconium becomes increasingly common the greater the infant’s gestational age, particularly when post-term. Infants who also become acidotic may inhale thick meconium and develop meconium aspiration syndrome. Attempting to aspirate meconium from the nose and mouth while the infant’s head is on the perineum is not recommended, as it is ineffective. If the infant cries at birth and establishes regular respiration, no resuscitation is required. If respiration is not established, the larynx should be inspected under direct vision and any thick meconium aspirated by suctioning with a large-bore suction catheter, but if the infant becomes bradycardic, positive pressure ventilation will be needed despite the presence of meconium.
+
+
+144
+
+Neonatal resuscitation – Preparation and overview
+
+Preparation
+
+• All health professionals dealing with newborn infants should be proficient in basic resuscitation; i.e. Airway, Breathing with mask ventilation, Circulation with cardiac compressions
+• Additional skilled assistance is needed if the baby does not respond rapidly and should be called without delay
+• A person proficient in advanced resuscitation (Airway, Breathing via tracheal ventilation, Circulation, Drugs) should be on site and available at short notice in a maternity unit at all times
+• The need for resuscitation can usually be anticipated and a person proficient in advanced resuscitation should be in attendance at all high-risk deliveries
+• A clock should be started at birth for accurate timing of changes in the infant’s condition
+• Keep the infant warm. Dry, remove wet towel and replace with dry one. This will also provide stimulation. Can place directly on mother’s chest and covered if crying, good tone and colour and desired by the mother
+• Resuscitation should be performed under a radiant warmer
+• If preterm and <30 weeks’ gestation, to avoid heat loss, place the infant in a plastic bag without drying but under a radiant warmer and on a warming mattress. Leave the head exposed and cover with a woollen hat.
+• Assess the infant’s condition. Is the baby breathing or crying, good heart rate (120–160 beats/min, best assessed by listening with a stethoscope), good colour and muscle tone?
+• If not, commence neonatal resuscitation
+
+Overview
+
+Dry the baby
+Remove any wet towels and cover
+Start the clock or note the time
+
+Assess tone, breathing and heart rate
+
+If gasping or not breathing:
+Open the airway
+Give 5 inflation breaths
+Consider SpO₂ monitoring*
+
+Re-assess
+If no increase in heart rate look for chest movement
+
+If chest not moving:
+Recheck head position
+Consider 2-person airway control and other airway manoeuvres
+Repeat inflation breaths
+Consider SpO₂ monitoring*
+Look for a response
+
+If no increase in heart rate look for chest movement
+
+When the chest is moving:
+If heart rate is not detectable or slow (<60 min⁻¹)
+Start chest compressions—3 compressions to each breath
+
+Reassess heart rate every 30 s
+If heart rate is not detectable or slow (<60 min⁻¹)
+consider venous access and drugs
+
+Birth
+30s
+60s
+At all stages ask: DO YOU NEED HELP?
+
+*Acceptable pre-ductal SpO₂:
+2 min 60%
+3 min 70%
+4 min 80%
+5 min 85%
+10 min 90%
+
+Figure 9.9 Neonatal resuscitation. (Newborn Life Support, 3rd ed. 2011, Resuscitation Council (UK). Reproduced with the kind permission of the Resuscitation Council (UK).)
+
+The inverted pyramid showing the relative frequency of procedures in neonatal resuscitation:
+Always needed — Start the clock; Dry the baby; Assess – tone, breathing, heart rate
+Airway; Breathing – 5 inflation breaths
+Check airway and breathing; Repeat inflation breaths
+Chest compressions
+Drugs — Rarely needed
+
+
+145
+
+Neonatal resuscitation – Airway and breathing
+
+Airway and Breathing
+
+Airway
+• Opened by placing the infant’s head in a neutral position (b)
+• Provide chin lift or jaw thrust if necessary (c)
+• Suction any blood or secretions
+• Consider placing a Guedel airway
+
+Breathing – mask ventilation
+• If not breathing adequately, start mask ventilation
+• Mask is placed over mouth and nose (d) and connected to flow-controlled pressure-limited circuit (e.g. mechanical ventilator or Neopuff) or self-inflating bag (e)
+• Head in neutral position
+• Give 5 inflation breaths, inflation time 2–3 seconds at inspiratory pressure of 30 cm H₂O in term infants to expand lungs
+• If heart rate increases, but breathing does not start, continue with peak inspiratory pressure to achieve chest wall movement (15–25 cm H₂O, 0.5 second inflation time) and rate of 30–40 breaths/min
+• Begin ventilatory resuscitation in air to avoid excessive tissue oxygenation. If giving additional oxygen, use air/oxygen blender to titrate oxygen concentration with oxygen saturation on pulse oximeter. (Acceptable pre-ductal saturations – 2 min 60%; 3 min 70%; 4 min 80%; 5 min 85%; 10 min 90%.)
+• Reassess every 30 seconds. If heart rate not responding, check mask position, neck position, is jaw thrust needed, is circuit all right, ensure adequate chest movement. Consider using two-person airway control (f). Call for help
+
+Intubation
+• Intubation and mechanical ventilation (g) are indicated if: mask ventilation is ineffective, tracheal suction needed to clear an obstructed airway, congenital upper airway abnormality, extreme prematurity—for giving surfactant.
+• Limit intubation attempts to 20–30 seconds.
+
+(b) Head position, vital for airway management
+i) Head in correct airway position
+ii) Head over-extended – incorrect
+iii) Head flexed – incorrect
+
+(c) Chin support
+Jaw thrust
+
+(d) Correct size and position of the face mask. It should cover the mouth, nose and chin
+
+Correct: Covers mouth, nose and chin but not eyes
+Incorrect: Too large – covers eyes and extends over chin
+Incorrect: Too small – does not cover nose and mouth completely
+
+(e) Mask ventilation
+Pressure-limited air/oxygen
+Mask ventilation delivered with pressure-limited circuit via T-piece (as shown), Neopuff or self-inflating bag.
+
+(f) Two-person airway control
+Consider if mask inflation ineffective. One person holds the head in the correct position, applies jaw thrust and holds the mask in place. The assistant operates the T-piece to provide lung inflation.
+
+(g) Tracheal intubation
+The laryngoscope blade is lifted upwards. Gentle pressure on the trachea helps bring the vocal cords into view.
+
+Figure 9.9, cont’d.
+
+
+146
+
+Neonatal resuscitation – Circulation and Drugs
+
+Circulation
+
+Chest compression (h, i and j)
+• Start if heart rate <60 beats/min in spite of effective lung inflation
+• Ratio of compression: lung inflation of 3:1, rate of 90 compressions: 30 breaths/min (120 events/min)
+• Recheck heart rate every 30 seconds; stop when heart rate >60 beats/min
+
+(h) Chest compression
+Landmarks for chest compression
+Sternum
+Compression area
+Nipple line
+Xyphoid
+
+Apply pressure to lower third of sternum, just below imaginary line joining the nipples. Depress to reduce antero-posterior diameter by one-third (1–1.5 cm).
+
+(i) Thumb technique, with hands encircling the chest. In larger infants thumbs can be placed side by side.
+
+(j) Two finger technique – less effective but easier if alone.
+
+Volume and drugs
+
+Consider drugs (k) if heart rate <60 beats/min in spite of adequate ventilation and chest compression, though evidence for their efficacy is lacking.
+Rarely needed.
+Drugs should be given via an umbilical venous catheter, or, if not possible, via an intra-osseous needle.
+Drugs given via a peripheral vein are unlikely to reach the heart. Giving standard doses of epinephrine (adrenaline) down the endotracheal tube does not appear to be effective, so drug dosage is increased for this route.
+A newborn baby who looks white and has poor skin and peripheral perfusion due to acidosis and peripheral vasoconstriction may have had acute blood loss. There may be a history of antepartum haemorrhage or acute twin-to-twin transfusion. Immediate blood transfusion with Group O rhesus negative blood is required.
+
+(k) Drugs used in neonatal resuscitation
+
+Drug — Concentration — Route/dosage — Indications
+
+Epinephrine (adrenaline) — 1:10 000 — IV: 0.1 ml/kg (10 micrograms/kg), then 0.1–0.3 ml/kg (10–30 micrograms/kg). ET: 1 ml/kg (100 micrograms/kg), i.e. 10 times the IV dose, whilst IV access is obtained — Heart rate <60 beats/min in spite of adequate ventilation and external cardiac compression
+
+Sodium bicarbonate — 4.2% — 2–4 ml/kg (1–2 mmol/kg) — Severe lactic acidosis
+
+Dextrose — 10% — 2.5 ml/kg (250 mg/kg) — Hypoglycaemia
+
+Volume expander — Normal saline / Blood — 10 ml/kg, repeat if necessary — Blood loss
+
+Figure 9.9, cont’d.
+
+Naloxone
+
+Infants born to mothers who have received opiate analgesia within a few hours of delivery may occasionally develop respiratory depression, which can be reversed by naloxone. It is only given if respiration continues to be depressed following initial resuscitation. As the half-life of naloxone is shorter than that of the maternal opiate, the infant’s breathing must be monitored for several hours, as further doses of naloxone may be required. With modern obstetric practice, naloxone is rarely needed. Naloxone should not be given to babies of opiate abusing mothers as acute withdrawal symptoms may be precipitated.
+
+Resuscitation of the preterm infant
+
+Preterm infants are particularly liable to hypothermia, and every effort must be made to keep them warm during resuscitation. Infants of <30 weeks’ gestation
+
+
+147
+
+Figure 9.10 The birthweight of small-for-gestational-age infants is below the 10th centile for their gestation. Small-for-gestational-age infants may be preterm, term or post-term.
+
+Graph labels: Birthweight (kg); 90th centile; 50th; 10th; Large for gestational age; Small for gestational age; Gestation (wks); Preterm; Term; Post-term.
+
+should, with the exception of the face, be placed into a plastic bag or wrapped in plastic sheeting. Excessive tissue oxygenation may cause tissue damage to the brain, lungs and eyes from oxygen free radicals. Ideally, an air/oxygen mixer should be used and any additional oxygen given titrated against oxygen saturation. Avoid exceeding a pre-ductal saturation of 95%. Very premature infants often develop respiratory distress syndrome, and early endotracheal administration of artificial surfactant may be indicated. Resuscitation of infants at the threshold of viability, at 22–24 weeks’ gestation, raises particularly difficult ethical and management issues. An experienced paediatrician should be responsible for counselling the parents before delivery, if possible, and lead the management of the baby after birth.
+
+Failure to respond to resuscitation
+
+The decision to stop resuscitation is always difficult and should be made by a senior paediatrician. The longer it takes a baby to respond to resuscitation, the less likely is survival. If there is no breathing or cardiac output after 10 min of effective resuscitation, further efforts are likely to be fruitless and resuscitation should be stopped. If prolonged resuscitation has been required, the infant should be transferred to the neonatal unit for assessment and monitoring.
+
+Size at birth
+
+An infant’s gestation and birthweight influence the nature of the medical problems likely to be encountered in the neonatal period. In the UK, 7% of babies are of low birthweight (<2.5 kg). However, they account for about 70% of neonatal deaths.
+
+Definitions
+
+Babies with a birthweight below the 10th centile for their gestational age are called small for gestational age or small-for-dates (Fig. 9.10). The majority of these infants are normal, but small. The incidence of congenital abnormalities and neonatal problems is higher in those whose birthweight falls below the second centile (approximately two standard deviations (SD) below the mean), and some authorities restrict the term to this group of babies. An infant’s birthweight may also be low because of preterm birth, or because the infant is both preterm and small for gestational age.
+
+Small-for-gestational-age infants may have grown normally but are small, or they may have experienced intrauterine growth restriction (IUGR), i.e. they have failed to reach their full genetically determined growth potential and appear thin and malnourished. Babies with a birthweight above the 10th centile may also be malnourished, e.g. a fetus growing along the 80th centile who develops growth failure and whose weight falls to the 20th centile.
+
+Patterns of growth restriction
+
+Growth restriction in both the fetus and infant has traditionally been classified as symmetrical or asymmetrical. In the more common asymmetrical growth restriction, the weight or abdominal circumference lies on a lower centile than that of the head. This occurs when the placenta fails to provide adequate nutrition late in pregnancy but brain growth is relatively spared at the expense of liver glycogen and skin fat (Fig. 9.11). This form of growth restriction is associated with uteroplacental dysfunction secondary to maternal pre-eclampsia, multiple pregnancy, maternal smoking or it may be idiopathic. These infants rapidly put on weight after birth.
+
+
+148
+
+Figure 9.11 Severe intrauterine growth restriction in a twin.
+
+Summary
+
+Size at birth
+
+• Small for gestational age – birthweight <10th centile
+• Intrauterine growth restriction (IUGR) – fails to reach genetically determined growth potential
+• Growth restriction – symmetrical or asymmetrical, but often mixed.
+
+In symmetrical growth restriction, the head circumference is equally reduced. It suggests a prolonged period of poor intrauterine growth starting in early pregnancy (or that the gestational age is incorrect). It is usually due to a small but normal fetus, but may be due to a fetal chromosomal disorder or syndrome, a congenital infection, maternal drug and alcohol abuse or a chronic medical condition or malnutrition. These infants are more likely to remain small permanently.
+
+In practice, distinction between asymmetrical and symmetrical growth restriction often cannot be made.
+
+Monitoring the growth-restricted fetus
+
+The fetus with IUGR is at risk from:
+
+• intrauterine hypoxia and ‘unexplained’ intrauterine death
+• asphyxia during labour and delivery.
+
+The growth-restricted fetus will need to be monitored closely to determine the optimal time for delivery. Progressive uteroplacental failure results in:
+
+• reduced growth in femur length and abdominal circumference
+• abnormal umbilical artery Doppler waveforms
+  – absent or reversed end diastolic flow velocity
+• redistribution of blood flow in the fetus – increased to the brain, reduced to gastrointestinal tract, liver, skin and kidneys
+• reduced amniotic fluid volume
+• reduced fetal movements and abnormal CTG (cardiotocography).
+
+The growth-restricted infant
+
+After birth, these infants are liable to:
+
+• hypothermia because of their relatively large surface area
+• hypoglycaemia from poor fat and glycogen stores
+• hypocalcaemia
+• polycythaemia (venous haematocrit >0.65).
+
+Large-for-gestational-age infants
+
+Large-for-gestational-age infants are those above the 90th weight centile for their gestation. Macrosomia is a feature of infants of mothers with either permanent or gestational diabetes, or a baby with a congenital syndrome (e.g. Beckwith–Wiedemann syndrome). The problems associated with being large for gestational age are:
+
+• Birth asphyxia from a difficult delivery
+• Breathing difficulty from an enlarged tongue in Beckwith–Wiedemann syndrome
+• Birth trauma, especially from shoulder dystocia at delivery (difficulty delivering the shoulders from impaction behind maternal symphysis pubis)
+• Hypoglycaemia due to hyperinsulinism
+• Polycythaemia.
+
+Routine examination of the newborn infant
+
+Immediately after a baby is born, parents are naturally anxious to know if their baby is alright and appears normal. To answer this, the midwife (or the paediatrician or obstetrician, if present) will briefly but carefully check that the baby is pink, breathing normally and has no major abnormalities. If a significant problem is identified, an experienced paediatrician must explain the situation to the parents. If the baby is markedly preterm, small or ill, admission to a neonatal unit will be required. Should there be any uncertainty about the child’s sex, it is important not to guess but to explain to the parents that further tests are necessary. Babies are given vitamin K at birth to prevent haemorrhagic disease of the newborn unless parents will not give consent.
+
+Within 24 h of birth every baby should have a full and thorough examination, the ‘routine examination of the newborn infant’. Its purpose is to:
+
+• detect congenital abnormalities not already identified at birth, e.g. congenital heart disease, developmental dysplasia of the hip (DDH)
+• check for potential problems arising from maternal disease or familial disorders
+
+
+149
+
+Box 9.4 Routine examination of the newborn
+
+Birthweight, gestational age and birthweight centile are noted.
+
+General observation of the baby’s appearance, posture and movements provides valuable information about many abnormalities. The baby must be fully undressed during the examination.
+
+The head circumference is measured with a paper tape measure and its centile noted. This is a surrogate measure of brain size.
+
+The fontanelle and sutures are palpated. The fontanelle size is very variable. The sagittal suture is often separated and the coronal sutures may be overriding. A tense fontanelle when the baby is not crying may be due to raised intracranial pressure and cranial ultrasound should be performed to check for hydrocephalus. A tense fontanelle is also a late sign of meningitis.
+
+The face is observed. If abnormal, this may represent a syndrome, particularly if other anomalies are present. Down syndrome is the most common, but there are hundreds of syndromes. When the diagnosis is uncertain, a book or a computer database may be consulted and advice should be sought from a senior paediatrician or geneticist.
+
+If plethoric or pale, the haematocrit should be checked to identify polycythaemia or anaemia. Central cyanosis, which always needs urgent assessment, is best seen on the tongue.
+
+Jaundice within 24 h of birth requires further evaluation.
+
+The eyes are checked for red reflex with an ophthalmoscope. If absent, may be from cataracts, retinoblastoma and corneal opacity. This reflex is not present in infants with pigmented skin, but the retinal vessels can be visualised.
+
+The palate needs to be inspected, including posteriorly to exclude a posterior cleft palate, and palpated to detect an indentation of the posterior palate from a submucous cleft.
+
+Breathing and chest wall movement are observed for signs of respiratory distress.
+
+On auscultating the heart, the normal rate is 110–160 beats/min in term babies, but may drop to 85 beats/min during sleep.
+
+On palpating the abdomen, the liver normally extends 1–2 cm below the costal margin, the spleen tip may be palpable, as may the kidney on the left side. Any intra-abdominal masses, which are usually renal in origin, need further investigation.
+
+The femoral pulses are palpated. Their pulse pressure is:
+– reduced in coarctation of the aorta. This can be confirmed by measuring the blood pressure in the arms and legs
+– increased if there is a patent ductus arteriosus.
+
+The genitalia and anus are inspected on removing the nappy. Patency of the anus is confirmed. In boys, the presence of testes in the scrotum is checked by palpation.
+
+Muscle tone is assessed by observing limb movements. Most babies will support their head briefly when the trunk is held vertically.
+
+The whole of the back and spine is observed, looking for any midline defects of the skin.
+
+The hips are checked for developmental dysplasia of the hips (DDH). This is left until last as the procedure is uncomfortable.
+
+Figure 9.12 Term newborn.
+Median measurements:
+• birthweight 3.5 kg;
+• head circumference 35 cm;
+• length 50 cm.
+
+• provide an opportunity for the parents to discuss any questions about their baby.
+
+Before approaching the mother and baby, the obstetric and neonatal notes must be checked to identify relevant information. The examination (Fig. 9.12a and b) should be performed with the mother or ideally both parents present. Many findings in the newborn resolve spontaneously (Box 9.5, Fig. 9.13). Common significant abnormalities detectable at birth are listed in Box 9.6. A serious congenital anomaly is present at birth in about 10–15/1000 live births (Table 9.3). In addition, many congenital anomalies, especially of the heart, present clinically at a later age.
+
+Testing for developmental dysplasia of the hip (DDH)
+
+To test for developmental dysplasia of the hip (DDH), also called congenital dislocation of the hip (CDH), the infant needs to be relaxed, as kicking or crying results
+
+
+150
+
+Lesions in newborn infants that resolve spontaneously
+
+Box 9.5 Lesions in newborn infants that resolve spontaneously
+
+Peripheral cyanosis of the hands and feet – common in the first day
+
+Traumatic cyanosis from a cord round the baby’s neck or from a face or brow presentation – causes blue discoloration of the skin, petechiae over the head and neck or affected part but not the tongue
+
+Swollen eyelids and distortion of shape of the head from the delivery
+
+Subconjunctival haemorrhages – occur during delivery
+
+Small white pearls along the midline of the palate (Epstein pearls)
+
+Cysts of the gums (epulis) or floor of the mouth (ranula)
+
+Breast enlargement – may occur in newborn babies of either sex (Fig. 9.13a). A small amount of milk may be discharged
+
+White vaginal discharge or small withdrawal bleed in girls. There may be a prolapse of a ring of vaginal mucosa
+
+Capillary haemangioma or ‘stork bites’ – pink macules on the upper eyelids, mid-forehead and nape of the neck are common and arise from distension of the dermal capillaries. Those on the eyelids gradually fade over the first year; those on the neck become covered with hair
+
+Neonatal urticaria (erythema toxicum) – a common rash appearing at 2–3 days of age, consisting of white pinpoint papules at the centre of an erythematous base (Fig. 9.13b). The fluid contains eosinophils. The lesions are concentrated on the trunk; they come and go at different sites
+
+Milia – white pimples on the nose and cheeks, from retention of keratin and sebaceous material in the pilaceous follicles (Fig. 9.13c)
+
+Mongolian blue spots – blue/black macular discoloration at the base of the spine and on the buttocks (Fig. 9.13d); occasionally occur on the legs and other parts of the body. Usually but not invariably in Afro-Caribbean or Asian infants. They fade slowly over the first few years. They are of no significance unless misdiagnosed as bruises
+
+Umbilical hernia – common, particularly in Afro-Caribbean infants. No treatment is indicated as it usually resolves within the first 2–3 years
+
+Positional talipes – the feet often remain in their in-utero position. Unlike true talipes equinovarus, the foot can be fully dorsiflexed to touch the front of the lower leg (Fig. 9.13e,f)
+
+Caput succedaneum (see Fig. 10.6).
+
+Figure 9.13a Breast enlargement in a newborn infant.
+
+Figure 9.13b Erythema toxicum (neonatal urticaria), often has a raised pale centre. (Courtesy of Dr Nim Subhedar.)
+
+Figure 9.13c Milia. (Courtesy of Dr Rodney Rivers.)
+
+Figure 9.13d Mongolian blue spot.
+
+Figure 9.13e Positional talipes. Appearance at birth.
+
+Figure 9.13f The foot can be fully dorsiflexed to touch the front of the lower leg. In true talipes equinovarus this is not possible.
