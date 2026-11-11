@@ -1,0 +1,474 @@
+PDF PAGE 1 — printed page 1
+
+1
+The child in society
+
+The child’s world 1
+Public health issues for young people 6
+Children’s rights 6
+Global child health 7
+Conclusion 11
+
+Most medical encounters with children involve an individual child presenting to a doctor with a symptom, such as diarrhoea. After taking a history, examining the child and performing any necessary investigations, the doctor arrives at a diagnosis or differential diagnosis and makes a management plan. This disease-oriented approach, which is the focus of most of this book, plays an important part in ensuring the immediate and long-term well-being of the child. Of course, the doctor also needs to understand the nature of the child’s illness within the wider context of their world, which is the primary focus of this chapter. The context of any symptom will affect the:
+• likely cause: if the diarrhoea is likely to be from a viral illness or from a contaminated water supply if in a developing country
+• severity of the child’s illness: the organism likely to be responsible and the child’s nutritional status
+• management options: who will take care of the child when ill; is pre-prepared oral rehydration therapy available; is hospital treatment possible and what facilities can it offer?
+
+In order to be a truly effective clinician, the doctor must be able to place the child’s clinical problems within the context of the family and of the society in which they live.
+
+Important goals for a society are that its children and young people are healthy, safe, enjoy, achieve and make a positive contribution and achieve economic well-being (Every Child Matters, 2003 at: http://www.dcsf.gov.uk/everychildmatters). These are included in the UN Rights of the Child (see below). The way in which the environment impacts on a child achieving good health is exemplified by the contrast between the major child health problems in developed and developing countries. In developed countries these are a range of complex, often previously fatal, chronic disorders and behavioural, emotional or developmental problems. By contrast, in developing countries the predominant problems are infection and malnutrition (Box 1.1).
+
+The child’s world
+
+Children’s health is profoundly influenced by their social, cultural and physical environment. This can be considered in terms of the child, the family and immediate social environment, the local social fabric and the national and international environment (Fig. 1.1). Our ability to intervene as clinicians needs to be seen within this context of complex interrelating influences on health.
+
+The child
+
+The child’s world will be affected by gender, genes, physical health, temperament and development. The impact of the social environment varies markedly with age:
+• Infant or toddler: life is mainly determined by the home environment
+• Young child: by school and friends
+• Teenager: also aware of and influenced by events nationally but also internationally, e.g. in music, sport, fashion or politics.
+
+Immediate social environment
+
+Family structure
+
+Although the ‘two biological parent family’ remains the norm, there are many variations in family structure. In the UK, the family structure has changed markedly over the last 30 years (Fig. 1.2).
+
+Single-parent households – One in four children now live in a single-parent household. Disadvantages of single parenthood include a higher level of unemployment, poor housing and financial hardship (Table 1.1). These social adversities may affect parenting resources, e.g. vigilance about safety, adequacy of nutrition,
+
+
+PDF PAGE 2 — printed page 2
+
+Box 1.1 Contrast between main child health problems and associated factors in developed and developing countries
+
+Developed countries – main child health problems
+• Severe, often previously fatal chronic disorders – malignant disease, cystic fibrosis
+• Provision of paediatric and neonatal intensive care, organ transplantation and other specialist services
+• Behavioural and emotional disorders – attention deficit hyperactivity disorder, anorexia nervosa
+• Neurodevelopmental disorders – language delay, reading difficulties, clumsiness, cerebral palsy
+• Excessive consumption – obesity
+• Drug and alcohol abuse, smoking, teenage pregnancies.
+
+Problems in both developed and developing countries
+• Relative socioeconomic disadvantage among the ‘have-nots’ – lack of money, unemployment, inadequate housing and education
+• Lack of family cohesion
+• Healthcare – not available or poor quality or inequality of access
+
+Developing countries – main child health problems
+• High mortality rate for children, especially infants
+• Infection – respiratory tract, diarrhoea, malaria, tuberculosis, HIV
+• Malnutrition – marasmus, kwashiorkor, severe iron deficiency anaemia
+• Poor sanitation, water supply, food hygiene
+• Road traffic and other accidents
+• Developmental and learning problems of organic pathology – Down syndrome, congenital anomalies
+• High birth rate – large number of children requiring health care relative to population
+
+Figure 1.1 A child’s world consists of overlapping, interconnected and expanding socioenvironmental layers, which influence children’s health and development. (After Bronfenbrenner U. 1979. Contexts of child rearing – problems and prospects. American Psychologist 34:844–850.)
+
+Figure 1.1 diagram labels:
+National and international environment
+Gross national product
+Culture and lifestyle
+Local social fabric
+Pollution and environment
+Play facilities
+National legal framework
+Overall health spending
+Immediate social environment
+Friends and relatives
+Family structure
+Parenting styles/education
+School and preschool
+Social/political leadership
+Health service delivery
+Housing
+Child
+Age, gender, genes, health and development
+Cultural attitudes
+Social services
+Social class/economic status
+Pets
+Media
+Siblings
+Parental health
+Religion
+Socioeconomic status/social class
+Transport
+Population structure
+Media
+Neighbourhood
+War and natural disasters
+Communication and transport infrastructure
+
+2
+
+
+PDF PAGE 3 — printed page 3
+
+Table 1.1 Comparison between parents who are single or couples
+
+                                      Lone-parent family    Couple family
+Median weekly family income (£)      280                   573
+In lowest income quintile (%)         48                    7
+Living in social housing (%)          44                    12
+Parent with no educational qualification (%) 15            3
+Child with school behaviour problems (%)     14            8
+
+General Household Survey, Office for National Statistics, England 2008.
+
+Figure 1.2 Changing structure of the family 1971–2008. (ONS, General Lifestyle Survey 2008).
+
+Chart labels:
+Families with dependent children %
+Married/cohabiting couple
+Lone mother
+Lone father
+1971 1981 1991 2002 2008
+
+take-up of preventive services, such as immunisation and regular screening, and ability to cope with an acutely sick child at home.
+
+Reconstituted families – The increase in the number of parents who change partners and the accompanying rise in reconstituted families (1 in 10 children live in a stepfamily) mean that children are having to cope with a range of new and complex parental and sibling relationships. This may result in emotional, behavioural and social difficulties.
+
+Looked after children – Approximately 3% of children under 16 years old in the UK live away from their family home. At any one time in England, over 60 000 children are cared for by Local Authorities. These ‘looked after children’ are known to have worse outcomes in terms of physical health, mental health, education and employment.
+
+Asylum seekers – These are often placed in temporary housing and moved repeatedly into areas unfamiliar to them. In addition to the uncertainty as to whether or not they will be allowed to stay in the country, they face additional problems as a result of communication difficulties, poverty, fragmentation of families and racism. Many have lost family members and are uncertain about the safety of friends and family.
+
+Parental employment – With many parents in employment, many young children are with child-minders or at preschool nurseries. Parents are receiving conflicting opinions on the long-term consequences of caring for their young children at home in contrast to nursery care. Also, increasing attention is being paid to the quality of day-care facilities in terms of supervision of the children and improving the opportunities they provide for social interaction and learning.
+
+Parenting styles
+
+Children rely on their parents to provide love and nurture, stimulation and security, as well as catering for their physical needs of food, clothing and shelter. Parenting that is warm and receptive to the child, while imposing reasonable and consistent boundaries, will promote the development of an autonomous and self-reliant adult. This constitutes ‘good enough’ parenting as described by the paediatrician and psychotherapist, Donald Winnicott, and can reassure parents that perfection is not necessary. Some parents are excessively authoritarian or extremely permissive. Children’s emotional development may be damaged by parents who neglect or abuse their children.
+
+The child’s temperament is also important, especially when there is a mismatch with parenting style, for example, a child with a very energetic temperament may be misperceived in a quiet family as having attention deficit hyperactivity disorder (ADHD).
+
+Siblings and extended family
+
+Siblings clearly have a marked influence on the family dynamics. How siblings affect each other appears to be determined by the emotional quality of their relationships with each other and also with other members of the family, including their parents. The arrival of a new baby may engender a feeling of insecurity in older brothers and sisters and result in attention-seeking behaviour. In contrast, children can benefit greatly from having siblings; and from having a close child companion, and can learn from and support each other. The role of grandparents and other family members varies widely and is influenced by the family’s culture. In some, they are the main caregivers; in others, they provide valued practical and emotional support. However, in many families they now play only a peripheral role, exacerbated by geographical separation.
+
+Cultural attitudes to child-rearing
+
+The way in which children are brought up evolves within a community over generations, and is influenced by culture and religion, affecting both
+
+
+PDF PAGE 4 — printed page 4
+
+day-to-day issues to fundamental lifestyle choices. For example, in some societies children are given considerable self-autonomy, from deciding what food they want to eat, to their education and even to participating in major decisions about their medical care. By contrast, in other societies, children are largely excluded from decision-making. Other examples of marked differences between societies are the use of physical punishment to discipline children and the expected roles of males and females both as children and as adults.
+
+Peers
+
+Peers exert a major influence on children. Peer relationships and activities provide a ‘sense of group belonging’ and have potentially long-term benefits for the child. Conversely, they may exert negative pressure through inappropriate role modelling. Relationships can also go wrong, e.g. persistent bullying, which may result in or contribute to psychosomatic symptoms, misery and even, in extreme cases, suicide.
+
+Socioeconomic status
+
+Socioeconomic status is a key determinant of health and well-being of children. It is estimated that 2.8 million children in the UK are living in poverty (below 60% of the national median income after adjustment for housing costs). The proportion of children in poverty in different countries is shown in Figure 1.3. Health issues in the UK in which prevalence rates are increased by poverty include:
+• low birthweight infants
+• injuries
+• hospital admissions
+• asthma
+• behavioural problems
+• special educational needs
+• child abuse.
+
+Low socioeconomic status is often associated with multiple disadvantages, e.g. food of inadequate quantity or poor nutritional value, substandard housing or homelessness, lack of ‘good enough’ parenting, parental education and health, and poor access to healthcare and educational facilities.
+
+Figure 1.3 Percentage of children living in poverty. UNICEF definition is households with income below 50% of national median (UNICEF 2009). (Innocenti Research Centre. 2000. British Medical Journal 320:1621, reproduced with permission from the BMJ publishing group.)
+
+Chart labels:
+USA
+UK
+Spain
+Netherlands
+France
+Belgium
+Sweden, Norway
+Denmark
+0 5 10 15 20 25 30
+%
+
+There are marked differences in living experiences between ethnic groups: 50% of Afro-Caribbean children live in single-parent households compared with 15% of white children and less than 10% of those from the Indian subcontinent. In 1992, in England and Wales, 12% of births were to mothers born outside the UK; in 2008 it was nearly 24%.
+
+Local social fabric
+
+Neighbourhood
+
+Cohesive communities and amicable neighbourhoods are positive influences on children. Racial tension and other social adversities, such as gang violence and drugs, will adversely affect the emotional and social development of children, as well as their physical health. Parental concern about safety may create tensions in balancing their children’s freedom with overprotection and restriction of their lifestyles. The physical environment itself, through pollution, safe areas for play and quality of housing and public facilities, will affect children’s health.
+
+Health service delivery
+
+The variation in the quality of healthcare is an important component in preventing morbidity and mortality in children. Health services for children are increasingly provided within primary care. Some aspects of specialist paediatric care are also increasingly provided within the child’s home, local community or local hospital through shared care arrangements and specialist community nursing and medical teams working within clinical networks. However, access to and the range of these services varies widely.
+
+Schools
+
+Schools provide a powerful influence on children’s emotional and intellectual development and their subsequent lives. Differences in the quality of schools in different areas can accentuate inequalities already present in society. Schools provide enormous opportunities for influencing healthy behaviour through personal and social education and through the influence of peers and positive role models. They also provide opportunities for monitoring and promoting the health and well-being of vulnerable children.
+
+“To educate a girl is to educate a whole family. And what is true of families is also true of communities and, ultimately, whole countries. Study after study has taught us that there is no tool for development more effective than the education of girls. No other policy is as likely to raise economic productivity, lower infant and maternal mortality, improve nutrition and promote health” (Kofi Annan, Secretary General UN 2004).
+
+
+PDF PAGE 5 — printed page 5
+
+Travel
+
+The increasing ease of travel can broaden children’s horizons and opportunities. Especially in rural areas, the ease and availability of transport allow greater access to medical care and other services. However, the increasing use of motor vehicles contributes to the large number of injuries sustained by children from road traffic accidents, mainly as pedestrians. It also decreases physical activity, as shown by the high proportion of children taken to school by car. Whereas 80% of children in the UK went to school by foot or bicycle in 1971, this has dropped to less than 10%.
+
+National and international environment
+
+Economic wealth
+
+In general, there is an inverse relationship between a country’s gross national product and income distribution and the quality of its children’s health.
+
+The lower the gross national income:
+• the greater the proportion of the population who are children
+• the higher the childhood mortality
+• the higher the proportion of newborn infants with low birthweight
+• the lower the immunisation rate.
+
+However, even in countries with a high gross national product, many children live in financially deprived circumstances.
+
+The dramatic reduction in childhood mortality in England over the last century is shown in Figure 1.4. It is primarily from improvements in living conditions such as improved sanitation and housing, and access to food and water. These have dramatically reduced fatalities from infectious disease. More recent contributions to this reduction have been increased availability and uptake of immunisation and major medical improvements in perinatal and infant care.
+
+In all countries difficult choices need to be made about the allocation of scarce resources. Should a developing country provide very expensive drugs and care for the small number of children with malignant disease or allocate its resources to preventive programmes for many children? In developed countries, difficult decisions also have to be faced in deciding the affordability of very expensive procedures, such as heart or liver transplantation, or neonatal intensive care for extremely premature infants and certain drugs, such as the genetically engineered enzyme replacement therapy for Gaucher disease or cytokine modulators (‘biologics’) and other immunotherapies. The public are becoming more engaged in these debates.
+
+Media and technology
+
+The media has a powerful influence on children. It can be positive and educational. However, the impact of television and computers and mobile technology can be negative owing to reduced opportunities for social interaction and active learning, lack of physical exercise and exposure to violence, sex and cultural stereotypes. The extent to which the aggressive tendencies of children may be exacerbated or encouraged by media exposure to violence is unclear.
+
+The internet is enabling parents and children to become better informed about and gain support for their children’s medical problems. This is especially beneficial for the many rare conditions encountered in paediatrics. A disadvantage is that it may result in the dissemination of information which is incorrect or biased, and may result in requests for inappropriate or untested investigations or treatment.
+
+Figure 1.4 Marked reduction in mortality of children aged 0–14 years between 1843 and 2008. In 1900, 15% of babies born in England died by 1 year of age and 23% by 14 years of age; in 2008 the figures were 0.46% and 0.64%, respectively.
+
+Graph labels:
+†Mortality per 1000 population
+*Mortality per 1000 live births
+0–1 yr*
+1–4 yrs†
+5–9 yrs†
+10–14 yrs†
+Year
+1843 1863 1883 1903 1923 1943 1963 1983 2003 2008
+
+
+PDF PAGE 6 — printed page 6
+
+Box 1.2 Children and war: worldwide, devastating effect of war on children in the last decade
+• Mortality: >2 million children died
+• Anti-personnel mines: 8000–10 000 killed or maimed each year
+• Morbidity: >6 million children disabled, mainly paraplegia and sensory deficits
+• Loss of home and refugee status: 20 million children homeless and living as refugees
+• Orphans: 1 million children orphaned
+• Psychological trauma: 10 million children estimated to have post-traumatic stress syndrome; rape and sexual humiliation of females widely used as a strategy of conflict
+• Children as soldiers: estimated 300 000 child soldiers in more than 30 conflicts worldwide
+• Disruption of healthcare system: immunisation and child health surveillance programmes interrupted or disbanded.
+
+Source: State of World’s Children, UNICEF 2005.
+
+War and natural disasters
+
+Children are especially vulnerable when there is war, civil unrest or natural disasters (Box 1.2). Not only are they at greater risk from infectious diseases and malnutrition but also they may lose their caregivers and other members of their families and are likely to have been exposed to highly traumatic events.
+
+Their lives will have been uprooted, socially and culturally, especially if they are forced to flee from their homes and become refugees.
+
+Public health issues for young people
+
+Important public health issues for the 11 million children and young people in the UK in which doctors play a role include:
+
+Obesity – it is estimated that 6.5% of 9-year-olds and 15% of 15-year-olds are clinically obese (BMI >90th centile). Doctors can help promote healthy eating through supporting breast-feeding in infancy, advising parents and young people on healthy lifestyles, monitoring growth parameters and the consequences of obesity, and through advocacy and support for local and national healthy lifestyle programmes.
+
+Emotional and behavioural difficulties – 11% of boys and 8% of girls in this country suffer from a defined emotional or behavioural difficulty. In addition, these problems are often unrecognised and have significant ongoing impacts on children’s overall well-being. Doctors can contribute to tackling these problems by being alert to and responding to the signs of mental health problems in childhood, and through promoting equitable distribution of resources to child and adolescent mental health services.
+
+Disability – up to 5.4% have some form of disability and 7% have a long-standing illness that limits their activity. Doctors need to work closely with children and young people, families, local communities and other services to ensure that any individual child’s needs are appropriately catered for. This may include outlining a child’s health needs for a statement of special educational need, formulating an individual healthcare plan and advocating for the resources to implement this. Doctors can also provide education and social services with data on the numbers and levels of need within their own population.
+
+Smoking, alcohol and drugs – a 2007 survey found that 6% of 11–15-year-olds smoke regularly; 10% had taken drugs in the past month and 20% had drunk alcohol in the past week. Doctors have been instrumental in campaigning for legislation to protect young people from targeted advertising and to raise awareness of the dangers of smoking, alcohol and drugs. There is some evidence that prevalence of all three behaviours are decreasing.
+
+Doctors can also help children through advocacy about children’s issues, by providing information to inform public debate. Examples of this are child protection, exploitation of children for labour or trafficking, the needs of refugee children and tobacco and alcohol advertising.
+
+Children’s rights
+
+Children’s rights are laid down in the United Nations Convention on the Rights of the Child, which has been ratified by all members of the United Nations, including the UK, but excepting the USA and Somalia (Box 1.3, Fig. 1.5). Unfortunately, the rights of many children are not met. Implications of the convention include the involvement of children in clinical decision-making and in issues of consent.
+
+Box 1.3 Summary of the United Nations Convention on the Rights of the Child (1989)
+
+1. Survival rights
+The child’s right to life and to the most basic needs – food, shelter and access to healthcare.
+
+2. Developmental rights
+To achieve their full potential – education, play, freedom of thought, conscience and religion. Those with disabilities to receive special services.
+
+3. Protection rights
+Against all forms of abuse, neglect, exploitation and discrimination.
+
+4. Participation rights
+To take an active role in their communities and nations.
+
+
+PDF PAGE 7 — printed page 7
+
+The United Nations Convention on the Rights of the Child
+
+Figure 1.5 United Nations Convention On the Rights of the Child (1989). Reproduced with the permission of UNICEF.
+
+Summary
+
+Regarding child and young people’s health
+• For the individual child: depends on the child, the immediate social environment (family, parenting, peers, socioeconomic status), the local social fabric and the national and international environment
+• The main problems in developed countries are chronic medical disorders, behavioural and emotional disorders, neurodevelopmental disorders, accidents, socioeconomic disadvantage, excessive consumption of food, drug and alcohol abuse, smoking and teenage pregnancies.
+
+Global child health
+
+Child mortality
+
+Worldwide, each year, 8.8 million children under 5 years old die (Fig. 1.6). Infectious diseases, with undernutrition a major contributing factor, account for most deaths in children. Pneumonia and diarrhoea are the leading infectious causes of death. More than half of child deaths occurring after the neonatal period are due to just five preventable and treatable conditions: pneumonia, diarrhoea, malaria, measles and HIV.
+
+Neonatal mortality (first 4 weeks of life) accounts for 41% of all under-5 deaths. Maternal health and care, especially at delivery, plays a crucial role. Preterm birth, infections and birth asphyxia are the leading causes of neonatal death; being underweight is an important contributing factor.
+
+Most child deaths in developing countries are preventable.
+
+Where deaths occur
+
+Not surprisingly, the mortality for infants and children living in poor countries is much higher than for those in rich countries. The lethal combination of poverty, HIV/AIDS and armed conflict underlies the very high under-5 mortality in some countries. In addition, many poor countries have warm, humid climates where tropical diseases such as malaria occur. However, even in these countries, much of the excess disease burden is due to illnesses such as respiratory infections and diarrhoea that occur at a much greater frequency and severity than in developed countries.
+
+Although only about 48% of the world’s estimated 629 million under-5s live in sub-Saharan Africa and South Asia, 93% of child deaths occur in these two regions (Fig. 1.7). The difference in resources available is reflected in the difference in the number of healthcare professionals in different parts of the world. This is shown in diagrammatic form in Figure 1.8. Whereas the USA spends over $6000/person/year on health, the annual expenditure is only $25/person in the 49 lowest income countries. Put another way, the annual health budget available to the 1.2 billion people living in these countries is equivalent to that for the 6.5 million living in Arizona!
+
+Over half of all child deaths occur in just five countries, which have high mortality rates and large populations: India, Nigeria, Democratic Republic of Congo (DRC), Pakistan and China. Nine countries have an under-5 years mortality rate of ≥180/1000 live births (Sierra Leone, Afghanistan, Chad, Equatorial Guinea, Guinea-Bissau, Mali, Burkina Faso, Nigeria, Burundi). This means that a child’s chance of dying before age 5 years is 30-fold greater in these countries than in developed countries, where the under-5 years mortality rate is 6/1000 live births. The impact of poverty and limited health facilities on children is demonstrated by Case History 1.1.
+
+Figure 1.6 Causes of the 8.8 million deaths among children under 5 years old, 2008. (WHO and UNICEF 2010. http://www.childinfo.org. Reproduced with permission. Accessed January 2011).
+
+Figure 1.6 chart labels:
+Deaths in children <5 years old
+Injuries, 3%
+HIV, 2%
+Measles, 1%
+Malaria, 8%
+Pneumonia, 14%
+Diarrhoea, 14%
+Other, 17%
+Neonatal, 41%
+Globally, more than one-third of child deaths are attributable to undernutrition
+Neonatal deaths
+Other 11%
+Congenital 8%
+Asphyxia 23%
+Preterm 29%
+Neonatal sepsis 15%
+Neonatal pneumonia 10%
+Diarrhoea 2%
+Tetanus 2%
+Infections 29%
+
+
+PDF PAGE 8 — printed page 8
+
+Figure 1.7 Territory size shows the proportion of all deaths of children aged 1–5 years. (http://www.worldmapper.org, 2002 data. Accessed January 2011).
+
+Figure 1.8 Territory size shows the proportion of doctors that work in that territory. (http://www.worldmapper.org, 2002 data. Accessed January 2011).
+
+Case History
+
+1.1 Burns to the face
+
+This girl in West Africa sustained facial burns (Fig. 1.9). She fell into the open kitchen fire when she had a seizure. Although her epilepsy had initially responded well to phenobarbital, regular supplies were unavailable. Difficulty in finding affordable transport from the village to the health clinic delayed presentation by 4 days, by which time there was secondary infection and increased risk of cataract from conjunctival injury.
+
+This simple example highlights the influence of environment on children’s health. Her illness was readily treatable, her injuries were preventable with a fireguard, delayed treatment resulted in complications and only basic medical care was available at the clinic.
+
+Figure 1.9 Facial burn in West Africa.
+
+Reducing child mortality
+
+The international community has taken many steps to improve child health in poor countries. Some are listed in Box 1.4.
+
+The launch of the Integrated Management of Childhood Illness (IMCI) in 1992 was a major advance (Fig. 1.10). It recognised that an integrated management approach to childhood illness is required, including nutrition and preventative care in families and communities. In health facilities, sick children are triaged according to the presence of specific danger signs and management is planned according to algorithms which can be followed by non-medical staff.
+
+The major advance in global child health has been in the adoption of the Millennium Development Goals (MDGs), which has served as a major focus for the international community’s commitment to reduce child mortality (Fig. 1.11). There are specific targets for each goal. For MDG 4 it is to reduce child mortality in children <5 years by two-thirds, between the years 2000
+
+
+PDF PAGE 9 — printed page 9
+
+Box 1.4 Key international developments in maternal and child health
+• 1946: UNICEF established from United Nations Emergency Fund
+• 1948: WHO was formed
+• 1974: Extended Programme of Immunisation (EPI) included diphtheria, pertussis, tetanus, polio, TB and measles
+• 1978: Alma Ata. Primary Healthcare – Health for All
+• 1980s: GOBI-FFF. Key primary care strategies: growth monitoring, oral rehydration therapy, breast-feeding, immunisation, family spacing, female education and food supplementation
+• 1989: Convention on the Rights of the Child
+• 1992: World Summit for Children – Child-to-Child strategy, Baby Friendly initiative, Integrated Management of Childhood Illness (IMCI)
+• 2000: United Nations endorses Millennium Development Goals.
+
+Figure 1.10 Integrated Management of Childhood Illness (IMCI) guidelines for countries with limited resources, WHO. Reproduced with permission.
+
+Text on book cover:
+POCKET BOOK OF
+Hospital care for children
+GUIDELINES FOR THE MANAGEMENT OF COMMON ILLNESSES WITH LIMITED RESOURCES
+World Health Organization
+
+The 8 Millennium Development Goals
+
+Figure 1.11 Millennium Development Goals. (Available at: http://www.undp.rog/mdg. Accessed January 2011). UNDP Brazil. Reproduced with permission.
+
+Labels in Figure 1.11:
+1 Eradicate extreme poverty and hunger
+2 Achieve universal primary education
+3 Promote gender equality and empower women
+4 Reduce child mortality
+5 Improve maternal health
+6 Combat HIV/AIDS, malaria and other diseases
+7 Ensure environmental sustainability
+8 A global partnership for development
+
+and 2015. Contributions are also made by MDGs to improve maternal health and reduce mortality from malaria by insecticide-treated bednets and appropriate anti-malarial drugs and from HIV and TB.
+
+Some of the specific health measures targeted in maternal and child health are shown in Figure 1.12, together with the overall success in implementing them.
+
+The health measures include:
+• Contraception available
+• One or more antenatal visits
+• Skilled attendant at delivery
+• Postnatal visit within 2 days
+• Exclusive breast-feeding
+• Case management of pneumonia
+• Measles immunisation.
+
+The aim is for 100% coverage.
+
+Progress in reducing under-5-year-old mortality is being made (Fig. 1.13), although in many of the poorest countries it is slow and patchy, and considerable effort will be required to meet the MDG 4 target.
+
+
+PDF PAGE 10 — printed page 10
+
+Figure 1.12 Coverage estimates for interventions across the continuum of care (2000–2006) (Countdown Coverage Writing Group; Countdown to 2015 Core Group, Bryce J, Daelmans B, Dwivedi A et al. 2008. Countdown to 2015 for maternal, newborn, and child survival: the 2008 report on tracking coverage of interventions. Lancet 371:1247–1258).
+
+Chart labels:
+%
+Contraceptive prevalence
+One or more antenatal visits
+Skilled attendant at delivery
+Postnatal visit within 2 days
+Exclusive breast-feeding
+Case management of pneumonia
+Measles immunisation
+Pre-pregnancy
+Pregnancy
+Births
+Postnatal
+Childhood
+
+Figure 1.13 Global progress towards Millennium Development Goal 4 (MDG 4) for child survival (Adapted from Lawn J, Newborn survival in low resource settings – are we delivering? BJOG 116 (Suppl 1):49–59, 2009. updated 2010 for data to 2008).
+
+Graph labels:
+Mortality rate per 1000 live births
+Neonatal mortality
+Global mean under-5 mortality rate
+Millennium Development Goal 4
+Target for MDG 4 (32)
+1960
+1970
+1980
+1990
+2000
+2004
+2008
+2015
+62
+26
+
+10
