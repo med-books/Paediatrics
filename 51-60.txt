@@ -1,0 +1,604 @@
+PAGE 51
+
+Table 4.2 Conditions which cause abnormal development and learning difficulty
+
+Prenatal
+Genetic
+Chromosome/DNA disorders, e.g. Down syndrome, fragile X syndrome, chromosome microdeletions or duplications
+Cerebral dysgenesis, e.g. microcephaly, absent corpus callosum, hydrocephalus, neuronal migration disorder
+Vascular
+Occlusions, haemorrhage
+Metabolic
+Hypothyroidism, phenylketonuria
+Teratogenic
+Alcohol and drug abuse
+Congenital infection
+Rubella, cytomegalovirus, toxoplasmosis, HIV
+Neurocutaneous syndromes
+Tuberous sclerosis, neurofibromatosis
+
+Perinatal
+Extreme prematurity
+Intraventricular haemorrhage/periventricular leucomalacia
+Birth asphyxia
+Hypoxic-ischaemic encephalopathy
+Metabolic
+Symptomatic hypoglycaemia, hyperbilirubinaemia
+
+Postnatal
+Infection
+Meningitis, encephalitis
+Anoxia
+Suffocation, near drowning, seizures
+Trauma
+Head injury – accidental or non-accidental
+Metabolic
+Hypoglycaemia, inborn errors of metabolism
+Vascular
+Stroke
+
+Other
+Unknown (about 25%)
+
+The site and severity of brain damage influences the clinical outcome, i.e. whether specific or global developmental delay, learning and/or physical disability.
+
+• slow but steady
+• plateau effect
+• showing regression.
+
+The severity can be categorised as:
+• mild
+• moderate
+• severe
+• profound.
+
+Other features of developmental delay are:
+• The gap between normal and abnormal development becomes greater with increasing age and therefore becomes more apparent over time (Fig. 4.2).
+• It may be the presentation of a wide variety of underlying conditions (Table 4.2).
+• The site and severity of brain damage influences the clinical outcome, i.e. whether there will be specific or global developmental delay, learning and/or physical disability.
+• It may be genetic, with important implications for the family.
+• There is a wide age band across which it can be normal to achieve a developmental skill. Limit ages denote beyond the normal range.
+
+Figure 4.1 Patterns of abnormal development. These may be slow but steady, plateau or regression.
+
+Developmental progress
+Median
+Normal range
+Slow but steady
+Plateau
+Regression
+Age (years): 1 2 3 4 5 6
+
+Developmental problems and the child with special needs
+
+51
+
+
+PAGE 52
+
+Developmental progress
+Normal
+Median
+Slow development
+
+Figure 4.2 For children with abnormal development, the gap between their abilities and what is normal widens with age.
+
+Difference in development between normal (median) and a child developing slowly
+Age (years): 1 2 3 4 5 6 7 8 9 10
+
+The choice of investigations to identify the cause is influenced by the child’s age, the history and clinical findings (Table 4.3). In some children, no cause can be identified even after extensive investigation.
+
+Summary
+
+Abnormal development
+• Incorporates global and specific delay or disorder, learning difficulty, impairment and disability
+• Varies in pattern of progression and severity
+• Becomes more apparent with age.
+
+Developmental delay
+
+Global developmental delay (also called early developmental impairment) implies delay in acquisition of all skill fields (gross motor, vision and fine motor, hearing and speech, and language and cognition, social/emotional and behaviour). It usually becomes apparent in the first 2 years of life. Global developmental delay is likely to be associated with cognitive difficulties, although these may only become apparent several years later. The presence of global developmental delay should always generate investigation into a possible cause such as those listed in Table 4.2. When children become older and the clinical picture is clearer, it is more appropriate to describe the individual difficulties such as learning disability, motor disorder and communication difficulty, rather than using the term global developmental delay.
+
+Specific developmental impairment is when one field of development or skill area is more delayed than others. It may also be developing in a disordered way.
+
+Global developmental delay usually presents in the first 2 years of life.
+
+Abnormal motor development
+
+This may present as delay in acquisition of motor skills, e.g. head control, rolling, sitting, standing, walking or as problems with balance, an abnormal gait, asymmetry of hand use, involuntary movements or rarely loss of motor skills. Concern about motor development usually presents between 3 months and 2 years of age when acquisition of motor skills is occurring most rapidly. Examination may reveal underlying abnormal motor signs.
+
+Causes of abnormal motor development include:
+• central motor deficit e.g. cerebral palsy
+• congenital myopathy/primary muscle disease
+• spinal cord lesions, e.g. spina bifida
+• global developmental delay, as in many syndromes or of unidentified cause.
+
+As hand dominance is not acquired until 1–2 years or later, asymmetry of motor skills during the first year of life is always abnormal and may suggest an underlying hemiplegia.
+
+Late walking (>18 months old) may be caused by any of the above but also needs to be differentiated from children who display the normal locomotor variants of bottom-shuffling or commando crawling (see Ch. 3), where walking occurs later than with crawlers.
+
+Concern about abnormal motor development needs assessment by a neurodevelopmental paediatrician and physiotherapist. Ongoing physiotherapy input and subsequent involvement of an occupational therapist is likely to be needed.
+
+Cerebral palsy (CP)
+
+Cerebral palsy may be defined as an abnormality of movement and posture, causing activity limitation attributed to non-progressive disturbances that occurred in the developing fetal or infant brain. The motor disorders of CP are often accompanied by disturbances of cognition, communication, perception, sensation, behaviour and seizure disorder and secondary musculoskeletal problems. Although the lesion is non-progressive, the clinical manifestations emerge over time, reflecting the balance between normal and abnormal cerebral maturation. Cerebral palsy is the most common cause of motor impairment in children, affecting about 2 per 1000 live births. The term is usually used for brain injuries occurring up to the age of 2 years. After this age, it is more appropriate to use acquired brain injury as the diagnosis. Although the underlying cause is static, the resulting motor disorder may evolve, giving the impression of deterioration. The diagnosis for each child should formulate: the distribution of the motor disorder, the movement type, the cause and any associated impairment.
+
+Developmental problems and the child with special needs
+
+52
+
+
+PAGE 53
+
+Table 4.3 Investigations or assessment to consider for developmental delay
+
+Cytogenetic
+Chromosome karyotypeᵃ
+Fragile X analysisᵃ
+DNA FISH analysis, e.g. for chromosome 7, 15, 22 deletions, CGH microarray (comparative genomic hybridisation), telomere screen
+
+Metabolic
+Thyroid function tests, liver function tests, bone chemistry, urea and electrolytes, plasma amino acidsᵃ
+Creatine kinase, blood lactate, VLCFA (very long chain fatty acids), ammonia, blood gases, white cell (lysosomal) enzymes, urine amino and organic acids, urine mucopolysaccharides (GAG) and oligosaccharide screen, urine reducing substances, lead levels, urate, ferritin, biotinidase
+Maternal amino acids for raised phenylalanine
+
+Infection
+Congenital infection screen
+
+Imaging
+Cranial ultrasound in newborn
+CT and MRI brain scans
+Skeletal survey, bone age
+
+Neurophysiology
+EEG (for seizures and can be specific for some progressive neurological disorders and syndromes)
+Nerve conduction studies, EMG, VEP (visual evoked potentials), ERG (electroretinogram)
+
+Histopathology/histochemistry
+Nerve and muscle biopsy
+
+Other
+Hearingᵃ
+Visionᵃ
+Clinical genetics
+Cognitive assessment
+Therapy assessment – physiotherapy, occupational therapy and speech and language therapy
+Child psychiatry
+Dietician
+Nursery/school reports
+
+ᵃ Basic screening tests.
+
+Causes
+
+About 80% of cerebral palsy is antenatal in origin due to vascular occlusion, cortical migration disorders or structural maldevelopment of the brain during gestation. Some of these problems are linked to gene deletions. Other antenatal causes are genetic syndromes and congenital infection.
+
+Only about 10% of cases are thought to be due to hypoxic-ischaemic injury during delivery and this proportion has remained relatively constant over the last decade. About 10% are postnatal in origin.
+
+Preterm infants are especially vulnerable to brain damage from periventricular leucomalacia (PVL) secondary to ischaemia and/or severe intraventricular haemorrhage. The rise in survival of extremely preterm infants has been accompanied by an increase in survivors with cerebral palsy, although the number of such children is relatively small.
+
+Postnatal causes are meningitis/encephalitis/encephalopathy, head trauma from accidental or non-accidental injury, symptomatic hypoglycaemia, hydrocephalus and hyperbilirubinaemia.
+
+MRI brain scans may assist in identifying the cause of the cerebral palsy but a scan is not necessary to make the diagnosis.
+
+Developmental problems and the child with special needs
+
+53
+
+
+PAGE 54
+
+Clinical presentation
+
+Many children who develop cerebral palsy will have been identified as being at risk in the neonatal period. Early features of cerebral palsy are as follows:
+• Abnormal limb and/or trunk posture and tone in infancy with delayed motor milestones (Fig. 4.3); may be accompanied by slowing of head growth
+• Feeding difficulties, with oromotor incoordination, slow feeding, gagging and vomiting
+• Abnormal gait once walking is achieved
+• Asymmetric hand function before 12 months of age.
+
+In CP, primitive reflexes, which facilitate the emergence of normal patterns of movement and which need to disappear for motor development to progress, may persist and become obligatory (see Ch. 3).
+
+The diagnosis is made by clinical examination, with particular attention to assessment of posture and the pattern of tone in the limbs and trunk, hand function and gait. There are three main clinical subtypes: spastic (90%), dyskinetic (6%) and ataxic (4%). A mixed pattern may occur. Functional ability is described using the Gross Motor Function Classification System (Table 4.4).
+
+Spastic cerebral palsy
+
+In this type, there is damage to the upper motor neurone (pyramidal or corticospinal tract) pathway. Limb tone is persistently increased (spasticity) with associated brisk deep tendon reflexes and extensor plantar responses. The tone in spasticity is velocity dependent, so the faster the muscle is stretched the greater the resistance it will have. This elicits a dynamic catch which is the hallmark of spasticity. The increased limb tone may suddenly yield under pressure in a ‘clasp knife’ fashion. Limb involvement is increasingly described as unilateral or bilateral to acknowledge asymmetrical signs. Spasticity tends to present early and may even be seen in the neonatal period. Sometimes there is initial hypotonia, particularly of the head and trunk. There are three main types of spastic cerebral palsy:
+
+• Hemiplegia – unilateral involvement of the arm and leg (Fig. 4.4). The arm is usually affected more than the leg, with the face spared. Affected children often present at 4–12 months of age with fisting of the affected hand, a flexed arm, a pronated forearm, asymmetric reaching or hand function. Subsequently a tiptoe walk (toe–heel gait) on the affected side may become evident. Affected limbs may initially be flaccid and hypotonic, but increased tone soon emerges as the predominant sign. The past medical history may be normal, with an unremarkable birth history with no evidence of hypoxic-ischaemic encephalopathy. In some, the condition is caused by neonatal stroke. Larger brain lesions (strokes) may cause a hemianopia (loss of half of visual field) of the same side as the affected limbs.
+
+• Quadriplegia – all four limbs are affected, often severely. The trunk is involved with a tendency to opisothonus (extensor posturing), poor head control and low central tone (Fig. 4.5). This more severe cerebral palsy is often associated with seizures, microcephaly and moderate or severe intellectual impairment. There may have been a history of perinatal hypoxic-ischaemic encephalopathy.
+
+• Diplegia – all four limbs, but the legs are affected to a much greater degree than the arms, so that hand function may appear to be relatively normal. Motor difficulties in the arms are most apparent with functional use of the hands. Walking is abnormal. Diplegia is one of the patterns associated with preterm birth due to periventricular brain damage.
+
+Table 4.4 Gross Motor Function Classification System (GMFCS)
+
+Level I — Walks without limitations
+Level II — Walks with limitations
+Level III — Walks using a handheld mobility device
+Level IV — Self-mobility with limitations; may use powered mobility
+Level V — Transported in a manual wheelchair
+
+See http://www.canchild.ca/en/measures/gmfcs.asp for further details (accessed January 2011).
+
+Dyskinetic cerebral palsy
+
+Dyskinesia refers to movements which are involuntary, uncontrolled, occasionally stereotyped, and often more evident with active movement or stress. Muscle tone is variable and primitive motor reflex patterns predominate. May be described as:
+• Chorea – irregular, sudden and brief non-repetitive movements
+• Athetosis – slow writhing movements occurring more distally such as fanning of the fingers
+• Dystonia – simultaneous contraction of agonist and antagonist muscles of the trunk and proximal muscles often giving a twisting appearance.
+
+Intellect may be relatively unimpaired. Affected children often present with floppiness, poor trunk control and delayed motor development in infancy. Abnormal movements may only appear towards the end of the first year of life. The signs are due to damage or dysfunction in the basal ganglia or their associated pathways (extrapyramidal). In the past the commonest cause was hyperbilirubinaemia (kernicterus) due to rhesus disease of the newborn but it is now hypoxic-ischaemic encephalopathy at term.
+
+Ataxic (hypotonic) cerebral palsy
+
+Most are genetically determined. When due to acquired brain injury (cerebellum or its connections), the signs occur on the same side as the lesion but are usually relatively symmetrical. There is early trunk and limb hypotonia, poor balance and delayed motor development. Incoordinate movements, intention tremor and an ataxic gait may be evident later.
+
+Developmental problems and the child with special needs
+
+54
+
+
+PAGE 55
+
+Normal motor development
+
+Median age — Limit age
+
+1½ months — 3 months
+• pushes up on arms
+• holds head up
+
+3 months — 6 months
+• sits with support
+• holds head up
+• rounded back
+
+6 months — 9 months
+• sits without support
+• arms free to reach and grasp
+
+9 months — 13 months
+• pulls to stand
+
+12 months — 18 months
+• independent standing or walking
+
+Abnormal motor development
+
+1½ months — 3 months
+• unable to lift head or push up on arms
+• stiff extended legs
+• pushing back with head
+• constantly fisted hand and stiff leg on one side
+• difficulty moving out of this position
+
+3 months — 6 months
+• unable to lift head
+• floppy trunk
+• stiff arms, extended legs
+• arms flexed and held back
+• stiff, crossed legs
+
+6 months — 9 months
+• rounded back
+• poor use of arms for play
+• stiff legs, pointed toes
+• poor head control
+• difficulty getting arms forward
+• arches back – stiff legs
+• poor ability to lift head and back
+• will not take weight on legs
+• not interested in weight bearing
+• difficulty in pulling to stand
+• stiff legs, pointed toes
+
+9 months — 13 months
+• cannot crawl on hands and knees
+• may use only one side of body to move
+
+12 months — 18 months
+• holds arm or both arms stiffly and bent
+• excessive tiptoe gait
+• sits with weight to one side
+• uses predominately one hand for play
+• one leg may be stiff
+
+Figure 4.3 Normal motor milestones and patterns of abnormal motor development. Cerebral palsy (hemiplegia or quadriplegia) is the commonest cause of developmental problems. (Adapted from Pathways Awareness Foundation, 123 North Wacker Drive, Chicago, IL. Tel. (+1) 800 326 8154; see also http://www.pathwaysawareness.org. Accessed May 2011.)
+
+Developmental problems and the child with special needs
+
+55
+
+
+PAGE 56
+
+Cerebral palsy
+
+Figure 4.4 A child with a right spastic hemiplegia. His right arm is hyperpronated, flexed, hand fisted.
+
+Figure 4.5 A child with spastic quadriplegia showing scissoring of the legs from excessive adduction of the hips, pronated forearms and ‘fisted’ hands.
+
+Management
+
+Parents should be given details of the diagnosis as early as possible, but prognosis is difficult during infancy until the severity and pattern of evolving signs and the child’s developmental progress have become clearer over several months or years of life. Children with cerebral palsy are likely to have a wide range of associated medical, psychological and social problems, making it essential to adopt a multidisciplinary approach to assessment and management, as described later in this chapter.
+
+Summary
+
+Cerebral palsy
+• has many causes. Only about 10% follow hypoxic-ischaemic encephalopathy
+• usually presents in infancy with abnormal tone and posture, delayed motor milestones and feeding difficulties
+• may be spastic, dyskinetic, ataxic or a mixed pattern.
+
+Abnormal speech and language development
+
+A child may have a deficit in either receptive or expressive speech and language, or both. The deficit may be a delay or a disorder.
+
+Speech and language delay may be due to:
+• hearing loss
+• global developmental delay
+• difficulty in speech production from an anatomical deficit, e.g. cleft palate, or oromotor incoordination, e.g. cerebral palsy
+• environmental deprivation/lack of opportunity for social interaction
+• normal variant/familial pattern.
+
+Speech and language disorders include disorders of:
+• language comprehension
+• language expression – inability or difficulty in producing speech whilst knowing what is needing to be said
+• phonation and speech production such as stammering (dysfluency), dysarthria or verbal dyspraxia
+• pragmatics (difference between sentence meaning and speaker’s meaning), construction of sentences, semantics, grammar
+• social/communication skills (autistic spectrum disorder).
+
+Speech and language problems are usually first suspected by parents or primary healthcare professionals. A hearing test and assessment by a speech and language therapist are the initial steps. In early years, there is considerable overlap between language and cognitive (intellectual) development. Involvement of a neurodevelopmental paediatrician and paediatric audiological physician is indicated. Speech and language therapy may be provided on a continuous, burst or review basis. The speech therapist may promote alternative methods of communication such as signing (with Makaton or the Picture Exchange Communication System, PECS). Special schooling (usually language units attached to a mainstream primary school) are available but only appropriate for a very few. Many children with early speech and language problems will need learning support at school entry.
+
+Developmental problems and the child with special needs
+
+56
+
+
+PAGE 57
+
+There are many tests of language development. These include:
+• The Symbolic Toy test, which assesses very early language development.
+• The Reynell test for receptive and expressive language, used for preschool children.
+
+Abnormal development of social/communication skills (autistic spectrum disorders)
+
+Children who fail to acquire normal social and communication skills may have an autistic spectrum disorder. The prevalence of autistic spectrum disorder is 3–6/1000 live births. It is more common in boys. Presentation is usually between 2 and 4 years of age when language and social skills normally rapidly expand. The child presents with a triad of difficulties and associated co-morbidities (Box 4.1).
+
+Where only some of the behaviours are present, the child may be described as having autistic features but not the full spectrum.
+
+Asperger syndrome refers to a child with the social impairments of an autistic spectrum disorder but at the milder end, and near-normal speech development. Such children still have major difficulties with the give-and-take of ordinary social encounters, a stilted way of speaking and narrow, strange interests which they do not share with others, and are often clumsy. In reality autistic spectrum disorders are a continuum of behavioural states ranging from the severe form of autism with or without severe learning difficulties to the milder Asperger syndrome, to autistic features occurring secondary to other clinical problems. Autism is diagnosed by observation of behaviour, including the use of formal standardised tests. It may arise as the result of different organic processes but in many cases no specific cause can be identified. There is probably multiple aetiology with a genetic component in at least some. The condition is not the result of emotional trauma or deviant parenting. There is no evidence for a suggested link with the MMR vaccine.
+
+Box 4.1 Features of autistic spectrum disorders
+
+Impaired social interaction:
+• does not seek comfort, share pleasure, form close friendships
+• prefers own company, no interest or ability in interacting with peers (play or emotions)
+• gaze avoidance
+• lack of joint attention
+• socially and emotionally inappropriate behaviour
+• does not appreciate that others have thoughts and feelings
+• lack of appreciation of social cues
+
+Speech and language disorder:
+• delayed development, may be severe
+• limited use of gestures and facial expression
+• formal pedantic language, monotonous voice
+• impaired comprehension with over-literal interpretation of speech
+• echoes questions, repeats instructions, refers to self as ‘you’
+• can have superficially good expressive speech
+
+Imposition of routines with ritualistic and repetitive behaviour:
+• on self and others, with violent temper tantrums if disrupted
+• unusual stereotypical movements such as hand flapping and tiptoe gait
+• concrete play
+• poverty of imagination in play and general activities
+• peculiar interests and repetitive adherence
+• restriction in behaviour repertoire
+
+Co-morbidities:
+• general learning and attention difficulties (about two-thirds)
+• seizures (about one-quarter, often not until adolescence).
+
+Management
+
+The condition has lifelong consequences of varying degree for the child’s social/communication and learning skills. Parents need a great deal of support. They often feel initial guilt that they did not recognise the problem earlier. A wide range of interventions have been promoted over the last 10 years but with little evidence except for applied behavioural analysis (ABA), a behaviour modification approach that helps to reduce ritualistic behaviour, develop language, social skills and play and to generalise use of all these skills. It is currently the most widely accepted treatment approach but requires 25–30 h of individual therapy each week, so is costly and time-consuming. An appropriate educational placement needs to be sought; some schools incorporate this approach. Less than 10% of children with autism are able to function independently as adults.
+
+Autistic spectrum disorder
+• Presents at 2–4 years with impaired social interaction, speech and language disorder and imposition of routines with ritualistic and repetitive behaviour
+• Usually managed by behaviour modification such as applied behavioural analysis (ABA).
+
+Slow acquisition of cognitive skills/general learning difficulty
+
+The term ‘learning difficulty or disability’ (reflecting cognitive learning difficulties) is now preferred to ‘mental retardation’ or ‘mental handicap’. Medical and educational classification of Intelligence Quotients can be different, with medical models having lower ranges. The educational levels below are useful for general use.
+
+Developmental problems and the child with special needs
+
+57
+
+
+PAGE 58
+
+Slow acquisition of cognitive skills/general learning difficulty
+
+Children with borderline and mild (IQ 70–80) learning difficulties are usually supported by additional helpers (learning support assistants, LSAs) in mainstream schools, whereas children with moderate (IQ 50–70), severe (IQ 35–50) and profound (IQ < 35) learning difficulties are likely to need the resources of special schools.
+
+Severe or profound learning difficulties are usually apparent from infancy as marked global developmental delay, whereas moderate learning difficulties emerge only as delay in speech and language becomes apparent. Mild learning difficulties may only become apparent when the child starts school or much later.
+
+A child with profound learning difficulties will have no significant language and be completely dependent for all of his needs. A child with severe learning difficulties is likely to be able to learn minimal self-care skills and acquire simple speech and language. Both will need high or total supervision and support throughout life.
+
+The prevalence of severe learning difficulty is about 3–4 per 1000 children. Most have an organic cause irrespective of social class, in contrast to moderate learning difficulty (30 per 1000 children) in which children of parents from lower socioeconomic classes are over-represented.
+
+Common causes of developmental delay and learning difficulty are listed in Table 4.3.
+
+Specific learning difficulty
+
+Specific learning difficulty implies the skill described is more delayed than would be expected for the child’s level of cognitive ability.
+
+Developmental coordination disorder (DCD) or dyspraxia
+
+Developmental coordination disorder (dyspraxia) is a disorder of motor planning and/or execution with no significant findings on standard neurological examination. It is a disorder of the higher cortical processes and there may be associated problems of perception (how the child interprets what he sees and hears), use of language and putting thoughts together.
+
+The difficulties may impact on educational progress and self-esteem and suggest the child has greater academic difficulties than may be the case. Features include problems with:
+• handwriting, which is typically awkward, messy, slow, irregular and poorly spaced
+• dressing (buttons, laces, clothes)
+• cutting up food
+• poorly established laterality
+• copying and drawing
+• messy eating from difficulty in coordinating biting, chewing and swallowing (oromotor dyspraxia). Dribbling of saliva is common.
+
+Assessment and advice is primarily from an occupational therapist or when necessary a speech and language therapist (oromotor skills/speech). A visual assessment may also be helpful. Dyspraxia in its milder form often goes undetected during the first few years of life as the child achieves gross motor milestones at the normal times. With therapy (emphasis on sensory integration, sequencing and executive planning) and maturity, the condition should improve.
+
+Dyslexia
+
+Dyslexia is a disorder of reading skills disproportionate to the child’s IQ. The term is often used when the child’s reading age is more than 2 years behind his chronological age. Assessment needs to include vision and hearing and involves an educational psychologist.
+
+Dyscalculia, dysgraphia
+
+These are disorders in the development of calculation or writing skills.
+
+Disorder of executive functions
+
+Executive functions are a collection of cognitive processes that are responsible for activities such as planning and organisation, self-regulation, cognitive flexibility, problem solving and abstract reasoning. They are very necessary to function in and interact with one’s social environment. Deficits in executive function can occur as a consequence of acquired brain injury such as those following infection, stroke or trauma. Executive dysfunction may manifest as poor concentration, forgetfulness, volatile mood, overeating and poor social skills.
+
+Associated co-morbidities of specific learning disorders
+
+These are:
+• Attention deficit disorder
+• Hyperactivity
+• Poor sensory integration skills (touch, balance)
+• Depression, conduct disorders.
+
+Management of specific learning disorders
+
+Assessment may include vision and hearing and assessment by an occupational therapist, physiotherapist, speech and language therapist and educational psychologist. Co-morbidities need to be identified. Treatment is aimed at improving skill acquisition, with educational and information technology support as appropriate.
+
+Developmental problems and the child with special needs
+
+58
+
+
+PAGE 59
+
+Problems with concentration and attention
+
+Attention deficit disorder (ADD) and attention deficit hyperactivity disorder (ADHD) are considered in Chapter 23.
+
+Hearing impairment
+
+Any concern about hearing impairment should be taken seriously. Any child with delayed language or speech, learning difficulties or behavioural problems should have their hearing tested, as a mild hearing loss may be the underlying cause without parents or other carers realising it. Hearing loss may be:
+• sensorineural – caused by a lesion in the cochlea or auditory nerve and is usually present at birth
+• conductive – from abnormalities of the ear canal or the middle ear, most often from otitis media with effusion.
+
+The causes, natural history and management of hearing loss are listed in Table 4.5. Hearing tests are described in Chapter 3. The typical audiogram in sensorineural and conductive hearing loss is shown in Figure 4.6.
+
+Sensorineural hearing loss
+
+This type of hearing loss is uncommon (1 in 1000 of all live births; 1 in 100 in extremely low birthweight infants). It is usually present at birth or develops in the first few months of life. It is irreversible and can be of any severity, including profound.
+
+The child with severe bilateral sensorineural hearing impairment will need early amplification with hearing aids for optimal speech and language development. Hearing aid use requires close supervision, beginning in the home together with the parents and continuing into school. Children often resist wearing hearing aids because background noise can be amplified unpleasantly. Cochlear implants may be required where hearing aids give insufficient amplification (Fig. 4.7).
+
+Many children with moderate hearing impairment can be educated within the mainstream school system or in partial hearing units attached to mainstream schools. Children with hearing impairment should be placed in the front of the classroom so that they can readily see the teacher. Gesture, visual context and lip movement will also allow children to develop language concepts. Speech may be delayed, but with appropriate therapy can be of good quality. Modified and simplified signing such as Makaton can be helpful for children who are both hearing-impaired and learning-disabled. Specialist teaching and support in preschool and school years is provided by peripatetic teachers for children with hearing impairment. Those with profound hearing impairment may need to attend a school for children who are deaf.
+
+Conductive hearing loss
+
+Conductive hearing loss from middle ear disease is usually mild or moderate but may be severe. It is much more common than sensorineural hearing loss. In association with upper respiratory tract infections, many children have episodes of hearing loss which are usually self-limiting. In some cases of chronic otitis media with effusion, the hearing loss may last many months or years. In most affected children, there are no identifiable risk factors present but children with Down syndrome, cleft palate and atopy are particularly prone to hearing loss from middle ear disease.
+
+Table 4.5 Causes and management of hearing loss
+
+Sensorineural
+
+Causes
+Genetic (the majority)
+Antenatal and perinatal:
+Congenital infection
+Preterm
+Hypoxic-ischaemic encephalopathy
+Hyperbilirubinaemia
+Postnatal:
+Meningitis/encephalitis
+Head injury
+Drugs, e.g. aminoglycosides, furosemide (frusemide)
+Neurodegenerative disorders
+
+Hearing loss
+May be profound (>95 dB hearing loss)
+
+Natural history
+Does not improve and may progress
+
+Management
+Amplification or cochlear implant if necessary
+
+Conductive
+
+Causes
+Otitis media with effusion (glue ear)
+Eustachian tube dysfunction:
+Down syndrome
+Cleft palate
+Pierre Robin sequence
+Mid-facial hypoplasia
+Wax (only rarely a cause of hearing loss)
+
+Hearing loss
+Maximum of 60 dB hearing loss
+
+Natural history
+Intermittent or resolves
+
+Management
+Conservative, amplification or surgery
+
+Developmental problems and the child with special needs
+
+59
+
+
+PAGE 60
+
+Figure 4.6 (a) Audiogram showing normal hearing and the loudness of normal speech (blue area). The consonants are high-frequency sounds, the vowels are low-frequency sounds. (b) Audiogram showing bilateral conductive hearing loss. There is a 30–40 dB hearing loss in both the right and left ears. (c) Audiogram showing bilateral profound sensorineural hearing loss. (d) Audiogram showing bilateral high-frequency sensorineural hearing loss.
+
+(a) Normal
+Frequency (Hz): 120, 250, 500, 1000, 2000, 4000, 8000
+Hearing level (dB)
+Threshold sound
+Mild 20–39 dB HL
+Moderate 40–69 dB HL
+Severe 70–94 dB HL
+Profound >95 dB HL
+Frequency range of speech sounds
+Bone conduction
+Right ear
+Left ear
+
+(b) Bilateral conductive hearing loss
+Frequency (Hz): 125, 250, 500, 1000, 2000
+Hearing level (dB)
+
+(c) Profound bilateral sensorineural hearing loss
+Frequency (Hz): 125, 250, 500, 1000, 2000
+Hearing level (dB)
+
+(d) High-frequency sensorineural hearing loss
+Frequency (Hz): 125, 250, 500, 1000, 2000
+Hearing level (dB)
+
+Summary
+
+Hearing loss
+
+Sensorineural hearing loss:
+• is usually present at birth and is irreversible
+• for severe hearing impairment, early amplification with hearing aids or cochlear implants is needed for optimal speech and language development
+• assistance from peripatetic teachers for children with hearing impairment is required.
+
+Conductive hearing loss:
+• is usually due to middle ear disease, often otitis media with effusion
+• is usually mild or moderate and transient
+• if it does not resolve, insertion of tympanostomy tubes (grommets) with or without the removal of adenoids will need to be considered.
+
+Figure 4.7 Cochlear implant. There is a microphone to detect sound, a speech processor and a transmitter and receiver/stimulator. They convert speech into electric impulses which are conveyed to the auditory nerve, bypassing the ear. It provides a deaf person with a representation of sounds.
+
+Developmental problems and the child with special needs
+
+60
