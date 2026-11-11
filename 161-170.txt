@@ -1,0 +1,464 @@
+161
+
+The preterm infant: maturational changes in appearance and development
+
+Figure 10.9
+(a) Preterm infant.
+(b) Term infant.
+
+Table 10.1 The preterm infant compared with the term infant
+
+Gestation
+23–27 weeks
+Term (37–42 weeks)
+
+Birthweight (50th centile)
+At 24 weeks – male 700 g, female 620 g
+At 40 weeks – male 3.55 kg, female 3.4 kg
+
+Skin
+Very thin (Fig. 10.9a)
+Dark red colour all over body
+Thick skin (Fig. 10.9b)
+Pale pink colour
+
+Ears
+Pinna soft, no recoil
+Pinna firm, cartilage to edge, immediate recoil
+
+Breast tissue
+No breast tissue palpable
+One or both nodules >1 cm
+
+Genitalia
+Male – scrotum smooth, no testes in scrotum
+Female – prominent clitoris, labia majora widely separated, labia minora protruding
+Male – scrotum has rugae, testes in scrotum
+Female – labia minora and clitoris covered
+
+Breathing
+Needs respiratory support. Apnoea common
+Rarely needs respiratory support. Apnoea rare
+
+Sucking and swallowing
+No coordinated sucking
+Coordinated (from 34–35 weeks)
+
+Feeding
+Usually needs TPN (total parenteral nutrition), then tube feeding
+Cries when hungry. Feeds on demand
+
+Cry
+Faint
+Loud
+
+Vision, interaction
+Eyelids may be fused. Infrequent eye movements. Not available for interaction
+Makes eye contact, alert wakefulness
+
+Hearing
+Startles to loud noise
+Responds to sound
+
+Posture
+Limbs extended, jerky movements
+Flexed posture, smooth movements
+
+Figure 10.10a Parental involvement in neonatal care. Skin-to-skin contact between infant and parent (Kangaroo care) promotes bonding.
+
+Figure 10.10b Parental involvement in neonatal care. Mother giving her baby expressed breast milk (in syringe) via nasogastric tube, allowing close eye and skin contact between mother and baby.
+
+
+162
+
+Respiratory distress syndrome
+• Common in very preterm infants
+• Caused by surfactant deficiency
+• Antenatal corticosteroids and surfactant therapy markedly reduce morbidity and mortality.
+
+Figure 10.11 Meta-analysis of treatment of preterm infants with natural surfactant, showing a dramatic reduction in pneumothoraces and mortality.
+
+Decreased risk — Increased risk
+Odds ratio (95% confidence interval)
+
+Pneumothorax
+Patent ductus arteriosus
+Intraventricular haemorrhage
+Bronchopulmonary dysplasia
+Mortality
+
+Figure 10.12 Chest X-ray in respiratory distress syndrome showing a diffuse granular or ‘ground glass’ appearance of the lungs and an air bronchogram, where the larger airways are outlined. The heart border becomes indistinct or obscured completely with severe disease. A tracheal tube and an umbilical artery catheter are present.
+
+• expiratory grunting in order to try to create positive airway pressure during expiration and maintain functional residual capacity
+• cyanosis if severe.
+
+The characteristic chest X-ray appearance is shown in Figure 10.12. Treatment with raised ambient oxygen is required, which may need to be supplemented with continuous positive airway pressure (delivered via nasal cannulae) or artificial ventilation via a tracheal tube. The ventilatory requirements need to be adjusted according to the infant’s oxygenation (which is measured continuously), chest wall movements and blood gas analyses. Mechanical ventilation (with intermittent positive pressure ventilation or high-frequency oscillation) may be required. High-flow humidified oxygen therapy, via nasal cannulae, may be used to wean babies from added oxygen therapy.
+
+Surfactant therapy reduces morbidity and mortality of preterm infants with respiratory distress syndrome.
+
+Figure 10.13 Chest X-ray showing bilateral pneumothoraces in a preterm infant with respiratory distress syndrome.
+
+Pneumothorax
+
+In respiratory distress syndrome, air from the overdistended alveoli may track into the interstitium, resulting in pulmonary interstitial emphysema (PIE). In up to 10% of infants ventilated for RDS, air leaks into the pleural cavity and causes a pneumothorax (Fig. 10.13). When this occurs, the infant’s oxygen requirement usually increases, and the breath sounds and chest movement on the affected side are reduced, although this can be difficult to detect clinically. A pneumothorax may be demonstrated by transillumination with a bright fibreoptic light source applied to the chest wall. A tension pneumothorax is treated by inserting a chest drain. In order to try and prevent pneumothoraces, infants are ventilated with the lowest pressures that provide adequate chest movement and satisfactory blood gases.
+
+Apnoea and bradycardia and desaturation
+
+Episodes of apnoea and bradycardia and desaturation are common in very low birthweight infants until they reach about 32 weeks’ gestational age. Bradycardia
+
+
+163
+
+may occur either when an infant stops breathing for over 20–30 s or when breathing continues but against a closed glottis. An underlying cause (hypoxia, infection, anaemia, electrolyte disturbance, hypoglycaemia, seizures, heart failure or aspiration due to gastro-oesophageal reflux) needs to be excluded, but in many instances, the cause is immaturity of central respiratory control. Breathing will usually start again after gentle physical stimulation. Treatment with the respiratory stimulant caffeine often helps. Continuous positive airways pressure (CPAP) may be necessary if apnoeic episodes are frequent.
+
+Temperature control
+
+Hypothermia causes increased energy consumption and may result in hypoxia and hypoglycaemia, failure to gain weight and increased mortality. Preterm infants are particularly vulnerable to hypothermia, as:
+• they have a large surface area relative to their mass, so there is greater heat loss (related to surface area) than heat generation (related to mass)
+• their skin is thin and heat permeable, so transepidermal water loss is important in the first week of life
+• they have little subcutaneous fat for insulation
+• they are often nursed naked and cannot conserve heat by curling up or generate heat by shivering.
+
+There is a neutral temperature range in which an infant’s energy consumption is at a minimum level. In the very immature baby, this neutral temperature is highest during the first few days of life and subsequently declines. The temperature of these small babies is maintained using incubators (Fig. 10.14) or initially with overhead radiant heaters. Incubators also allow ambient humidity to be provided, which reduces transepidermal heat loss.
+
+Patent ductus arteriosus
+
+The ductus arteriosus remains patent in many preterm infants. Shunting of blood across the ductus, from the left to the right side of the circulation, is most common in infants with RDS. It may produce no symptoms or it may cause apnoea and bradycardia, increased oxygen requirement and difficulty in weaning the infant from artificial ventilation. The pulses are ‘bounding’ from an increased pulse pressure, the precordial impulse becomes prominent and a systolic murmur may be audible. With increasing circulatory overload, signs of heart failure may develop. More accurate assessment of the infant’s circulation can be obtained on echocardiography. If the infant is symptomatic, pharmacological closure with a prostaglandin synthetase inhibitor, indometacin or ibuprofen, is used. If these measures fail to close a symptomatic duct, surgical ligation will be required.
+
+Fluid balance
+
+A preterm infant’s fluid requirements will vary with gestational and chronological age. On the first day of life, about 60–90 ml/kg is usually required. This is adjusted according to the infant’s clinical condition, plasma electrolytes, urine output and weight change. Subsequent fluid volume is increased by 20–30 ml/kg per day to 150–180 ml/kg per day.
+
+Temperature control: Prevention of heat loss in newborn infants
+
+1. Convection
+• Raise temperature of ambient air in incubator
+• Clothe, including covering head
+• Avoid draughts
+
+2. Radiation
+• Cover baby
+• Double walls for incubators
+
+3. Evaporation
+• Dry and wrap at birth; if extremely preterm place baby’s body directly into plastic bag at birth
+• Humidify incubator
+
+4. Conduction
+• Nurse on heated mattress.
+
+Figure 10.14 The importance of avoiding hypothermia in newborn infants has long been recognised. This incubator was used in the late nineteenth century to keep newborn infants warm. The sponge is to increase ambient humidity.
+
+
+164
+
+Nutrition
+
+Preterm infants have a high nutritional requirement because of their rapid growth. Preterm infants at 28 weeks’ gestation double their birthweight in 6 weeks and treble it in 12 weeks, whereas term babies double their weight in only 4.5 months and treble it in a year.
+
+Infants of 35–36 weeks’ gestational age are mature enough to suck and swallow milk. Less mature infants will need to be fed via an oro- or nasogastric tube. Even in very preterm infants, enteral feeds, preferably breast milk, are introduced as soon as possible. In these infants, breast milk needs to be supplemented with phosphate and may need supplementation with protein and calories (in breast milk fortifier) and calcium. In some neonatal units, extremely preterm infants are initially fed on donor breast milk if maternal breast milk is not available. If formula feeding is required, special infant formulas are available which are designed to meet the increased nutritional requirements of preterm infants but, in contrast to breast milk, do not provide protection against infection or other benefits of breast milk. In the very immature or sick infant, parenteral nutrition is often required. This is usually given through a central venous catheter, inserted peripherally (PICC lines, peripherally inserted central catheters), paying strict attention to aseptic technique both during insertion and when fluids are changed. However, PICC lines carry a significant risk of septicaemia; other risks include thrombosis of a major vein. For this reason, parenteral nutrition may sometimes be given via a peripheral vein, but extravasation may cause skin damage with scarring. Because of the significant risk of septicaemia from parenteral nutrition and the increased risk of necrotising enterocolitis with cow’s milk based formula, mothers should be encouraged and supported to provide breast milk.
+
+Poor bone mineralisation (osteopenia of prematurity) was previously common but is prevented by provision of adequate phosphate, calcium and vitamin D. Because iron is mostly transferred to the fetus during the last trimester, preterm babies have low iron stores and are at a risk of iron deficiency. This is in addition to loss of blood from sampling and an inadequate erythropoietin response. Iron supplements are started at several weeks of age and continued after discharge home.
+
+Infection
+
+Preterm infants are at increased risk of infection, as IgG is mostly transferred across the placenta in the last trimester and no IgA or IgM is transferred. In addition, infection in or around the cervix is often a reason for preterm labour and may cause infection shortly after birth. Most infections in preterm infants occur after several days of age and are nosocomial (hospital-derived); they are often associated with indwelling catheters or artificial ventilation. Infection is considered in more detail later in this chapter.
+
+Infection in preterm infants is a major cause of death and contributes to bronchopulmonary dysplasia (chronic lung disease), white matter injury in the brain and later disability.
+
+Preterm brain injury
+
+Haemorrhages in the brain occur in 25% of very low birthweight infants and are easily recognised on cranial ultrasound scans (Fig. 10.15a). Typically, they occur in the germinal matrix above the caudate nucleus, which contains a fragile network of blood vessels. Most haemorrhages occur within the first 72 h of life. They are more common following perinatal asphyxia and in infants with severe respiratory distress syndrome. Pneumothorax is a significant risk factor. Small haemorrhages confined to the germinal matrix do not increase the risk of cerebral palsy. Haemorrhage may occur in the ventricles. The most severe haemorrhage is unilateral haemorrhagic infarction involving the parenchyma of the brain; this usually results in hemiplegia (Fig. 10.15b).
+
+A large intraventricular haemorrhage may impair the drainage and reabsorption of cerebrospinal fluid (CSF), thus allowing CSF to build up under pressure. This dilatation (Fig. 10.15c) may resolve spontaneously or progress to hydrocephalus, which may cause the cranial sutures to separate, the head circumference to increase rapidly and the anterior fontanelle to become tense. A ventriculoperitoneal shunt may be required, but initially symptomatic relief may be provided by removal of CSF by lumbar puncture or ventricular tap. About half of infants with progressive post-haemorrhagic ventricular dilatation have cerebral palsy, a higher proportion if parenchymal infarction is also present.
+
+Periventricular white matter brain injury may occur following ischaemia or inflammation and may occur in the absence of haemorrhage. It is more difficult to detect by cranial ultrasound. Initially there may be an echodense area or ‘flare’ within the brain parenchyma. This may resolve within a week (in which case the risk of cerebral palsy is not increased), but if cystic lesions become visible on ultrasound 2–4 weeks later, there is definite loss of white matter. Bilateral multiple cysts, called periventricular leukomalacia (PVL), have an 80–90% risk of spastic diplegia, often with cognitive impairment, if posteriorly sited (Fig. 10.15d).
+
+Both intraventricular haemorrhage and periventricular leukomalacia may occur in the absence of abnormal clinical signs.
+
+Necrotising enterocolitis
+
+Necrotising enterocolitis is a serious illness mainly affecting preterm infants in the first few weeks of life. It is associated with bacterial invasion of ischaemic bowel wall. Preterm infants fed cow’s milk formula are more likely to develop this condition than if they are fed only breast milk. The infant stops tolerating feeds, milk is aspirated from the stomach and there may be vomiting, which may be bile-stained. The abdomen becomes distended (Fig. 10.16a) and the stool
+
+
+165
+
+Cranial ultrasound in preterm infants
+
+Coronal section
+Parasagittal section
+
+Normal anatomy
+Sylvian fissure
+Lateral ventricle
+Choroid plexus
+Third ventricle
+
+Intra- and periventricular haemorrhage with dilatation of both lateral and third ventricles
+Germinal layer haemorrhage
+Intraparenchymal haemorrhage
+Germinal layer haemorrhage
+Dilated lateral ventricles
+Intraventricular haemorrhage
+
+Severe periventricular leukomalacia
+Periventricular cysts and increased echodensity of white matter
+
+Figure 10.15a Cranial ultrasound in preterm infants.
+
+Figure 10.15b Large intraventricular haemorrhage with parenchymal haemorrhagic infarction on the right.
+
+Figure 10.15c Dilatation of lateral ventricles following intraventricular haemorrhage.
+
+Figure 10.15d Widespread cysts in periventricular leukomalacia.
+
+…sometimes contains fresh blood. The infant may rapidly become shocked and require artificial ventilation because of abdominal distension and pain. The characteristic X-ray features are distended loops of bowel and thickening of the bowel wall with intramural gas, and there may be gas in the portal tract (Fig. 10.16b). The disease may progress to bowel perforation, which can be detected by X-ray or by transillumination of the abdomen.
+
+Treatment is to stop oral feeding and give broad-spectrum antibiotics to cover both aerobic and anaerobic organisms. Parenteral nutrition is always needed and artificial ventilation and circulatory support are often needed. Surgery is performed for bowel perforation. The disease has significant morbidity and a mortality of about 20%. Long-term sequelae include the development of strictures and malabsorption if extensive bowel resection has been necessary.
+
+Retinopathy of prematurity
+
+Retinopathy of prematurity (ROP) affects developing blood vessels at the junction of the vascular and non-vascularised retina. There is vascular proliferation
+
+
+166
+
+Necrotising enterocolitis
+
+Figure 10.16a Necrotising enterocolitis showing gross abdominal distension and tense and shiny skin over the abdomen.
+
+Air under diaphragm from bowel perforation
+Air in portal tract
+Distended bowel loops
+Intramural air
+
+Figure 10.16b Diagram of characteristic features of necrotising enterocolitis on abdominal X-ray.
+
+which may progress to retinal detachment, fibrosis and blindness. It was initially recognised that the risk is increased by uncontrolled use of high concentrations of oxygen. Now, even with careful monitoring of the infant’s oxygenation, retinopathy of prematurity is still found in about 35% of all very low birthweight infants. As laser therapy reduces visual impairment, the eyes of susceptible preterm infants (<1500 g birthweight or <32 weeks’ gestation) are screened every week by an ophthalmologist. Severe bilateral visual impairment occurs in about 1% of very low birthweight infants, mostly in infants of <28 weeks’ gestation.
+
+Bronchopulmonary dysplasia
+
+Infants who still have an oxygen requirement at a post-menstrual age of 36 weeks are described as having bronchopulmonary dysplasia (BPD) or chronic lung disease. The lung damage comes from pressure and volume trauma from artificial ventilation, oxygen toxicity and infection. The chest X-ray characteristically shows widespread areas of opacification, sometimes with cystic changes (Fig. 10.17). Some infants need prolonged artificial ventilation, but most are weaned onto continuous positive airways pressure (CPAP) followed by additional ambient oxygen, sometimes over several months. Corticosteroid therapy may facilitate earlier weaning from the ventilator and often reduces the infant’s oxygen requirements in the short term, but concern about increased risk of abnormal neurodevelopment including cerebral palsy limits use to those at highest risk and only short courses are given. Some babies go home while still receiving additional oxygen. A few infants with severe disease may die of intercurrent infection or pulmonary hypertension. Subsequent pertussis and RSV (respiratory syncytial virus) infection may cause respiratory failure necessitating intensive care.
+
+Figure 10.17 Chest X-ray of bronchopulmonary dysplasia (BPD) showing fibrosis and lung collapse, cystic changes and overdistension of the lungs.
+
+Problems following discharge
+
+To prevent anaemia of prematurity, additional iron as supplementation or in preterm formula is given until 6 months corrected age, when iron becomes available from solid foods. Multivitamins are also recommended. The standard immunisations should be given.
+
+Medical problems include increased risk of:
+• poor growth – at discharge, over 90% of VLBW infants are below the 10th centile for weight, length and head circumference. Many show some catch-up growth in the first 2–3 years
+• pneumonia/wheezing/asthma
+• bronchiolitis from RSV (respiratory syncytial virus) infection (hospitalisation reduced
+
+
+167
+
+by giving RSV monoclonal antibody, palivizumab)
+• bronchopulmonary dysplasia – may require additional oxygen therapy for many months, when it may be provided at home
+• gastro-oesophageal reflux – especially with bronchopulmonary dysplasia
+• complex nutritional and gastrointestinal disorders – following necrotising enterocolitis or gastrointestinal surgery
+• inguinal hernias – require surgical repair.
+
+Readmission to hospital during the first year of life is increased approximately four-fold – mainly for respiratory disorders and surgical repair of inguinal hernias.
+
+Summary of problems of very low birthweight infants (<1.5 kg)
+
+Respiratory
+
+Respiratory distress syndrome (surfactant deficiency) (74%)
+• respiratory distress within 4 hours of birth
+• antenatal corticosteroids and surfactant therapy reduce morbidity and mortality
+• oxygen therapy, but excess may damage the retina
+• nasal CPAP (continuous positive airway pressure) (67%) and mechanical ventilation (64%) – often required to expand lungs and prevent lung collapse
+
+Pneumothorax (4%)
+Apnoea and bradycardia and desaturations
+Bronchopulmonary dysplasia (chronic lung disease) – O2 requirement at 36 weeks post-menstrual age (27%)
+
+Circulation
+Hypotension – may require volume support, intropes or corticosteroids
+Patent ductus arteriosus – needing medical treatment (34%) or surgical ligation (8%)
+
+Temperature control
+Avoid hypothermia
+Nurse in neutral thermal environment
+Nurse in incubator or under radiant warmer
+Clothe if possible
+Humidity reduces evaporative heat loss
+
+Nutrition
+Nasogastric tube feeding – until 35–36 weeks post-menstrual age
+Feeding intolerance – TPN (total parenteral nutrition) often required
+
+Infection
+Common and potentially serious (25%)
+Increased risk of early-onset infection – group B streptococcus
+Main problem is nosocomial infection – mainly coagulase-negative staphylococcus, also fungal and other infections
+
+Gastrointestinal
+Necrotising enterocolitis (6%) – serious, management is medical or surgery for bowel necrosis or perforation
+
+Jaundice – common, low treatment threshold
+
+Metabolic
+Hypoglycaemia – common
+Electrolyte disturbances
+Osteopenia of prematurity from phosphate deficiency
+
+Anaemia
+Often need blood transfusions
+
+Brain injury
+Haemorrhage (25%) – germinal layer, intraventricular, parenchymal
+Ventricular dilatation – may need ventriculo-peritoneal shunt
+Periventricular leukomalacia (3%) – ischaemic white matter injury
+
+Hearing
+Checked before discharge
+
+Eyes
+Retinopathy of prematurity – may need laser therapy (4%)
+
+Following discharge
+Specialist community nursing support helpful, if available
+Increased risk of respiratory infection and wheezing – especially from bronchiolitis (caused by respiratory syncytial virus, RSV) and pertussis; may need intensive care
+Consider prophylaxis against RSV infection
+Increased rehospitalisation – respiratory disorders, inguinal hernias
+Monitor growth, development (for learning disorders, co-ordination, cerebral palsy), behaviour, attention, vision, hearing – increased risk of impairment
+
+
+168
+
+About 5–10% of very low birthweight infants develop cerebral palsy, but the most common impairments are learning difficulties. The prevalence of cognitive impairment and of other associated difficulties increases with decreasing gestational age at birth, and is greatest if born at very early gestational age (<26 weeks’ gestation) (Fig. 10.18a,b). It becomes increasingly evident when the individual child is compared to their peers at nursery or school. In addition, children may have difficulties with:
+• fine motor skills, e.g. threading beads
+• concentration, with short attention span
+• behavior problems, especially attention deficit disorders
+• abstract reasoning, e.g. mathematics
+• processing several tasks simultaneously.
+
+A small proportion also have hearing impairment, with 1–2% requiring amplification, or visual impairment, with 1% blind in both eyes. A greater proportion have refraction errors and squints and therefore require glasses.
+
+Figure 10.18 The EPICure study, a population-based study of mortality and disability in the UK and Ireland in 1995 of all infants born alive at 22–25 weeks’ gestation. (a) Survival. (Adapted from Wood NS, et al. 2000. Neurologic and developmental disability after extremely preterm birth. EPICure Study Group. New England Journal of Medicine 343:378–384). (b) Proportion of survivors with disability at 11 years of age. (Adapted from Johnson S et al. 2009. Neurodevelopmental disability through 11 years of age in children born before 26 weeks of gestation. Pediatrics 124:e249–e257). Preterm babies born in 2006 show a 30% increase in numbers born at <26 weeks and increased survival. Long-term follow-up is in progress.
+
+(a) Live births (%) by gestational age (weeks): 22, 23, 24, 25.
+Died in delivery room
+Died NICU
+Survived to 30 months
+
+(b) Severe disability 13%; no problems 16%; moderate disability 31%; mild impairments 40%.
+
+Jaundice
+
+Over 50% of all newborn infants become visibly jaundiced. This is because:
+• there is marked physiological release of haemoglobin from the breakdown of red cells because of the high Hb concentration at birth (Fig. 10.19)
+• the red cell life span of newborn infants (70 days) is markedly shorter than that of adults (120 days)
+• hepatic bilirubin metabolism is less efficient in the first few days of life.
+
+Neonatal jaundice is important as:
+• it may be a sign of another disorder, e.g. haemolytic anaemia, infection, metabolic disease, liver disease.
+• unconjugated bilirubin can be deposited in the brain, particularly in the basal ganglia, causing kernicterus.
+
+Kernicterus
+
+This is the encephalopathy resulting from the deposition of unconjugated bilirubin in the basal ganglia and brainstem nuclei (Fig. 10.20). It may occur when the level of unconjugated bilirubin exceeds the albumin-binding capacity of bilirubin of the blood. As this free bilirubin is fat-soluble, it can cross the blood–brain barrier. The neurotoxic effects vary in severity from transient disturbance to severe damage and death. Acute manifestations are lethargy and poor feeding. In severe cases, there is irritability, increased muscle tone causing the baby to lie with an arched back (opisthotonos), seizures and coma. Infants who survive may develop choreoathetoid cerebral palsy (due to damage to the basal ganglia), learning difficulties and sensorineural deafness. Kernicterus used to be an important cause of brain damage in infants with severe rhesus haemolytic disease, but has become rare since the introduction of prophylactic anti-D immunoglobulin for rhesus-negative mothers. However, a few cases continue to occur, especially in slightly preterm infants (35–37 weeks), which has led NICE to issue guidelines on the management of neonatal jaundice.
+
+Clinical evaluation
+
+Babies become clinically jaundiced when the bilirubin level reaches about 80 µmol/L. Management varies according to the infant’s gestational age, age at onset, bilirubin level and rate of rise, and the overall clinical condition.
+
+Age at onset
+
+The age of onset is a useful guide to the likely cause of the jaundice (Table 10.2).
+
+
+169
+
+Figure 10.19 The breakdown product of haemoglobin is unconjugated bilirubin (indirect bilirubin), which is insoluble in water but soluble in lipids. It is carried in the blood bound to albumin. When the albumin binding is saturated, free unconjugated bilirubin can cross the blood–brain barrier, as it is lipid soluble. Unconjugated bilirubin bound to albumin is taken up by the liver and conjugated by the enzyme glucuronyl transferase to conjugated bilirubin (direct bilirubin), which is water-soluble and excreted in bile into the gut and is detectable in urine when blood levels rise. Reabsorption of bilirubin from the gut (enterohepatic circulation) is increased when milk intake is low.
+
+Figure 10.20 Postmortem brainstem and cerebellum showing kernicterus with yellow bilirubin staining of brainstem nuclei (arrows).
+
+Jaundice <24 h of age
+
+Jaundice starting within 24 h of birth usually results from haemolysis. This is particularly important to identify as the bilirubin is unconjugated and can rise very rapidly and reach extremely high levels.
+
+Haemolytic disorders
+
+Rhesus haemolytic disease – Affected infants are usually identified antenatally and monitored and treated if necessary (see Ch. 9). The birth of a severely affected infant, with anaemia, hydrops and hepatosplenomegaly with rapidly developing severe jaundice, has become rare. Antibodies may develop to rhesus antigens other than D and to the Kell and Duffy blood groups, but haemolysis is usually less severe.
+
+ABO incompatibility – This is now more common than rhesus haemolytic disease. Most ABO antibodies are IgM and do not cross the placenta, but some group O women have an IgG anti-A-haemolysin in the blood which can cross the placenta and haemolyse the red cells of a group A infant. Occasionally, group B infants are affected by anti-B haemolysins. Haemolysis can cause severe jaundice but it is usually less severe than in rhesus disease. The infant’s haemoglobin level is usually normal or only slightly reduced and, in contrast to rhesus disease, hepatosplenomegaly is absent. The direct antibody test (Coombs’ test), which demonstrates antibody on the surface of red cells, is positive. The jaundice usually peaks in the first 12–72 h.
+
+G6PD deficiency (see Ch. 22) – Mainly in people originating in the Mediterranean, Middle-East and Far East or in African-Americans. Mainly affects male infants, but some females develop significant jaundice. Parents of affected infants should be given a list of drugs to be avoided, as they may precipitate haemolysis.
+
+Spherocytosis – This is considerably less common than G6PD deficiency (see Ch. 22). There is often, but not always, a family history. The disorder can be identified by recognising spherocytes on the blood film.
+
+Congenital infection
+
+Jaundice at birth can also be from congenital infection. In this case, the bilirubin is conjugated and the infants have other abnormal clinical signs, such as growth restriction, hepatosplenomegaly and thrombocytopenic purpura.
+
+
+170
+
+Table 10.2 Causes of neonatal jaundice
+
+Jaundice starting at <24 h of age
+Haemolytic disorders:
+  Rhesus incompatibility
+  ABO incompatibility
+  G6PD deficiency
+  Spherocytosis, pyruvate kinase deficiency
+Congenital infection
+
+Jaundice at 24 h to 2 weeks of age
+Physiological jaundice
+Breast milk jaundice
+Infection, e.g. urinary tract infection
+Haemolysis, e.g. G6PD deficiency, ABO incompatibility
+Bruising
+Polycythaemia
+Crigler–Najjar syndrome
+
+Jaundice at >2 weeks of age
+
+Unconjugated:
+  Physiological or breast milk jaundice
+  Infection (particularly urinary tract)
+  Hypothyroidism
+  Haemolytic anaemia, e.g. G6PD deficiency
+  High gastrointestinal obstruction, e.g. pyloric stenosis
+
+Conjugated (>25 µmol/L):
+  Bile duct obstruction
+  Neonatal hepatitis
+
+Jaundice at 2 days to 2 weeks of age
+
+Physiological jaundice
+
+Most babies who become mildly or moderately jaundiced during this period have no underlying cause and the bilirubin has risen as the infant is adapting to the transition from fetal life. The term ‘physiological jaundice’ can only be used after other causes have been considered.
+
+Breast milk jaundice
+
+Jaundice is more common and more prolonged in breast-fed infants. The hyperbilirubinaemia is unconjugated. The cause is multifactorial but may involve increased enterohepatic circulation of bilirubin.
+
+Dehydration
+
+In some infants, the jaundice is exacerbated if milk intake is poor from a delay in establishing breast-feeding and the infant becomes dehydrated. Breast-feeding should be continued, although the bilirubin level would fall if it were interrupted. In some infants, intravenous fluids are needed to correct dehydration.
+
+Infection
+
+An infected baby may develop an unconjugated hyperbilirubinaemia from poor fluid intake, haemolysis, reduced hepatic function and an increase in the enterohepatic circulation. If infection is suspected, appropriate investigations and treatment should be instigated. In particular, urinary tract infection may present in this way.
+
+Other causes
+
+Although jaundice from haemolysis usually presents in the first day of life, it may occur during the first week. Bruising and polycythaemia (venous haematocrit is >0.65) will exacerbate the infant’s jaundice. The very rare Crigler–Najjar syndrome, in which the enzyme glucuronyl transferase is deficient or absent, may result in extremely high levels of unconjugated bilirubin.
+
+The causes and management of jaundice at >2 weeks of age (persistent neonatal jaundice), (3 weeks if preterm), are different and are considered separately below.
+
+Severity of jaundice
+
+Jaundice can be observed most easily by blanching the skin with one’s finger. The jaundice tends to start on the head and face and then spreads down the trunk and limbs. If the baby is clinically jaundiced, the bilirubin should be checked with a transcutaneous bilirubin meter or blood sample. It is easy to underestimate in Afro-Caribbean, Asian and preterm babies, and a low threshold should be adopted for measuring the bilirubin of these infants. A high transcutaneous bilirubin level must be checked with a blood laboratory measurement. It is now recommended in the UK that all babies should be checked clinically for jaundice in the first 72 h of life, whether at hospital or home, and if clinically jaundiced, a transcutaneous measurement made.
+
+Rate of change
+
+The rate of rise tends to be linear until a plateau is reached, so serial measurements can be plotted on a chart and used to anticipate the need for treatment before it rises to a dangerous level.

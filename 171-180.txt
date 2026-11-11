@@ -1,0 +1,375 @@
+171
+
+Gestation
+
+Preterm infants are more susceptible to damage from raised bilirubin, so the intervention threshold is lower.
+
+Clinical condition
+
+Infants who experience severe hypoxia, hypothermia or any serious illness may be more susceptible to damage from severe jaundice. Drugs which may displace bilirubin from albumin, e.g. sulphonamides and diazepam, are therefore avoided in newborn infants.
+
+Management
+
+Poor milk intake and dehydration will exacerbate jaundice and should be corrected, but studies have failed to show that routinely supplementing breast-fed infants with water or dextrose solution reduces jaundice. Phototherapy is the most widely used therapy, with exchange transfusion for severe cases.
+
+Phototherapy
+
+Light (wavelength 450 nm) from the blue–green band of the visible spectrum converts unconjugated bilirubin into a harmless water-soluble pigment excreted predominantly in the urine. It is delivered with an overhead light source placed the optimal distance above the infant to achieve high irradiance. Although no long-term sequelae of phototherapy from overhead light have been reported, it is disruptive to normal nursing of the infant and should not be used indiscriminately. The infant’s eyes are covered, as bright light is uncomfortable. Phototherapy can result in temperature instability as the infant is undressed, a macular rash and bronze discoloration of the skin if the jaundice is conjugated.
+
+Continuous multiple (‘intensive’) phototherapy is given if the bilirubin is rising rapidly or has reached a high level.
+
+Exchange transfusion
+
+Exchange transfusion is required if the bilirubin rises to levels which are considered potentially dangerous. Blood is removed from the baby in small aliquots, (usually from an arterial line or the umbilical vein) and replaced with donor blood (via peripheral or umbilical vein). Twice the infant’s blood volume (2 × 80 ml/kg) is exchanged. Donor blood should be as fresh as possible and screened to exclude CMV, hepatitis B and C and HIV infection. The procedure does carry some risk of morbidity and mortality.
+
+Phototherapy has been very successful in reducing the need for exchange transfusion. In infants with rhesus haemolytic disease or ABO incompatibility unresponsive to intensive phototherapy, intravenous immunoglobulin reduces the need for exchange transfusion.
+
+There is no bilirubin level known to be safe or which will definitely cause kernicterus. In rhesus haemolytic disease, it was found that kernicterus could be prevented if the bilirubin was kept below 340 µmol/L (20 mg/dl). As there is no consensus among paediatricians in the UK on the bilirubin levels for phototherapy and exchange transfusion, guidelines have been published by NICE to ensure uniform practice.
+
+Jaundice at >2 weeks of age
+
+Jaundice in babies more than 2 weeks old (3 weeks if preterm), is called persistent or prolonged neonatal jaundice. The key feature is that it may be caused by biliary atresia, and it is important to diagnose biliary atresia promptly, as delay in surgical treatment adversely affects outcome (see Ch. 20 for further details).
+
+Summary: Assessment of neonatal jaundice
+
+Severity?
+Clinical assessment – press skin to assess jaundice, which progresses from head to limbs, may underestimate if dark skin or preterm.
+If clinically jaundiced – check bilirubin with transcutaneous meter or blood sample.
+
+Gestation?
+Lower treatment threshold if preterm.
+
+Age?
+If <24 hours old – likely to be haemolysis and potentially serious.
+If >2 weeks (3 weeks if preterm) – persistent neonatal jaundice. Need to check if unconjugated or conjugated.
+
+Well or unwell?
+Check for clinical evidence of sepsis and if dehydrated.
+
+Risk factors?
+Haemolysis – check for antenatal antibodies, if mother is blood group O (ABO incompatibility), if Mediterranean, Far-Eastern or Afro-Caribbean (G6PD deficiency).
+Sepsis, unwell, acidosis, low serum albumin (if measured).
+
+Needing treatment?
+Plot bilirubin on gestation specific chart according to age since birth.
+Plot rate of change of bilirubin to identify potentially high levels.
+
+
+172
+
+Biliary atresia promptly, as delay in surgical treatment adversely affects outcome (see Ch. 20 for further details).
+
+However, in most infants with persistent neonatal jaundice, the hyperbilirubinaemia is unconjugated, but this needs to be confirmed on laboratory testing.
+
+In prolonged unconjugated hyperbilirubinaemia:
+• ‘Breast milk jaundice’ is the most common cause, affecting up to 15% of healthy breast-fed infants; the jaundice gradually fades and disappears by 4–5 weeks of age.
+• Infection, particularly of the urinary tract, needs to be considered.
+• Congenital hypothyroidism may cause prolonged jaundice before the clinical features of coarse facies, dry skin, hypotonia and constipation become evident. Affected infants should be identified on routine neonatal biochemical screening (Guthrie test).
+
+Conjugated hyperbilirubinaemia (>25 µmol/L) is suggested by the baby passing dark urine and unpigmented pale stools. Hepatomegaly and poor weight gain are other clinical signs that may be present. Its causes include neonatal hepatitis syndrome and biliary atresia, with improved prognosis of biliary atresia with early diagnosis (see Ch. 20 for further details).
+
+Respiratory distress in term infants
+
+Newborn infants with respiratory problems develop the following signs of respiratory distress:
+• tachypnoea (>60 breaths/min)
+• laboured breathing, with chest wall recession (particularly sternal and subcostal indrawing) and nasal flaring
+• expiratory grunting
+• cyanosis if severe.
+
+The causes in term infants are listed in Table 10.3.
+
+Affected infants should be admitted to the neonatal unit for monitoring of heart and respiratory rates, oxygenation and circulation. A chest X-ray will be required to help identify the cause, especially those causes which may need immediate treatment, e.g. pneumothorax or diaphragmatic hernia. Additional ambient oxygen, mechanical ventilation and circulatory support are given as required.
+
+Table 10.3 Causes of respiratory distress in term infants
+
+Pulmonary
+
+Common
+Transient tachypnoea of the newborn
+
+Less common
+Meconium aspiration
+Pneumonia
+Respiratory distress syndrome
+Pneumothorax
+Persistent pulmonary hypertension of the newborn
+Milk aspiration
+
+Rare
+Diaphragmatic hernia
+Tracheo-oesophageal fistula (TOF)
+Pulmonary hypoplasia
+Airways obstruction, e.g. choanal atresia
+Pulmonary haemorrhage
+
+Non-pulmonary
+Congenital heart disease
+Intracranial birth trauma/encephalopathy
+Severe anaemia
+Metabolic acidosis
+
+Transient tachypnoea of the newborn
+
+This is by far the commonest cause of respiratory distress in term infants. It is caused by delay in the resorption of lung liquid and is more common after birth by Caesarean section. The chest X-ray may show fluid in the horizontal fissure. Additional ambient oxygen may be required. The condition usually settles within the first day of life but can take several days to resolve completely. This is a diagnosis made after consideration and exclusion of other causes.
+
+Meconium aspiration
+
+Meconium is passed before birth by 8–20% of babies. It is rarely passed by preterm infants, and occurs increasingly the greater the gestational age, affecting 20–25% of deliveries by 42 weeks. It may be passed in response to fetal hypoxia. At birth these infants may inhale thick meconium. Asphyxiated infants may start gasping and aspirate meconium before delivery. Meconium is a lung irritant and results in both mechanical obstruction and a chemical pneumonitis, as well as predisposing to infection. In meconium aspiration the lungs are over-inflated, accompanied by patches of collapse and consolidation. There is a high incidence of air leak, leading to pneumothorax and pneumomediastinum. Artificial ventilation is often required. Infants with meconium aspiration may develop persistent pulmonary hypertension of the newborn which may make it difficult to achieve adequate oxygenation despite high pressure ventilation (see below for management). Severe meconium aspiration is associated with significant morbidity and mortality.
+
+Pneumonia
+
+Prolonged rupture of the membranes, chorioamnionitis and low birthweight predispose to pneumonia. Infants with respiratory distress will usually require
+
+
+173
+
+investigation to identify any infection. Broad-spectrum antibiotics are started early until the results of the infection screen are available.
+
+Pneumothorax
+
+A pneumothorax may occur spontaneously in up to 2% of deliveries. It is usually asymptomatic but may cause respiratory distress. Pneumothoraces also occur secondary to meconium aspiration, respiratory distress syndrome or as a complication of ventilation. (Management is described earlier in this chapter.)
+
+Milk aspiration
+
+This occurs more frequently in preterm infants and those with respiratory distress or neurological damage. Babies with bronchopulmonary dysplasia often have gastro-oesophageal reflux, which predisposes to aspiration. Infants with a cleft palate are prone to aspirate respiratory secretions or milk.
+
+Persistent pulmonary hypertension of the newborn
+
+This life-threatening condition is usually associated with birth asphyxia, meconium aspiration, septicaemia or respiratory distress syndrome. It sometimes occurs as a primary disorder. As a result of the high pulmonary vascular resistance, there is right-to-left shunting within the lungs and at atrial and ductal levels. Cyanosis occurs soon after birth. Heart murmurs and signs of heart failure are often absent. A chest X-ray shows that the heart is of normal size and there may be pulmonary oligaemia. An urgent echocardiogram is required to establish that the child does not have congenital heart disease.
+
+Most infants require mechanical ventilation and circulatory support in order to achieve adequate oxygenation. Inhaled nitric oxide, a potent vasodilator, is often beneficial. Another vasodilator, sildenafil (Viagra), has been introduced more recently. High-frequency or oscillatory ventilation is sometimes helpful. Extracorporeal membrane oxygenation (ECMO), where the infant is placed on heart and lung bypass for several days, is indicated for severe but reversible cases, but is only performed in a few specialist centres.
+
+Diaphragmatic hernia
+
+This occurs in about 1 in 4000 births. Many are now diagnosed on antenatal ultrasound screening. In the newborn period, it usually presents with failure to respond to resuscitation or as respiratory distress. In most cases, there is a left-sided herniation of abdominal contents through the posterolateral foramen of the diaphragm. The apex beat and heart sounds will then be displaced to the right side of the chest, with poor air entry in the left chest. Vigorous resuscitation may cause a pneumothorax in the normal lung, thereby aggravating the situation. The diagnosis is confirmed by X-ray of the chest and abdomen (Fig. 10.21). Once the diagnosis is suspected, a large nasogastric tube is passed and suction is applied to prevent distension of the intrathoracic bowel. After stabilisation, the diaphragmatic hernia is repaired surgically, but in most infants with this condition the main problem is pulmonary hypoplasia – where compression by the herniated viscera throughout pregnancy has prevented development of the lung in the fetus. If the lungs are hypoplastic, mortality is high.
+
+Figure 10.21 Chest X-ray of diaphragmatic hernia showing loops of bowel in the left chest and displacement of the mediastinum.
+
+Other causes
+
+Other causes of respiratory distress are listed in Table 10.3. When due to heart failure, abnormal heart sounds and/or heart murmurs may be present on auscultation. An enlarged liver from venous congestion is a helpful sign. The femoral arteries must be palpated in all infants with respiratory distress, as coarctation of the aorta and interrupted aortic arch are important causes of heart failure in newborn infants.
+
+Infection
+
+The time of highest risk in childhood for acquiring a serious invasive bacterial infection is the neonatal period. Infections fall into two broad categories, early- and late-onset sepsis.
+
+Early-onset infection
+
+In early-onset sepsis (<48 h after birth), bacteria have ascended from the birth canal and invaded the amniotic fluid. The fetus is secondarily infected because the fetal lungs are in direct contact with infected amniotic fluid. These infants have pneumonia and secondary bacteraemia/septicaemia. In contrast, congenital viral infections and early-onset infection with Listeria monocytogenes, fetal infection is acquired via the placenta following maternal infection.
+
+The risk of early-onset infection is increased if there has been prolonged or premature rupture of the amniotic membranes, and when chorioamnionitis is clinically evident such as when the mother has fever during labour. Presentation is with respiratory distress, apnoea and temperature instability (Box 10.2). A chest X-ray is performed, together with a septic screen. A full blood count is performed to detect neutropenia, as well as blood cultures. An acute-phase reactant (C-reactive protein) is helpful but takes 12–24 h to rise, so one normal result does not exclude infection, but two consecutive normal values are strong evidence against infection. Antibiotics are started immediately without waiting for culture results. Intravenous antibiotics are given to cover group B streptococci, Listeria monocytogenes and other Gram-positive organisms (usually benzylpenicillin or amoxicillin), combined with cover for Gram-negative organisms (usually an aminoglycoside such as gentamicin). If cultures and CRP are negative and the infant has recovered clinically, antibiotics can be stopped after 48 h. If the blood culture is positive or if there are any neurological signs, CSF must be examined and cultured.
+
+Late-onset infection
+
+In late-onset infection (>48 h after birth), the source of infection is often the infant’s environment. The presentation is usually non-specific (Box 10.2). Nosocomially acquired infections are an inherent risk in a neonatal unit, and all staff must adhere strictly to effective hand hygiene measures to prevent cross-infection. In neonatal intensive care, the main sources of infection are indwelling central venous catheters for parenteral nutrition, invasive procedures which break the protective barrier of the skin, and tracheal tubes. Coagulase-negative staphylococcus (Staphylococcus epidermidis) is the most common pathogen, but the range of
+
+
+174
+
+Box 10.2 Clinical features of neonatal sepsis
+
+• Fever or temperature instability or hypothermia
+• Poor feeding
+• Vomiting
+• Apnoea and bradycardia
+• Respiratory distress
+• Abdominal distension
+• Jaundice
+• Neutropenia
+• Hypo-/hyperglycaemia
+• Shock
+• Irritability
+• Seizures
+• Lethargy, drowsiness
+• In meningitis:
+• Tense or bulging fontanelle
+• Head retraction (opisthotonos)
+
+organisms is broad, and includes Gram-positive bacteria (Staphylococcus aureus and Enterococcus faecalis) and Gram-negative bacteria (Escherichia coli and Pseudomonas, Klebsiella and Serratia species). Initial therapy (e.g. with flucloxacillin and gentamicin) is aimed to cover most staphylococci and Gram-negative bacilli. If the organism is resistant to these antibiotics or the infant’s condition does not improve, specific antibiotics (e.g. vancomycin for coagulase-negative staphylococci or enterococci) or broad-spectrum antibiotics (e.g. meropenem) may be indicated. Use of prolonged or broad-spectrum antibiotics predisposes to invasive fungal infections (e.g. Candida albicans) in premature babies. Serial measurements of an acute-phase reactant (CRP) are useful to monitor response to therapy.
+
+Neonatal meningitis, although uncommon, has a mortality of 20–50%, with one-third of survivors having serious sequelae. Presentation is non-specific (Box 10.2); a bulging fontanelle and hyperextension of neck and back (opisthotonos) are late signs and rarely seen in newborn infants. If meningitis is thought likely, ampicillin or penicillin and a third-generation cephalosporin (e.g. cefotaxime, which has CSF penetration) are given. Complications include cerebral abscess, ventriculitis, hydrocephalus, hearing loss and neurodevelopmental impairment.
+
+Some specific infections
+
+Group B streptococcal infection
+
+Around 10–30% of pregnant women have faecal or vaginal carriage of group B streptococci. The organism causes early- and late-onset sepsis. In early-onset sepsis, the newborn baby has respiratory distress and pneumonia. In the UK, approximately 0.5–1 in 1000 babies have early-onset infection; most have pneumonia only, but it may cause septicaemia and meningitis. The severity of the neonatal presentation depends on the duration of the infection in utero. Mortality in babies with positive blood or CSF cultures is up to 10%.
+
+Up to half of infants born to mothers who carry group B streptococcus are colonised on their mucous membranes or skin. Some of these babies develop late-onset disease, up to 3 months of age. It usually presents with meningitis, or occasionally with focal infection (e.g. osteomyelitis or septic arthritis).
+
+In colonised mothers, risk factors for infection are preterm, prolonged rupture of membranes, maternal fever during labour (>38° C), maternal chorioamnionitis or previously infected infant. Prophylactic intrapartum antibiotics given intravenously to the mother can prevent group B streptococcus infection in the newborn baby. There are two approaches to the use of intrapartum antibiotics – universal screening at 35–38 weeks to identify mothers who carry the organism (as practiced in the USA and Australia) and a risk-based approach, in which mothers with risk factors for infection are offered antibiotics (as in the UK).
+
+Listeria monocytogenes infection
+
+Fetal or newborn Listeria infection is uncommon but serious. The organism is transmitted to the mother in food, such as unpasteurised milk, soft cheeses
+
+
+175
+
+and undercooked poultry. It causes a bacteraemia, often with mild, influenza-like illness in the mother, and passage to the fetus via the placenta. Maternal infection may cause spontaneous abortion, preterm delivery or fetal/neonatal sepsis. Characteristic features are meconium staining of the liquor, unusual in preterm infants, a widespread rash, septicaemia, pneumonia and meningitis. The mortality is 30%.
+
+Late-onset disease also occurs, most often with meningitis, and has a better prognosis.
+
+Gram-negative infections
+
+Early-onset infection is acquired in the same way as group B streptococcal infection. Late-onset infection is usually from infected central venous lines, but occasionally from seeding to the circulation from the intestines.
+
+Conjunctivitis
+
+Sticky eyes are common in the neonatal period, starting on the 3rd or 4th day of life. Cleaning with saline or water is all that is required and the condition resolves spontaneously. A more troublesome discharge with redness of the eye may be due to staphylococcal or streptococcal infection and can be treated with a topical antibiotic eye ointment, e.g. neomycin.
+
+Purulent discharge with conjunctival injection and swelling of the eyelids within the first 48 h of life may be due to gonococcal infection. The discharge should be Gram-stained urgently, as well as cultured, and treatment started immediately, as permanent loss of vision can occur. In countries such as the UK and the USA where penicillin resistance is a problem, a third-generation cephalosporin is given intravenously. The eye needs to be cleansed frequently.
+
+Chlamydia trachomatis eye infection usually presents with a purulent discharge, together with swelling of the eyelids (Fig. 10.22), at 1–2 weeks of age, but may also present shortly after birth. The organism can be identified with immunofluorescent staining. Treatment is with oral erythromycin for 2 weeks. The mother and partner also need to be checked and treated.
+
+Figure 10.22 Purulent discharge, together with swollen eyelids, in an 8-day-old infant. This is the characteristic presentation of conjunctivitis from Chlamydia trachomatis. Neisseria gonorrhoeae was absent.
+
+Umbilical infection
+
+The umbilicus dries and separates during the first few days of life. If the skin surrounding the umbilicus becomes inflamed, systemic antibiotics are indicated. Sometimes the umbilicus continues to be sticky, as it is prevented from involuting by an umbilical granuloma. This can be removed by applying silver nitrate while protecting the surrounding skin to avoid chemical burns, or by applying a ligature around the base of the exposed stump.
+
+Herpes simplex virus (HSV) infections
+
+Neonatal HSV infection is uncommon, occurring in 1 in 3000 to 1 in 20 000 live births. HSV infection is usually transmitted during passage through an infected birth canal or occasionally by ascending infection. The risk to an infant born to a mother with a primary genital infection is high, about 40%, while the risk from recurrent maternal infection is less than 3%. In most infants who develop HSV infection, the condition is unexpected as the mother does not know that she is infected (asymptomatic or non-specific illness).
+
+Infection is more common in preterm infants. Presentation is at any time up to 4 weeks of age, with localised herpetic lesions on the skin or eye, or with encephalitis or disseminated disease. Mortality due to localised disease is low, but, even with aciclovir treatment, disseminated disease has a high mortality with considerable morbidity after encephalitis. If the mother is recognised as having primary disease or develops genital herpetic lesions at the time of delivery, elective Caesarean section is indicated. Women with a history of recurrent genital infection can be delivered vaginally as the risk of neonatal infection is low and maternal treatment before delivery minimises the presence of virus at delivery. Aciclovir can be given prophylactically to the baby during the at-risk period, but its efficacy is unproven.
+
+Hepatitis B
+
+Infants of mothers who are hepatitis B surface antigen (HBsAg)-positive should receive hepatitis B vaccination shortly after birth to prevent vertical transmission. The vaccination course needs to be completed during infancy and antibody response checked. Babies are at highest risk of becoming chronic carriers when their mothers are ‘e’ antigen-positive but have no ‘e’ antibodies. Infants of ‘e’ antigen-positive mothers should also be given passive immunisation with hepatitis B immunoglobulin within 24 h of birth.
+
+Infants of HBsAg-positive mothers should be vaccinated against hepatitis B.
+
+Hypoglycaemia
+
+Hypoglycaemia is particularly likely in the first 24 h of life in babies with intrauterine growth restriction, who are preterm, born to mothers with diabetes mellitus,
+
+
+176
+
+are large-for-dates, hypothermic, polycythaemic or ill for any reason. Growth-restricted and preterm infants have poor glycogen stores, whereas the infants of a diabetic mother have sufficient glycogen stores, but hyperplasia of the islet cells in the pancreas causes high insulin levels. Symptoms are jitteriness, irritability, apnoea, lethargy, drowsiness and seizures.
+
+There is no agreed definition of hypoglycaemia in the newborn. Many babies tolerate low blood glucose levels in the first few days of life, as they are able to utilise lactate and ketones as energy stores. Recent evidence suggests that blood glucose levels above 2.6 mmol/L are desirable for optimal neurodevelopmental outcome, although during the first 24 h after birth many asymptomatic infants transiently have blood glucose levels below this level. There is good evidence that prolonged, symptomatic hypoglycaemia can cause permanent neurological disability.
+
+Hypoglycaemia can usually be prevented by early and frequent milk feeding. In infants at increased risk of hypoglycaemia, blood glucose is regularly monitored at the bedside. If an asymptomatic infant has two low glucose values (i.e. below 2.6 mmol/L) in spite of adequate feeding or one very low value (<1.6 mmol/L) or becomes symptomatic, glucose is given by intravenous infusion aiming to maintain the glucose >2.6 mmol/L. The concentration of the intravenous dextrose may need to be increased from 10% to 15% or even 20%. Abnormal blood glucose results should be confirmed in the laboratory. High-concentration intravenous infusions of glucose should be given via a central venous catheter to avoid extravasation into the tissues, which may cause skin necrosis and reactive hypoglycaemia. If there is difficulty or delay in starting the infusion, or a satisfactory response is not achieved, glucagon or hydrocortisone can be given.
+
+Box 10.3 Causes of neonatal seizures
+
+• Hypoxic-ischaemic encephalopathy
+• Cerebral infarction
+• Septicaemia/meningitis
+• Metabolic
+  – Hypoglycaemia
+  – Hypo-/hypernatraemia
+  – Hypocalcaemia
+  – Hypomagnesaemia
+  – Inborn errors of metabolism
+  – Pyridoxine dependency
+• Intracranial haemorrhage
+• Cerebral malformations
+• Drug withdrawal, e.g. maternal opiates
+• Congenital infection
+• Kernicterus
+
+Figure 10.23 MRI scan showing infarction in the territory of a branch of the left middle cerebral artery.
+
+Neonatal seizures
+
+Many babies startle or have tremors when stimulated or make strange jerks during active sleep. Seizures, on the other hand, are unstimulated. Typically, there are repetitive, rhythmic (clonic) movements of the limbs which persist despite restraint and are often accompanied by eye movements and changes in respiration. Many neonatal units now use continuous single channel EEG (amplified integrated EEG, also called a cerebral function monitor) to be able to confirm changes in electrical discharges in the brain. The causes of seizures are listed in Box 10.3.
+
+Whenever seizures are observed, hypoglycaemia and meningitis need to be excluded or treated urgently. A cerebral ultrasound is performed to identify haemorrhage or cerebral malformation. Identification of some cerebral ischaemic lesions or cerebral malformations will require MRI scans of the brain. Treatment is directed at the cause, whenever possible. Ongoing or repeated seizures are treated with an anticonvulsant, although their efficacy in suppressing seizures is much poorer than in older children. The prognosis depends on the underlying cause.
+
+Cerebral infarction (neonatal stroke)
+
+Infarction in the territory of the middle cerebral artery may present with seizures at 12–48 h in a term infant. The seizures may be focal or generalised. In contrast to infants with hypoxic-ischaemic encephalopathy, there are no other abnormal clinical features. The diagnosis is confirmed by MRI (Fig. 10.23). The mechanism is thought to be thrombotic, either thromboembolism from placental vessels or sometimes secondary to inherited thrombophilia. In spite of pronounced abnormalities on the MRI scans, the prognosis is relatively good, with only 20% having hemiparesis or epilepsy presenting later in infancy or early childhood.
+
+Craniofacial disorders
+
+Cleft lip and palate
+
+A cleft lip (Fig. 10.24a) may be unilateral or bilateral. It results from failure of fusion of the frontonasal and maxillary processes. In bilateral cases the premaxilla is
+
+
+177
+
+anteverted. Cleft palate results from failure of fusion of the palatine processes and the nasal septum. Cleft lip and palate affect about 0.8 per 1000 babies. Most are inherited polygenically, but they may be part of a syndrome of multiple abnormalities, e.g. chromosomal disorders. Some are associated with maternal anticonvulsant therapy. They may be detected on antenatal ultrasound scanning.
+
+Surgical repair of the lip (Fig. 10.24b) may be performed within the first week of life for cosmetic reasons, although some surgeons feel that better results are obtained if surgery is delayed. The palate is usually repaired at several months of age. A cleft palate may make feeding more difficult, but some affected infants can still be breast-fed successfully. In bottle-fed babies, if milk is observed to enter the nose and cause coughing and choking, special teats and feeding devices may be helpful. Orthodontic advice and a dental prosthesis may help with feeding. Secretory otitis media is relatively common and should be sought on follow-up. Infants are also prone to acute otitis media. Adenoidectomy is best avoided, as the resultant gap between the abnormal palate and nasopharynx will exacerbate feeding problems and the nasal quality of speech. A multidisciplinary team approach is required, involving plastic and ENT surgeons, paediatrician, orthodontist, audiologist and speech therapist. Parent support groups can provide valuable support and advice for families (Cleft Lip and Palate Association, CLAPA).
+
+Figure 10.24 Before (a) and after (b) operation for cleft lip. Photographs showing the impressive results of surgery help many patients cope with the initial distress at having an affected infant. (Courtesy of Mr N. Waterhouse.)
+
+Pierre Robin sequence
+
+The Pierre Robin sequence is an association of micrognathia (Fig. 10.25), posterior displacement of the tongue (glossoptosis) and midline cleft of the soft palate. There may be difficulty feeding and, as the tongue falls back, there is obstruction to the upper airways which may result in cyanotic episodes. The infant is at risk of failure to thrive during the first few months. If there is upper airways obstruction, the infant may need to lie prone, allowing the tongue and small mandible to fall forward. Persistent obstruction can be treated using a nasopharyngeal airway. Eventually the mandible grows and these problems resolve. The cleft palate can then be repaired.
+
+Figure 10.25 Micrognathia in Pierre Robin sequence.
+
+Gastrointestinal disorders
+
+Oesophageal atresia
+
+Oesophageal atresia is usually associated with a tracheo-oesophageal fistula (Fig. 10.26). It occurs in 1 in 3500 live births and is associated with polyhydramnios during pregnancy. If suspected, a wide-calibre feeding tube is passed and checked by X-ray to see if it reaches the stomach. If not diagnosed at birth, clinical presentation is with persistent salivation and drooling from the mouth after birth. If the diagnosis is not made at this stage, the infant will cough and choke when fed, and have cyanotic episodes. There may be aspiration into the lungs of saliva (or milk) from the upper airways and acid secretions from the stomach. Almost half of the babies have other congenital malformations, e.g. as part of the VACTERL association (Vertebral, Anorectal, Cardiac, Tracheo-oEsophageal, Renal and Radial Limb anomalies). Continuous suction is applied to a tube passed into the oesophageal pouch to reduce aspiration of saliva and secretions pending transfer to a neonatal surgical unit.
+
+Figure 10.26 Oesophageal atresia and tracheo-oesophageal fistula.
+
+86%
+Atresia with fistula between distal oesophagus and trachea
+
+8%
+Atresia without fistula
+
+4%
+H-type fistula without atresia
+
+Small bowel obstruction
+
+This may be recognised antenatally on ultrasound scanning. Otherwise, small bowel obstruction presents with persistent vomiting, which is bile-stained unless the obstruction is above the ampulla of Vater. Meconium may initially be passed, but subsequently its passage is usually delayed or absent. Abdominal distension becomes increasingly prominent the more distal the bowel obstruction. High lesions will present soon after birth, but lower obstruction may not present for some days.
+
+Small bowel obstruction may be caused by:
+• Atresia or stenosis of the duodenum (Fig. 10.27) – one-third have Down syndrome and it is also associated with other congenital malformations
+• Atresia or stenosis of the jejunum or ileum – there may be multiple atretic segments of bowel
+• Malrotation with volvulus – a dangerous condition as it may lead to infarction of the entire midgut
+• Meconium ileus – thick inspissated meconium, of putty-like consistency, becomes impacted in the lower ileum; almost all affected neonates have cystic fibrosis
+• Meconium plug – a plug of inspissated meconium causes lower intestinal obstruction.
+
+The diagnosis is made on clinical features and abdominal X-ray showing intestinal obstruction. Atresia or stenosis of the bowel and malrotation are treated surgically, after correction of fluid and electrolyte depletion. A meconium plug will usually pass spontaneously. Meconium ileus may be dislodged using Gastrografin contrast medium.
+
+Figure 10.27 Abdominal X-ray in duodenal atresia showing a ‘double bubble’ from distension of the stomach and duodenal cap. There is absence of air distally.
+
+Large bowel obstruction
+
+This may be caused by:
+• Hirschsprung disease. Absence of the myenteric nerve plexus in the rectum which may extend along the colon. The baby often does not pass meconium within 48 h of birth and subsequently the abdomen distends. About 15% present as an acute enterocolitis (see Ch. 13).
+• Rectal atresia. Absence of the anus at the normal site. Lesions are high or low, depending whether the bowel ends above or below the levator ani muscle. In high lesions, there is a fistula to the bladder or urethra in boys, or adjacent to the vagina or to the bladder in girls. Treatment is surgical.
+
+Bile-stained vomiting is from intestinal obstruction until proved otherwise.
+
+Exomphalos/gastroschisis
+
+These lesions are often diagnosed antenatally (see Ch. 9). In exomphalos (also called omphalocele), the abdominal contents protrude through the umbilical ring, covered with a transparent sac formed by the amniotic membrane and peritoneum (Fig. 10.28). It is often associated with other major congenital abnormalities. In gastroschisis, the bowel protrudes through a defect in the anterior abdominal wall, adjacent to the umbilicus, and there is no covering sac (see Fig. 9.2). It is not associated with other congenital abnormalities.
+
+Gastroschisis carries a much greater risk of dehydration and protein loss, so the abdomen of affected infants should be wrapped in several layers of clingfilm to minimise fluid and heat loss. A nasogastric tube is passed and aspirated frequently and an intravenous infusion of dextrose established. Colloid support is often required to replace protein loss. Many lesions can be repaired by primary closure of the abdomen. With large lesions, the intestine is enclosed in a silastic sac sutured to the edges of the abdominal wall and the contents gradually returned into the peritoneal cavity.
+
+Figure 10.28 Small exomphalos with loops of bowel confined to the umbilicus. Care needs to be taken not to put a cord clamp across these lesions.
+
+
+178
+
+Further reading
+
+Lissauer T, Fanaroff AA: Neonatology at a Glance, ed 2, Oxford, 2011, Blackwell Science.
+Short, illustrated textbook.
+
+Rennie JM: Roberton’s Textbook of Neonatology, ed 4, Edinburgh, 2011, Elsevier/Churchill Livingstone.
+Comprehensive textbook.
+
+Websites (Accessed May 2011)
+
+BLISS. For parents of infants born too early, too small or too sick: Available at: http://www.bliss.org.uk/.
+
+Sands. Stillbirth and neonatal death charity: Available at: http://www.uk-sands.org/.
+
+
+179
+
+This page intentionally left blank
