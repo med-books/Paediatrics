@@ -1,0 +1,707 @@
+81
+
+6
+Paediatric emergencies
+
+The seriously ill child 81
+Cardiopulmonary resuscitation 81
+The seriously injured child 82
+Shock 86
+Septicaemia 88
+Coma 88
+Status epilepticus 89
+Anaphylaxis 89
+Apparent life-threatening events (ALTE) 90
+The death of a child 92
+
+There are few situations that provoke greater anxiety than being called to see a child who is seriously ill. This chapter outlines a basic approach to the emergency management of seriously ill children.
+
+The seriously ill child
+
+The rapid clinical assessment of the seriously ill child will identify if there is potential respiratory, circulatory or neurological failure. This should take less than 1 minute. Normal vital signs are shown in Figure 6.1 and how a rapid assessment is performed is shown in Figure 6.2.
+
+Resuscitation is given immediately, if necessary, followed by secondary assessment and other emergency treatment.
+
+The seriously ill child may present with shock, respiratory distress, as a drowsy/unconscious or fitting child or with a surgical emergency. Their causes are listed in Figure 6.4. In children, the key to successful outcome is the early recognition and active management of conditions that are life-threatening and potentially reversible.
+
+Doctors should be able to provide life support for children of all ages, from newborn to adolescents.
+
+Summary
+
+Regarding the seriously ill child
+• Prevention of cardiopulmonary arrest is by early recognition and treatment of respiratory distress, respiratory or circulatory failure.
+
+Cardiopulmonary resuscitation
+
+In adults, cardiopulmonary arrest is often cardiac in origin, secondary to ischaemic heart disease. In contrast, children usually have healthy hearts but experience hypoxia from respiratory or neurological failure or shock. If this occurs, irrespective of the cause, basic life support must be started immediately.
+
+Figure 6.1 Variation in the normal range for respiratory rate, heart rate and systolic blood pressure with age.
+
+Vital signs
+
+Respiratory rate
+Infants: 40–30
+Young children: 30–25
+Older children: 25–20
+
+Heart rate
+Infants: 160–140
+Young children: 140–120
+Older children: 110–80
+
+Systolic blood pressure
+Infants: 70–80
+Young children: 80–90
+Older children: 90–110
+
+
+82
+
+Figure 6.2 Assessment of the seriously ill child.
+
+Assessment of the seriously ill child
+
+The rapid clinical assessment: ABCDE
+Should take < 1 min
+
+Airway and Breathing
+Look, listen and feel for:
+• Airway obstruction or respiratory distress
+• Work of breathing (respiratory effort)
+• Respiratory rate
+• Stridor, wheeze
+• Auscultation for air entry
+• Cyanosis
+
+Circulation
+Feel and assess:
+• Heart rate
+• Pulse volume
+• Capillary refill time (Fig. 6.3)
+• Blood pressure
+
+Disability
+Observe and note:
+• Level of consciousness (Box 6.1)
+• Posture – hypotonia, decorticate, decerebrate
+• Pupil size and reactivity
+
+Exposure
+
+Resuscitation (if necessary)
+
+Includes Basic/Advanced life support. Consider:
+• Jaw and neck positioning
+• Oxygen
+• Suction and foreign body removal
+• Supporting breathing
+• Chest compression
+• Monitoring pulse oximetry and heart rate
+
+Secondary assessment
+
+History from:
+• parents
+• witnesses
+• general practitioner
+• paramedical staff
+• police
+
+Examination including:
+• evidence of trauma
+• rash, e.g. meningococcal
+• smell, e.g. ketones, alcohol
+• scars, e.g. underlying congenital heart disease
+• MedicAlert bracelet
+
+Investigations
+• blood glucose
+
+Other emergency interventions
+
+Box 6.1 AVPU rapid assessment of level of consciousness – more detailed evaluation is with the Glasgow Coma Scale (see Table 6.2)
+
+A — ALERT
+V — Responds to VOICE
+P — Responds to PAIN
+U — UNRESPONSIVE
+
+A score of P means that the child’s airway is at risk and will need to be maintained by a manoeuvre or adjunct.
+
+Figure 6.3 Capillary refill time. Digital pressure for 5 seconds. Normal <2 seconds.
+
+Capillary refill time
+• Press on the skin of the sternum or a digit at the level of the heart
+• Apply blanching pressure for 5 seconds
+• Measure time for blush to return
+• Prolonged capillary refill if >2 seconds
+
+Capillary refill time is affected by body exposure to a cold environment.
+
+Basic life support
+
+See Figure 6.5.
+
+Advanced life support (Fig. 6.6)
+
+Children who have been resuscitated successfully should be transferred to a paediatric high-dependency or intensive care unit.
+
+The seriously injured child
+
+Management of the seriously injured child must take account of potential injury to the cervical spine and other bones and internal injuries (Fig. 6.7).
+
+
+83
+
+Figure 6.4 The main modes of presentation of serious illness in children and their causes.
+
+Presentation and causes of serious illness in children
+
+Presentation: Shock
+
+Cause: Hypovolaemia
+Examples:
+• Dehydration – gastroenteritis
+• Diabetic ketoacidosis
+• Blood loss – trauma
+
+Cause: Maldistribution of fluid
+Examples:
+• Septicaemia
+• Anaphylaxis
+
+Cause: Cardiogenic
+Examples:
+• Arrhythmias
+• Heart failure
+
+Presentation: Respiratory distress
+
+Cause: Upper airway obstruction (stridor)
+Examples:
+• Croup/epiglottitis
+• Foreign body
+• Congenital malformations
+• Trauma
+
+Cause: Lower airway disorders
+Examples:
+• Asthma
+• Bronchiolitis
+• Pneumonia
+• Pneumothorax
+
+Presentation: The drowsy or unconscious or seizing child
+
+Causes:
+• Post-ictal
+• Status epilepticus
+• Infection — meningitis/encephalitis
+• Metabolic — diabetic ketoacidosis, hypoglycaemia, electrolyte disturbances (calcium, magnesium, sodium), inborn error of metabolism
+• Head injury — trauma/non-accidental injury
+• Drug/poison ingestion
+• Intracranial haemorrhage
+
+Presentation: Surgical emergencies
+
+Cause: Acute abdomen
+Examples:
+• Appendicitis
+• Peritonitis
+
+Cause: Intestinal obstruction
+Examples:
+• Intussusception
+• Malrotation
+• Bowel atresia/stenosis
+
+
+84
+
+Figure 6.5 Basic life support. (Adapted from Resuscitation Council (UK). 2010. Resuscitation Guidelines.)
+
+Basic life support
+(Trained resuscitator, no equipment)
+
+SAFE approach
+• Shout for help
+• Approach with care
+• Free from danger
+• Evaluate ABC
+
+Check responsiveness:
+• Ask ‘Are you all right?’
+• Stimulate gently
+• Do not shake infants or suspected cervical spine injury
+
+No response
+
+Open airway:
+• Head tilt, chin lift
+• Jaw thrust (if unsuccessful)
+
+No breathing
+
+Check breathing for max 10 s:
+• Look – for chest movement
+• Listen – for breath sounds
+• Feel – for air movement
+
+Breathe
+• Remove any obvious obstruction
+• Give 5 initial rescue breaths
+
+Assess ‘signs of life’ – movements, coughing, normal breathing
+
+Check pulse for max 10 s:
+• >1 year old – carotid, femoral
+• <1 year old – brachial, femoral
+
+No ‘signs of life’ (unless definite pulse >60/min)
+
+Compress chest
+• 15 chest compressions: 2 breaths
+• Rate 100–120 compressions/min
+• Compression: ventilation ratio for all children:
+  – two rescuers (or lone trained resuscitator) – 15:2
+  – lone rescuer (not trained) – 30:2
+
+Push ‘hard and fast’
+
+What should an untrained bystander do?
+Perform chest compressions or expired air ventilation (mouth-to-mouth) – it’s better than doing nothing.
+
+Airway
+
+Airway opening using head tilt/chin lift manoeuvre
+
+Chin lift in infants
+• Head in neutral position
+• Avoid overextension
+• Remove secretions/foreign body under direct vision
+
+Chin lift in children
+Head in ‘sniffing’ position
+
+Jaw thrust
+Two fingers of each hand behind each side of the mandible and push the jaw forward.
+
+Breathing
+Infant: Mouth over infant’s nose and mouth
+Child: Pinch nose, mouth to mouth
+The chest should rise with each breath. Blow for 1–1.5 seconds.
+
+Circulation
+Optimal position for chest compression
+
+(a) Infant. Two thumbs on lower third of sternum with hands round the thorax (needs two rescuers). If alone – compress sternum with tips of two fingers.
+(b) Small child. Heel of one hand over lower third of sternum.
+(c) Large child. Both hands over lower third of sternum. Depress the sternum by at least one-third of the depth of the chest.
+
+
+85
+
+Figure 6.6 Advanced life support. (Adapted from Resuscitation Council (UK). 2010. Resuscitation Guidelines.)
+
+Advanced life support
+(Health professional with equipment)
+
+Unresponsive?
+Not breathing or only occasional gasps?
+
+Call resuscitation team (1 min CPR first, if alone)
+
+Airway and Breathing
+Airway – see basic life support
+Breathing – 5 initial rescue breaths
+
+Use positive pressure ventilation, preferably bag and mask. If required and skilled operator present, advanced airway – intubate and ventilate or laryngeal mask.
+
+Give high concentration O₂.
+
+Formula for endotracheal tube size by age in whole years
+Internal diameter (mm) = (age/4) + 4
+Length for oral tube (cm) = (age/2) + 12
+Length for nasal tube (cm) = (age/2) + 15
+
+Circulation
+15 chest compressions: 2 breaths
+Compression rate 100–120/min (continuously if intubated)
+Ventilation rate 10–12/min
+Establish intravenous access; if delay, use intraosseous route.
+
+Technique to establish intraosseous infusion in the tibia
+• 18-gauge trochar with needle
+• Anterior surface, 2–3 cm below tibial tuberosity
+
+Attach defibrillator/monitor
+Minimise interruption
+
+Assess rhythm
+
+Shockable:
+Ventricular fibrillation (VF) or pulseless ventricular tachycardia (VT)
+
+1 Shock
+4 J/kg
+
+Immediately resume CPR for 2 min
+Minimise interruptions
+
+Give adrenaline (epinephrine) every 3–5 min, i.e. after 3rd shock and then after alternate cycles (10 micrograms/kg IV or IO, i.e. 0.1 ml/kg of 1 in 10000 solution), otherwise 100 micrograms/kg via tracheal tube.
+Give amiodarone 5 mg/kg after 3rd and 5th shock.
+
+Non-shockable:
+Pulseless electrical activity (PEA) or asystole
+
+Immediately resume CPR for 2 min
+Minimise interruptions
+
+Give adrenaline (epinephrine) every 3–5 min, i.e. every other cycle.
+
+Return of spontaneous circulation
+
+Immediate post-cardiac arrest treatment
+• Use ABCDE approach
+• Controlled oxygenation and ventilation
+• Investigations
+• Treat precipitating cause
+• Temperature control
+• Therapeutic hypothermia?
+
+During CPR
+• Ensure high-quality CPR: rate, depth, recoil
+• Plan actions before interrupting CPR
+• Give oxygen
+• Vascular access (intravenous, intraosseous)
+• Give adrenaline (epinephrine) every 3–5 min
+• Consider advanced airway and capnography (end-tidal CO₂ monitoring)
+• Continuous chest compressions when advanced airway in place
+• Correct reversible causes
+
+Reversible causes
+• Hypoxia
+• Hypovolaemia
+• Hypo-/hyperkalaemia/metabolic
+• Hypothermia
+• Tension pneumothorax
+• Toxins
+• Tamponade – cardiac
+• Thromboembolism
+
+
+86
+
+Figure 6.7 Management of the seriously injured child.
+
+Management of the seriously injured child
+
+Primary survey
+
+Airway and cervical spine
+Assume cervical spine damage. Neck movements may injure spine.
+• Only use jaw thrust and chin lift to open airway
+• No neck extension
+• Secure neck with rigid cervical collar and sandbags
+• Discontinue immobilisation only after cervical spine X-rays and neurological examination are found to be normal
+
+Breathing
+Give high-flow O₂ via face mask. If inadequate, commence ventilation.
+Asymmetry of percussion note or breath sounds, consider:
+• pneumothorax or haemothorax, which need to be drained immediately
+• misplaced endotracheal tube
+
+Circulation and haemorrhage control
+Bleeding from superficial wound? Apply pressure to stop bleeding.
+
+If in shock, is there internal bleeding?
+• FAST scan (focused abdominal sonography in trauma)
+• Consider X-rays of chest and pelvis
+• Shock does not occur from isolated head injury beyond infancy
+
+Treatment:
+• Insert two large venous cannulae
+• Take blood for FBC, group and cross-match
+• Give crystalloid 20 ml/kg and reassess
+• Seek surgical opinion, as likely to be ruptured liver, spleen or fractured pelvis or long bone
+
+Disability
+Assess consciousness.
+Secure airway. Provide respiratory support if Glasgow Coma Scale <8 or at ‘P’ on AVPU scale.
+
+Assess pupil size and reactivity.
+If unequal or abnormal – serious head injury.
+
+Exposure
+Examine all parts of body. Consider analgesia. Consider gastric tube (not nasal tube in head injury).
+• Remove all clothing
+• Avoid hypothermia and embarrassment!
+
+Secondary survey (once condition stabilised)
+Examine. Perform further investigations. Identify all injuries. Provide emergency treatment and definitive care.
+
+Shock
+
+Shock is present when the circulation is inadequate to meet the demands of the tissues. Critically ill children are often in shock, usually because of hypovolaemia due to fluid loss or maldistribution of fluid, as occurs in sepsis or intestinal obstruction.
+
+Why are children so susceptible to fluid loss?
+
+Children normally require a much higher fluid intake per kilogram of body weight than adults (Table 6.1). This is because they have a higher surface area to volume ratio and a higher basal
+
+
+87
+
+Table 6.1 Fluid intake at different ages
+
+Body weight | Fluid requirement/24 h | Volume/kg per hour (approximate)
+First 10 kg | 100 ml/kg | 4 ml/kg
+Second 10 kg | 50 ml/kg | 2 ml/kg
+Subsequent kg | 20 ml/kg | 1 ml/kg
+
+Examples of calculations
+Infant (7 kg) | 700 ml | 28 ml/h
+Child (18 kg) | 1000 + 400 = 1400 ml | 40 + 16 = 56 ml/h
+Adolescent (42 kg) | 1000 + 500 + 440 = 1940 ml | 40 + 20 + 22 = 82 ml/h
+
+Box 6.2 Clinical signs of shock
+
+Early (compensated)
+• Tachypnoea
+• Tachycardia
+• Decreased skin turgor
+• Sunken eyes and fontanelle
+• Delayed capillary refill (>2 s)
+• Mottled, pale, cold skin
+• Core–peripheral temperature gap (>4° C)
+• Decreased urinary output
+
+Late (decompensated)
+• Acidotic (Kussmaul) breathing
+• Bradycardia
+• Confusion/depressed cerebral state
+• Blue peripheries
+• Absent urine output
+• Hypotension
+
+Figure 6.8 Initial fluid resuscitation in shock.
+
+0.9% saline or blood (20 ml/kg), x2 if necessary
+
+Improvement → Correction of hypovolaemia
+No improvement → Intensive care
+
+Metabolic rate. Children may therefore become dehydrated if:
+• they are unable to take oral fluids
+• there are additional fluid losses due to fever, diarrhoea or increased insensible losses (e.g. due to increased sweating or tachypnoea)
+• there is loss of the normal fluid-retaining mechanisms, e.g. burns, the permeable skin of premature infants, increased urinary losses or capillary leak.
+
+Clinical features
+
+The clinical features of shock are manifestations of compensatory physiological mechanisms to maintain the circulation and the direct effects of poor perfusion of tissues and organs (Box 6.2).
+
+In early, compensated shock, the blood pressure is maintained by increased heart and respiratory rate, redistribution of blood from venous reserve volume and diversion of blood flow from non-essential tissues such as the skin in the peripheries, which become cold, to the vital organs like brain and heart. In shock due to dehydration, there is usually >10% loss of body weight (see Ch. 13) and a profound metabolic acidosis which is compounded by failure to feed and drink while severely ill. After acute blood loss or redistribution of blood volume because of infection, low blood pressure is a late feature. It signifies that compensatory responses are failing.
+
+In late or uncompensated shock, compensatory mechanisms fail, blood pressure falls and lactic acidosis increases. It is important to recognise early compensated shock, as this is reversible, in contrast to uncompensated shock, which may be irreversible.
+
+Management priorities
+
+Fluid resuscitation
+
+Rapid restoration of the intravascular circulating volume is the priority (Fig. 6.8). This will usually be with 0.9% saline, or blood if following trauma.
+
+Subsequent management
+
+If there is no improvement following fluid resuscitation or there is progression of shock and respiratory failure, a paediatric intensive care unit should be involved and transfer arranged as the child may need:
+• tracheal intubation and mechanical ventilation
+• invasive monitoring of blood pressure
+• inotropic support
+• correction of haematological, biochemical and metabolic derangements
+• support for renal or liver failure.
+
+
+88
+
+Septicaemia
+
+Bacteria may cause a focal infection or proliferate in the bloodstream, leading to septicaemia. In septicaemia, the host response includes the release of inflammatory cytokines and activation of endothelial cells, which may lead to septic shock. The commonest cause of septic shock in childhood is meningococcal infection, which may or may not be accompanied by meningitis. Fortunately, its incidence in the UK has fallen markedly since immunisation was introduced against meningococcal C, but other strains are still prevalent. Pneumococcus is the commonest organism causing bacteraemia, but it is unusual for it to cause septic shock. In neonates, the commonest causes of septicaemia are group B streptococcus or Gram-negative organisms acquired from the birth canal.
+
+Clinical features
+
+See Box 6.3.
+
+Management priorities
+
+Children with septic shock need to be rapidly stabilised and may require transfer to a paediatric intensive care unit.
+
+Antibiotics
+
+Choice depends on the child’s age and any predisposition to infection.
+
+Fluids
+
+Significant hypovolaemia is often present, owing to fluid maldistribution, which occurs due to the release of vasoactive mediators by host inflammatory and endothelial cells. There is loss of intravascular proteins and fluid which may occur due to the development of ‘capillary leak’ caused by endothelial cell dysfunction. Circulating plasma volume is lost into the interstitial fluid. Central venous pressure monitoring and urinary catheterisation may be required to guide the assessment of fluid balance. Capillary leak into the lungs causes pulmonary oedema, which may lead to respiratory failure, necessitating mechanical ventilation.
+
+Circulatory support
+
+Myocardial dysfunction occurs as inflammatory cytokines and circulating toxins depress myocardial contractility. Inotropic support may be required.
+
+Disseminated intravascular coagulation (DIC)
+
+Abnormal blood clotting causes widespread microvascular thrombosis and consumption of clotting factors. If bleeding occurs, clotting derangement should be corrected with fresh frozen plasma and platelet transfusions.
+
+Steroids
+
+There is no evidence that steroids are of benefit in septic shock.
+
+Box 6.3 Clinical features of septicaemia
+
+History
+• Fever
+• Poor feeding
+• Miserable, irritable, lethargy
+• History of focal infection, e.g. meningitis, osteomyelitis, gastroenteritis, cellulitis
+• Predisposing conditions, e.g. sickle cell disease, immunodeficiency
+
+Examination
+• Fever
+• Tachycardia, tachypnoea, low blood pressure
+• Purpuric rash (meningococcal septicaemia) (Fig. 6.9)
+• Shock
+• Multi-organ failure
+
+Figure 6.9 The glass test for meningococcal purpura. Parents are advised to suspect meningococcal disease if their child is febrile and has a rash that does not blanch when pressed under a glass. (Courtesy of Dr Parviz Habibi.)
+
+Summary
+
+Septicaemia
+• The most common cause of septic shock in children is meningococcal disease
+• May occur without meningitis
+• Early antibiotic therapy and fluid resuscitation are life-saving
+• May need admission to paediatric intensive care for multi-organ failure.
+
+Coma
+
+In coma, there is disturbance of the functioning of the cerebral hemispheres and/or the reticular activating system of the brainstem. The level of awareness may range from excessive drowsiness to unconsciousness.
+
+
+89
+
+Table 6.2 Glasgow Coma Scale, incorporating Children’s Coma Scale
+
+Glasgow Coma Scale (4–15 years) | Children’s Coma Scale (<4 years) | Score
+
+Eyes
+Open spontaneously | Open spontaneously | 4
+Verbal command | React to speech | 3
+Pain | React to pain | 2
+No response | No response | 1
+
+Best motor response
+
+Verbal command
+Obeys | Spontaneous or obeys verbal command | 6
+
+Painful stimulus
+Localises pain | Localises pain | 5
+Withdraws | Withdraws | 4
+Abnormal flexion | Abnormal flexion (decorticate posture) | 3
+Extension | Abnormal extension (decerebrate posture) | 2
+No response | No response | 1
+
+Best verbal response
+Oriented and converses | Smiles, orientated to sounds, follows objects, interacts | 5
+Disoriented and converses | Fewer than usual words, spontaneous irritable cry | 4
+Inappropriate words | Cries only to pain | 3
+Incomprehensible sounds | Moans to pain | 2
+No response | No response to pain | 1
+
+A score of <8 out of 15 means that the child’s airway is at risk and will need to be maintained by a manoeuvre or adjunct.
+
+It is assessed rapidly by using AVPU (Alert, responds to Voice, responds to Pain, Unresponsive) or the Glasgow Coma Scale (Table 6.2).
+
+The immediate assessment of a child in coma is shown in Figures 6.10 and 6.11. The causes, clinical features and investigations of coma are listed in Table 6.3. In contrast to adults, most children have a diffuse metabolic insult rather than a structural lesion.
+
+The history, examination and investigation of coma are directed towards the cause. Early treatment of treatable causes, especially hypoglycaemia and infection, is paramount. Raised intracranial pressure is treated with:
+• the head positioned midline
+• the head end of the bed tilted by 20–30°
+• isotonic fluids at 60% maintenance
+• intubation and ventilation if Glasgow Coma Score <9
+• mannitol or 3% saline as osmotic diuretics
+• maintaining normothermia and high normal blood pressure.
+
+An intracranial mass lesion may require neurosurgical intervention.
+
+Status epilepticus
+
+This is a seizure lasting 30 minutes or longer, or when successive seizures occur so frequently that the patient does not recover consciousness between them. After immediate primary assessment and resuscitation, the priority is to stop the seizure as quickly as possible (Fig. 6.12).
+
+Anaphylaxis
+
+Anaphylaxis is rapid in onset and may be fatal. It has an incidence of one episode every 20 000 person years, and about 1 in 1000 cases are fatal. In children, 85% of anaphylaxis is caused by food allergy; most are IgE-mediated reactions with significant respiratory or cardiovascular compromise. Other causes include insect stings, drugs, latex, exercise, inhalant allergens and idiopathic. While most paediatric anaphylaxis occurs in children <5 years, when food allergy is most prevalent, the majority of fatal paediatric anaphylaxis occurs in adolescents with allergy to nuts; asthma is an additional risk factor. The acute management of anaphylaxis relies
+
+
+90
+
+Figure 6.10 Initial assessment and management of coma.
+
+Initial assessment and management of coma
+
+Primary assessment and resuscitation
+• Airway – is it secure?
+• Breathing – is respiratory effort sufficient?
+• Circulation – treat shock
+• Disability – check blood glucose
+  – AVPU or Glasgow Coma Scale
+• Exposure – e.g. look for meningococcal purpuric rash
+
+Secondary assessment and emergency treatment
+
+Examination
+• Is there raised intracranial pressure – abnormal breathing, posture, pupils (Fig. 6.11), fundi (papilloedema or retinal haemorrhages)?
+• Bradycardia and hypertension suggest impending brain stem herniation.
+
+Treat the treatable:
+• hypoglycaemia
+• poisoning
+• diabetes mellitus
+• septicaemia/meningitis
+• herpes simplex encephalitis
+
+Intubate and ventilate if necessary, transfer to paediatric/neurosurgical intensive care unit.
+
+Figure 6.11 Pupillary signs in coma.
+
+Pinpoint, fixed
+• Opiates/barbiturates
+• Pontine lesion
+
+Fixed, dilated
+• Severe hypoxia
+• During/post-seizures
+• Anticholinergic drugs
+• Hypothermia
+
+Unilateral dilated pupil
+• Expanding ipsilateral lesion
+• Tentorial herniation
+• Third nerve lesion
+• Seizures
+
+Anaphylaxis (continued)
+
+The acute management of anaphylaxis relies on early administration of adrenaline (epinephrine) (Fig. 6.13). Long-term management involves detailed strategies and training for allergen avoidance, a written management plan with instructions for the treatment of allergic reactions and the provision of adrenaline (epinephrine) auto-injector(s). In some cases, such as insect sting anaphylaxis, allergen immunotherapy may be effective in preventing future episodes. The experience of an anaphylactic reaction can have a significant psychological impact on the child and family.
+
+Summary
+
+Anaphylaxis in children/adolescents
+• Reaction is mainly to foods – 1 in 1000 episodes is fatal
+• Risk factors for fatal outcome include adolescent age group, coexistent asthma and nut allergy
+• Acute management is early administration of intramuscular adrenaline (epinephrine).
+
+Apparent life-threatening events (ALTE)
+
+These occur in infants and are a combination of apnoea, colour change, alteration in muscle tone, choking or gagging, which are frightening to the observer. They are most common in infants less than 10 weeks old and may occur on multiple occasions. They may be the presentation of a potentially serious disorder, although often no cause is identified.
+
+Management requires a detailed history and thorough examination to identify problems with the baby or in caregiving. The infant should be admitted to hospital. Causes and investigations to be considered are listed in Box 6.4. Multi-channel overnight monitoring is usually indicated.
+
+In most, the episode is brief, with rapid recovery, and the baby is well clinically. Baseline investigations and overnight monitoring of oxygen saturation, respiration and ECG are found to be normal. The parents should be taught resuscitation and will find it helpful to receive follow-up from a specialist paediatric nurse and paediatrician.
