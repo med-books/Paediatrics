@@ -1,0 +1,520 @@
+PAGE 1 (PDF page 1; chapter opener)
+
+22
+Haematological disorders
+
+Anaemia 382
+Bleeding disorders 394
+Bone marrow failure syndromes 394
+Thrombosis in children 402
+
+Haemopoiesis is the process which maintains lifelong production of haemopoietic (blood) cells. The main site of haemopoiesis in fetal life is the liver, whereas throughout postnatal life, it is the bone marrow. All haemopoietic cells are derived from pluripotent haemopoietic stem cells, which are crucial for normal blood production; deficiency causes bone marrow failure because stem cells are required for the ongoing replacement of dying cells. Haemopoietic stem cells can also be used for treatment, e.g. cells from healthy donors can be transplanted into children with bone marrow failure (stem cell transplantation).
+
+Haemoglobin production in the fetus and newborn
+
+The most important difference between haemopoiesis in the fetus compared with postnatal life is the changing pattern of haemoglobin (Hb) production at each stage of development. The composition and names of these haemoglobins are shown in Table 22.1. Understanding the developmental changes in haemoglobin helps to explain the patterns of abnormal haemoglobin production in some inherited childhood anaemias.
+
+Embryonic haemoglobins (Hb Gower 1, Hb Gower 2 and Hb Portland) are produced between 4 and 8 weeks’ gestation, after which haemoglobin production switches to fetal haemoglobin (HbF). HbF is made up of 2 α chains and 2 γ chains (α2γ2) and is the main Hb during fetal life. HbF has a higher affinity for oxygen than adult Hb (HbA), and is therefore better able to hold on to oxygen, an advantage in the relatively hypoxic environment of the fetus (Fig. 22.1). At birth, the types of Hb are: HbF, HbA and HbA2. HbF is gradually replaced by HbA and HbA2 during the first year of life. By 1 year of age, the percentage of HbF is very low in healthy children and increased proportions of HbF are a sensitive indicator of some inherited disorders of haemoglobin production (haemoglobinopathies).
+
+Haematological values at birth and the first few weeks of life
+
+Features are:
+• At birth, the Hb in term infants is high, 14–21.5 g/dl, to compensate for the low oxygen concentration in the fetus. The Hb falls over the first few weeks, mainly due to reduced red cell production, reaching a nadir of around 10 g/dl at 2 months of age (Fig. 22.2). Normal haematological values at birth and during childhood are shown in the Appendix.
+
+Table 22.1 Embryonic, fetal and adult haemoglobins
+
+Haemoglobin type | α-gene cluster | β-gene cluster
+Embryonic
+Hb Gower 1 | ξ2 | ε2
+Hb Gower 2 | α2 | ε2
+Hb Portland | ξ2 | γ2
+Fetal
+HbF | α2 | γ2
+Adult
+HbA | α2 | β2
+HbA2 | α2 | δ2
+
+Haemoglobin types in newborns and adults
+Newborn: HbF 74%, HbA 25%, HbA2 1%
+Children >1 year old and adults: HbA 97%, HbA2 2%
+
+
+PAGE 2 (PDF page 2; printed page 382)
+
+Figure 22.1 Oxygen dissociation curve showing the left shift of HbF compared with HbA. HbF-containing red cells have a higher affinity for oxygen and hold on to oxygen, delivering less to the tissues.
+
+Graph labels: Haemoglobin oxygen saturation (%); Fetal and neonatal blood (mainly HbF); Adult blood (HbA); PO2 (kPa).
+
+Figure 22.2 Changes in haemoglobin concentration with age, showing that the haemoglobin is high at birth, falling to its lowest concentration at 2–3 months of age.
+
+Graph labels: Haemoglobin (g/dl); Upper limit of normal; Mean; Males; Females; Lower limit of normal; Birth; Months; Years.
+
+• Preterm babies have a steeper fall in Hb to a mean of 6.5–9 g/dl at 4–8 weeks chronological age.
+• Normal blood volume at birth varies with gestational age. In healthy term infants the average blood volume is 80 ml/kg; in preterm infants the average blood volume is 100 ml/kg.
+• Stores of iron, folic acid and vitamin B12 in term and preterm babies are adequate at birth. However, in preterm infants, stores of iron and folic acid are lower and are depleted more quickly, leading to deficiency after 2–4 months if the recommended daily intakes are not maintained by supplements.
+• White blood cell counts in neonates are higher than in older children (10–25 × 109/L).
+• Platelet counts at birth are within the normal adult range (150–400 × 109/L).
+
+Summary
+
+Haemoglobin at birth
+• The Hb concentration is high at birth (>14 g/dl) but falls to its lowest level at 2 months of age.
+• Fetal Hb (HbF) is gradually replaced by adult Hb (HbA + HbA2) during infancy.
+
+Anaemia
+
+Anaemia is defined as an Hb level below the normal range. The normal range varies with age, so anaemia can be defined as:
+• Neonate: Hb <14 g/dl
+• 1–12 months: Hb <10 g/dl
+• 1–12 years: Hb <11 g/dl.
+
+Anaemia results from one or more of the following mechanisms:
+• Reduced red cell production – either due to ineffective erythropoiesis (e.g. iron deficiency, the commonest cause of anaemia) or due to red cell aplasia
+• Increased red cell destruction (haemolysis)
+• Blood loss – relatively uncommon cause in children.
+
+There may be a combination of these three mechanisms, e.g. anaemia of prematurity. Using this approach, the principal causes of anaemia are shown in Figure 22.3 and a diagnostic approach to identifying their causes is shown in Figure 22.4.
+
+The definition of anaemia varies with age: Hb <10 g/dl in infants (post-neonatal), Hb <11 g/dl from 1 to 12 years old.
+
+Anaemia due to reduced red cell production
+
+Reduced red cell production may be due to:
+• ‘Ineffective erythropoiesis’: here red cell production occurs at a normal or increased rate but differentiation or survival of the red cells is defective (e.g. iron deficiency).
+• Complete absence of red cell production (red cell aplasia).
+
+
+PAGE 3 (PDF page 3; printed page 383)
+
+Causes of anaemia in infants & children
+
+Impaired red cell production
+
+Red cell aplasia:
+• Parvovirus B19 infection
+• Diamond–Blackfan anaemia (congenital red cell aplasia)
+• Transient erythroblastopenia of childhood
+• Rarities: Fanconi anaemia, aplastic anaemia, leukaemia
+
+Ineffective erythropoiesis:
+• Iron deficiency
+• Folic acid deficiency
+• Chronic inflammation (juvenile idiopathic arthritis)
+• Chronic renal failure
+• Rarities: myelodysplasia, lead poisoning
+
+Increased red cell destruction (haemolysis)
+
+Red cell membrane disorders: Hereditary spherocytosis
+Red cell enzyme disorders: Glucose-6-phosphate dehydrogenase deficiency
+Haemoglobinopathies: Thalassaemias, sickle cell disease
+Immune:
+• Haemolytic disease of the newborn
+• Autoimmune haemolytic anaemia
+
+Blood loss
+
+Fetomaternal bleeding
+Chronic gastrointestinal blood loss: Meckel diverticulum
+Inherited bleeding disorders: von Willebrand disease
+
+Figure 22.3 Causes of anaemia in infants and children.
+
+Causes of anaemia in infants and children
+
+Diagnostic clues to ineffective erythropoiesis are:
+• Normal reticulocyte count
+• Abnormal mean cell volume (MCV) of the red cells: low in iron deficiency and raised in folic acid deficiency.
+
+Iron deficiency
+
+The main causes of iron deficiency are:
+• Inadequate intake
+• Malabsorption
+• Blood loss.
+
+Inadequate intake of iron is common in infants because additional iron is required for the increase in blood volume accompanying growth and to build up the child’s iron stores (Fig. 22.5). A 1-year-old infant requires an intake of iron of about 8 mg/day, which is about the same as his father (9 mg/day) but only half that of his mother (15 mg/day).
+
+Iron may come from:
+• Breast milk (low iron content but 50% of the iron is absorbed)
+• Infant formula (supplemented with adequate amounts of iron)
+• Cow’s milk (higher iron content than breast milk but only 10% is absorbed)
+• Solids introduced at weaning, e.g. cereals (cereals are supplemented with iron but only 1% is absorbed).
+
+Iron deficiency may develop because of a delay in the introduction of mixed feeding beyond 6 months of age or to a diet with insufficient iron-rich foods, especially if it contains a large amount of cow’s milk (Box 22.1). Iron absorption is markedly increased when eaten with food rich in vitamin C (fresh fruit and vegetables) and is inhibited by tannin in tea.
+
+
+PAGE 4 (PDF page 4; printed page 384)
+
+Simple diagnostic approach to anaemia in children
+
+Anaemia
+→ Reticulocytes very low
+→ Red cell production reduced – red cell aplasia
+→ Likely causes: Parvovirus B19; Diamond–Blackfan anaemia
+→ Useful tests: Parvovirus serology; Bone marrow aspirate
+
+Anaemia
+→ Reticulocytes normal or high
+→ Bilirubin raised
+→ Haemolysis
+→ Likely causes: Hereditary spherocytosis; Sickle cell disease; β-Thalassaemia
+→ Useful tests: Blood film*; Hb HPLC**
+
+Anaemia
+→ Reticulocytes normal or high
+→ Bilirubin normal
+→ Blood loss or ineffective erythropoiesis
+→ Likely cause: Iron deficiency
+→ Useful tests: Blood film*; Serum ferritin
+
+*Blood film shows spherocytes in hereditary spherocytosis, sickle cells and target cells in sickle cell disease, hypochromic/microcytic red cells in thalassaemia and in iron deficiency.
+
+** Hb HPLC, high performance liquid chromatography (in some laboratories Hb electrophoresis is used instead) shows:
+• in sickle cell disease – HbS and no HbA is present
+• in β-thalassaemia major – only HbF is present
+• in β-thalassaemia trait – the main abnormality is an increased level of HbA2
+• in α-thalassaemia trait – Hb HPLC is normal
+
+Figure 22.4 Diagnostic approach to anaemia.
+
+Box 22.1 Dietary sources of iron
+
+High in iron
+• Red meat – beef, lamb
+• Liver, kidney
+• Oily fish – pilchards, sardines, etc.
+
+Average iron
+• Pulses, beans and peas
+• Fortified breakfast cereals with added vitamin C
+• Wholemeal products
+• Dark green vegetables – broccoli, spinach, etc.
+• Dried fruit – raisins, sultanas
+• Nuts and seeds – cashews, peanut butter, etc.
+
+Foods to avoid in excess in toddlers
+• Cow’s milk
+• Tea: tannin inhibits iron uptake
+• High-fibre foods: phytates inhibit iron absorption.
+
+Infants should not be fed unmodified cow’s milk as its iron content is low and poorly absorbed.
+
+Clinical features
+
+Most infants and children are asymptomatic until the Hb drops below 6–7 g/dl. As the anaemia worsens, children tire easily and young infants feed more slowly than usual. The history should include asking about blood loss and symptoms or signs suggesting malabsorption. They may appear pale but pallor is an unreliable sign unless confirmed by pallor of the conjunctivae, tongue or palmar creases. Some children have ‘pica’, a term which describes the inappropriate eating of non-food materials such as soil, chalk, gravel or foam rubber (see Case History 22.1). There is evidence that iron deficiency anaemia may be detrimental to behaviour and intellectual function.
+
+Iron requirements during childhood
+
+Diagnosis
+
+The diagnostic clues are:
+• Microcytic, hypochromic anaemia (low MCV and MCH)
+• Low serum ferritin.
+
+The other main causes of microcytic anaemia are:
+• β-thalassaemia trait (usually children of Asian, Arabic or Mediterranean origin)
+
+
+PAGE 5 (PDF page 5; printed page 385)
+
+Iron requirements during childhood
+
+Term newborn
+Iron body stores: 250 mg
+– 75% in blood
+– 25% in ferritin and haemosiderin
+
+Adult
+Iron body stores: 4–5 g
+
+Growth
+
+Elemental iron requirement
+1 mg/kg per day
+
+Iron intake:
+Breast milk: 1.5 mg/L, 50% absorbed
+Infant formula: 5–9 mg/L, 10% absorbed
+Cow’s milk: 0.5 mg/L, 10% absorbed
+Mixed diet: 4–9 mg/day, 10–15% absorbed
+
+Figure 22.5 Iron requirements during childhood.
+
+Case History
+22.1 Iron deficiency anaemia
+
+Ayesha, aged 2 years, was noted to look pale when she attended her general practitioner for an upper respiratory tract infection. A blood count showed Hb 5.0 g/dl, MCV 54 fl (normal 72–85 fl) and MCH 16 (normal 24–39 pg). She was drinking 3 pints of cow’s milk per day and was a very fussy eater, refusing meat. She had started eating soil when playing in the garden.
+
+Because of the inappropriately large volume of milk she was drinking, she was not sufficiently hungry to eat solid food. Replacing some of the milk with iron-rich food and treatment with oral iron produced a rise in the Hb to 7.5 g/dl within 4 weeks. Her pica (eating non-food materials) stopped. Oral iron was continued until her Hb had been normal for 3 months.
+
+• α-thalassaemia trait (usually children of African or Far Eastern origin)
+• Anaemia of chronic disease (e.g. due to renal failure).
+
+Management
+
+For most children, management involves dietary advice and supplementation with oral iron. The best tolerated preparations are Sytron (sodium iron edetate) or Niferex (polysaccharide iron complex) – unlike some other preparations these do not stain the teeth. Iron supplementation should be continued until the Hb is normal and then for a minimum of a further 3 months to replenish the iron stores. With good compliance, the Hb will rise by about 1 g/dl per week. Failure to respond to oral iron usually means the child is not getting the treatment. However, investigation for other causes, in particular malabsorption (e.g. due to coeliac disease) or chronic blood loss (e.g. due to Meckel diverticulum) is advisable if the history or examination suggests a non-dietary cause or if there is failure to respond to therapy in compliant patients. Blood transfusion should never be necessary for dietary iron deficiency. Even children with an Hb as low as 2–3 g/dl due to iron deficiency have arrived at this low level over a prolonged period and can tolerate it.
+
+Treatment of iron deficiency with normal Hb
+
+Some children have biochemical evidence of iron deficiency (e.g. low serum ferritin) but have not yet developed anaemia. Whether these children should be treated with oral iron is controversial. In favour of treatment is the knowledge that iron is required for normal brain development and there is evidence that iron deficiency anaemia is associated with behavioural and intellectual deficiencies, which may be reversible with iron therapy. However, it is not yet clear whether treatment of subclinical iron deficiency confers significant benefit. Treatment also carries a risk of accidental poisoning with oral iron, which is very toxic. A simple strategy is to provide dietary advice to increase oral iron and its absorption in all children with subclinical deficiency and to offer parents the option of additional treatment with oral iron supplements.
+
+Treatment of iron deficiency anaemia is with dietary advice and oral iron therapy for several months.
+
+Red cell aplasia
+
+There are three main causes of red cell aplasia in children:
+• Congenital red cell aplasia (’Diamond–Blackfan anaemia’)
+• Transient erythroblastopenia of childhood
+• Parvovirus B19 infection (this infection only causes red cell aplasia in children with inherited haemolytic anaemias and not in healthy children).
+
+The diagnostic clues to red cell aplasia are:
+• Low reticulocyte count despite low Hb
+• Normal bilirubin
+• Negative direct antiglobulin test (Coombs test)
+• Absent red cell precursors on bone marrow examination.
+
+Diamond–Blackfan anaemia (DBA) is a rare disease (5–7 cases/million live births). There is a family history in 20% of cases; the remaining 80% are sporadic. Specific
+
+
+PAGE 6 (PDF page 6; printed page 386)
+
+Figure 22.6 Abnormally shaped red blood cells help make the diagnosis in haemolytic anaemias.
+(a) Spherocytes (arrows) in hereditary spherocytosis. (b) Sickle cells (arrows) in sickle cell disease.
+(c) Hypochromic cells (arrows) in thalassaemia.
+
+gene mutations in ribosomal protein (RPS) genes are implicated in some cases. Most cases present at 2–3 months of age, but 25% present at birth. Affected infants have symptoms of anaemia; some have other congenital anomalies, such as short stature or abnormal thumbs. Treatment is by oral steroids; monthly red blood cell transfusions are given to children who are steroid unresponsive and some may also be offered stem cell transplantation.
+
+Transient erythroblastopenia of childhood (TEC) is usually triggered by viral infections and has the same haematological features as Diamond–Blackfan anaemia. The main differences between them is that, unlike Diamond–Blackfan anaemia, transient erythroblastopenia of childhood always recovers, usually within several weeks, there is no family history or RPS gene mutations and there are no congenital anomalies.
+
+Increased red cell destruction (haemolytic anaemia)
+
+Haemolytic anaemia is characterised by reduced red cell lifespan due to increased red cell destruction in the circulation (intravascular haemolysis) or liver or spleen (extravascular haemolysis). The lifespan of a normal red cell is 120 days and the bone marrow produces 173 000 million red cells per day. In haemolysis, red cell survival may be reduced to a few days but bone marrow production can increase about eight-fold, so haemolysis only leads to anaemia when the bone marrow is no longer able to compensate for the premature destruction of red cells.
+
+In children, unlike neonates, immune haemolytic anaemias are uncommon. The main cause of haemolysis in children is intrinsic abnormalities of the red blood cells:
+• Red cell membrane disorders (e.g. hereditary spherocytosis)
+• Red cell enzyme disorders (e.g. glucose-6-phosphate dehydrogenase deficiency)
+• Haemoglobinopathies (abnormal haemoglobins, e.g. β-thalassaemia major, sickle cell disease).
+
+Haemolysis from increased red cell breakdown leads to:
+• Anaemia
+• Hepatomegaly and splenomegaly
+• Increased blood levels of unconjugated bilirubin
+• Excess urinary urobilinogen.
+
+The diagnostic clues to haemolysis are:
+• Raised reticulocyte count (on the blood film this is called ‘polychromasia’ as the reticulocytes have a characteristic lilac colour)
+• Unconjugated bilirubinaemia and increased urinary urobilinogen
+• Abnormal appearance of the red cells on a blood film (e.g. spherocytes, sickle shaped or very hypochromic) (Fig. 22.6)
+• Positive direct antiglobulin test (only if an immune cause, as this test identifies antibody-coated red blood cells)
+• Increased red blood cell precursors in the bone marrow.
+
+Hereditary spherocytosis
+
+HS occurs in 1 in 5000 births in Caucasians. It usually has an autosomal dominant inheritance, but in 25% there is no family history and it is caused by new mutations. The disease is caused by mutations in genes for proteins of the red cell membrane (mainly spectrin, ankyrin or band 3). This results in the red cell losing part of its membrane when it passes through the spleen. This reduction in its surface-to-volume ratio causes the cells to become spheroidal, making them less deformable than normal red blood cells and leads to their destruction in the microvasculature of the spleen.
+
+Clinical features
+
+The disorder is often suspected because of the family history. The clinical manifestations are highly variable. Although hereditary spherocytosis-affected individuals may be completely asymptomatic, the clinical features include:
+• Jaundice – usually develops during childhood but may be intermittent; may cause severe haemolytic jaundice in the first few days of life
+• Anaemia – presents in childhood with mild anaemia (haemoglobin 9–11 g/dl), but the haemoglobin level may transiently fall during infections
+• Mild to moderate splenomegaly – depends on the rate of haemolysis
+• Aplastic crisis – uncommon, transient (2–4 weeks), caused by parvovirus B19 infection
+• Gallstones – due to increased bilirubin excretion.
+
+
+PAGE 7 (PDF page 7; printed page 387)
+
+Diagnosis
+
+The blood film is usually diagnostic but more specific tests are available (e.g. osmotic fragility, dye binding tests), although seldom required. Autoimmune haemolytic anaemia is also associated with spherocytes and this should be excluded with a direct antibody test in the absence of a family history of hereditary spherocytosis.
+
+Management
+
+Most children have mild chronic haemolytic anaemia and the only treatment they require is oral folic acid as they have a raised folic acid requirement secondary to their increased red blood cell production. Splenectomy is beneficial but is only indicated for poor growth or troublesome symptoms of anaemia (e.g. severe tiredness, loss of vigour) and is usually deferred until after 7 years of age because of the risks of post-splenectomy sepsis. Prior to splenectomy all patients should be checked that they have been vaccinated against Haemophilus influenzae (Hib), meningitis C and Streptococcus pneumoniae and lifelong daily oral penicillin prophylaxis is advised. Aplastic crisis from parvovirus B19 infection usually requires one or two blood transfusions over 3–4 weeks when no red blood cells are produced. If gallstones are symptomatic, cholecystectomy may be necessary.
+
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency
+
+G6PD deficiency is the commonest red cell enzymopathy affecting over 100 million people worldwide. It has a high prevalence (10–20%) in individuals originating from central Africa, the Mediterranean, the Middle East and the Far East. Many different mutations of the gene have been described, leading to different clinical features in different populations.
+
+G6PD is the rate-limiting enzyme in the pentose phosphate pathway and is essential for preventing oxidative damage to red cells. Red cells lacking G6PD are susceptible to oxidant-induced haemolysis. G6PD deficiency is X-linked and therefore predominantly affects males. Females who are heterozygotes are usually clinically normal as they have about half the normal G6PD activity. Females may be affected either if they are homozygous or, more commonly, when by chance more of the normal than the abnormal X chromosomes have been inactivated (extreme Lyonisation – the Lyon hypothesis is that, in every XX cell, one of the X chromosomes is inactivated and that this is random). In Mediterranean, Middle Eastern and Oriental populations, affected males have very low or absent enzyme activity in their red cells. Affected Afro-Caribbeans have 10–15% normal enzyme activity.
+
+Clinical manifestations
+
+Children usually present clinically with:
+• Neonatal jaundice – onset is usually in the first 3 days of life. Worldwide it is the most common cause of severe neonatal jaundice requiring exchange transfusion
+• Acute haemolysis – precipitated by:
+– infection, the most common precipitating factor
+– certain drugs (see Box 22.2)
+– fava beans (broad beans)
+– naphthalene in mothballs.
+
+Haemolysis due to G6PD deficiency is predominantly intravascular. This is associated with fever, malaise and the passage of dark urine, as it contains haemoglobin as well as urobilinogen. The haemoglobin level falls rapidly and may drop below 5 g/dl over 24–48 h.
+
+Box 22.2 Drugs and chemicals which can cause haemolysis in children with G6PD deficiency
+
+Antimalarials
+• Primaquine
+• Quinine
+• Chloroquine
+
+Antibiotics
+• Sulphonamides (including co-trimoxazole)
+• Quinolones (ciprofloxacin, nalidixic acid)
+• Nitrofurantoin
+
+Analgesics
+• Aspirin (in high doses)
+
+Chemicals
+• Naphthalene (mothballs)
+• Divicine (fava beans – also called broad beans)
+
+Adapted from: British National Formulary for Children 2009.
+
+Diagnosis
+
+Between episodes, almost all patients have a completely normal blood picture and no jaundice or anaemia. The diagnosis is made by measuring G6PD activity in red blood cells. During a haemolytic crisis, G6PD levels may be misleadingly elevated due to the higher enzyme concentration in reticulocytes, which are produced in increased numbers in response to the destruction of mature red cells. A repeat assay is then required in the steady state to confirm the diagnosis.
+
+Management
+
+The parents should be given advice about the signs of acute haemolysis (jaundice, pallor and dark urine) and provided with a list of drugs, chemicals and food to avoid (Box 22.2). Transfusions are rarely required, even for acute episodes.
+
+Haemoglobinopathies
+
+These are red blood cell disorders which cause haemolytic anaemia because of reduced or absent production of HbA (α- and β-thalassaemias) or because of the production of an abnormal Hb (e.g. sickle cell disease). α-Thalassaemias are caused by deletions (occasionally mutations) in the α-globin gene. β-Thalassaemia and
+
+
+PAGE 8 (PDF page 8; printed page 388)
+
+Table 22.2 Haemoglobins in haemoglobinopathies
+
+Condition | HbA | HbA2 | HbF | HbS
+Newborn | 25% | 1% | 74% | −
+Adult | 97% | 2% | − | −
+β-Thalassaemia trait | >90% | ↑ | +↑ | −
+β-Thalassaemia major | − | ↑ | ↑ | −
+Sickle cell trait | ✓ | ✓ | +↑ | ✓
+Sickle cell disease | − | ✓ | +↑ | ✓
+
+Figure 22.7 Changes in haemoglobin chains in the fetus and infancy.
+
+Graph labels: % of non-α chains present; γ (fetal); β (adult); δ; 3 mths; 6 mths; Birth; Antenatal age; Postnatal age.
+
+sickle cell disease are caused by mutations in the β-globin gene. Clinical manifestations of the haemoglobinopathies affecting the β-chain are delayed until after 6 months of age when most of the HbF present at birth has been replaced by adult HbA (Fig. 22.7, Table 22.2).
+
+Sickle cell disease
+
+This is now the commonest genetic disorder in children in many European countries, including the UK (prevalence 1 in 2000 live births). Sickle cell disease is the collective name given to haemoglobinopathies in which HbS is inherited. HbS forms as a result of a point mutation in codon 6 of the β-globin gene, which causes a change in the amino acid encoded from glutamine to valine. Sickle cell disease is most common in patients whose parents are black and originate from tropical Africa or the Caribbean but it is also found in the Middle East and in low prevalence in most other parts of the world except for northern Europeans.
+
+There are three main forms of sickle cell disease and the sickle trait:
+• Sickle cell anaemia (HbSS) – patients are homozygous for HbS, i.e. virtually all their Hb is HbS; they have small amounts of HbF and no HbA because they have the sickle mutation in both β-globin genes.
+• HbSC disease (HbSC) – affected children inherit HbS from one parent and HbC from the other parent (HbC is formed as a result of a different point mutation in β-globin), so they also have no HbA because they have no normal β-globin genes.
+• Sickle β-thalassaemia – affected children inherit HbS from one parent and β-thalassaemia trait from the other. They have no normal β-globin genes and most patients can make no HbA and therefore have similar symptoms to those with sickle cell anaemia.
+• Sickle trait – inheritance of HbS from one parent and a normal β-globin gene from the other parent, so approximately 40% of the haemoglobin is HbS. They do not have sickle cell disease but are carriers of HbS, so can transmit HbS to their offspring. They are asymptomatic and are only identified as a result of blood tests.
+
+Pathogenesis
+
+In all forms of sickle cell disease, HbS polymerises within red blood cells forming rigid tubular spiral bodies which deform the red cells into a sickle shape. Irreversibly sickled red cells have a reduced lifespan and may be trapped in the microcirculation, resulting in blood vessel occlusion (vaso-occlusion) and therefore ischaemia in an organ or bone. This is exacerbated by low oxygen tension, dehydration and cold.
+
+The clinical manifestations of sickle cell disease vary widely between different individuals. Disease severity also varies with different forms of sickle cell disease; in general, HbSS is the most severe form of the disease. Some patients produce more HbF (e.g. 10–15% of their Hb may be HbF, while most patients with sickle cell disease have HbF levels of 1%) and this results in a marked reduction in disease severity.
+
+Clinical features
+
+These are listed in Figure 22.8.
+
+Management
+
+Prophylaxis – Because of increased susceptibility to infection, especially encapsulated organisms, e.g. Streptococcus pneumoniae and Haemophilus influenzae type B because of functional asplenia, children should be fully immunised, including against pneumococcal, Haemophilus influenzae type B and meningococcus infection. To ensure full coverage of all pneumococcal subgroups, daily oral penicillin throughout childhood should be given. Patients should receive once-daily oral folic acid because of the increased demand for folic acid caused by the chronic haemolytic anaemia. Vaso-occlusive crises should be minimised by avoiding exposure to cold, dehydration, excessive exercise, undue stress or hypoxia. This requires practical measures such as dressing children warmly, giving drinks especially before exercise and taking extra care to keep children warm after swimming or when playing outside in the winter.
+
+
+PAGE 9 (PDF page 9; printed page 389)
+
+Clinical manifestations of sickle cell disease
+
+Anaemia
+All have moderate anaemia (usually Hb 6–10 g/dl) with clinically detectable jaundice from chronic haemolysis.
+
+Infection
+All have marked increase in susceptibility to infection from encapsulated organisms such as pneumococci and Haemophilus influenzae. There is also an increased incidence of osteomyelitis caused by Salmonella and other organisms. This susceptibility to infection is due to hyposplenism secondary to chronic sickling and microinfarction in the spleen in infancy. The risk of overwhelming sepsis is greatest in early childhood.
+
+Painful crises
+Vaso-occlusive crises causing pain affect many organs of the body with varying frequency and severity. A common mode of presentation in late infancy is the hand-foot syndrome, in which there is dactylitis with swelling and pain of the fingers and/or feet from vaso-occlusion (Fig. 22.9).
+
+The bones of the limbs and spine are the most common sites. The most serious type of painful crisis is actute chest syndrome, which can lead to severe hypoxia and the need for mechanical ventilation and emergency transfusion. Avascular necrosis of the femoral heads may also occur. Acute vaso-occlusive crises may be precipitated by exposure to cold, dehydration, excessive exercise or stress, hypoxia or infection.
+
+Acute anaemia
+Sudden drop in haemoglobin from:
+Haemolytic crises – sometimes associated with infection
+Aplastic crises – haemoglobin may fall precipitously. Parvovirus infection causes complete, though temporary, cessation of red blood cell production
+Sequestration crises – sudden splenic or hepatic enlargement, abdominal pain and circulatory collapse from accumulation of sickled cells in spleen
+
+Priapism
+Needs to be treated promptly with exchange transfusion as it may lead to fibrosis of the corpora cavernosa and subsequent erectile impotence.
+
+Splenomegaly
+Common in young children, but becomes much less frequent in older children.
+
+Long-term problems
+Short stature and delayed puberty
+Stroke and cognitive problems – although 1 in 10 children with sickle cell disease have a stroke, twice that number develop more subtle neurological damage (Fig. 22.10), often manifest with poor concentration and school performance
+Adenotonsillar hypertrophy – causing sleep apnoea syndrome leading to nocturnal hypoxaemia, which can cause vaso-occlusive crises and/or stroke
+Cardiac enlargement – from chronic anaemia
+Heart failure – from uncorrected anaemia
+Renal dysfunction – may exacerbate enuresis because of inability to concentrate urine
+Pigment gallstones – due to increased bile pigment production
+Leg ulcers – uncommon in children
+Psychosocial problems – difficulties with education and behaviour exacerbated by time off school may occur
+
+Figure 22.8 Clinical manifestations of sickle cell disease.
+
+Figure 22.9 Dactylitis in sickle cell disease.
+
+Treatment of acute crises – Painful crises should be treated with oral or intravenous analgesia according to need (may require opiates) and good hydration (oral or intravenous as required); infection should be treated with antibiotics; oxygen should be given if the oxygen saturation is reduced. Exchange transfusion is indicated for acute chest syndrome, stroke and priapism.
+
+Treatment of chronic problems – Children who have recurrent hospital admissions for painful vaso-occlusive crises or acute chest syndrome (see Case History 22.2)
+
+
+PAGE 10 (PDF page 10; printed page 390)
+
+Figure 22.10 MRI of the brain in sickle cell disease showing multiple cerebral infarcts.
+
+may benefit from hydroxyurea, a drug which increases their HbF production and helps protect against further crises. It requires monitoring for side-effects, especially white blood cell suppression. The most severely affected children (1–5%) who have had a stroke or who do not respond to hydroxyurea may be offered a bone marrow transplant. This is the only cure for sickle cell disease but can only be safely carried out if the child has an HLA-identical sibling who can donate their bone marrow – the cure rate is 90% but there is a 5% risk of fatal transplant-related complications.
+
+Prognosis
+
+Sickle cell disease is a cause of premature death due to one or more of these severe complications; around 50% of patients with the most severe form of sickle cell disease die before the age of 40 years. However, the mortality rate during childhood is around 3%, usually from bacterial infection.
+
+Prenatal diagnosis and screening
+
+Many countries with a high prevalence of haemoglobinopathies, including the UK, perform neonatal screening on dried blood spots (Guthrie test) collected in the first week of life. Early diagnosis of sickle cell disease allows penicillin prophylaxis to be started in early infancy instead of awaiting clinical presentation, possibly due to a severe infection. Prenatal diagnosis can be carried out by chorionic villus sampling at the end of the first trimester if parents wish to choose this option to prevent the birth of an affected child.
+
+SC disease
+
+Children with SC disease usually have a nearly normal haemoglobin level and fewer painful crises than those with HbSS, but they may develop proliferative retinopathy in adolescence. Their eyes should be checked periodically. They are also prone to develop osteonecrosis of the hips and shoulders.
+
+Case History
+22.2 Acute sickle chest syndrome
+
+Princess, a 9-year-old girl with known sickle cell anaemia (HbSS), presented with increasing chest pain for 6 h. She had a non-productive cough. On examination, she had a fever of 39.7°C. Her breathing was laboured, respiratory rate increased and there was reduced air entry at both bases.
+
+Investigations
+• Haemoglobin 6 g/dl, WBC 14 × 109/L, platelets 350 × 109/L
+• Chest X-ray (see Fig. 22.11)
+• Oxygen saturation – 89% in air
+• Arterial PO2 – 9.3 kPa (70 mmHg) breathing face-mask oxygen
+• Blood cultures were taken and viral titres performed.
+
+A diagnosis of acute sickle chest syndrome was made, a potentially fatal condition. She was given oxygen by CPAP (continuous positive airways pressure). An exchange transfusion was performed. Broad-spectrum antibiotics were commenced. She responded well to treatment.
+
+Figure 22.11 Chest X-ray in acute sickle chest syndrome showing bilateral lower zone consolidation. (Courtesy of Dr Parviz Habibi.)
+
+Sickle cell trait (AS)
+
+This is asymptomatic and rarely causes problems except under conditions of low oxygen tension. General anaesthesia does not constitute a risk in this population as long as they have been identified and hypoxia avoided.
+
+β-Thalassaemias
+
+The β-thalassaemias occur most often in people from the Indian subcontinent, Mediterranean and Middle East (Fig. 22.12). In the UK, most affected children are born to parents from the Indian subcontinent; in the past, many were born to Greek Cypriots, but this has become uncommon through active genetic counselling within their community.
+
+There are two main types of β thalassaemia – both of which are characterised by a severe reduction in the production of β-globin (and thereby reduction in HbA production). All affected individuals have a

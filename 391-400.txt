@@ -1,0 +1,535 @@
+PAGE 1 (PDF page 1; printed page 391)
+
+Figure 22.12 Ethnic origin of most families with sickle cell disease and thalassaemia.
+
+Map labels: Sickle cell; Thalassaemia.
+
+severe reduction in β-globin and disease severity depends on the amount of residual HbA and HbF production.
+• β-Thalassaemia major – This is the most severe form of the disease. HbA (α2β2) cannot be produced because of the abnormal β-globin gene.
+• β-Thalassaemia intermedia – This form of the disease is milder and of variable severity. The β-globin mutations allow a small amount of HbA and/or a large amount of HbF to be produced.
+
+Clinical features (Fig. 22.13)
+
+These are:
+• Severe anaemia, which is transfusion dependent, from 3–6 months of age and jaundice
+• Failure to thrive/growth failure
+• Extramedullary haemopoiesis, prevented by regular blood transfusions. In the absence of regular blood transfusion, develop hepatosplenomegaly and bone marrow expansion; the latter leads to the classical facies with maxillary overgrowth and skull bossing (very rare in the UK and developed countries).
+
+Management
+
+The condition is uniformly fatal without regular blood transfusions, so all patients are given lifelong monthly transfusions of red blood cells. The aim is to maintain the haemoglobin concentration above 10 g/dl in order to reduce growth failure and prevent bone deformation. Repeated blood transfusion causes chronic iron overload, which causes cardiac failure, liver cirrhosis, diabetes, infertility and growth failure. For this reason, all patients are treated with iron chelation with subcutaneous desferrioxamine, or with an oral iron chelator drug, such as deferasirox, starting from 2 to 3 years of age. Patients who comply well with transfusion and chelation have a 90% chance of living into their forties and beyond. However, compliance is difficult. Those who cannot comply have a high mortality in early adulthood from iron overload. The complications of multiple transfusions are shown in Box 22.3. An alternative treatment for β-thalassaemia major is bone marrow transplantation, which is currently the only cure. It is generally reserved for children with an HLA-identical sibling as there is then a 90–95% chance of success (i.e. transfusion independence and long-term cure) but a 5% chance of transplant-related mortality.
+
+Prenatal diagnosis
+
+For parents who are both heterozygous for β-thalassaemia, there is a 1 in 4 risk of having an affected child. Prenatal diagnosis of β-thalassaemia (DNA analysis of a chorionic villus sample) should be offered together with genetic counselling to help parents to make informed decisions about whether or not to continue the pregnancy.
+
+β-Thalassaemia trait
+
+Heterozygotes are usually asymptomatic. The red cells are hypochromic and microcytic. Anaemia is mild or absent, with a disproportionate reduction in MCH (18–22 fl) and MCV (60–70 fl). The red blood cell count is therefore usually increased (>5.5 × 1012/L). The most important diagnostic feature is a raised HbA2, usually about 5%, and in about half there is a mild elevation of HbF level of 1–3%. β-Thalassaemia trait can cause confusion with mild iron deficiency because of the hypochromic/microcytic red cells but can be distinguished by measuring serum ferritin, which is low in iron deficiency but not β-thalassaemia trait.
+
+To avoid unnecessary iron therapy, serum ferritin levels should be measured in patients with mild anaemia and microcytosis prior to starting iron supplements.
+
+α-Thalassaemias
+
+Healthy individuals have four α-globin genes. The manifestation of α-thalassaemia syndromes depends on the number of functional α-globin genes.
+
+The most severe α-thalassaemia, α-thalassaemia major (also known as Hb Barts hydrops fetalis) is caused by deletion of all four α-globin genes, so no HbA (α2β2) can be produced. It occurs mainly in families of South-east Asian origin and presents in mid-trimester with fetal hydrops (oedema and ascites) from fetal anaemia, which is always fatal in utero or within hours of delivery. The only long-term survivors of α-thalassaemia major are those who have received monthly intrauterine transfusions until delivery followed by lifelong monthly transfusions after birth. The diagnosis is made by Hb electrophoresis or Hb HPLC (high-performance liquid chromatography), which shows only Hb Barts.
+
+When only three of the α-globin genes are deleted (HbH disease), affected children have mild–moderate anaemia but occasional patients are transfusion-dependent.
+
+Deletion of one or two α-globin genes (known as α-thalassaemia trait) is usually asymptomatic and anaemia is mild or absent. The red cells may be hypochromic and microcytic, which may cause confusion with iron deficiency.
+
+
+PAGE 2 (PDF page 2; printed page 392)
+
+Clinical features and complications of β-thalassaemia major
+
+Pallor
+Jaundice
+Bossing of the skull
+Maxillary overgrowth
+Splenomegaly and hepatomegaly
+Need for repeated blood transfusions
+Complications shown in Box 22.3
+
+Figure 22.13 Facies in β-thalassaemia showing maxillary overgrowth and skull bossing in a child who has not been adequately transfused. This is now very rare in the UK and developed countries.
+
+Box 22.3 Complications of long-term blood transfusion in children
+
+Iron deposition – the most important (all patients)
+• Heart – cardiomyopathy
+• Liver – cirrhosis
+• Pancreas – diabetes
+• Pituitary gland – delayed growth and sexual maturation
+• Skin – hyperpigmentation
+
+Antibody formation (10% of children)
+• Allo-antibodies to transfused red cells in the patient make finding compatible blood very difficult
+
+Infection – now uncommon (<10% of children)
+• Hepatitis A, B, C
+• HIV
+• Malaria
+• Prions (e.g. new variant CJD)
+
+Venous access (common problem)
+• Often traumatic in young children
+• Central venous access device (e.g. Portacath) may be required; these predispose to infection.
+
+Anaemia in the newborn
+
+Reduced red blood cell production
+
+There are two main but rare causes in the newborn and both cause red cell aplasia:
+• Congenital infection with parvovirus B19
+• Congenital red cell aplasia (Diamond–Blackfan anaemia).
+
+In this situation, the Hb is low and the red blood cells look normal. The diagnostic clue is that the reticulocyte count is low and the bilirubin is normal.
+
+Increased red cell destruction (haemolytic anaemia)
+
+This occurs either because of an antibody destroying the red blood cells (i.e. an extrinsic cause) or because there is an intrinsic abnormality of the surface or intracellular contents of the red blood cell. The main causes of haemolytic anaemia in neonates are:
+• Immune (e.g. haemolytic disease of the newborn)
+• Red cell membrane disorders (e.g. hereditary spherocytosis)
+• Red cell enzyme disorders (e.g. glucose-6-phosphate dehydrogenase deficiency)
+• Abnormal haemoglobins (e.g. α-thalassaemia major).
+
+The diagnostic clues to a haemolytic anaemia are an increased reticulocyte count (due to increased red cell production to compensate for the anaemia) and increased unconjugated bilirubin (due to increased red cell destruction with release of this bile pigment into the plasma).
+
+Haemolytic disease of the newborn (immune haemolytic anaemia of the newborn) is due to antibodies against blood group antigens. The most important are: anti-D (a ‘rhesus’ antigen), anti-A or anti-B (ABO blood group antigens) and anti-Kell. The mother is always negative for the relevant antigen (e.g. rhesus D-negative) and the baby is always positive; the mother then makes antibodies against the baby’s blood group and these antibodies cross the placenta into the baby’s circulation causing fetal or neonatal haemolytic anaemia. The diagnostic clue to this type of haemolytic anaemia is a positive direct anti-globulin test (Coombs test). This test is only positive in antibody-mediated anaemias and so is negative in all the other types of haemolytic anaemia. (These conditions are considered further in Chapter 10.)
+
+The most common causes of non-immune haemolytic anaemia in neonates are: G6PD (glucose-6-
+
+
+PAGE 3 (PDF page 3; printed page 393)
+
+Summary
+
+Anaemia
+
+Causes of anaemia:
+• Reduced red cell production
+• Increased red cell destruction (haemolysis)
+• Combination of causes, e.g. anaemia of prematurity
+• Blood loss (uncommon)
+
+Reduced red cell production
+
+Iron deficiency anaemia
+• Common in infants and toddlers, especially if of Indian subcontinent origin
+• Usually dietary in origin
+• Occurs because of high iron requirement (1 mg/kg/day) for growth and body stores
+• Will occur if infants are weaned at 6 months of age on to a mixed diet including iron-rich food
+• Is diagnosed from a hypochromic microcytic anaemia and low serum ferritin
+• Is treated with dietary advice and oral iron therapy for at least 3 months
+
+Red cell aplasia
+• Congenital red cell aplasia (’Diamond–Blackfan anaemia’)
+• Transient erythroblastopenia of childhood (TEC)
+• Parvovirus B19 infection
+
+Increased red cell production (haemolysis)
+
+Hereditary spherocytosis
+• Inheritance is autosomal dominant, but in 25% of cases there is no family history
+• May cause early, severe jaundice in newborn infants
+• Is often asymptomatic, but it may cause anaemia, jaundice, splenomegaly, aplastic crisis and gallstones
+• Can usually be diagnosed from the blood film
+• Treatment is with folic acid, splenectomy if symptomatic
+
+β-Thalassaemia major
+• Mutation of the β-globin gene results in an inability to produce HbA (α2β2)
+• Clinical features: severe anaemia, failure to thrive/growth failure and hepatosplenomegaly
+• Condition is fatal without regular blood transfusions, but blood transfusions cause iron overload
+• Iron chelation therapy with desferrioxamine or oral iron chelation is essential in all patients to minimise iron overload
+
+β-Thalassaemia trait and α-thalassaemia trait
+• Can cause diagnostic confusion with mild iron deficiency
+
+α-Thalassaemia major
+• Deletion of all 4 α-globin genes, α-thalassaemia major is fatal in utero (Hb Barts) or within hours of birth
+
+Isoimmune
+• Haemolytic disease of the newborn
+
+Immune haemolytic anaemia
+
+G6PD deficiency
+• Affects over 100 million people worldwide, usually of Mediterranean, Middle East, Far East and Central African ethnicity
+• Is X-linked and therefore predominantly affects males, but females may be affected
+• May present with neonatal jaundice
+• Causes acute intermittent haemolysis precipitated by infection, certain drugs, fava beans (broad beans) and naphthalene in mothballs
+• Parents should be given a list of drugs, chemicals and food to avoid
+
+Sickle cell disease
+• Family usually originates from tropical Africa or the Caribbean
+• Autosomal recessive
+• Sickled red cells result in ischaemia in organs or bones
+• Main clinical features are: anaemia, infection, painful crises, sequestration crises, splenomegaly in some young children, growth failure, gallstones, behaviour and learning problems
+• The most serious clinical complications are bacterial infection, acute chest syndrome, strokes and priapism
+• Management: prophylactic penicillin and immunisation; folic acid; maintain good hydration
+Treat crises: analgesia, hydration, antibiotics, exchange or blood transfusion as indicated
+Long-term: hydroxyurea or occasionally bone marrow transplant
+
+
+PAGE 4 (PDF page 4; printed page 394)
+
+phosphate dehydrogenase) deficiency and hereditary spherocytosis. Haemoglobinopathies, apart from α-thalassaemia, rarely present with clinical features in the neonatal period but are detected on neonatal haemoglobinopathy screening (Guthrie test).
+
+Blood loss
+
+The main causes are:
+• Feto-maternal haemorrhage (occult bleeding into the mother)
+• Twin-to-twin transfusion (bleeding from one twin into the other one)
+• Blood loss around the time of delivery (e.g. placental abruption).
+
+The main diagnostic clue is severe anaemia with a raised reticulocyte count and normal bilirubin.
+
+Anaemia of prematurity
+
+The main causes are:
+• Inadequate erythropoietin production
+• Reduced red cell lifespan
+• Frequent blood sampling whilst in hospital
+• Iron and folic acid deficiency (after 2–3 months).
+
+Bone marrow failure syndromes
+
+Bone marrow failure (also known as aplastic anaemia) is a rare condition characterised by a reduction or absence of all three main lineages in the bone marrow leading to peripheral blood pancytopenia. It may be inherited or acquired. The acquired cases may be due to viruses (especially hepatitis viruses), drugs (such as sulphonamides, chemotherapy) or toxins (such as benzene, glue); however, many cases are labelled as ‘idiopathic’ because a specific cause cannot be identified.
+
+The condition may be partial or complete. It may start as failure of a single lineage but progress to involve all three cell lines.
+
+The clinical presentation is with:
+• Anaemia due to reduced red cell numbers
+• Infection due to reduced white cell numbers (especially neutrophils)
+• Bruising and bleeding due to thrombocytopenia.
+
+Inherited aplastic anaemia
+
+These disorders are all rare.
+
+Fanconi anaemia
+
+This is the most common inherited form of aplastic anaemia. It is an autosomal recessive condition. The majority of children have congenital anomalies, including short stature, abnormal radii and thumbs, renal malformations, microphthalmia and pigmented skin lesions. Children may present with one or more of these anomalies or with signs of bone marrow failure which do not usually become apparent until the age of 5 or 6 years. Neonates with Fanconi anaemia nearly always have a normal blood count but it can be diagnosed by demonstrating increased chromosomal breakage of peripheral blood lymphocytes. This test can be used to identify affected family members or for prenatal diagnosis. Affected children are at high risk of death from bone marrow failure or transformation to acute leukaemia. The recommended treatment is bone marrow transplantation using normal donor marrow from an unaffected sibling or matched unrelated marrow donor.
+
+Shwachman–Diamond syndrome
+
+This rare autosomal recessive disorder is characterised by bone marrow failure, together with signs of pancreatic exocrine failure and skeletal abnormalities. Most are caused by mutations in the SBDS gene, which can be used for identifying unusual cases or prenatal diagnosis. The most common haematological problem is an isolated neutropenia or mild pancytopenia. Like Fanconi anaemia, there is an increased risk of transforming to acute leukaemia.
+
+Bleeding disorders
+
+Normal haemostasis
+
+Haemostasis describes the normal process of blood clotting. It takes place via a series of tightly regulated interactions involving cellular and plasma factors.
+
+There are five main components:
+1. Coagulation factors – are produced (mainly by the liver) in an inactive form and are activated when coagulation is initiated (usually by tissue factor (TF), which is released by vessel injury; see Fig. 22.14)
+2. Coagulation inhibitors – these either circulate in plasma or are bound to endothelium and are necessary to prevent widespread coagulation throughout the body once coagulation has been initiated
+3. Fibrinolysis – this process limits fibrin deposition at the site of injury due to activity of the key enzyme plasmin
+4. Platelets – are vital for haemostasis as they aggregate at sites of vessel injury to form the primary haemostatic plug which is then stabilised by fibrin
+5. Blood vessels – both initiate and limit coagulation. Intact vascular endothelium secretes prostaglandin I2 and nitric oxide (which promote vasodilatation and inhibit platelet aggregation). Damaged endothelium releases TF and procoagulants (e.g. collagen and von Willebrand factor) and there are inhibitors of coagulation on the endothelial surface (thrombomodulin, antithrombin and protein S) to modulate coagulation.
+
+The endpoint of the coagulation cascade is generation of thrombin. A simplified model is shown in Figure 22.14. The two main pathways for thrombin generation were identified many years ago as the intrinsic and extrinsic pathways. Important components of these pathways are still being discovered. In recent years, the crucial role of tissue factor (TF) in haemostasis has been recognised and it is now thought that the extrinsic pathway is the one primarily responsible for initiating both normal haemostasis and thrombotic disease.
+
+
+PAGE 5 (PDF page 5; printed page 395)
+
+Figure 22.14 Schematic representation of the coagulation pathway.
+
+Diagram labels:
+Intrinsic pathway; Contact system; Extrinsic pathway; Cellular injury; Blood vessel wall; Tissue factor; FXII; FXI; FXIa; Soluble FXIa; FIX; Activated platelet surface; FVIIIa; FXIa +FVIIa; Ca++; FX; FXa; Prothrombin; FXa Va complex; FVa; FV; Thrombin; FXIIIa; Fibrinogen; Fibrin; Fibrin cross-link; CLOT.
+
+Box 22.4 Helpful clinical features in evaluating bleeding disorders
+
+Age of onset
+• Neonate – in 20% of haemophilias, bleeding occurs in the neonatal period, usually with intracranial haemorrhage or bleeding after circumcision
+• Toddler – haemophilias may present when starting to walk
+• Adolescent – von Willebrand disease may present with menorrhagia
+
+Family history
+• Family tree – detailed family tree required
+• Gender of affected relatives (if all boys, suggests haemophilia)
+
+Bleeding history
+• Previous surgical procedures and dental extractions – if uncomplicated, suggests bleeding tendency is acquired rather then inherited
+
+• Presence of systemic disorders
+• Drug history, e.g. anticoagulants
+• Unusual pattern or inconsistent history – consider non-accidental injury
+
+Pattern of bleeding
+• Mucous membrane bleeding and skin haemorrhage – characteristic of platelet disorders or von Willebrand disease
+• Bleeding into muscles or into joints – characteristic of haemophilia
+• Scarring and delayed haemorrhage – suggestive of disorders of connective tissue, e.g. Marfan syndrome, osteogenesis imperfecta or factor XIII deficiency.
+
+Diagnostic approach
+
+Defects in the coagulation factors, in platelet number or function or in the fibrinolytic pathway are associated with an increased risk of bleeding. In contrast, defects in the naturally occurring inhibitors of coagulation (e.g. antithrombin) or in the vessel wall (e.g. damage from vascular catheters) are associated with thrombosis. In some cases, both pro- and anticoagulant abnormalities can occur at the same time, as seen in disseminated intravascular coagulation (DIC).
+
+The diagnostic evaluation of an infant or child for a possible bleeding disorder includes:
+• Identifying features in the clinical presentation that suggest the underlying diagnosis, as indicated in Box 22.4
+• Initial laboratory screening tests to determine the most likely diagnosis (Table 22.3)
+
+
+PAGE 6 (PDF page 6; printed page 396)
+
+Table 22.3 Investigations in haemophilia A and von Willebrand disease
+
+Investigation | Haemophilia A | von Willebrand disease
+PT | Normal | Normal
+APTT | ↑↑ | ↑ or normal
+Factor VIII:C | ↓↓ | ↓ or normal
+vWF Antigen | Normal | ↓
+RiCoF (activity) | Normal | ↓
+Ristocetin-induced platelet aggregation | Normal | Abnormal
+vWF multimers | Normal | Variable
+
+PT, prothrombin time; APTT, activated partial thromboplastin time; RiCoF, ristocetin co-factor, measures vWD activity.
+
+Figure 22.15 Factor VIII synthesis: normal, haemophilia A and von Willebrand disease.
+
+Diagram labels:
+Normal; Haemophilia A; von Willebrand disease; Factor VIII/vWF complex; vWF; VIII:C; Endothelial cell; Hepatocyte; Gene for VIII:C; Gene for vWF; X chromosome; Chromosome 12; Degradation; Gene defect.
+
+Normal: vWF carrier protein protects VIII:C from degradation. It is released by activated thrombin.
+Haemophilia A: Defective synthesis of VIII:C.
+von Willebrand disease: Rapid degradation of VIII:C in the absence of vWF.
+
+• Specialist investigation to characterise a deficiency or exclude important conditions that can present with normal initial investigations, e.g. mild von Willebrand disease, factor XIII deficiency and platelet function disorders.
+
+The most useful initial screening tests are:
+• Full blood count and blood film
+• Prothrombin time (PT) – measures the activity of factors II, V, VII and X
+• Activated partial thromboplastin time (APTT) – measures the activity of factors II, V, VIII, IX, X, XI and XII
+• If PT or APTT is prolonged, a 50 : 50 mix with normal plasma will distinguish between possible factor deficiency or presence of inhibitor
+• Thrombin time – tests for deficiency or dysfunction of fibrinogen
+• Quantitative fibrinogen assay
+• D-dimers – to test for fibrin degradation products
+• Biochemical screen, including renal and liver function tests.
+
+The ‘bleeding time’ is no longer used to investigate platelet disorders, as it is unreliable. It has been replaced by in vitro tests of platelet function on a platelet function analyser, which can be performed on a peripheral blood sample.
+
+In the neonate, the levels of all clotting factors except factor VIII (FVIII) and fibrinogen are lower; preterm infants have even lower levels. Therefore the results have to be compared with normal values in infants of a similar gestational and postnatal age. In view of this, and since it is often difficult to obtain good-quality neonatal samples, it is sometimes necessary to exclude an inherited coagulation factor deficiency by testing the coagulation of both parents.
+
+Haemophilia
+
+The commonest severe inherited coagulation disorders are haemophilia A and haemophilia B. Both have X-linked recessive inheritance. In haemophilia A, there is FVIII deficiency (Fig. 22.15); it has a frequency of 1 in 5000 male births. Haemophilia B (FIX deficiency)
+
+
+PAGE 7 (PDF page 7; printed page 397)
+
+Table 22.4 Severity of haemophilia
+
+Factor VIII:C | Severity | Bleeding tendency
+<1% | Severe | Spontaneous joint/muscle bleeds
+1–5% | Moderate | Bleed after minor trauma
+>5–40% | Mild | Bleed after surgery
+
+Figure 22.16 Severe arthropathy from recurrent joint bleeds in haemophilia. The aim of modern management is to prevent this from occurring.
+
+Box 22.5 Complications of treatment of haemophilia
+
+Inhibitors, i.e. antibodies to FVIII or FIX
+• Develop in 5–20%
+• Reduce or completely inhibit the effect of treatment
+• Require the use of very high doses of factor VIII or bypassing agents (e.g. FVIIa) for treating bleeding
+• May be amenable to immune tolerance induction
+
+Transfusion-transmitted infections
+• Hepatitis A, B and C
+• HIV
+• ?Prions
+
+Vascular access
+• Peripheral veins – may be difficult to cannulate
+• Central venous access devices may become infected or thrombosed.
+
+has a frequency of 1 in 30 000 male births. Two-thirds of newly diagnosed infants have a family history of haemophilia, whereas one-third are sporadic. Identifying female carriers requires a detailed family history, analysis of coagulation factors and DNA analysis. Prenatal diagnosis is available using DNA analysis.
+
+Clinical features
+
+The disorder is graded as severe, moderate or mild, depending on the FVIII:C (or IX:C in haemophilia B) level (Table 22.4). The hallmark of severe disease is recurrent spontaneous bleeding into joints and muscles, which can lead to crippling arthritis if not properly treated (Fig. 22.16). Most children present towards the end of the first year of life, when they start to crawl or walk (and fall over). Bleeding episodes are most frequent in joints and muscles. Where there is no family history, non-accidental injury may initially be suspected. Almost 40% of cases present in the neonatal period, particularly with intracranial haemorrhage, bleeding post-circumcision or prolonged oozing from heel stick and venepuncture sites. The severity usually remains constant within a family.
+
+Management
+
+Recombinant FVIII concentrate for haemophilia A or recombinant FIX concentrate for haemophilia B is given by prompt intravenous infusion whenever there is any bleeding. If recombinant products are unavailable, highly purified, virally inactivated plasma-derived products should be used. The quantity required depends on the site and nature of the bleed. In general, raising the circulating level to 30% of normal is sufficient to treat minor bleeds and simple joint bleeds. Major surgery or life-threatening bleeds require the level to be raised to 100% and then maintained at 30–50% for up to 2 weeks to prevent secondary haemorrhage. This can only be achieved by regular infusion of factor concentrate (usually 8–12-hourly for FVIII, 12–24-hourly for FIX, or by continuous infusion) and by closely monitoring plasma levels. Intramuscular injections, aspirin and non-steroidal anti-inflammatory drugs should be avoided in all patients with haemophilia.
+
+Complications are listed in Box 22.5.
+
+Home treatment is encouraged to avoid delay in treatment, which increases the risk of permanent damage, e.g. progressive arthropathy. Parents are usually taught to give replacement therapy at home when the child is 2–3 years of age and many children are able to administer their own treatment from 7–8 years of age.
+
+Prophylactic FVIII is given to all children with severe haemophilia A to further reduce the risk of chronic joint damage by raising the baseline level above 2%. Primary prophylaxis usually begins at age 2–3 years, and is given two to three times per week. If peripheral venous access is poor, a central venous access device (e.g. Portacath) may be required. Prophylaxis has been shown to result in better joint function in adult life. Similarly, patients with severe haemophilia B are usually given prophylactic FIX.
+
+Desmopressin (DDAVP) may allow mild haemophilia A to be managed without the use of blood products. It is given by infusion and stimulates endogenous release of FVIII:C and von Willebrand factor (vWF). Adequate levels can be achieved to enable minor surgery and dental extraction to be undertaken. DDAVP is ineffective in haemophilia B.
+
+Haemophilia centres should supervise the management of children with bleeding disorders. They provide a multidisciplinary approach with expert medical,
+
+
+PAGE 8 (PDF page 8; printed page 398)
+
+nursing and laboratory input. Specialised physiotherapy is needed to preserve muscle strength and avoid damage from immobilisation. Psychosocial support is an integral part of maintaining compliance.
+
+Self-help groups such as the Haemophilia Society may provide families with helpful information and support.
+
+von Willebrand disease (vWD)
+
+Von Willebrand factor (vWF) has two major roles:
+• It facilitates platelet adhesion to damaged endothelium
+• It acts as the carrier protein for FVIII:C, protecting it from inactivation and clearance.
+
+Von Willebrand disease (vWD) results from either a quantitative or qualitative deficiency of von Willebrand factor (vWF). This causes defective platelet plug formation and, since vWF is a carrier protein for FVIII:C, patients with vWD also are deficient in FVIII:C (see Fig. 22.15).
+
+There are many different mutations in the vWF gene and many different types of vWD. The inheritance is usually autosomal dominant. The commonest subtype, type 1 (60–80%), is usually fairly mild and is often not diagnosed until puberty or adulthood.
+
+Clinical features
+
+These are:
+• Bruising
+• Excessive, prolonged bleeding after surgery
+• Mucosal bleeding such as epistaxis and menorrhagia.
+
+In contrast to haemophilia, spontaneous soft tissue bleeding such as large haematomas and haemarthroses are uncommon.
+
+Management
+
+Treatment depends on the type and severity of the disorder. Type 1 vWD can usually be treated with DDAVP, which causes secretion of both FVIII and vWF into plasma. DDAVP should be used with caution in children <1 year of age as it can cause hyponatraemia due to water retention and may cause seizures, particularly after repeated doses, and if fluid intake is not strictly regulated. More severe types of vWD have to be treated with plasma-derived FVIII concentrate, as DDAVP is ineffective and recombinant FVIII concentrate contains no vWF. Cryoprecipitate is no longer used to treat vWD as it has not undergone viral inactivation. Intramuscular injections, aspirin and non-steroidal anti-inflammatory drugs should be avoided in all patients with vWD.
+
+Summary
+
+The child with abnormal bleeding – into soft tissues, mucocutaneous or following surgery
+
+Acquired disorders
+
+Vitamin K deficiency:
+• mainly neonates or early infancy
+
+Liver disease
+
+Thrombocytopenia:
+• immune, DIC, etc.
+
+Consider:
+• Age of onset
+• Family history
+• Bleeding history
+• Pattern of bleeding
+
+See Box 22.4 for details
+
+Inherited disorders
+
+Haemophilia A (factor VIII deficiency) and haemophilia B (factor IX deficiency):
+• Are X-linked recessive disorders affecting males
+• Presentation of severe disease – usually with recurrent spontaneous bleeding into joints and muscles at about 1 year of age
+• Treatment – recombinant FVIII concentrate for haemophilia A or recombinant FIX concentrate for haemophilia B. Desmopressin (DDAVP) to treat mild haemophilia A
+• Treatment complications – inhibitors and intravenous access
+
+von Willebrand disease (vWD):
+• Results from either a quantitative or qualitative deficiency of von Willebrand factor (vWF)
+• Autosomal dominant
+• Presentation – mucosal bleeding, e.g. epistaxis or menorrhagia in adolescence or excessive, prolonged bleeding after surgery
+• Treatment – mild disease with DDAVP, severe disease with plasma-derived FVIII concentrate
+
+
+PAGE 9 (PDF page 9; printed page 399)
+
+Acquired disorders of coagulation
+
+The main acquired disorders of coagulation affecting children are those secondary to:
+• Haemorrhagic disease of the newborn due to vitamin K deficiency (see Ch. 10)
+• Liver disease
+• ITP (immune thrombocytopenia)
+• DIC (disseminated intravascular coagulation).
+
+Vitamin K is essential for the production of active forms of factors II, VII, IX, X and for the production of naturally occurring anticoagulants such as proteins C and S. Vitamin K deficiency therefore causes reduced levels of all of these factors. The main clinical consequence of this is a prolonged prothrombin time and an increased risk of bleeding. Children may become deficient in vitamin K due to:
+• Inadequate intake (e.g. neonates, long-term chronic illness with poor intake)
+• Malabsorption (e.g. coeliac disease, cystic fibrosis, obstructive jaundice)
+• Vitamin K antagonists (e.g. warfarin).
+
+Thrombocytopenia
+
+Thrombocytopenia is a platelet count <150 × 109/L. The risk of bleeding depends on the level of the platelet count:
+• Severe thrombocytopenia (platelets <20 × 109/L) – risk of spontaneous bleeding
+• Moderate thrombocytopenia (platelets 20–50 × 109/L) – at risk of excess bleeding during operations or trauma but low risk of spontaneous bleeding
+• Mild thrombocytopenia (platelets 50–150 × 109/L) – low risk of bleeding unless there is a major operation or severe trauma.
+
+Table 22.5 Causes of purpura or easy bruising
+
+Platelet count reduced, i.e. thrombocytopenia
+
+Increased platelet destruction or consumption
+
+Immune
+• ITP (immune thrombocytopenia)
+• SLE (systemic lupus erythematosus)
+• Alloimmune neonatal thrombocytopenia
+
+Non-immune
+• Haemolytic uraemic syndrome
+• Thrombotic thrombocytopenic purpura
+• DIC (disseminated intravascular coagulation)
+• Congenital heart disease
+• Giant haemangiomas (Kasabach–Merritt syndrome)
+• Hypersplenism
+
+Impaired platelet production
+
+Congenital
+• Fanconi anaemia
+• Wiskott–Aldrich syndrome
+• Bernard–Soulier syndrome
+
+Acquired
+• Aplastic anaemia
+• Marrow infiltration (e.g. leukaemia)
+• Drug-induced
+
+Platelet count normal
+
+Platelet dysfunction
+
+Congenital
+• Rare disorders, e.g. Glanzmann thromboasthenia
+
+Acquired
+• Uraemia, cardiopulmonary bypass
+
+Vascular disorders
+
+Congenital
+• Rare disorders, e.g. Ehlers–Danlos, Marfan syndrome, hereditary haemorrhagic telangiectasia
+
+Acquired
+• Meningococcal and other severe infections
+• Vasculitis, e.g. Henoch–Schönlein purpura, SLE
+• Scurvy
+
+
+PAGE 10 (PDF page 10; printed page 400)
+
+Thrombocytopenia may result in bruising, petechiae, purpura and mucosal bleeding (e.g. epistaxis, bleeding from gums when brushing teeth). Major haemorrhage in the form of severe gastrointestinal haemorrhage, haematuria and intracranial bleeding is much less common. The causes of easy bruising and purpura are listed in Table 22.5. While purpura may signify thrombocytopenia, it also occurs with a normal platelet count from platelet dysfunction and vascular disorders.
+
+Immune thrombocytopenia (ITP)
+
+Immune thrombocytopenia is the commonest cause of thrombocytopenia in childhood. It has an incidence of around 4 per 100 000 children per year. It is usually caused by destruction of circulating platelets by anti-platelet IgG autoantibodies. The reduced platelet count may be accompanied by a compensatory increase of megakaryocytes in the bone marrow.
+
+Clinical features
+
+Most children present between the ages of 2 and 10 years, with onset often 1–2 weeks after a viral infection. In the majority of children, there is a short history of days or weeks. Affected children develop petechiae, purpura and/or superficial bruising (see Case History 22.3). It can cause epistaxis and other mucosal bleeding but profuse bleeding is uncommon, despite the fact that the platelet count often falls to <10 × 109/L. Intracranial bleeding is a serious but rare complication, occurring in 0.1–0.5%, mainly in those with a long period of severe thrombocytopenia.
+
+Diagnosis
+
+ITP is a diagnosis of exclusion, so careful attention must be paid to the history, clinical features and blood film to ensure that another more sinister diagnosis is not missed. In the younger child, a congenital cause (such as Wiskott–Aldrich or Bernard–Soulier syndromes) should be considered. Any atypical clinical features, such as the presence of anaemia, neutropenia, hepatosplenomegaly or marked lymphadenopathy, should prompt a bone marrow examination to exclude acute leukaemia or aplastic anaemia. A bone marrow examination should also be performed if the child is going to be treated with steroids, since this treatment may temporarily mask the diagnosis of acute lymphoblastic leukaemia (ALL). Inadvertent steroid therapy in undiagnosed ALL mimicking ITP will compromise the long-term outcome of such patients. Systemic lupus erythematosus (SLE) should also be considered. However, if the clinical features are characteristic, with no abnormality in the blood other than a low platelet count and no intention to treat, there is no need to examine the bone marrow.
+
+Management
+
+In about 80% of children, the disease is acute, benign and self-limiting, usually remitting spontaneously within 6–8 weeks. Most children can be managed at home and do not require hospital admission. Treatment is controversial. Most children do not need any therapy even if their platelet count is <10 × 109/L but treatment should be given if there is evidence of major
+
+Case History
+22.3 Immune thrombocytopenic purpura (ITP)
+
+Sian, aged 5 years, developed bruising and a skin rash over 24 h. She had had an upper respiratory tract infection the previous week. On examination she appeared well but had a purpuric skin rash with some bruises on the trunk and legs (Fig. 22.17). There were three blood blisters on her tongue and buccal mucosa, but no fundal haemorrhages, lymphadenopathy or hepatosplenomegaly. Urine was normal on dipsticks testing. A full blood count showed Hb 11.5 g/dl with normal indices, WBC and differential normal, platelet count 17 × 109/L. The platelets on the blood film were large; the film was otherwise normal. A diagnosis of ITP was made and she was discharged home. Her parents were counselled and given emergency contact names and telephone numbers. They were also given literature on the condition and advised that she should avoid contact sports but should continue to attend school. Over the next 2 weeks she continued to develop bruising and purpura but was asymptomatic. By the third week, she had no new bruises, and her platelet count was 25 × 109/L; the blood count and film showed no new abnormalities. The following week, the platelet count was 74 × 109/L and a week later it was 200 × 109/L. She was discharged from follow-up.
+
+In immune thrombocytopenic purpura, in spite of impressive cutaneous manifestations and extremely low platelet count, the outlook is good and most will remit quickly without any intervention.
+
+Figure 22.17 Bruising and purpura from immune thrombocytopenic purpura.
