@@ -1,0 +1,400 @@
+461
+
+Table 26.3 Causes of polyarthritis
+
+Infection
+Bacterial – septicaemia/septic arthritis, TB
+Viral – rubella, mumps, adenovirus, coxsackie B, herpes, hepatitis, parvovirus
+Other – Mycoplasma, Lyme disease, rickettsia
+Reactive – gastrointestinal infection, streptococcal infection
+Rheumatic fever
+
+Inflammatory bowel disease
+Crohn disease, ulcerative colitis
+
+Vasculitis
+Henoch–Schönlein purpura, Kawasaki disease
+
+Haematological disorders
+Haemophilia, sickle cell disease
+
+Malignant disorders
+Leukaemia, neuroblastoma
+
+Connective tissue disorders
+Juvenile idiopathic arthritis (JIA), systemic lupus erythematosus (SLE), dermatomyositis, mixed connective tissue disease (MCTD), polyarteritis nodosa (PAN)
+
+Other
+Cystic fibrosis
+
+Figure 26.15 Septic arthritis of the hip in infants, showing the characteristic posture to reduce intracapsular pressure. Any leg movement is painful and is resisted.
+
+Marked tenderness over head of femur
+Swollen thigh
+Leg held
+– flexed
+– abducted
+– externally rotated
+No spontaneous movement (pseudoparalysis)
+
+Reactive arthritis
+
+Reactive arthritis is the most common form of arthritis in childhood. It is characterised by transient joint swelling (usually <6 weeks) often of the ankles or knees. It usually follows (or rarely accompanies) evidence of extra-articular infection. The enteric bacteria (Salmonella, Shigella, Campylobacter and Yersinia) are often the cause in children, but viral infections, sexually transmitted infections in adolescents (chlamydia, gonococcus), Mycoplasma and Borrelia burgdorferi (Lyme disease) are other causes. Rheumatic fever and post-streptococcal reactive arthritis are rare in developed countries but are frequent in many developing countries.
+
+Fever is low grade. Acute-phase reactants are normal or mildly elevated and X-rays are normal. No treatment or only NSAIDs are required and complete recovery can be anticipated.
+
+Septic arthritis
+
+This is a serious infection of the joint space, as it can lead to bone destruction. It is most common in children <2 years old. It usually results from haematogenous spread, but may also occur following a puncture wound or infected skin lesions, e.g. chickenpox. In young children, it may result from spread from adjacent osteomyelitis into joints where the capsule inserts below the epiphyseal growth plate. Usually only one joint is affected, with the hip being a particular concern in infants and young children. Beyond the neonatal period, the most common organism is Staphylococcus aureus, and usually only one joint is affected. H. influenzae was an important cause in young children prior to Hib immunisation and often affected multiple sites. Underlying and predisposing illnesses such as immunodeficiency and sickle cell disease should be considered.
+
+Musculoskeletal disorders
+
+Presentation
+
+This is usually with an erythematous, warm, acutely tender joint, with a reduced range of movement, in an acutely unwell, febrile child. Infants often hold the limb still (pseudoparesis, pseudoparalysis) and cry if it is moved. A joint effusion may be detectable in peripheral joints. In osteomyelitis, although a sympathetic joint effusion may be present, the tenderness is over the bone, but in up to 15% there is coexistent septic arthritis. The diagnosis of septic arthritis of the hip can be particularly difficult in toddlers, as the joint is well covered by subcutaneous fat (Fig. 26.15). Initial presentation may be with a limp or pain referred to the knee.
+
+Investigation
+
+There is an increased white cell count and acute-phase reactants. Blood cultures must be taken. Ultrasound of deep joints, such as the hip, is helpful to identify an effusion. X-rays are used to exclude trauma and other bony lesions. However, in septic arthritis, the X-rays are initially normal, apart from widening of the joint space.
+
+462
+
+26
+Musculoskeletal disorders
+
+and soft tissue swelling. A bone scan may be helpful and an MRI scan may demonstrate an adjacent osteomyelitis. Aspiration of the joint space under ultrasound guidance for organisms and culture is the definitive investigation. Ideally, this is performed immediately, unless this would cause a significant delay in giving antibiotics. A prolonged course of antibiotics is required, initially intravenously. Washing out of the joint or surgical drainage may be required if resolution does not occur rapidly or if the joint is deep-seated, such as the hip. The joint is initially immobilised in a functional position, but subsequently must be mobilised to prevent permanent deformity.
+
+Early treatment of septic arthritis is essential to prevent destruction of the articular cartilage and bone.
+
+Figure 26.16 Polyarticular juvenile idiopathic arthritis, showing swelling of the wrists, metacarpal and interphalangeal joints and early swan-neck deformities of the fingers.
+
+Juvenile idiopathic arthritis (JIA)
+
+This is the commonest chronic inflammatory joint disease in children and adolescents in the UK. It is defined as persistent joint swelling (of >6 weeks duration) presenting before 16 years of age in the absence of infection or any other defined cause. Ninety-five per cent of children have a disease that is clinically and immunogenetically distinct from rheumatoid arthritis in adults. It has a prevalence of approximately 1 in 1000 children, (i.e. similar to epilepsy), with over 12 000 affected children in the UK.
+
+There are at least seven different subtypes of JIA. Its classification is clinical and based on the number of joints affected in the first 6 months, as polyarthritis (more than four joints) (Fig. 26.16) and oligoarthritis (up to and including four joints) or systemic (with fever and rash). Psoriatic arthritis and enthesitis are further subtypes. Subtyping is further classified according to the presence of rheumatoid factor and HLA B27 tissue type. The subtypes and their clinical features are shown in Table 26.4.
+
+Features in the history are gelling (stiffness after periods of rest, such as long car rides), morning joint stiffness and pain. In the young child, it may present with intermittent limp or deterioration in behaviour or mood or avoidance of previously enjoyed activities, rather than complaining of pain.
+
+Initially, there may be only minimal evidence of joint swelling, but subsequently there may be swelling of the joint due to fluid within it, inflammation and, in chronic arthritis, proliferation (thickening) of the synovium and swelling of the periarticular soft tissues.
+
+Long term, with uncontrolled disease activity, there may be bone expansion from overgrowth, which in the knee may cause leg lengthening or valgus deformity, in the hands, discrepancy in digit length, and in the wrist, advancement of bone age.
+
+If systemic features are present, sepsis and malignancy must always be considered.
+
+Figure 26.17 Growth failure and marked genu valgum (knock-knees) in an 8-year-old girl with juvenile idiopathic arthritis. For comparison, her sister on the left is 4 years old.
+
+Complications
+
+Chronic anterior uveitis
+
+This is common but asymptomatic and can lead to severe visual impairment. Regular ophthalmological screening using a slit lamp is indicated, especially for children with oligoarticular disease.
+
+Flexion contractures of the joints
+
+These occur when the joint is held in the most comfortable position, thereby minimising intra-articular pressure. Chronic untreated disease can lead to joint destruction and the need for joint replacement.
+
+Growth failure
+
+This may be generalised from anorexia, chronic disease and systemic corticosteroid therapy (Fig. 26.17). May also be localised overgrowth such as leg length discrepancy due to prolonged active knee synovitis and undergrowth, such as micrognathia, usually seen in
+
+463
+
+Table 26.4 Classification and clinical features of JIA (juvenile idiopathic arthritis)
+
+JIA subtype (approximate %) | Onset age | Sex ratio (F:M) | Articular pattern | Extra-articular features | Laboratory abnormalities
+
+Oligoarthritis (persistent) (49%) | 1–6 years | 5:1 | 1–4 (max) joints involved; knee, ankle or wrist most common | Chronic anterior uveitis in 20%, leg length discrepancy. Prognosis excellent | ANA+/−
+
+Oligoarthritis (extended) (8%) | 1–6 years | 5:1 | >4 joints involved after first 6 months. Asymmetrical distribution of large and small joints | Chronic anterior uveitis 20%, asymmetrical growth. Prognosis moderate | ANA+/−
+
+Polyarthritis (RF negative) (16%) | 1–6 years | 5:1 | Symmetrical large and small joint arthritis, often with marked finger involvement. Cervical spine and temporomandibular joint may be involved | Low-grade fever, chronic anterior uveitis 5%, late reduction of growth rate. Prognosis moderate |
+
+Polyarthritis (RF) positive) (3%) | 10–16 years | 5:1 | Symmetrical large and small joint arthritis, often with marked finger involvement | Rheumatoid nodules 10%. Similar to adult rheumatoid arthritis. Prognosis poor | RF+ (long term)
+
+Systemic arthritis (9%) | 1–10 years | 1:1 | Oligoarthritis or polyarthritis. May have aches and pains in joints and muscles (arthralgia/myalgia) but initially no arthritis | Acute illness, malaise, high daily fever initially, with salmon-pink, macular rash, lymphadenopathy, hepatosplenomegaly, serositis. Prognosis variable to poor | Anaemia, raised neutrophils and platelets, high acute-phase reactants (see Case History 26.1)
+
+Psoriatic arthritis (7%) | 1–16 years | 1:1 | Usually asymmetrical distribution of large and small joints, dactylitis | Psoriasis, nail pitting or dystrophy, chronic anterior uveitis 20%. Prognosis moderate |
+
+Enthesitis-related arthritis (7%) | 6–16 years | 1:4 | Lower limb, large joint arthritis initially, mild lumbar spine or sacroiliac involvement later on | Enthesitis – localised inflammation at insertion of tendons or ligaments into bone, often in feet, Achilles insertion. Occasional acute uveitis. Prognosis moderate | HLAB27+
+
+Undifferentiated arthritis (1%) | 1–16 years | 2:1 (variable) | Overlapping articular and extra-articular patterns between ≥2 subtypes or insufficient criteria for sub-classification | Prognosis variable |
+
+Musculoskeletal disorders
+
+PAGE 464
+
+Case History
+
+26.1 Systemic-onset juvenile idiopathic arthritis
+
+A 2-year-old boy presented with a high fever (Fig. 26.18a) and malaise. A salmon-coloured rash was present at times of fever (Fig. 26.18b). Investigation showed markedly raised acute-phase reactants. Shortly afterwards, he developed severe polyarthritic joint disease. A diagnosis of systemic-onset juvenile idiopathic arthritis was made on the basis of the clinical presentation and exclusion of other disorders (Table 26.3).
+
+He was treated with high-dose intravenous corticosteroids with rapid improvement, started on oral corticosteroids and weekly methotrexate given by subcutaneous injection. His mother was taught by the nurse specialist how to give the injections to him at home and a daily exercise programme to improve his mobility was provided. A year later he remained on weekly methotrexate. He had persistent problems with his hips, with joint damage on X-ray and may ultimately require hip replacements in his adult years. He is shorter than his peers. He is now at university studying economics and drives his own car.
+
+Figure 26.18a Temperature chart.
+Chart labels: °C; 40; 39; 38; 37; Day 1; Day 2; Day 3; Day 4.
+
+Figure 26.18b Salmon-pink rash.
+
+Long-standing or suboptimally treated arthritis due to premature fusion of epiphyses.
+
+Constitutional problems
+
+Anaemia of chronic disease, delayed puberty.
+
+Osteoporosis
+
+Multifactorial aetiology, including diet, reduced weight bearing, systemic corticosteroids and delayed menarche. Reduce risk by dietary supplements of calcium and vitamin D; regular weight-bearing exercise; and minimise oral corticosteroids use and sometimes bisphosphonates.
+
+Amyloidosis
+
+Very rare now, causes proteinuria and subsequent renal failure and has a high mortality.
+
+Management
+
+The management of JIA has radically changed in the last decade and improvement in outcome is evident as long as children access appropriate care. Deformity and disability are much less common with current treatment approaches. The overall management aim is to induce remission as soon as possible.
+
+All children suspected of having JIA should be managed by specialist paediatric rheumatology multidisciplinary teams, often working in shared care with local hospitals; such teams have specific paediatric expertise in the use and monitoring of immunosuppressive treatments that are now routinely used. There is need for education and support for the child and family, physical therapy to maintain joint function, and links to other specialities including ophthalmology, dentistry and orthopaedics. The team work closely with school, social services and primary healthcare providers. The child is encouraged to take part in all activities except contact sports during active flares. With optimal care, most children are managed as outpatients.
+
+Medical management includes:
+
+• NSAIDs (non-steroidal anti-inflammatory drugs) and analgesics – do not modify disease but help relieve symptoms during flares
+• Joint injections, increasingly under ultrasound guidance – effective, first-line treatment for oligoarticular JIA; in polyarticular disease multiple joint injections are used as bridging agent when starting methotrexate. Often requires sedation or inhaled anaesthesia (Entonox)
+• Methotrexate – early use reduces joint damage. Effective in approximately 70% with polyarthritis, less effective in systemic features of JIA. It is given as weekly dose (tablet, liquid or injection) and regular blood monitoring is required (for abnormal liver function and bone-marrow suppression). Nausea is common.
+
+
+PAGE 465
+
+• Systemic corticosteroids – avoided if possible, to minimise risk of growth suppression and osteoporosis. Pulsed intravenous methylprednisolone often used for severe polyarthritis as an induction agent. May be life-saving for severe systemic arthritis or macrophage activation syndrome.
+• Cytokine modulators (‘biologics’) and other immunotherapies – Many agents (e.g. anti-TNF alpha, IL-1, CTLA-4 or IL-6) now available and useful in severe disease refractory to methotrexate. Costly and given under strict national guidance with registries for long-term surveillance. T-cell depletion coupled with autologous haematopoietic stem cell rescue (bone marrow transplant) is an option for refractory disease.
+
+Prognosis
+
+Long-term outcome studies have shown that at least one in three children will have ongoing active disease into adult years, with significant morbidity from previous inflammation, such as joint damage requiring joint replacement surgery, visual impairment from uveitis, or fractures from osteoporosis. There is also significant psychosocial morbidity. However, with current management approaches it is anticipated that long-term outcomes will improve.
+
+Transitional care programmes are increasingly provided to facilitate the changes through adolescence and young adulthood and to help young people learn how to manage their chronic disease independently.
+
+Henoch–Schönlein purpura
+
+This is the most common vasculitis of childhood and presents with a purpuric rash over the lower legs and buttocks, usually associated with arthritis of the ankles or knees. Other features are abdominal pain, haematuria and proteinuria (see Ch. 18).
+
+Systemic lupus erythematosus
+
+Systemic lupus erythematosus is rare in children, but may present in adolescent females typically with
+
+Summary
+
+Diagnostic clues regarding musculoskeletal disorders
+
+‘Typical’ symptom combinations | Pivotal clinical features | Possible diagnoses
+
+Nocturnal wakening with leg pain | Normal child | ‘Growing pains’
+| Anaemia, bruising, irritability, infections | Osteoid osteoma; Leukaemia, lymphoma, neuroblastoma (young child)
+
+‘Clunk’ on hip movement on screening, limp in an older infant | Asymmetrical upper leg skin folds, limited hip abduction | Developmental dysplasia of the hip (DDH)
+
+Febrile, toxic-looking infant, irritability with nappy changing | Restricted joint range (especially hip) | Septic arthritis; Osteomyelitis
+
+Sudden limp in an otherwise well young child | Unilateral restricted hip movement | Transient synovitis of the hip; Perthes disease
+
+Fever, erythematous rash, red eyes, irritability in infant or young child | Erythema/oedema of hands and feet, oral mucositis, cervical lymphadenopathy | Kawasaki disease
+
+Irritability, fever, reluctance to move in an infant or young child | Stiff back, ‘tripod’ sitting | Discitis; Vertebral osteomyelitis
+
+Joint pain, stiffness and restriction; Loss of joint function | Persistent joint swelling; Loss of joint range | Juvenile idiopathic arthritis
+
+Hip pain in an obese adolescent boy | Unilateral hip restriction | Slipped capital femoral epiphysis
+
+Lethargy, unwilling to do physical activities, irritability, rash | Eyelid erythema; Proximal muscle weakness | Juvenile dermatomyositis
+
+Constitutional symptoms, lethargy, arthralgia in an adolescent female | Multi-system abnormalities, haematuria, facial erythema | Systemic lupus erythematosus
+
+
+PAGE 466
+
+Malaise, arthralgia and malar rash (often photosensitive). Organ involvement (kidneys, lung or CNS) are serious complications.
+
+Juvenile dermatomyositis
+
+Juvenile dermatomyositis (JDMS) is rare. It usually begins insidiously with malaise, progressive weakness (often difficulty climbing stairs) and facial rash with erythema over the bridge of the nose and malar areas and a violaceous (heliotropic) discoloration of the eyelids (see Fig. 27.10). The skin over the metacarpal and proximal interphalangeal joints may be hypertrophic and pink, and the nailfold capillaries may be dilated and tortuous. Muscle pain is a common, if non-specific, symptom and arthritis is present in 30%. Respiratory failure and aspiration pneumonia may be life-threatening. The condition is described further in Chapter 27.
+
+Genetic skeletal conditions
+
+These are inherited abnormalities resulting in generalised developmental disorders of the bone, of which there are several hundred types. They usually result in reduced growth and abnormality of bone shape rather than impaired strength, except for osteogenesis imperfecta. The bones of the limbs and spine are often affected, resulting in short stature. Intelligence is usually normal. Improved knowledge of the molecular basis of collagen and its disorders is allowing better understanding and delineation of some of these disorders.
+
+Achondroplasia
+
+Inheritance is autosomal dominant, but about 50% are new mutations. Clinical features are short stature from marked shortening of the limbs, a large head, frontal bossing and depression of the nasal bridge (see Fig. 11.10). The hands are short and broad. A marked lumbar lordosis develops. Hydrocephalus sometimes occurs.
+
+Thanatophoric dysplasia
+
+This results in stillbirth. The infants have a large head, extremely short limbs and a small chest. The appearance of the bones on X-ray is characteristic. The importance of the correct diagnosis of this disorder is that, in contrast to achondroplasia, its inheritance is sporadic. It may be identified on antenatal ultrasound.
+
+Cleidocranial dysostosis
+
+In this autosomal dominant disorder, there is absence of part or all of the clavicles and delay in closure of the anterior fontanelle and of ossification of the skull. The child is often able to bring the shoulders together in front of the chest to touch each other as a ‘party trick’. Short stature is usually present. Intelligence is normal.
+
+Arthrogryposis
+
+This is a heterogeneous group of congenital disorders in which there is stiffness and contracture of joints. The cause is usually unknown, but there may be an association with oligohydramnios, widespread congenital anomalies or chromosomal disorders. It is usually sporadic. Marked flexion contractures of the knees, elbows and wrists, dislocation of the hips and other joints, talipes equinovarus and scoliosis are common, but the disorder may be localised to the upper or lower limbs. The skin is thin, subcutaneous tissue is reduced and there is marked muscle atrophy around the affected joints. Intelligence is usually unaffected. Management is with physiotherapy and correction of deformities, where possible, by splints, plaster casts or surgery. Walking is impaired in the more severe forms of the disorder.
+
+Osteogenesis imperfecta (brittle bone disease)
+
+This is a group of disorders of collagen metabolism causing bone fragility, with bowing and frequent fractures.
+
+In the most common form (type I), which is autosomal dominant, there are fractures during childhood (Fig. 26.19a) and a blue appearance to the sclerae (Fig. 26.19b) and some develop hearing loss. Treatment with bisphosphonates reduces fracture rates. The prognosis is variable. Fractures require splinting to minimise joint deformity.
+
+There is a severe, lethal form (type II) with multiple fractures already present before birth (Fig. 26.20). Many affected infants are stillborn. Inheritance is variable but mostly autosomal dominant or due to new mutations. In other types, scleral discoloration may be minimal.
+
+Osteopetrosis (marble bone disease)
+
+In this rare disorder, the bones are dense but brittle. The severe autosomal recessive disorder presents with failure to thrive, recurrent infection, hypocalcaemia, anaemia and thrombocytopenia. Prognosis is poor, but bone marrow transplantation can be curative. A less severe autosomal dominant form may present during childhood with fractures.
+
+Marfan syndrome
+
+This is an autosomal dominant disorder of connective tissue associated with tall stature, long thin digits (arachnodactyly), hyperextensible joints, a high arched palate, dislocation (usually upwards) of the lenses of the eyes and severe myopia. The body proportions
+
+467
+Musculoskeletal disorders
+Osteogenesis imperfecta
+(a)
+(b)
+Figure 26.20 Osteogenesis imperfecta (type II) showing shortened, deformed lower limbs from gross deformity of the bones with multiple fractures.
+Figure 26.19 Osteogenesis imperfecta type I, showing (a) fracture of the humerus and osteoporotic bones, (b) blue sclerae.
+Osteogenesis imperfecta is often considered in the evaluation of unexplained fractures in suspected child abuse.
+are altered, with long, thin limbs resulting in a greater distance between the pubis and soles (lower segment) than from the crown to the pubis (upper segment). The arm span, measured from the extended fingers, is greater than the height. There may be chest deformity and scoliosis. The major problems are cardiovascular, due to degeneration of the media of vessel walls resulting in a dilated, incompetent aortic root with valvular incompetence and mitral valve prolapse and regurgitation. Aneurysms of the aorta may dissect or rupture. Monitoring by echocardiography is required.
+Further reading
+Cassidy J, Petty RE, Laxer R et al: Textbook of Pediatric Rheumatology, ed 5, Edinburgh, 2005, Elsevier Saunders.
+Foster HE, Brogan P: Oxford Handbook of Paediatric Rheumatology, Oxford, 2011, Oxford University Press.
+Szer IS, Kimura Y, Malleson PN et al, editors: Arthritis in Children and Adolescents: Juvenile Idiopathic Arthritis, Oxford, 2006, Oxford University Press.
+Woo P, Laxer RM, Sherry DD: Pediatric Rheumatology in Clinical Practice, New York, 2007, Springer.
+
+468
+26
+Musculoskeletal disorders
+Websites (Accessed May 2011)
+Arthritis Research UK: Free educational materials for medical students including pGALS. Available at: http://www.arthritisresearchuk.org/arthritis_information/information_for_medical_profes/medical_student_handbook.aspx.
+Arthritis Research UK: Information about arthritis for health professionals. Available at: http://www.arthritisresearchuk.org/.
+British Society for Paediatric and Adolescent Rheumatology: Information about clinical guidelines and protocols. Available at: http://www.bspar.org.uk/pages/bspar_home.asp.
+
+printed page 469
+
+27
+Neurological disorders
+
+Headache 469
+Seizures 472
+Epilepsies of childhood 474
+Motor disorders 478
+Central motor disorders 479
+Cerebral palsy 479
+Peripheral motor disorders:
+the neuromuscular disorders 479
+
+Ataxia 484
+Cerebrovascular disease 485
+Neural tube defects and
+hydrocephalus 486
+The neurocutaneous syndromes 488
+Neurodegenerative disorders 490
+
+The central nervous system comprises 100 000 million neurones and when it malfunctions it has the potential to generate a wide spectrum of clinical problems. The site of the dysfunctional neurones determines the nature of the problem, which may involve impaired movement, vision, hearing, sensory perception, memory or consciousness. Classifying this wide range of symptom complexes can be problematic.
+
+Headache
+
+Headache is a frequent reason for older children and adolescents to consult a doctor. The International Headache Society (IHS) has devised a classification, as shown in Box 27.1, which defines:
+
+• Primary headaches: four main groups, comprising migraine, tension-type headache, cluster headache (and other trigeminal autonomic cephalalgias); and other primary headaches (such as cough or exertional headache). They are thought to be due to a primary malfunction of neurones.
+
+• Secondary headaches: symptomatic of some underlying pathology, e.g. from raised intracranial pressure and space-occupying lesions
+
+• Trigeminal and other cranial neuralgias, and other headaches including root pain from herpes zoster.
+
+Primary headaches
+
+Tension-type headache
+
+This is a symmetrical headache of gradual onset, often described as tightness, a band or pressure. There are usually no other symptoms.
+
+Migraine without aura
+
+This accounts for 90% of migraine. In children, episodes may last 1–72 h; the headache is commonly bilateral but may be unilateral. Characteristically pulsatile, over temporal or frontal area, it is often accompanied by unpleasant gastrointestinal disturbance such as nausea, vomiting and abdominal pain and photophobia or phonophobia (sensitivity to sounds). Aggravated by physical activity.
+
+Migraine with aura
+
+Accounts for 10% of migraine. The headache is preceded by an aura (visual, sensory or motor), although the aura may occur without a headache. Features are the absence of problems between episodes and the frequent presence of premonitory symptoms (tiredness, difficulty concentrating, autonomic features, etc.).
+
+The most common aura comprises visual disturbance, which may include:
+
+• Negative phenomena, such as hemianopia (loss of half the visual field) or scotoma (small areas of visual loss)
+
+• Positive phenomena such as fortification spectra (seeing zigzag lines).
+
+Rarely, there are unilateral sensory or motor symptoms.
+
+Episodes usually last for a few hours, during which time children often prefer to lie down in a quiet, dark place. Sleep often relieves the bout.
+
+Symptoms of tension-type headache or a migraine often overlap. They are probably part of the same pathophysiological continuum, with evidence that both result from primary neuronal dysfunction,
+
+printed page 470
+
+27
+Neurological disorders
+
+Box 27.1 The classification of headache disorders
+
+Primary headaches
+
+• Migraine
+• Tension-type headache
+• Cluster headache and other trigeminal autonomic cephalalgias
+• Other primary headaches
+
+Secondary headaches
+
+Headache attributed to:
+
+• Head and/or neck trauma
+• Cranial or cervical vascular disorder – vascular malformation or intracranial haemorrhage
+• Non-vascular intracranial disorder – raised intracranial pressure, idiopathic intracranial hypertension
+• A substance or its withdrawal – alcohol, solvent or drug abuse
+• Infection – meningitis or encephalitis
+• Disorder of homeostasis – hypercapnia or hypertension
+• Disorder of facial or cranial structures – acute sinusitis
+• Psychiatric disorder
+
+Cranial neuralgias, central and primary facial pain and other headaches
+
+• Trigeminal and other cranial neuralgias and central causes of facial pain
+• Other headaches.
+
+including channelopathies, with vascular phenomena as secondary events. There is a genetic predisposition, with first- and second-degree relatives often also affected. Bouts are often triggered by a disturbance of inherent biorhythms, such as late nights or early rises, stress, or winding down after stress at home or school. Certain foods, e.g. cheese, chocolate and caffeine, are only rarely a reliable trigger. In girls, headaches can be related to menstruation and the oral contraceptive pill.
+
+Uncommon forms of migraine
+
+These include:
+
+• Familial – linked to a calcium channel defect, dominantly inherited
+• Sporadic hemiplegic migraine
+• Basilar-type migraine – vomiting with nystagmus and/or cerebellar signs
+• Periodic syndromes – often precursors of migraine and include:
+  – Cyclical vomiting – recurrent stereotyped episodes of vomiting and intense nausea associated with pallor and lethargy. The child is well in between.
+  – Abdominal migraine – an idiopathic recurrent disorder characterised by episodic midline abdominal pain in bouts lasting 1–72 h. Pain is moderate to severe in intensity and associated with vasomotor symptoms, nausea and vomiting. The child is well in between episodes.
+  – Benign paroxysmal vertigo of childhood – a heterogeneous disorder characterised by recurrent brief episodes of vertigo occurring without warning and resolving spontaneously in otherwise healthy children. Between episodes, neurological examination, audiometric and vestibular function tests are normal.
+
+Secondary headaches
+
+Raised intracranial pressure and space-occupying lesions
+
+Headaches often raise the fear of brain tumours; it may well be the reason for parents to consult a doctor. Headaches due to a space-occupying lesion are worse when lying down and morning vomiting is characteristic. The headaches may also cause night-time waking. There is often a change in mood, personality or educational performance. Other features suggestive of a space-occupying lesion are:
+
+• Visual field defects – from lesions pressing on the optic pathways, e.g. craniopharyngioma (a pituitary tumour)
+• Cranial nerve abnormalities causing diplopia, new-onset squint or facial nerve palsy. The VIth (abducens) cranial nerve has a long intracranial course and is often affected when there is raised pressure, resulting in a squint with diplopia and inability to abduct the eye beyond the midline. It is a false localising sign. Other nerves are affected depending on the site of lesion, e.g. pontine lesions may affect the VIIth (facial) cranial nerve and cause a facial nerve palsy
+• Abnormal gait
+• Torticollis (tilting of the head)
+• Growth failure, e.g. craniopharyngioma or hypothalamic lesion
+• Papilloedema – a late feature
+• Cranial bruits – may be heard in arteriovenous malformations but these lesions are rare.
+
+470
