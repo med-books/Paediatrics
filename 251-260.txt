@@ -1,0 +1,523 @@
+PDF PAGE 1 — PRINTED PAGE 251
+
+Table 14.2 Causes of fever and a rash
+
+Maculopapular rash
+
+Viral
+HHV6 or 7 (Roseola infantum) – <2 years old
+Enteroviral rash
+Parvovirus (‘slapped cheek’) – usually school-age
+Measles – uncommon if immunised
+Rubella – uncommon if immunised
+
+Bacterial
+Scarlet fever (group A streptococcus)
+Erythema marginatum – rheumatic fever
+Salmonella typhi (typhoid fever) – classically rose spots
+Lyme disease – erythema migrans
+
+Other
+Kawasaki disease
+Juvenile idiopathic arthritis
+
+Vesicular, bullous, pustular
+
+Viral
+Varicella-zoster virus – chickenpox, shingles
+Herpes simplex virus
+Coxsackie – hand, foot and mouth
+
+Bacterial
+Impetigo – characteristic crusting
+Boils – infection of hair follicles/sweat glands
+Staphylococcal bullous impetigo
+Staphylococcal scalded skin
+Toxic epidermal necrolysis
+
+Other
+Erythema multiforme; Stevens–Johnson syndrome
+
+Petechial, purpuric
+
+Bacterial
+Meningococcal, other bacterial sepsis
+Infective endocarditis
+
+Viral
+Enterovirus and other viral infections
+
+Other
+Henoch–Schönlein purpura (HSP)
+Thrombocytopenia
+Vasculitis
+Malaria
+
+The human herpesviruses
+
+There are currently eight known human herpesviruses: herpes simplex virus 1 and 2 (HSV1 and HSV2), varicella zoster virus (VZV), cytomegalovirus (CMV), Epstein–Barr virus (EBV), and human herpesviruses 6, 7 and 8 (HHV 6–8). HHV8 is associated with Kaposi sarcoma in HIV-coinfected individuals. The other herpesviruses will be discussed in this section, in order of their prevalence.
+
+The hallmark of the herpesviruses is that, after primary infection, latency is established and there is long-term persistence of the virus within the host, usually in a dormant state. After certain stimuli, reactivation of infection may occur.
+
+Figure 14.12 Vesicles with ulceration in gingivostomatitis.
+
+Herpes simplex infections
+
+Herpes simplex virus (HSV) usually enters the body through the mucous membranes or skin, and the site of the primary infection may be associated with intense local mucosal damage. HSV1 is usually associated with lip and skin lesions, and HSV2 with genital lesions, but both viruses can cause both types of disease. The wide variety of clinical manifestations are described below. Treatment is with aciclovir, a viral DNA polymerase inhibitor, which may be used to treat severe symptomatic skin, ophthalmic, cerebral and systemic infections.
+
+Asymptomatic
+
+Herpes simplex infections are very common and are mostly asymptomatic.
+
+Gingivostomatitis
+
+This is the most common form of primary HSV illness in children. It usually occurs from 10 months to 3 years of age. There are vesicular lesions on the lips, gums and anterior surfaces of the tongue and hard palate, which often progress to extensive, painful ulceration with bleeding (Fig. 14.12). There is a high fever and the child is very miserable.
+
+[Page continues]
+
+PDF PAGE 2 — PRINTED PAGE 252
+
+The illness may persist for up to 2 weeks. Eating and drinking are painful, which may lead to dehydration. Management is symptomatic, but severe disease may necessitate intravenous fluids and aciclovir.
+
+Skin manifestations
+
+Mucocutaneous junctions and damaged skin are particularly prone to infection. ‘Cold sores’ are recurrent HSV1 lesions on the gingival (lip) margin.
+
+Eczema herpeticum – In this serious condition, widespread vesicular lesions develop on eczematous skin (Fig. 14.13). This may be complicated by secondary bacterial infection, which may result in septicaemia.
+
+Herpetic whitlows – These are painful, erythematous, oedematous white pustules on the site of broken skin on the fingers. Spread is by auto-inoculation from gingivostomatitis and infected adults kissing their children’s fingers. In sexually active adolescents, HSV2 may be the cause.
+
+Eye disease
+
+Eye disease may cause a blepharitis or conjunctivitis. It may extend to involve the cornea, producing dendritic ulceration. This can lead to corneal scarring and ultimately loss of vision. Any child with herpetic lesions near or involving the eye requires ophthalmic investigation of the cornea by slit lamp examination.
+
+Figure 14.13 Eczema herpeticum.
+
+Central nervous system infection
+
+Neonatal infection (see Ch. 10) – The infection may be focal, affecting the skin or eyes or encephalitis or may be widely disseminated. Its morbidity and mortality are high.
+
+Infection in the immunocompromised host – Infection may be severe. Cutaneous lesions may spread to involve adjacent sites, e.g. oesophagitis and proctitis. Pneumonia and disseminated infections involving multiple organs are serious complications.
+
+Summary
+
+Herpes simplex virus infections
+• Most are asymptomatic
+• Gingivostomatitis – may necessitate intravenous fluids and aciclovir
+• Skin manifestations – mucocutaneous junctions, e.g. lips and damaged skin
+• Eczema herpeticum – may result in secondary bacterial infection and septicaemia
+• Herpetic whitlows – painful pustules on the fingers
+• Eye disease – blepharitis, conjunctivitis, corneal ulceration and scarring
+• CNS – aseptic meningitis, encephalitis
+• Pneumonia and disseminated infection in the immunocompromised.
+
+Chickenpox (primary varicella zoster infection)
+
+Clinical features
+
+These are shown in Figure 14.14.
+
+There are a number of rare but serious complications that can occur in previously healthy children:
+
+• Secondary bacterial infection with staphylococci, group A streptococcal, or other organisms. May lead to further complications such as toxic shock syndrome or necrotising fasciitis. Secondary bacterial infection should be considered where there is onset of a new fever or persistent high fever after the first few days.
+• Encephalitis. This may be generalised, usually occurring early during the illness. In contrast to the encephalitis caused by HSV, the prognosis is good. Most characteristic is a VZV-associated cerebellitis. This usually occurs about a week after the onset of rash. The child is ataxic with cerebellar signs. It usually resolves within a month.
+• Purpura fulminans. This is the consequence of vasculitis in the skin and subcutaneous tissues. It is best known in relation to meningococcal disease and can lead to loss of large areas of skin by necrosis. It may rarely occur after VZV infection due to production of antiviral antibodies which cross-react and inactivate the coagulation factor protein S. There is subsequent dysregulation of fibrinolysis and an increased risk of clotting, most often manifest in the skin.
+
+In the immunocompromised, primary varicella infection may result in severe progressive disseminated disease, which has a mortality of up to 20%. The vesicular eruptions persist and may become haemorrhagic. The disease in the neonatal period is described in Chapter 10.
+
+Watch for the child with chickenpox whose fever initially settles, but then recurs a few days later – it is likely to be due to secondary bacterial infection.
+
+Treatment and prevention
+
+Oral aciclovir has minimal benefit and is not recommended in the UK. Immunocompromised children should be treated with intravenous aciclovir initially.
+
+PDF PAGE 3 — PRINTED PAGE 253
+
+Figure 14.14 Clinical features and complications of chickenpox.
+
+Clinical features and complications of chickenpox
+
+Exposure
+Spread by respiratory droplets
+Highly infectious during viral shedding
+
+Illness
+Viral shedding
+
+Days: incubation
+10–23 (median 14)   –2   –1   0   1   2   3   4   5   6   7
+
+Temp (°C):
+40°C
+37°C
+
+Rash comes in crops for 3–5 days
+Papules
+Vesicles
+Pustules
+Crusts
+
+Complications
+
+Bacterial superinfection
+Staphylococcal
+Streptococcal
+May lead to toxic shock syndrome or necrotising fasciitis
+
+Central nervous system
+Cerebellitis
+Generalised encephalitis
+Aseptic meningitis
+
+Immunocompromised
+Haemorrhagic lesions
+Pneumonitis
+Progressive and disseminated infection
+Disseminated intravascular coagulation
+
+Typical vesicular rash
+
+200–500 lesions start on head and trunk, progress to peripheries. (But may be just a few lesions). Appear as crops of papules, vesicles with surrounding erythema (Fig. 14.14) and pustules at different times for up to one week. Lesions may occur on the palate. Itchy and scratching may result in permanent, depigmented scar formation or secondary infection. If new lesions appear beyond 10 days, suggests defective cellular immunity.
+
+Oral valaciclovir can be substituted if organ dissemination has not occurred. Valaciclovir can be considered for adolescents and adults unlucky enough to develop primary VZV infection, as it is more severe when contracted beyond childhood. Human varicella zoster immunoglobulin (VZIG) is recommended for high-risk immunosuppressed individuals with deficient T-lymphocyte function following contact with chickenpox. Protection from infection with zoster immunoglobulin is not absolute, and depends on how soon after contact with chickenpox it is given.
+
+Beware of admitting a chickenpox contact to a clinical area with immunocompromised children, in whom it can disseminate and be fatal.
+
+Shingles (herpes zoster)
+
+Shingles is uncommon in children. It is caused by reactivation of latent varicella-zoster virus (VZV), causing a vesicular eruption in the dermatomal distribution of sensory nerves (shingles). It occurs most commonly in the thoracic region, although any dermatome can be affected (Fig. 14.15). Children, unlike adults, rarely suffer neuralgic pain with shingles. Shingles in childhood is more common in those who had primary infection in the first year of life. Recurrent or multidermatomal shingles is strongly associated with underlying immune suppression, e.g. HIV infection. In the immunocompromised, reactivated infection can also disseminate to cause severe disease.
+
+Recurrent or multidermatomal shingles suggests a T-cell immune defect.
+
+PDF PAGE 4 — PRINTED PAGE 254
+
+Summary
+
+Chickenpox
+• Clinical features – fever and itchy, vesicular rash which crops for up to 7 days
+• Complications – secondary bacterial infection, encephalitis; disseminated disease in the immunocompromised
+• Human varicella zoster immunoglobulin (VZIG) – if immunosuppressed and in contact with chickenpox or if maternal chickenpox shortly before or after delivery
+• Treatment is symptomatic; i.v. aciclovir for severe chickenpox or the immunocompromised.
+
+Figure 14.15 Herpes zoster (shingles) in a child. Distribution is along the S1 dermatome. (Courtesy of Dr Sam Walters.)
+
+Epstein–Barr virus: infectious mononucleosis (glandular fever)
+
+Epstein–Barr virus (EBV) is the major cause of the infectious mononucleosis syndrome, but it is also involved in the pathogenesis of Burkitt lymphoma, lymphoproliferative disease in immunocompromised hosts and nasopharyngeal carcinoma. The virus has a particular tropism for B lymphocytes and epithelial cells of the pharynx. Transmission usually occurs by oral contact and the majority of infections are subclinical.
+
+Older children, and occasionally young children, may develop a syndrome with:
+• fever
+• malaise
+• tonsillopharyngitis – often severe, limiting oral ingestion of fluids and food; rarely, breathing may be compromised
+• lymphadenopathy – prominent cervical lymph nodes, often with diffuse adenopathy.
+
+Other features include:
+• petechiae on the soft palate
+• splenomegaly (50%), hepatomegaly (10%)
+• a maculopapular rash (5%)
+• jaundice.
+
+Diagnosis is supported by:
+• atypical lymphocytes (numerous large T cells seen on blood film)
+• a positive Monospot test (the presence of heterophile antibodies, i.e. antibodies that agglutinate sheep or horse erythrocytes but which are not absorbed by guinea pig kidney extracts – this test is often negative in young children with the disease)
+• seroconversion with production of IgM and IgG to Epstein–Barr virus antigens.
+
+Symptoms may persist for 1–3 months but ultimately resolve. They are caused by the host immune response to the infection, rather than the virus itself.
+
+Treatment is symptomatic. When the airway is severely compromised, corticosteroids may be considered. In 5% of infected individuals, group A streptococcus is grown from the tonsils. This may be treated with penicillin. Ampicillin or amoxicillin may cause a florid maculopapular rash in children infected with EBV and should be avoided.
+
+Cytomegalovirus
+
+Cytomegalovirus (CMV) is usually transmitted via saliva, genital secretions or breast milk, and more rarely via blood products, organ transplants and transplacentally. The virus causes mild or subclinical infection in normal hosts. In developed countries, about half of the adult population show serological evidence of past infection. In developing countries, most children have been infected by 2 years of age, often via breast milk. In the immunocompromised and the fetus, CMV is an important pathogen.
+
+As with EBV, CMV may cause a mononucleosis syndrome. Pharyngitis and lymphadenopathy are not usually as prominent as in EBV infections. Patients may have atypical lymphocytes on the blood film but are heterophile antibody-negative. Maternal CMV infection may result in congenital infection (see Ch. 9), which may be present at birth or develop when older.
+
+In the immunocompromised host, CMV can cause retinitis, pneumonitis, bone marrow failure, encephalitis, hepatitis, colitis and oesophagitis. It is a very important pathogen following organ transplantation. Organ recipients are closely monitored for evidence of CMV activation by sensitive tests such as blood polymerase chain reaction (PCR). Interventions used to reduce the risk of transmission of CMV disease are CMV-negative blood for transfusions and anti-CMV drug prophylaxis; also, if possible, CMV-positive organs are not transplanted into CMV-negative recipients.
+
+CMV disease may be treated with ganciclovir or foscarnet, but both have serious side-effects.
+
+PDF PAGE 5 — PRINTED PAGE 255
+
+Human herpesvirus 6 (HHV6) and HHV7
+
+Human herpesvirus 6 (HHV6) and HHV7 are closely related and have similar presentations, although HHV6 is more prevalent. Most children are infected with HHV6 or HHV7 by the age of 2 years, usually from the oral secretions of a family member. They classically cause exanthem subitum (also known as roseola infantum), characterised by a high fever with malaise lasting a few days, followed by a generalised macular rash, which appears as the fever wanes. Many children have a febrile illness without rash, and many have a subclinical infection. Exanthem subitum is frequently clinically misdiagnosed as measles or rubella; these infections are rare in the UK and if suspected should be confirmed serologically. Another frequent occurrence in primary HHV6 infection is that infants seen by a doctor during the febrile stage are prescribed antibiotics, and when the rash appears, it is erroneously attributed to an ‘allergic’ reaction to the drug. Primary HHV6/HHV7 infections are a common cause of febrile convulsions. Rarely, they may cause aseptic meningitis, encephalitis, hepatitis, or an infectious mononucleosis-like syndrome.
+
+Parvovirus B19
+
+Parvovirus B19 causes erythema infectiosum or fifth disease (so-named because it was the fifth disease to be described of a group of illnesses with similar rashes), also called slapped-cheek syndrome. Infections can occur at any time of the year, although outbreaks are most common during the spring months. Transmission is via respiratory secretions from viraemic patients, by vertical transmission from mother to fetus and by transfusion of contaminated blood products. Parvovirus B19 infects the erythroblastoid red cell precursors in the bone marrow.
+
+Parvovirus causes a range of clinical syndromes:
+
+• Asymptomatic infection – common; about 5–10% of preschool children and 65% of adults have antibodies
+• Erythema infectiosum – the most common illness, with a viraemic phase of fever, malaise, headache and myalgia followed by a characteristic rash a week later on the face (‘slapped-cheek’), progressing to a maculopapular, ‘lace’-like rash on the trunk and limbs; complications are rare in children, although arthralgia or arthritis is common in adults
+• Aplastic crisis – the most serious consequence of parvovirus infection; it occurs in children with chronic haemolytic anaemias, where there is an increased rate of red cell turnover (e.g. sickle cell disease or thalassaemia); and in immunodeficient children (e.g. malignancy) who are unable to produce an antibody response to neutralise the infection
+• Fetal disease – transmission of maternal parvovirus infection may lead to fetal hydrops and death due to severe anaemia, although the majority of infected fetuses will recover.
+
+Summary
+
+Parvovirus
+• Usually asymptomatic or erythema infectiosum
+• Can cause aplastic crisis in haemolytic anaemias (e.g. sickle cell) or the fetus (causes hydrops).
+
+Enteroviruses
+
+Human enteroviruses, of which there are many (including the coxsackie viruses, echoviruses and polioviruses), are a common cause of childhood infection. Transmission is primarily by the faecal–oral route. Following replication in the pharynx and gut, the virus spreads to infect other organs. Infections occur most commonly in the summer and autumn. Over 90% of infections are asymptomatic or cause a non-specific febrile illness, sometimes with a rash usually over the trunk that is blanching or consists of fine petechiae. A history of loose stools or some vomiting, or a contact history, would be supportive. The child is not usually systemically unwell, but if the rash is non-blanching, admission for observation and 48 h of parenteral antibiotics (such as ceftriaxone) is indicated. It is better to treat a number of enteroviral infections than to send home a child with meningococcal disease, only to have them return moribund 12 h later.
+
+Other characteristic clinical syndromes exist and are listed below. (For polioviruses, see the Immunisation section, below.)
+
+Hand, foot and mouth disease
+
+Painful vesicular lesions on the hands, feet, mouth and tongue, and often on the buttocks. Systemic features are mild. The disease subsides within a few days, with fluids and analgesia.
+
+Herpangina
+
+Vesicular and ulcerated lesions on the soft palate and uvula causing anorexia, pain on swallowing and fever. Resolves with fluids and analgesia.
+
+Meningitis/encephalitis
+
+Aseptic meningitis is caused by many of the enteroviruses. Complete recovery can be expected.
+
+Pleurodynia (Bornholm disease)
+
+An acute illness with fever, pleuritic chest pain and muscle tenderness. There may be a pleural rub but examination is otherwise normal. Recovery is within a few days.
+
+Myocarditis and pericarditis
+
+Rare. Heart failure associated with a febrile illness and ECG evidence of myocarditis.
+
+PDF PAGE 6 — PRINTED PAGE 256
+
+Summary
+
+Enterovirus infection
+• Mostly asymptomatic or self-limiting illness with rash, which may be purpuric
+• Can cause hand, foot and mouth disease, herpangina, or meningitis/encephalitis.
+
+Uncommon viral infections
+
+Measles
+
+Health practitioners in the UK need to be aware of measles due to the rise in cases following public anxiety about the MMR vaccination (see the Immunisation section, below), as well as it continuing to be a major cause of morbidity and death worldwide. As with chickenpox and parvovirus, older children and adults tend to have more severe disease than the very young. For epidemiological tracking of infection, virological or serological confirmation of clinical cases of measles should be undertaken by testing either blood or saliva.
+
+Clinical features
+
+These are shown in Figure 14.16. There are a number of serious complications which can occur in previously healthy children:
+
+• Encephalitis occurs in about 1 in 5000, about 8 days after the onset of the illness. Initial symptoms are headache, lethargy and irritability, proceeding to convulsions and ultimately coma. Mortality is 15%. Serious long-term sequelae include seizures, deafness, hemiplegia and severe learning difficulties, affecting up to 40% of survivors.
+• Subacute sclerosing panencephalitis (SSPE) is a rare but devastating illness manifesting, on average, 7 years after measles infection in about 1 in 100 000 cases. Most children who develop SSPE had primary measles infection before 2 years of age. SSPE is caused by a variant of the measles virus which persists in the central nervous system. The disorder presents with loss of neurological function, which progresses over several years to dementia and death. The diagnosis is essentially clinical, supported by finding high levels of measles antibody in both blood and cerebrospinal fluid and by characteristic EEG abnormalities. Since the introduction of measles immunisation, it has become extremely rare.
+
+Figure 14.16 Clinical features and complications of measles.
+
+Clinical features and complications of measles
+
+Exposure
+Droplet spread
+Highly infectious during viral shedding
+
+Illness
+Viral shedding
+
+Days 10–14   1   2   3   4   5   6   7   8   9   10
+
+Temp °C
+
+Rash
+
+Koplik’s spots
+
+Conjunctivitis and coryza
+
+Cough
+
+Complications
+
+Respiratory
+Pneumonia
+Secondary bacterial infection and otitis media
+Tracheitis
+
+Neurological
+Febrile convulsions
+EEG abnormalities
+Encephalitis
+Subacute sclerosing panencephalitis (SSPE)
+
+Other
+Diarrhoea
+Hepatitis
+Appendicitis
+Corneal ulceration
+Myocarditis
+
+Koplik’s spots
+White spots on buccal mucosa, seen against bright red background. Pathognomonic, but difficult to see.
+
+Rash
+Spreads downwards, from behind the ears to the whole of the body. Discrete, maculopapular rash initially, becomes blotchy and confluent. May desquamate in the second week.
+
+PDF PAGE 7 — PRINTED PAGE 257
+
+In developing countries, where malnutrition and vitamin A deficiency lead to impaired cell-mediated immunity, measles often follows a protracted course with severe complications. Impaired cellular immune responses such as in HIV infection may result in a modified or absent rash, with an increased risk of dissemination, including giant-cell pneumonia or encephalitis.
+
+Treatment
+
+Treatment for measles is symptomatic. Children who are admitted to hospital should be isolated. In immunocompromised patients, the antiviral drug ribavirin may be used. Vitamin A, which may modulate the immune response, should be given in developing countries.
+
+Prevention
+
+Prevention by immunisation is the most successful strategy for reducing the morbidity and mortality of measles.
+
+Measles remains a major cause of death in childhood in developing countries.
+
+Summary
+
+Measles
+• Incidence has declined dramatically since immunisation was introduced; a recent small increase has resulted from the fall in immunisation uptake
+• Clinical features: fever, cough, runny nose, conjunctivitis, marked malaise, Koplik spots, maculopapular rash
+• Complications: common if malnourished or immunocompromised; major cause of death in developing countries.
+
+Mumps
+
+Mumps occurs worldwide, but its incidence has declined dramatically because of the mumps component of the MMR vaccine. Following the decrease in the uptake of the MMR immunisation in the late 1990s, there has been a rise in unimmunised children and unvaccinated young adults. Mumps usually occurs in the winter and spring months. It is spread by droplet infection to the respiratory tract where the virus replicates within epithelial cells. The virus gains access to the parotid glands before further dissemination to other tissues.
+
+Clinical features
+
+The incubation period is 15–24 days. Onset of the illness is with fever, malaise and parotitis, but in up to 30% of cases, the infection is subclinical. Only one side may be swollen initially, but bilateral involvement usually occurs over the next few days. The parotitis is uncomfortable and children may complain of earache or pain on eating or drinking. Examination of the parotid duct may show redness and swelling. Occasionally, parotid swelling may be absent. The fever usually disappears within 3–4 days. Plasma amylase levels are often elevated and, when associated with abdominal pain, may be evidence of pancreatic involvement. Infectivity is for up to 7 days after the onset of parotid swelling. The illness is generally mild and self-limiting. Although hearing loss can follow mumps, it is usually unilateral and transient.
+
+Viral meningitis and encephalitis
+
+Lymphocytes are seen in the CSF in about 50%, meningeal signs are only seen in 10%, and encephalitis in about 1 in 5000. The common clinical features are headache, photophobia, vomiting and neck stiffness.
+
+Orchitis
+
+This is the most feared complication, although it is uncommon in prepubertal males. When it does occur, it is usually unilateral. Although there is some evidence of a reduction in sperm count, infertility is actually extremely unusual. Rarely, oophoritis, mastitis and arthritis may occur.
+
+Rubella (German measles)
+
+Rubella is generally a mild disease in childhood. It occurs in winter and spring. It is an important infection, as it can cause severe damage to the fetus (see Ch. 9). The incubation period is 15–20 days. It is spread by the respiratory route, frequently from a known contact. The prodrome is usually mild with a low-grade fever or none at all. The maculopapular rash is often the first sign of infection, appearing initially on the face and then spreading centrifugally to cover the whole body. It fades in 3–5 days. Unlike in adults, the rash is not itchy. Lymphadenopathy, particularly the suboccipital and postauricular nodes, is prominent. Complications are rare in childhood but include arthritis, encephalitis, thrombocytopenia and myocarditis. Clinical differentiation from other viral infections is unreliable. The diagnosis should be confirmed serologically if there is any risk of exposure of a non-immune pregnant woman. There is no effective antiviral treatment. Prevention therefore lies in immunisation.
+
+Summary
+
+Rubella
+Importance – congenital infection.
+
+PDF PAGE 8 — PRINTED PAGE 258
+
+Prolonged fever
+
+Most childhood infections are acute and resolve in a few days. If not, the child needs to be reassessed for complications of the original illness, e.g. a secondary bacterial infection, or the source of infection may not have been identified, e.g. urinary tract infection. Often, the child has developed another unrelated febrile illness. Assessment of prolonged fever also needs to be made for prompt recognition of Kawasaki disease to avoid complications. Causes of prolonged fever are listed in Box 14.2.
+
+Kawasaki disease
+
+Kawasaki disease (KD) is a systemic vasculitis. Although uncommon, it is an important diagnosis to make because aneurysms of the coronary arteries are a potentially devastating complication. Prompt treatment reduces their incidence.
+
+Kawasaki disease mainly affects children of 6 months to 4 years old, with a peak at the end of the first year. The disease is more common in children of Japanese and, to a lesser extent, Afro-Caribbean ethnicity, than in Caucasians. Young infants tend to be more severely affected than older children and are more likely to have ‘incomplete’ cases, in which not all the cardinal features are present. Although the specific cause is unknown, it is likely to be the result of immune hyperreactivity to a variety of triggers in a genetically susceptible host (a polymorphism in the ITPKC gene, a negative regulator of T-cell activation on chromosome 19 is strongly associated with susceptibility to the disease).
+
+Box 14.2 Causes of prolonged fever
+
+Infective:
+• Localised infection
+• Bacterial infections: e.g. typhoid, Bartonella henselae (cat scratch disease), Brucella
+• Deep abscesses: e.g. intra-abdominal, retroperitoneal, pelvic
+• Infective endocarditis
+• Tuberculosis
+• Non-tuberculous mycobacterial infections: e.g. Mycobacterium avium complex
+• Viral infections: e.g. EBV, CMV, HIV
+• Parasitic infections: e.g. malaria, toxocariasis
+
+Non-infective:
+• Systemic juvenile idiopathic arthritis (SJIA)
+• Systemic lupus erythematosus (SLE)
+• Vasculitis (including Kawasaki disease)
+• Inflammatory bowel disease
+• Sarcoidosis
+• Malignancy: e.g. leukaemia, lymphoma, neuroblastoma
+• Macrophage activation syndromes: e.g. HLH (haemophagocytic lymphohistiocytosis)
+• Drug fever
+• Fabricated or induced illness.
+
+There is no diagnostic test; instead, the diagnosis is made on clinical findings (Fig. 14.17). In addition to the classic features, affected children are strikingly irritable, have a high fever that is difficult to control, and may also have inflammation of their BCG vaccination site. They have high inflammatory markers (C-reactive protein, ESR, white cell count), with a platelet count that rises typically in the second week of the illness. The coronary arteries are affected in about one-third of affected children within the first 6 weeks of the illness. This can lead to aneurysms which are best visualised on echocardiography (see Case History 14.2). Subsequent narrowing of the vessels from scar formation can result in myocardial ischaemia and sudden death. Mortality is 1–2%.
+
+Prompt treatment with intravenous immunoglobulin (IVIG) given within the first 10 days has been shown to lower the risk of coronary artery aneurysms. Aspirin is used to reduce the risk of thrombosis. It is given at a high anti-inflammatory dose until the fever subsides and inflammatory markers return to normal, and continued at a low antiplatelet dose until echocardiography at 6 weeks reveals the presence or absence of aneurysms. When the platelet count is very high, antiplatelet aggregation agents may also be used to reduce the risk of coronary thrombosis. Children with giant coronary artery aneurysms may require long-term warfarin therapy and close follow-up. Children suspected of having the disease but who do not have all the clinical features should still be considered for treatment. Sometimes, fever recurs despite treatment and these children are given a second dose of IVIG. Persistent inflammation and fever may require treatment with infliximab (a monoclonal antibody against TNF-α), steroids or ciclosporin.
+
+Prolonged fever – check – is it Kawasaki disease?
+
+Summary
+
+Kawasaki disease
+• Mainly affects infants and young children
+• The diagnosis is made on clinical features – fever >5 days and four other features of non-purulent conjunctivitis, red mucous membranes, cervical lymphadenopathy, rash, red and oedematous palms and soles or peeling of fingers and toes
+• ‘Incomplete’ (formerly called ‘atypical’) cases can occur, especially in infants, so a high index of suspicion should be maintained in a febrile child
+• Complications – coronary artery aneurysms and sudden death
+• Treatment – intravenous immunoglobulin and aspirin.
+
+PDF PAGE 9 — PRINTED PAGE 259
+
+Figure 14.17 Evolution of clinical features and abnormal investigations in Kawasaki disease.
+
+Kawasaki disease
+
+Clinical features
+
+Fever >5 days
+
+4 of the 5 other features of:
+Conjunctival infection
+Mucous membrane changes (pharyngeal injection; red, dry, cracked lips; strawberry tongue)
+Cervical lymphadenopathy
+Rash (polymorphous)
+Extremities
+Red and oedematous palms and soles
+Peeling of fingers and toes
+
+Complications
+Cardiovascular signs: gallop rhythm, myocarditis, pericarditis
+Coronary and peripheral aneurysms
+Sudden death
+
+Investigations
+1st week     2nd week     3rd week     4th week     2nd month
+↑ White blood cells (neutrophils)
+↑ESR/ C-reactive protein
+↑Platelets (500–3000 × 109/L)
+Echocardiogram (aneurysms)
+
+Case History
+
+14.2 Kawasaki disease
+
+This 2-year-old boy developed a high fever of 2 days’ duration. Examination showed a miserable child with mild conjunctivitis, a rash and cervical lymphadenopathy. A viral infection was diagnosed and his mother was reassured. When he presented to hospital 3 days later, he was noted to have cracked red lips (Fig. 14.18a). He was admitted and a full septic screen, including a lumbar puncture, was performed and antibiotics started. The following day, he was still febrile and irritable; his C-reactive protein (CRP) had risen to 135, and ESR (erythrocyte sedimentation rate) to 125. Kawasaki disease was suspected and he was treated with intravenous immunoglobulin and high-dose oral aspirin. His clinical condition improved and he became afebrile the following morning. An echocardiogram at this stage showed no aneurysms of the coronary arteries, which are the most serious complication associated with delayed diagnosis and treatment. On the fifteenth day of the illness there was peeling of the fingers and toes (Fig. 14.18b).
+
+Figure 14.18 (a) Red, cracked lips and conjunctival inflammation. (b) Peeling of the fingers, which developed on the 15th day of the illness. (Courtesy of Professor Mike Levin.)
+
+PDF PAGE 10 — PRINTED PAGE 260
+
+Tuberculosis
+
+The decline in the incidence and mortality from tuberculosis (TB) in developed countries was hailed as an example of how public health measures and antimicrobial therapy can dramatically modify a disease. However, TB is again becoming a public health problem, partly through its increasing incidence in patients with HIV infection, and with the emergence of multi-drug resistant strains. Spread of TB is usually by the respiratory route. Close proximity, infectious load and underlying immunodeficiency enhance the risk of transmission. There is an important distinction between TB infection (latent TB) and TB disease. TB infection is more likely to progress to disease in infants and young children, compared to adults. In contrast to adults, children are generally not infectious, because the disease is paucibacillary. Children usually acquire TB from an infected adult in the household.
+
+Clinical features
+
+These are outlined in Figure 14.19.
+
+Diagnosis
+
+Diagnosis of TB in children is even more difficult than in adults. The clinical features of the disease are non-specific, such as prolonged fever, malaise, anorexia, weight loss or focal signs of infection. Sputum samples are generally unobtainable from children under about 8 years of age, unless specialist induction techniques are used. Children usually swallow sputum, so gastric washings on three consecutive mornings are required to visualise or culture acid-fast bacilli originating from the lung. To obtain these, a nasogastric tube is passed and secretions are rinsed out of the stomach with saline before food. Urine, lymph node excision, CSF and radiological examinations should also be performed where appropriate. Although it is difficult to culture TB from children, the presence of multi-drug resistant strains makes it important to try to grow the organism so that antibiotic sensitivity can be assessed.
+
+If TB is suspected, a Mantoux test is performed – 2 units of purified protein derivative (PPD) of tuberculin (2TU SSI, 0.1 ml intradermal injection, read after 48–72 h as induration measured in mm across the forearm). Because PPD is a mixture of proteins, some of which are common to TB and BCG, the Mantoux test may be positive because of past vaccination rather than TB infection. A history of BCG immunisation therefore needs to be taken into account when interpreting the test. Induration of >10 mm is positive where no BCG has been given, 15 mm where BCG has been given. Heaf tests are no longer used for screening for TB.
+
+A new generation of diagnostic tests is the interferon-gamma release assays (IGRA). These are blood tests that assess the response of T cells to stimulation in vitro with a small number of antigens found in TB but not in BCG. Positive results therefore indicate TB infection rather than BCG vaccination. The sensitivity and specificity of these tests in different settings is being evaluated, but its routine use in clinical practice is increasing. Neither this test nor the Mantoux test can reliably distinguish between TB infection and TB disease, so correlation with clinical signs and symptoms is required.
+
+Co-infection with HIV makes the diagnosis even more difficult. With advanced immune suppression, both skin tests and IGRA are unreactive. Contact history, radiology and possibly tissue diagnosis become even more important. Attention has to be paid to avoiding misdiagnosing TB on chest X-ray appearances alone, as lymphoid interstitial pneumonitis can look similar and occurs in 20% of HIV-infected children. In view of the overlapping epidemiology, all individuals with TB should be tested for HIV, and vice-versa.
+
+Treatment
+
+Triple or quadruple therapy (rifampicin, isoniazid, pyrazinamide, ethambutol) is the recommended initial combination. This is decreased to the two drugs rifampicin and isoniazid after 2 months, by which time antibiotic sensitivities are often known. Treatment for uncomplicated pulmonary or lymph node TB is usually for 6 months; longer treatment courses are required for TB meningitis or disseminated disease. After puberty, pyridoxine is given weekly to prevent the peripheral neuropathy associated with isoniazid therapy, a complication which does not occur in young children. In tuberculous meningitis, dexamethasone is given for the first month at least, to decrease the risk of long-term sequelae.
+
+Asymptomatic children who are Mantoux-positive and therefore latently infected should also be treated (e.g. with rifampicin and isoniazid for 3 months) as this will decrease the risk of reactivation of infection later in life.
+
+Prevention and contact tracing
+
+BCG immunisation has been shown to be helpful in preventing or modifying TB in the UK. However, its usefulness worldwide in preventing the disease is controversial. In the UK, BCG is recommended at birth for high-risk groups (communities with a relatively high prevalence of TB; i.e. Asian or African origin or TB in a family member in the previous 5 years or if the local area has a high prevalence rate). The UK programme of routine BCG for all tuberculin-negative children between 10 and 14 years has been discontinued. BCG should not be given to HIV-positive or other immunosuppressed children due to the potential risk of dissemination.
+
+As most children are infected from a household contact, it is essential to screen other family members for the disease. Children who are exposed to smear-positive individuals (where organisms are visualised on sputum) should be assessed for evidence of asymptomatic infection. Mantoux-negative children over 5 years should receive BCG immunisation. Some clinicians suggest that those who are Mantoux-negative and <5 years old should receive chemoprophylaxis (e.g. rifampicin and isoniazid for 3 months). If at the end of this time they remain Mantoux-negative they should also receive BCG immunisation. Again, the aim of treatment is to decrease the risk of reactivation of TB infection later in life.

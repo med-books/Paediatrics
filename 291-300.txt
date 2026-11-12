@@ -1,0 +1,491 @@
+291
+
+Choosing the correct inhaler
+
+Inhaled drugs may be administered via a variety of devices, chosen according to the child’s age and preference:
+• Pressurised metered dose inhaler (pMDI) and spacer (Fig. 16.13).
+  – Appropriate for all age groups: 0–2 years, spacer and facemask; >2 years, spacer alone
+  – A spacer is recommended for all children as it increases drug deposition to the lungs
+  – Useful for acute asthma attacks when poor inspiratory effort may impair the use of inhalers direct to the mouth
+• Breath-actuated metered dose inhalers (e.g. Autohaler, Easibreath): 6+ years. Less coordination needed than a pMDI without spacer. Useful for delivering β-agonists when ‘out and about’ in older children
+• Dry powder inhaler: 4+ years (Fig. 16.14). Needs a good inspiratory flow, therefore less good in severe asthma and during an asthma attack. Also easy to use when ‘out and about’ in older children
+• Nebuliser: any age (Fig. 16.15). Only used in acute asthma where oxygen is needed in addition to inhaled drugs; occasionally used at home as part of an acute management plan in those with rapid-onset severe asthma (brittle asthma).
+
+Many children fail to gain the benefit of their treatment because they cannot use the inhaler correctly. This must be demonstrated and the child’s ability to use it checked. In young children, parents need to be skilled in assisting their child to use the inhaler correctly. Assessing and reassessing inhaler technique is vital to good management and should be a routine part of any review.
+
+Figure 16.13 Pressurised metered dose inhaler (pMDI) and spacer. Suitable for all ages, with facemask if <2 years old.
+Figure 16.14 Dry powder inhaler, >4 years.
+Figure 16.15 Nebuliser: all ages. Only used in acute asthma where oxygen is needed in addition to inhaled drugs.
+
+Inspiration and expiration) indicates moderate to severe asthma attack in children but is difficult to measure accurately and is therefore unreliable
+• If breathlessness interferes with talking, the attack is severe
+• Cyanosis, fatigue and drowsiness are late signs, indicating life-threatening asthma; this may be accompanied by a silent chest on auscultation as little air is being exchanged. This is an emergency as the child may be about to arrest.
+
+However, the severity of an acute asthma attack may be underestimated by clinical examination alone. Therefore:
+• Arterial oxygen saturation should be measured with a pulse oximeter in all children presenting to hospital with acute asthma. Oxygen saturation <92% in air implies severe or life-threatening asthma
+• Measurement of the peak expiratory flow rate should be routine in school-age children.
+
+The features of a severe and life-threatening acute attack are shown in Figure 16.16.
+
+Criteria for admission to hospital
+
+Children require hospital admission if, after high-dose inhaled bronchodilator therapy, they:
+• have not responded adequately clinically; there is persisting breathlessness, tachypnoea
+• are exhausted
+• still have a marked reduction in their predicted (or usual) peak flow rate
+• have a reduced oxygen saturation (<92% in air).
+
+A chest X-ray is indicated only if there are unusual features (e.g. asymmetry of chest signs suggesting pneumothorax, lobar collapse) or signs of severe infection. In children, blood gases are only indicated in life-threatening or refractory cases.
+
+
+292
+
+Figure 16.16 Assessment and management of acute asthma
+
+Assess asthma severity
+
+Moderate
+• Oxygen saturation >92%
+• Peak flow >50% predicted or best value
+• No clinical features of severe asthma
+
+Severe
+• Too breathless to talk or feed
+• Use of accessory neck muscles
+• Oxygen saturation <92%
+• Respirations >50/min (age 2–5 years) or >30/min (age over 5 years)
+• Pulse >130/min (age 2–5 years) or >120/min (age over 5 years)
+• Peak flow <50% predicted or best value
+
+Life threatening
+• Silent chest
+• Poor respiratory effort
+• Altered consciousness
+• Cyanosis
+• Oxygen saturation <92%
+• Peak flow <33% predicted or best value
+
+Management
+
+Moderate:
+• Short-acting β2-agonist via spacer, 2–4 puffs, increasing by 2 puffs every 2 min to 10 puffs if required
+• Consider oral prednisolone
+• Reassess within 1 h
+
+Severe:
+Oxygen via facemask/nasal prongs to achieve normal saturations
+• Short-acting β2-agonist (salbutamol or terbutaline), 10 puffs via spacer or nebulised
+• Oral prednisolone or IV hydrocortisone
+• Nebulised ipratropium bromide if poor response
+• Repeat bronchodilators every 20–30 min as needed
+
+Life threatening:
+Oxygen via facemask/nasal prongs to achieve normal saturations
+• Nebulised β2-agonist – salbutamol or terbutaline plus ipratropium bromide
+• IV hydrocortisone
+• Discuss with senior clinician, PICU team or paediatrician
+• Repeat bronchodilators every 20–30 min
+
+Assess response to treatment
+Monitor respiratory rate, heart rate, oxygen saturation, peak flow.
+
+Responding:
+• Continue bronchodilators 1–4 h prn
+• Discharge when stable on 4-h treatment
+• Continue oral prednisolone for up to 3 days
+
+Not responding:
+• Transfer to HDU (High Dependency Unit) or PICU and consider CXR and blood gases
+• Intravenous salbutamol or aminophylline (caution if already receiving theophyllines)
+• Consider bolus of IV magnesium sulphate
+
+At discharge:
+• Review medication and inhaler technique
+• Provide personalised asthma action plan
+• Arrange follow-up as appropriate
+
+Figure 16.16 Assessment and management of acute asthma. (Adapted from the British Guideline on Asthma Management, 2003.)
+
+Management
+
+Acute breathlessness is frightening for both the child and the parents. Calm and skilful management is the key to their reassurance. High-dose inhaled bronchodilators, steroids and oxygen form the foundation of therapy of severe acute asthma.
+
+Management is summarised in Figure 16.16. As soon as the diagnosis has been made, the child should be given a β2-bronchodilator. For severe exacerbations, high-dose therapy should be given and repeated every 20–30 min. For moderate to severe asthma, 10 puffs of β2-bronchodilator should be given via a pressurised metered dose inhaler (pMDI) and large volume spacer. This is not only good treatment but also educates the child and parent in using the preferred devices they will have at home. For severe to life-threatening asthma, a β2-bronchodilator may need to be given via nebuliser driven by high-flow oxygen. The addition of nebulised ipratropium to the initial therapy in severe asthma is beneficial. Oxygen is given when there is any evidence of arterial oxygen desaturation, such as saturations of <92%. A short course (2–5 days) of oral prednisolone expedites the recovery from moderate or severe acute asthma.
+
+Intravenous therapy has a role in the minority of children who fail to respond adequately to inhaled bronchodilator, either aminophylline or intravenous salbutamol.
+
+
+293
+
+Summary
+
+Assessment of the child with acute asthma
+
+Determine the severity of the attack (see Fig. 16.16)
+• Mild
+• Moderate
+• Severe
+• Life-threatening
+
+Too breathless to talk or eat?
+
+Increased work of breathing
+• Tachypnoea – severe if >30 breaths/min
+
+Chest recession:
+• Moderate – some intercostal recession
+• Severe – use of accessory neck muscles
+• Life-threatening – poor respiratory effort
+
+Auscultation:
+• Wheeze
+• Silent chest – poor air entry in life-threatening
+
+Pulse:
+• Severe – >120 beats/min
+
+Level of consciousness – altered in life-threatening
+Exhaustion
+
+Tongue:
+• Cyanosis in life-threatening
+
+Peak flow (% predicted):
+• Moderate >50%
+• Severe <50%
+• Life-threatening <33%
+
+O2 saturation:
+• Moderate >92%
+• Severe or life-threatening <92%
+
+Is there a trigger for the attack?
+• URTI or other viral illness
+• Pneumonia
+• Allergen, e.g. animal dander
+• Exercise
+• Cold air
+
+Salbutamol. For intravenous aminophylline, a loading dose is given over 20 min, followed by continuous infusion. Seizures, severe vomiting and fatal cardiac arrhythmias may follow a rapid infusion. If the child is already on oral theophylline, the loading dose should be omitted. With both aminophylline and salbutamol, the ECG should be monitored and blood electrolytes checked. There is increasing evidence that intravenous magnesium sulphate is helpful in life-threatening asthma. Antibiotics are only given if there are clinical features of bacterial infection. Occasionally, these measures are insufficient and artificial ventilation is required.
+
+Patient education
+
+Prior to discharge from hospital after an acute admission, the following points should be reviewed with the child and family:
+• When drugs should be used (regularly or ‘as required’)
+• How to use the drug (inhaler technique)
+• What each drug does (relief vs prevention)
+• How often and how much can be used (frequency and dosage)
+• What to do if asthma worsens (a personal asthma management plan is helpful: see the Appendix for an example).
+
+The child and parents need to know that increasing cough, wheeze and breathlessness, and difficulty in walking, talking and sleeping, or decreasing relief from bronchodilators all indicate poorly-controlled asthma. Some asthmatics find it difficult to identify gradual deterioration – measurement of peak flow rate at home allows earlier recognition. Patients with troublesome asthma are usually given a supply of oral steroids to keep at home, with instructions in the asthma action plan on when to start them.
+
+Recurrent or persistent cough
+
+Cough is the most common symptom of respiratory disease and indicates stimulation of nerve receptors in the pharynx, larynx, trachea or large bronchi. For most children, episodes of cough are due to upper respiratory tract infections caused by the common cold viruses and do not indicate the presence of a long-term or serious underlying respiratory disease. Cough appears persistent because of a series of respiratory tract infections, although some infections, such as pertussis, RSV and Mycoplasma infection, can cause a cough that persists for weeks or months. The challenge for the physician is to identify children with other, less common, clinically significant causes of recurrent or persistent cough (Box 16.3).
+
+Asthma is the next most common cause of recurrent cough in childhood. Although there is usually associated wheeze and breathlessness, sometimes the wheezing is not recognised or not described
+
+
+294
+
+Box 16.3 Causes of recurrent or persistent cough
+• Recurrent respiratory infections
+• Post-specific respiratory infections (e.g. pertussis, RSV, Mycoplasma)
+• Asthma
+• Suppurative lung diseases (e.g. cystic fibrosis, ciliary dyskinesia or immune deficiency)
+• Recurrent aspiration (± gastro-oesophageal reflux)
+• Persistent endobronchial infection
+• Inhaled foreign body
+• Cigarette smoking (active or passive)
+• Tuberculosis
+• Habit cough
+• Airway anomalies (e.g. tracheo-bronchomalacia, tracheo-oesophageal fistula).
+
+Accurately. Identifying wheeze on auscultation during an acute episode is helpful to make the diagnosis. However, many children with persistent cough without wheeze are treated incorrectly as asthmatics. If the clinical features are not suggestive of asthma or if initial treatment is not beneficial, other diagnoses should be considered or the child referred to a paediatrician with a specialist interest in respiratory disorders.
+
+Persistent cough after an acute infection may indicate cystic fibrosis or unresolved lobar collapse, which will be seen on a chest X-ray. Most children will not expectorate sputum but will swallow their sputum. It is therefore crucial to listen to the quality of the cough. If ‘wet’ (i.e. sounding like there is excess sputum in the airways) or if the cough is productive, further investigation is required (see below). In any child with a severe, persistent cough, TB should be excluded with a chest X-ray and tuberculin skin (Mantoux) test.
+
+Aspiration of feeds may cause cough and wheeze. This may be caused by gastro-oesophageal reflux or as a result of swallowing disorders, e.g. in children with cerebral palsy. Inhaled foreign body needs to be considered even when there is no clear history.
+
+The significance of parental smoking on children is generally underestimated. If both parents smoke, young children are twice as likely to have recurrent cough and wheeze than in non-smoking households. In the older child, active smoking is common: 10% of 11–15-year-olds and 30% of 16–19-year-olds smoke regularly.
+
+Some older children and adolescents develop a barking, unproductive, habit cough following an infection or an asthma attack. The cough characteristically disappears during sleep and is dry in nature. Reassurance and explanation after a thorough examination are usually effective.
+
+Chronic lung infection
+
+Any child with a persistent cough that sounds ‘wet’ (i.e. sounds like there is excess sputum in the chest) or is productive should be investigated. The child may have bronchiectasis, permanent dilatation of the bronchi. Bronchiectasis may be generalised or restricted to a single lobe. Generalised bronchiectasis may be due to cystic fibrosis, primary ciliary dyskinesia, immunodeficiency or chronic aspiration. Cystic fibrosis is considered separately below. Focal bronchiectasis is due to previous severe pneumonia, congenital lung abnormality or obstruction by a foreign body (see Case History 16.2).
+
+In primary ciliary dyskinesia there is congenital abnormality in the structure or function of cilia. This leads to impaired mucociliary clearance. Affected children have recurrent infection of the upper and lower respiratory tract, which if untreated may lead to severe bronchiectasis. They characteristically have a recurrent productive cough, purulent nasal discharge and chronic ear infections; 50% also have dextrocardia and situs inversus (Kartagener syndrome). The diagnosis is made in a specialist laboratory by examination of the structure and function of the cilia of nasal epithelial cells brushed from the nose. The cornerstones of management are daily physiotherapy to clear secretions, proactive treatment of infections with antibiotics and appropriate ENT follow-up.
+
+Children with immunodeficiency may develop severe, unusual or recurrent chest infections. The immune deficiency may be secondary to an illness, e.g. malignant disease or its treatment with chemotherapy. Less commonly it is due to HIV infection or a primary immune deficiency.
+
+Many children with neurodisability will have chronic aspiration, either due to oropharyngeal incoordination or due to gastro-oesophageal reflux.
+
+Tuberculosis remains an important cause of chronic lung infection and all children with a persistent productive cough should have a chest X-ray and tuberculin skin test. Marked hilar or paratracheal lymphadenopathy is highly suggestive of tuberculosis.
+
+Persistent inflammation of the lower airways driven by chronic infection of the lower respiratory tract (persistent endobronchial infection) is increasingly recognised as a cause of chronic wet cough in children. It may be a precursor to bronchiectasis if investigations and treatment are not instituted. Referral to a specialist in paediatric respiratory disorders is indicated. Persistent endobronchial infection is often improved with early access to oral antibiotics or on occasions long-term prophylactic antibiotics.
+
+A plain chest X-ray may show gross bronchiectasis, but will often not identify it. Bronchiectasis is best identified on a CT scan of the chest (Fig. 16.17a,b). To investigate focal disease bronchoscopy is usually indicated to exclude a structural cause.
+
+Figure 16.17 Bronchiectasis on CT scan of the chest. (a) Generalised and (b) focal, in the right upper lobe.
+
+Cystic fibrosis
+
+Epidemiology, genetics and basic defect
+
+Cystic fibrosis (CF) is the commonest life-limiting autosomal recessive condition in Caucasians with an incidence of 1 in 2500 live births and carrier rate of 1 in 25.
+
+
+295
+
+Case History 16.2 Foreign body inhalation
+
+A previously well 3-year-old boy presented with a 5-day history of severe cough and wheeze. His symptoms developed after choking on some peanuts. A chest X-ray revealed a hyperlucent right lung (Fig. 16.18). Bronchoscopy was performed and revealed a peanut wedged in the right main bronchus.
+
+Figure 16.18 Hyperlucency of the right lung and mediastinal shift to the left. (Courtesy of Dr Abbas Khakoo.)
+
+Figure 16.17 Bronchiectasis on CT scan of the chest. (a) Generalised and (b) focal, in the right upper lobe.
+
+It is well recognised but less common in other ethnic groups. Average life expectancy has increased from a few years to the mid-30s, with a projected life expectancy for current newborns into the 40s.
+
+The fundamental problem in CF is a defective protein called the cystic fibrosis transmembrane conductance regulator (CFTR). CFTR is a cyclic AMP-dependent chloride channel found in the membrane of cells. The gene for CFTR is located on chromosome 7. Over 1000 different gene mutations have been discovered that cause a number of distinct defects in CFTR, but by far the most frequent mutation in the UK is delta F508. The correlation between genotype and phenotype is relatively weak for CF lung disease but stronger for gastrointestinal disease. This suggests that additional factors are important in determining the severity of lung disease, including different microbial pathogens, passive smoking, social deprivation and other ‘modifier’ genes.
+
+Identification of the gene mutation involved within a family allows prenatal diagnosis and carrier detection in the wider family.
+
+Pathophysiology
+
+CF is a multi-system disorder which results mainly from abnormal ion transport across epithelial cells. In the airways this leads to reduction in the airway surface liquid layer and consequent impaired ciliary function and retention of mucopurulent secretions. Chronic endobronchial infection with specific organisms such as Pseudomonas aeruginosa ensues. Defective CFTR also causes dysregulation of inflammation and defence against infection. In the intestine, thick viscid meconium is produced, leading to meconium ileus in 10–20% of infants (see below). The pancreatic ducts also become blocked by thick secretions, leading to pancreatic enzyme deficiency and malabsorption. Abnormal function of the sweat glands results in excessive concentrations of sodium and chloride in the sweat.
+
+Clinical features
+
+In the UK, screening of newborns is now performed as part of the heel-prick bloodspot biochemical screen (Guthrie test). The majority of children with CF are identified by screening; however, children may still present clinically with recurrent chest infections, poor growth or malabsorption (Box 16.4). Chronic infection with specific bacteria – initially Staphylococcus aureus and Haemophilus influenzae and subsequently with Pseudomonas aeruginosa or Burkholderia species – results from viscid mucus in the smaller airways of the lungs. This leads to damage of the bronchial wall, bronchiectasis and abscess formation (Fig. 16.19). The child has a persistent, loose cough, productive of purulent sputum. On examination there is hyperinflation of the chest due to air trapping, coarse inspiratory crepitations and/or expiratory wheeze. With
+
+
+296
+
+Figure 16.19 A chest X-ray in cystic fibrosis showing hyperinflation, marked peribronchial shadowing, bronchial wall thickening and ring shadows.
+
+Box 16.4 Clinical features of cystic fibrosis
+
+Newborn
+• Diagnosed through newborn screening
+
+Infancy
+• Meconium ileus in newborn period
+• Prolonged neonatal jaundice
+• Failure to thrive
+• Recurrent chest infections
+• Malabsorption, steatorrhoea
+
+Young child
+• Bronchiectasis
+• Rectal prolapse
+• Nasal polyp
+• Sinusitis
+
+Older child and adolescent
+• Allergic bronchopulmonary aspergillosis (ABPA)
+• Diabetes mellitus
+• Cirrhosis and portal hypertension
+• Distal intestinal obstruction (DIOS, meconium ileus equivalent)
+• Pneumothorax or recurrent haemoptysis
+• Sterility in males
+
+Figure 16.20 Growth chart of a child with cough and recurrent wheeze. Only when the diagnosis of cystic fibrosis was made and appropriate treatment started did he gain weight. (Adapted from growth chart, © RCPCH/WHO/Department of Health.)
+
+Graph labels: Weight (kg); Age (years); Diagnosis of cystic fibrosis; percentile lines 99.6th, 98th, 91st, 75th, 50th, 25th, 9th, 2nd, 0.4th.
+
+Established disease, there is finger clubbing. Ultimately, 95% die of respiratory failure.
+
+Over 90% of children with CF have pancreatic exocrine insufficiency (lipase, amylase and proteases), resulting in maldigestion and malabsorption. Untreated, this leads to failure to thrive (Fig. 16.20) and passing frequent large, pale, very offensive and greasy stools (steatorrhoea). Pancreatic insufficiency can be diagnosed by demonstrating low elastase in faeces.
+
+About 10–20% of CF infants present in the neonatal period with meconium ileus, in which inspissated meconium causes intestinal obstruction with vomiting, abdominal distension and failure to pass meconium in the first few days of life. Initial treatment is with Gastrografin enemas, but most cases require surgery.
+
+Diagnosis
+
+The essential diagnostic procedure is the sweat test, to confirm that the concentration of chloride in sweat is markedly elevated (Cl 60–125 mmol/L in cystic fibrosis, 10–40 mmol/L in normal children). Sweating is stimulated by pilocarpine iontophoresis. The sweat is collected into a special capillary tube or absorbed onto a weighed piece of filter paper. Diagnostic errors are common if there is an inadequate volume of sweat collected, so the test must be performed by experienced staff. Confirmation of diagnosis can be made with testing for gene abnormalities in the CFTR protein. If a child is homozygote with two identified mutations then they have cystic fibrosis.
+
+Management
+
+The effective management of CF requires a multidisciplinary team approach, including paediatricians, physiotherapists, dieticians, specialist nurses, the primary care team, teachers and, most importantly, the child and parents. All patients with CF should be reviewed at least annually in a specialist centre. The aims of therapy are to prevent progression of the lung disease and to maintain adequate nutrition and growth.
+
+
+297
+
+Respiratory management
+
+Recurrent and persistent bacterial chest infection is the major problem. In younger children, respiratory status is monitored on symptoms; older children should have their lung function measured regularly by spirometry. The FEV1 (forced expiratory volume in 1 second), expressed as a percentage predicted for age, sex and height, is an indicator of clinical severity and declines with disease progression.
+
+With regular treatment, most infants and children with CF should have no respiratory symptoms, and often have no abnormal signs. From diagnosis, children should have physiotherapy at least twice a day, aiming to clear the airways of secretions. In younger children, parents are taught to perform airway clearance at home using chest percussion and postural drainage. Older patients perform controlled deep breathing exercises and use a variety of physiotherapy devices for airway clearance. Physical exercise is beneficial and is encouraged.
+
+Many CF specialists recommend continuous prophylactic oral antibiotics (usually flucloxacillin), with additional rescue oral antibiotics for any increase in respiratory symptoms or decline in lung function. Persisting symptoms or signs require prompt and vigorous intravenous therapy to limit lung damage, usually administered for 14 days via a peripheral venous long line. Increasingly, parents are taught to administer courses of intravenous antibiotics at home, so decreasing disruption of normal activities such as school. Chronic Pseudomonas infection is associated with a more rapid decline in lung function, and this is slowed by the use of daily nebulised antipseudomonal antibiotics. Nebulised DNAse or hypertonic saline may be helpful to decrease the viscosity of sputum and so increase its clearance. The macrolide antibiotic azithromycin, given regularly, decreases respiratory exacerbations, probably due to an immunomodulatory effect rather than antibiotic action. Regular, nebulised hypertonic saline may decrease the number of respiratory exacerbations.
+
+More severe CF requires more regular intravenous antibiotic therapy. If venous access becomes troublesome, implantation of a central venous catheter with a subcutaneous port (e.g. Portacath) simplifies venous access, although they require monthly flushing and complications may develop.
+
+Bilateral sequential lung transplantation is the only therapeutic option for end-stage CF lung disease. Fortunately, this is rarely required during childhood. Outcomes following lung transplantation continue to improve with >50% survival at 10 years. Meticulous assessment, for example with regard to comorbidities and microbiology, psychological preparation, optimal timing of transplantation and expert post-transplant care, are all essential parts of the multidisciplinary transplant process.
+
+Nutritional management
+
+Dietary status should be assessed regularly. Pancreatic insufficiency is treated with oral enteric-coated pancreatic replacement therapy taken with all meals and snacks. Dosage is adjusted according to clinical response. A high-calorie diet is essential, and dietary intake is recommended at 150% of normal. To achieve this, overnight feeding via a gastrostomy is increasingly used. Most patients require fat-soluble vitamin supplements.
+
+Teenagers and adults
+
+Most children with CF now survive into adult life. With increasing age come increased complications, most commonly diabetes mellitus due to decreasing pancreatic endocrine function. Up to one-third of patients will have evidence of liver disease with hepatomegaly on liver palpation, abnormal liver function on blood tests or an abnormal ultrasound; regular ursodeoxycholic acid, to improve flow of bile, may be beneficial. Rarely, the liver disease progresses to cirrhosis, portal hypertension and ultimately liver failure. Liver transplant is generally very successful in CF-related liver failure.
+
+In distal intestinal obstruction syndrome (meconium ileus equivalent), viscid mucofaeculent material obstructs the bowel. This is usually cleared by oral Gastrografin.
+
+There may be increasing chest infections, as well as other late respiratory complications including pneumothorax and life-threatening haemoptysis. There is increasing concern over transmission of virulent strains of Pseudomonas and Burkholderia cepacia between patients, causing rapid decline in lung function. Consequently, patients are often segregated and advised not to socialise with other people with CF.
+
+Females have normal fertility, and unless they have severe lung disease, tolerate pregnancy well. Males are virtually always infertile due to absence of the vas deferens, although they can father children through intracytoplasmic sperm injection (ICSI).
+
+The psychological repercussions on the affected child and family of a chronic and ultimately fatal illness which requires regular physiotherapy and drugs, frequent hospital admissions and absences from school are considerable. The CF team should provide psychological and emotional support. Adolescents have particular needs which must receive special consideration. Older adolescents with CF should transfer to specialist adult CF care.
+
+Gene therapy is currently being assessed but is unlikely to be of practical value in the immediate future.
+
+Screening
+
+All newborn infants born in the UK are screened for CF. Immunoreactive trypsinogen (IRT) is raised in CF patients and can be measured in routine heel-prick blood taken for biochemical screening of all babies (Guthrie test). Those samples with a raised IRT are then screened for common CF gene mutations, and infants with two mutations have a sweat test to confirm the diagnosis.
+
+Early identification of CF allows the early introduction of regular treatment. This leads to better nutrition in childhood and improved neurodevelopmental outcome. It also allows proactive institution of
+
+
+298
+
+Summary
+
+Assessment of the adolescent with cystic fibrosis
+
+Siblings may be affected – autosomal recessive condition.
+
+Sweat – salty, may lead to dehydration in hot weather.
+
+Central venous line, e.g. Portacath – for intravenous antibiotics to aggressively treat infection.
+
+Chest – determine if:
+Hyperexpansion due to air trapping
+Harrison sulcus
+Coarse inspiratory crepitations and/or expiratory wheeze
+Chest infection
+
+Clubbing of fingers.
+
+Scar from operation for meconium ileus as neonate (10–20%).
+
+Monitor for potential complications:
+Nasal polyps, sinusitis, rectal prolapse
+Allergic bronchopulmonary aspergillosis (ABPA)
+Diabetes mellitus (often insulin-dependent)
+Cirrhosis and portal hypertension
+Distal intestinal obstruction syndrome (DIOS, meconium ileus equivalent)
+Pneumothorax or recurrent haemoptysis
+Concern about sterility in males
+
+Sputum – evidence of infection – acute or chronic with Pseudomonas species or Burkholderia cepacia.
+
+Growth: Aim for normal growth.
+
+Nutrition:
+Gastrostomy for overnight feeding for extra calories
+Pancreatic exocrine insufficiency – taking sufficient pancreatic replacement therapy?
+– Taking fat-soluble vitamins?
+
+Review of chest problems:
+Spirometry – for deterioration
+Regular breathing exercises?
+Physiotherapy and exercise?
+Bronchodilator therapy – is it optimal?
+Chest infection – acute or chronic and its treatment?
+Nebulised antipseudomonal antibiotics and DNAse?
+Avoidance of direct contact with other affected patients other than family members?
+
+General overview:
+School attendance and performance
+Specific problems with managing their disease
+Psychological needs
+
+Respiratory management and avoids the morbidity and parental anxiety experienced prior to the clinical diagnosis being established. It also enables early genetic counselling for the parents about the one in four risk of recurrence and the possibility of prenatal diagnosis in future pregnancies.
+
+Cystic fibrosis should be considered in any child with recurrent infections, loose stools or failure to thrive.
+
+Sleep-related breathing disorders
+
+This is receiving increased recognition. Up to 12% of pre-pubertal school children snore and estimates of the prevalence of obstructive sleep apnoea (OSA) resulting in gas-exchange abnormalities range from 0.7 to 3%.
+
+Key aspects of the history include loud snoring, witnessed pauses in breathing (apnoeas), restlessness and disturbed sleep. Affected children may be obese, although others may have growth failure. Important consequences of obstructive sleep apnoea include excessive daytime sleepiness, learning and behaviour problems, acute life-threatening cardiorespiratory events and, in severe cases, pulmonary hypertension. In childhood, it is usually due to upper airway obstruction secondary to adenotonsillar hypertrophy. Predisposing causes of sleep-disordered breathing are hypotonia, muscle weakness and anatomical problems, e.g. Down syndrome, achondroplasia, neuromuscular disease, cerebral palsy or craniofacial abnormalities. Such high-risk groups may warrant screening on a regular basis.
+
+
+299
+
+Figure 16.21 Extract from cardiorespiratory monitoring in a child with obstructive sleep apnoea. (a) Irregular breathing with periodic pauses associated with oxygen desaturation. (b) Post-adenotonsillectomy, the breathing is regular and the desaturation has resolved. (Courtesy of Dr Parviz Habibi.)
+
+Before adenotonsillectomy / Postoperative
+O2 saturation; breaths.
+Each line represents a breath; the height its tidal volume.
+
+The most basic assessment is overnight pulse oximetry, which can be performed in the child’s home. The frequency and severity of periods of desaturation (sats <92%) can be quantified. Normal oximetry does not exclude the condition. Limited polysomnography is required in more complex cases; it includes monitoring of heart rate, respiratory effort, airflow, a measure of arterial pCO2 and video recording. It provides more information about gas exchange and can distinguish between central and obstructive events. Sometimes EEG, electrooculogram and submental EMG is needed to assess neurological arousals and sleep staging.
+
+In cases due to adenotonsillar hypertrophy, adenotonsillectomy is usually curative (Fig. 16.21a,b). Overnight oximetry should be performed prior to surgery for obstructive sleep apnoea to identify severe hypoxaemia, which may increase the risk of perioperative complications. If it persists despite adenotonsillectomy, polysomnography should be performed in a specialist centre. Nasal or facemask continuous positive pressure ventilation (CPAP) or bi-level positive airway pressure (BIPAP) may be required at night.
+
+Congenital central hypoventilation syndrome is a rare congenital condition caused by gene mutations resulting in disordered central control of breathing. In severe cases, life-threatening hypoventilation occurs during sleep, which may result in death in infancy. Long-term ventilation, either continuous or during sleep only, is the mainstay of treatment.
+
+Summary
+
+Sleep disordered breathing
+• The majority are due to adenotonsillar hypertrophy, and surgical removal is usually curative.
+
+Tracheostomy
+
+The number of children of all ages with a tracheostomy is increasing. Indications are listed in Table 16.3.
+
+Table 16.3 Some indications for tracheostomy in children
+
+Narrow upper airways
+• Subglottic stenosis
+• Laryngeal anomalies (e.g. atresia, haemangiomas, webs)
+• Pierre Robin sequence (small jaw and cleft palate)
+• Craniofacial anomalies
+
+Lower airway anomalies
+• Severe tracheo-bronchomalacia
+
+Long-term ventilation
+• Muscle weakness
+• Head or spinal injury
+
+Wean from ventilation
+• Any prolonged episode of ventilation
+
+Airway protection
+• Clearance of secretions
+• Reduction of aspiration
+
+If a child with a tracheostomy develops sudden and severe breathing difficulties, it may be that the tracheostomy tube is blocked with secretions and needs urgent suction or needs changing immediately. All children with a tracheostomy should have a spare tracheostomy tube with them at all times. If this does not relieve the difficulty in breathing, respiratory support is given via the tracheostomy tube.
+
+Long-term ventilation
+
+An increasing number of children are receiving long-term respiratory support. Preterm infants with severe bronchopulmonary dysplasia (chronic lung disease) may require additional oxygen for many months, and may also require respiratory support with CPAP (continuous positive airway pressure) via nasal prongs or nasal mask. Children with muscle weakness from Duchenne muscular dystrophy, spinal muscular
+
+
+300
+
+Figure 16.22 Long-term non-invasive respiratory support given overnight via nasal mask to a child with muscle weakness.
+
+Figure 16.23 Long-term ventilation via a tracheostomy.
+
+Atrophy, congenital muscular dystrophy and other rare conditions are increasingly offered long-term ventilatory support. They experience not only hypoxia but also significant hypercapnia due to hypoventilation. This requires bi-level positive airway pressure (BiPAP), which can be delivered non-invasively by a nasal mask or full facemask (Fig. 16.22). In some cases BiPAP may need to be delivered via a tracheostomy (Fig. 16.23). In Duchenne muscular dystrophy and some other conditions causing muscle weakness, non-invasive ventilation at night provides additional quality years of life. This service can often be provided at home, with considerable specialist community support. With progressive neurological disorders, difficult ethical decisions need to be made about admission for intensive care and initiation of long-term full ventilation.
+
+Further reading
+
+British Thoracic Society: Guidelines for the management of community acquired pneumonia in childhood: Update 2011. Available at: http://www.brit-thoracic.org.uk/clinical-information/pneumonia/pneumonia-guidelines.aspx (Accessed May 2011).
+
+Primhak R, O’Brien C: Best practice: Sleep apnoea. Archives of Disease in Childhood – Education and Practice 90:ep87–ep91, 2005.
+Accessible short review of obstructive sleep apnoea in children.
+
+Scottish Intercollegiate Guideline Network: Diagnosis and management of childhood otitis media in primary care. 2003. Available at: http://www.sign.ac.uk/pdf/sign66.pdf (Accessed May 2011).
+
+Scottish Intercollegiate Guideline Network: Management of sore throat and indications for tonsillectomy. 2010. Available at: http://www.sign.ac.uk/pdf/sign117.pdf (Accessed May 2011).
+
+Scottish Intercollegiate Guideline Network/British Thoracic Society: The British Guideline on Asthma Management. 2009. Updated May 2011. Available at: http://www.sign.ac.uk/pdf/sign101.pdf (Accessed May 2011).
+
+Taussig LM, Landau LI: Pediatric Respiratory Medicine, ed 2, St Louis, MO, 2008, Mosby.
+Definitive textbook.

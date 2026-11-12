@@ -1,0 +1,500 @@
+PDF PAGE 1 — PRINTED PAGE 271
+
+15
+Allergy
+
+Paediatric allergy 271
+Food allergy and food intolerance 273
+Eczema 275
+Allergic rhinitis and conjunctivitis (rhinoconjunctivitis) 275
+Asthma 275
+Urticaria and angioedema 275
+Drug allergy 276
+Insect sting hypersensitivity 276
+Anaphylaxis 276
+
+An abnormal immune system may result in:
+• Allergic diseases
+• Immune deficiencies
+• Autoimmune disorders – either organ specific (e.g. type I diabetes mellitus) or systemic (e.g. systemic lupus erythematosus).
+
+Paediatric allergy
+
+Allergic diseases which affect children include food allergy, eczema, allergic rhinitis and conjunctivitis, asthma, urticaria, insect sting hypersensitivity and anaphylaxis. The reasons allergic diseases are important are:
+• In the UK up to 40% of children have allergic rhinitis, eczema or asthma and up to 6% develop food allergy
+• They are increasing in prevalence in many countries
+• They are the commonest chronic diseases of childhood and the commonest cause of school absence and acute hospital admissions
+• They cause significant morbidity and can be fatal, with about 20 children dying from asthma and 2 from food anaphylaxis in the UK each year.
+
+Explanations of some of the terms used in ‘allergy’ are listed in Box 15.1.
+
+Mechanisms of allergic disease
+
+Many genes have been linked to the development of allergic disease. Polymorphisms or mutations in these genes lead to a susceptibility to allergy.
+
+Allergic diseases occur when individuals make an abnormal immune response to harmless environmental stimuli, usually proteins. The developing immune system must be ‘sensitised’ to an allergen before an allergic immune response develops. However, sensitisation can be ‘occult’, e.g. sensitisation to egg from exposure to trace quantities of egg in maternal breast milk.
+
+Only a few stimuli account for most allergic disease:
+• Inhalant allergens, e.g. house-dust mite, plant pollens, pet dander and moulds in asthma and rhinitis and conjunctivitis
+• Ingestant allergens, e.g. nuts, seeds, legumes, cow’s milk, egg, seafood and fruits in acute allergic reactions or eczema
+• Insect stings/bites, drugs and natural rubber latex.
+
+Proteins with an unstable tertiary structure may be rendered non-allergenic by heat degradation or other forms of processing. For example, some children are allergic to raw apples, but can tolerate eating cooked apples.
+
+Box 15.1 Allergy definitions
+
+• Hypersensitivity – objectively reproducible symptoms or signs following exposure to a defined stimulus (e.g. food, drug, pollen) at a dose which is tolerated by normal people.
+• Allergy – a hypersensitivity reaction initiated by specific immunological mechanisms. This can be IgE mediated (e.g. peanut allergy) or non-IgE mediated (e.g. coeliac disease).
+• Atopy – a personal and/or familial tendency to produce IgE antibodies in response to ordinary exposures to potential allergens, usually proteins. Strongly associated with asthma, allergic rhinitis and conjunctivitis, eczema and food allergy.
+• Anaphylaxis – a serious allergic reaction that is rapid in onset and may cause death.
+
+
+PDF PAGE 2 — PRINTED PAGE 272
+
+Allergic immune responses are classified as IgE mediated or non-IgE mediated. IgE-mediated allergic reactions have a characteristic clinical course:
+• An early phase, occurring within minutes of exposure to the allergen, caused by release of histamine and other mediators from mast cells. Causes urticaria, angioedema, sneezing and bronchospasm
+• A late phase response may also occur after 4–6 hours. This causes nasal congestion in the upper airway, and cough and bronchospasm in the lower airway.
+
+The majority of severe life-threatening allergic reactions are IgE mediated.
+
+Non-IgE-mediated allergic immune responses have a delayed onset of symptoms and more varied clinical course.
+
+The hygiene hypothesis
+
+It is not clear why the prevalence of allergic diseases has increased in many countries and the speed of this change suggests an environmental cause. A consistent observation is that the risk is lower in younger children of large families and in children raised on farms. These findings have led to the hygiene hypothesis, which proposes that the increased prevalence is due to altered microbial exposure associated with modern living conditions (Fig. 15.1). Although the hypothesis remains the leading explanation for the increase in allergic disease, it is mainly supported by indirect evidence.
+
+The allergic march
+
+Allergic children develop individual allergic disorders at different ages:
+• Eczema and food allergy usually develop in infancy; both are often present
+• Allergic rhinitis and conjunctivitis and asthma occur most often in preschool and primary school years
+• Rhinitis and conjunctivitis often precede the development of asthma, and in children with asthma, up to 80% have coexistent rhinitis.
+
+The presence of eczema or food allergy in infancy is predictive of asthma and allergic rhinitis in later life. The progression is referred to as the ‘allergic march’.
+
+Figure 15.1 Hygiene hypothesis.
+
+Hygiene hypothesis
+
+Developed urban environment — Developing rural environment
+
+Family size: Small — Large
+Exposure to parasites: Low — High
+Infections: Few — Many
+Antibiotic exposure: High — Low
+Farming exposure: Low — High
+Microbiological exposure: Low — High
+
+Allergy and autoimmune disease — No allergy or autoimmune disease
+
+Prevention of allergic diseases
+
+Many interventions have been tried to prevent allergic disease, or interrupt the allergic march. These include exclusive breast-feeding for at least 3–4 months (or if not possible, then use of hydrolysed formula instead of standard formula milk) to reduce the risk of eczema and cow’s milk allergy and the use of probiotics for eczema in infancy. Other approaches include altering allergen exposure (avoidance of allergens in early life, or alternatively, exposure to large doses of allergens to induce immune tolerance), prebiotics (non-digestible oligosaccharides naturally present in breast milk), nutritional supplements (e.g. omega-3 fatty acids, vitamin D, antioxidants, trace elements) and medications (e.g. antihistamines, immunotherapy). However, none have been shown, long term, to prevent children from developing allergic diseases.
+
+History and examination
+
+The child and family may not volunteer a history of allergic disease as they have come to consider the symptoms as normal, e.g. the child who coughs most nights or has a blocked nose most of the time may not perceive this as abnormal. As allergic diseases are multisystem, in addition to the signs of individual allergic diseases, examination may reveal:
+• Mouth breathing (Fig. 15.2a). Children who habitually breathe with their mouth open may have an obstructed nasal airway from rhinitis, and there may also be a history of snoring or obstructive sleep apnoea
+• An allergic salute (Fig. 15.2b), from rubbing an itchy nose
+• Pale and swollen inferior nasal turbinates
+• Hyperinflated chest or Harrison sulci from chronic undertreated asthma
+• Atopic eczema affecting the limb flexures
+• Allergic conjunctivitis; may also be prominent creases (Dennie-Morgan folds) and blue-grey discoloration below the lower eyelids.
+
+Growth needs to be checked, especially in those with food allergy, where dietary restrictions or malabsorption can lead to nutritional compromise, and in those treated with high-dose inhaled/nasal/topical corticosteroids.
+
+Management
+
+The individual diseases are managed by general practitioners, general paediatricians or organ-specific specialists, e.g. eczema by dermatologists, asthma by respiratory paediatricians. However, allergic diseases
+
+
+PDF PAGE 3 — PRINTED PAGE 273
+
+Figure 15.2 Allergic facies. (a) There is a habitually open mouth due to mouth breathing. (b) An allergic salute, from rubbing an itchy nose. (Courtesy Dr George Du Toit.)
+
+(a) (b)
+
+coexist and it is therefore helpful to consider allergy as a systemic disease. The role of paediatric allergists is to identify triggers to avoid, and to manage children with multisystem or severe disease.
+
+Management of specific conditions is described below. In addition, specific allergen immunotherapy can be used for treating allergic rhinitis and conjunctivitis, insect stings, anaphylaxis and asthma. During immunotherapy, solutions of an allergen to which the patient is allergic are injected subcutaneously or administered sublingually on a regular basis for 3–5 years, with the aim of developing immune tolerance. It is highly effective in providing protection for many years. However, it must be carried out under specialist supervision due to the risk of inducing severe allergic reactions (anaphylaxis). Allergen immunotherapy is widely used in the USA and some countries in Europe. Sublingual immunotherapy appears to be safer than subcutaneous injections and is used increasingly. Immunotherapy for food allergy is under investigation but has not yet been shown to be safe for use in clinical practice.
+
+Summary
+
+Paediatric allergy
+• Includes food allergy, eczema, allergic rhinitis and conjunctivitis, asthma, urticaria, insect sting hypersensitivity and anaphylaxis
+• Occurs when a genetically susceptible person reacts abnormally to an environmental antigen
+• There is an ‘allergic march’ of disorders
+• Different allergic diseases often coexist – if a child has one, look for others.
+
+Food allergy and food intolerance
+
+A food allergy occurs when a pathological immune response is mounted against a specific food protein. It is usually IgE mediated, but may be non-IgE mediated.
+
+A non-immunological hypersensitivity reaction to a specific food is called food intolerance. An example of each in relation to cow’s milk is shown in Figure 15.3.
+
+Food allergy is usually primary, where children have failed to ever develop immune tolerance to the relevant food. Presentation varies with the agent and the child’s age:
+• In infants, the most common causes are milk, egg and peanut
+• In older children, peanut, tree nut and fish and shellfish.
+
+Food allergy can also be secondary, where children initially tolerate a food and then later become allergic to it. Secondary food allergy is usually due to cross-reactivity between proteins present in fresh fruits/vegetables/nuts and those present in pollens, e.g. a child who can eat apples may develop allergy to apples in the future if they develop allergy to birch tree pollen, because the apple and birch pollen share a very similar protein. This is termed the ‘oral allergy syndrome’ or ‘pollen fruit syndrome’. It is very common but generally leads to milder allergic reactions than primary food allergy, often causing an itchy mouth but no systemic symptoms.
+
+Non-IgE food allergy typically occurs hours after ingestion and usually involves the gastrointestinal tract.
+
+Food allergy and intolerance are different from food aversion, where the person refuses the food for psychological or behavioural reasons.
+
+Clinical features
+
+In IgE-mediated food allergy there is a history of allergic symptoms varying from urticaria to facial swelling to anaphylaxis (Fig. 15.3), usually occurring 10–15 min after ingestion of a food. It is often the first occasion the food is knowingly ingested.
+
+Non-IgE-mediated food allergy usually presents with diarrhoea, vomiting, abdominal pain and sometimes failure to thrive. Colic or eczema may also be present. It sometimes presents with blood in the stools in the first few weeks of life from proctitis.
+
+
+PDF PAGE 4 — PRINTED PAGE 274
+
+Examples of food allergy and hypersensitivity to milk
+
+Condition — Clinical manifestation
+
+IgE-mediated food allergy
+• Immediate cow’s milk allergy
+
+This 6-month-old breast-fed infant developed an allergic reaction (a), with widespread urticaria immediately after the first formula feed. Skin-prick test were strongly positive to cow’s milk. Widespread urticaria and lip swelling after milk ingestion are shown in (b) and (c).
+
+(a) Clinical features of an acute allergic reaction:
+
+Mild reaction
+• Urticaria and itchy skin
+• Facial swelling
+
+Severe reaction
+• Wheeze
+• Stridor
+• Abdominal pain, vomiting, diarrhoea
+• Shock, collapse
+
+(b) (c)
+
+Non-IgE-mediated cow’s milk allergy
+
+A 4-month-old infant, formula fed since birth, has loose stools and is failing to thrive. Skin prick test to cow’s milk is negative. Elimination of cow’s milk results in resolution of symptoms which return on trial re-introduction.
+
+Non-allergic food hypersensitivity
+• Temporary lactose intolerance
+
+Previously well 12-month-old infant develops diarrhoea and vomiting. The vomiting settles but watery stools continue for several weeks.
+Stool sample – no pathogens but positive for reducing substances.
+Diagnosis – temporary lactose intolerance.
+
+Figure 15.3 Examples of food allergy and hypersensitivity to milk. (a) Clinical features of an acute allergic reaction. (b,c) Widespread urticaria and lip swelling after milk ingestion. (Courtesy Dr Pete Smith.)
+
+Figure 15.4 Skin-prick testing for IgE-mediated allergy. A drop of the allergen is placed on the skin, the site is marked and pricked with a needle, and any weals measured. Multiple positive results are present. (Courtesy Dr Pete Smith.)
+
+Diagnosis
+
+The most helpful screening tests for IgE-mediated food allergy are skin-prick tests (Fig. 15.4) and measurement of specific IgE antibodies in blood (RAST test). Both tests may yield false-positive results, but the greater the response, the more likely the child is to be allergic. Negative skin test results make IgE-mediated allergy unlikely.
+
+Non-IgE-mediated food allergies are harder to diagnose. Diagnosis relies on clinical history and examination. If indicated, endoscopy and intestinal biopsy may be obtained; the diagnosis is supported by the presence of eosinophilic infiltrates.
+
+For both IgE-mediated and non-IgE-mediated food allergies, the gold standard investigation in cases of doubt is exclusion of the relevant food under a dietitian’s supervision, followed by a double-blind placebo-controlled food challenge. This involves the child being given increasing amounts of the food or placebo, starting with a tiny quantity, until a full portion is reached. The test should be performed in hospital with full resuscitation facilities available, and close monitoring for signs of an allergic reaction.
+
+Management
+
+The management of a food-allergic child involves avoidance of the relevant foods. This can be very
+
+
+PDF PAGE 5 — PRINTED PAGE 275
+
+difficult as the relevant food(s) may be present in small quantities in many foods and food labels are often unclear. Food labelling in the European Union legally requires common food allergens to be clearly disclosed. Food which is packaged or sold elsewhere may be less closely regulated. The advice of a paediatric dietitian is essential to aid patients avoid foods to which they are allergic and avoid nutritional deficiencies.
+
+In addition, the child and family must be able to manage an allergic attack. Written self-management plans and adequate training are essential. Drug management for mild reactions (no cardiorespiratory symptoms) is with antihistamines. If the child has a severe reaction, treatment is with epinephrine (adrenaline) given intramuscularly by auto-injector (e.g. Epipen or Anapen), which the child or parent should carry with them at all times.
+
+Food allergy to cow’s milk and egg often resolves in early childhood; food allergy to nuts and seafood usually persists through to adulthood.
+
+Summary
+
+Food allergy
+• Affects up to 6% of children
+• The most common causes are milk, egg, nuts, seafood, wheat, legumes, seeds and fruits
+• Diagnosis of IgE-mediated food allergy is based on a suggestive history supported by skin-prick tests or specific IgE antibodies in blood
+• Supervised food challenge is sometimes necessary to clarify the diagnosis
+• Those at risk of a severe reaction, e.g. with coexistent asthma, should carry an epinephrine (adrenaline) auto-injector.
+
+Eczema
+
+Eczema is classified as atopic (where there is evidence of IgE antibodies to common allergens) or non-atopic. Atopic eczema is classified as an allergic disease as many affected children will have a family history of allergy, at least 50% develop other allergic diseases and IgE antibodies to common allergens are present. There is a close relationship between eczema and food allergy, particularly in young infants with severe disease; up to 40% of them have an IgE-mediated food allergy, in particular egg allergy. Screening by skin prick or IgE blood testing should be considered. The condition is described in Chapter 24.
+
+Allergic rhinitis and conjunctivitis (rhinoconjunctivitis)
+
+This can be atopic (associated with IgE antibodies to common inhalant allergens) or non-atopic. It is an underestimated cause of childhood morbidity. The disease can be classified as intermittent or persistent and mild or severe, although in temperate climates it is often classified as seasonal (related to seasonal grass, weed or tree pollens) and perennial (related to perennial allergens such as house-dust mite and pets). It affects up to 20% of children and can severely disrupt their lives. In addition to its classic presentation of coryza and conjunctivitis, it can also present as ‘cough-variant rhinitis’ due to a post-nasal drip, and as a chronically blocked nose causing sleep disturbance and impaired daytime behaviour and concentration, or with predominant eye symptoms. It is associated with eczema, sinusitis and adenoidal hypertrophy and is closely associated with asthma. Treatment of allergic rhinitis may improve the control of coexistent asthma. Treatment options are listed in Box 15.2.
+
+Box 15.2 Range of treatment for allergic rhinoconjunctivitis
+
+• Second-generation non-sedating antihistamines (used topically or systemically)
+• Topical corticosteroid nasal or eye preparations (the latter under specialist ophthalmology supervision)
+• Cromoglycate eye drops
+• Leukotriene receptor antagonists, e.g. montelukast
+• Nasal decongestants (use for no more than 7–10 days due to risk of rebound effect)
+• Allergen immunotherapy – sublingual or subcutaneous (limited by anaphylaxis risk)
+• Systemic corticosteroids should not be used due to the risk of adverse effects.
+
+Asthma
+
+Allergy is an important component of asthma. Affected children often have IgE antibodies to aeroallergens (house-dust mite; tree, grass and weed pollens; moulds; animal danders). Allergen avoidance is difficult to achieve. Management of asthma is described in Chapter 16 on Respiratory disorders.
+
+Urticaria and angioedema
+
+Acute urticaria usually results from exposure to an allergen or a viral infection, which triggers an urticarial skin reaction. It may also involve deeper tissues to produce swelling of the lips and soft tissues around the eyes (angioedema), and even anaphylaxis.
+
+Chronic urticaria (persisting >6 weeks) is usually non-allergic in origin. It results from a local increase in the permeability of capillaries and venules. These changes are dependent on activation of skin mast cells, which contain a range of mediators including histamine. A classification of urticaria is shown in Box 15.3. Treatment is with second-generation non-sedating antihistamines.
+
+
+PDF PAGE 6 — PRINTED PAGE 276
+
+Box 15.3 Classification of urticaria/angioedema
+
+• Acute – resolve within 6 weeks; allergy such as food or drug reactions, or infection are common triggers
+• Chronic idiopathic – intermittent for at least 6 weeks
+• Physical urticarias
+  – Cold, delayed pressure, heat contact, solar, vibratory urticaria
+• Other causes
+  – Water (aquagenic), sweating (cholinergic), exercise-induced
+  – Aspirin and other non-steroidal anti-inflammatory agents
+  – C1-esterase inhibitor deficiency (angioedema, but no urticaria or pruritus).
+
+Drug allergy
+
+Drug allergies do occur in children, especially to antibiotics, but only a minority who are labelled ‘drug allergic’ are truly allergic. This is usually because viral illnesses, for which children are often prescribed antibiotics, themselves cause skin rashes. A detailed history is required of the nature and timing of the rash in relation to taking the antibiotics.
+
+Allergy skin and blood tests can be used to support a diagnosis of drug allergy, but a drug challenge may be the only way to conclusively confirm or refute the diagnosis. This is contraindicated after a severe allergic reaction and an alternative drug should be sought.
+
+Insect sting hypersensitivity
+
+This arises mainly from bee and wasp stings, but also from ant species in the USA, Asia and Australia. The severity of the allergic reaction may be:
+• mild – local swelling
+• moderate – generalised urticaria
+• severe – systemic symptoms with wheeze or shock.
+
+Children with a previous mild or moderate reaction are unlikely to develop a severe reaction in the future and the families can be reassured. Those who had a severe reaction should carry an epinephrine (adrenaline) auto-injector, and allergen immunotherapy should be considered.
+
+Summary
+
+Insect sting hypersensitivity
+• Mainly to bee and wasp stings
+• Following a severe reaction, an epinephrine (adrenaline) auto-injector should be carried
+• Immunotherapy is highly effective in children who have had a severe reaction.
+
+Anaphylaxis
+
+This serious and potentially life-threatening allergic reaction is described in Chapter 6 on Paediatric emergencies.
+
+Further reading
+
+Kay AB: Advances in immunology: allergy and allergic disease (first of two parts). New England Journal of Medicine 344(1):30–37, 2001.
+
+Lack G: Clinical practice. Food allergy. New England Journal of Medicine 359(12):1252–1260, 2008.
+
+Strachan DP: Family size, infection and atopy: the first decade of the ‘hygiene hypothesis’. Thorax 55(Suppl 1):S2–S10, 2000.
+
+Websites (Accessed April 2011)
+
+Food Allergy and Anaphylaxis Network: Available at http://www.foodallergy.org
+A non-profit organisation for people with food allergy.
+
+The UCB Institute of Allergy: Available at http://www.theucbinstituteofallergy.com/healthprofessionals/knowbetterallergy/whatisallergy/index.asp
+An industry-supported non-profit organisation for allergy education.
+
+The Anaphylaxis Campaign: Available at http://www.anaphylaxis.org.uk.
+A charity for people at risk from anaphylaxis.
+
+
+PDF PAGE 7 — PRINTED PAGE 277
+
+16
+Respiratory disorders
+
+Respiratory infections 277
+Asthma 285
+Recurrent or persistent cough 293
+Chronic lung infection 294
+Cystic fibrosis 294
+Sleep-related breathing disorders 298
+Tracheostomy 299
+Long-term ventilation 299
+
+Notable features of respiratory disorders are:
+• Worldwide, respiratory disorders are the most common cause of death in children
+• In the UK, respiratory disorders account for 50% of consultations with general practitioners for acute illness in young children and a third of consultations in older children
+• Respiratory disorders are responsible for about 25% of acute paediatric admissions to hospital, some of which are life-threatening
+• Asthma is the most common chronic illness of childhood in the UK
+• Cystic fibrosis is the most common inherited life-limiting disorder in Caucasians.
+
+Respiratory infections
+
+These are the most frequent infections of childhood. The preschool child has, on average, 6–8 respiratory infections a year. Most are mild self-limiting illnesses of the upper respiratory tract (ear, nose, throat) but some, such as bronchiolitis or pneumonia, are potentially life-threatening.
+
+Pathogens
+
+Viruses cause 80–90% of childhood respiratory infections. The most important are the respiratory syncytial virus (RSV), rhinoviruses, parainfluenza, influenza, metapneumovirus and adenoviruses. An individual virus can cause several different patterns of illness, e.g. RSV can cause bronchiolitis, croup, pneumonia or a common cold.
+
+The important bacterial pathogens of the respiratory tract are Streptococcus pneumoniae (pneumococcus) and other streptococci, Haemophilus influenzae, Moraxella catarrhalis, Bordetella pertussis, which causes whooping cough, and Mycoplasma pneumoniae. Dual infections, with two viruses or with a viral and bacterial pathogen, may occur. Mycobacterium tuberculosis remains an important pathogen globally. Some pathogens cause predictable epidemics, such as RSV bronchiolitis every winter.
+
+Host and environmental factors
+
+An increased risk of respiratory infection is associated with a range of factors relating to the environment and host:
+• Parental smoking, especially maternal
+• Poor socioeconomic status – large family size, overcrowded, damp housing
+• Poor nutrition
+• Underlying lung disease – such as bronchopulmonary dysplasia in infants who were born preterm, cystic fibrosis or asthma
+• Male gender
+• Haemodynamically significant congenital heart disease
+• Immunodeficiency (either primary, see Ch. 14, or secondary, e.g. from HIV infection or chemotherapy).
+
+The child’s age influences the prevalence and severity of infections (Fig. 16.1). It is in infancy that serious respiratory illness requiring hospital admission is most common and the risk of death is greatest. There is an increased frequency of infections when the child or older siblings start nursery or school. Repeated upper respiratory tract infection is common and rarely indicates underlying disease.
+
+Classification of respiratory infections
+
+Respiratory infections are classified according to the level of the respiratory tract most involved:
+• Upper respiratory tract infection
+• Laryngeal/tracheal infection
+• Bronchitis
+• Bronchiolitis
+• Pneumonia.
+
+
+PDF PAGE 8 — PRINTED PAGE 278
+
+Figure 16.1 Age distribution of acute respiratory infections in children.
+
+Relative incidence, by age (years): 0, 1, 3, 5, 10, 18.
+Pneumonia
+Bronchiolitis
+Viral croup
+Epiglottitis
+Upper respiratory tract infections
+
+Upper respiratory tract infection (URTI)
+
+Approximately 80% of all respiratory infections involve only the nose, throat, ears or sinuses. The term URTI embraces a number of different conditions:
+• Common cold (coryza)
+• Sore throat (pharyngitis, including tonsillitis)
+• Acute otitis media
+• Sinusitis (relatively uncommon).
+
+The commonest presentation is a child with a combination of nasal discharge and blockage, fever, painful throat and earache. Cough may be troublesome. URTIs may cause:
+• Difficulty in feeding in infants as their noses are blocked and this obstructs breathing
+• Febrile convulsions
+• Acute exacerbations of asthma.
+
+In infants, hospital admission may be required to exclude a more serious infection, if feeding is inadequate, or for parental reassurance.
+
+The common cold (coryza)
+
+This is the commonest infection of childhood. Classical features include a clear or mucopurulent nasal discharge and nasal blockage. The commonest pathogens are viruses – rhinoviruses (of which there are over 100 different serotypes), coronaviruses and RSV. Health education to advise parents that colds are self-limiting and have no specific curative treatment may reduce anxiety and save unnecessary visits to doctors. Fever and pain are best treated with paracetamol or ibuprofen. Antibiotics are of no benefit as the common cold is viral in origin and secondary bacterial infection is very uncommon.
+
+Sore throat (pharyngitis)
+
+The pharynx and soft palate are inflamed and local lymph nodes are enlarged and tender. Sore throats are usually due to viral infection with respiratory viruses (mostly adenoviruses, enteroviruses and rhinoviruses). In the older child, group A β-haemolytic streptococcus is a common pathogen.
+
+Tonsillitis
+
+Tonsillitis is a form of pharyngitis where there is intense inflammation of the tonsils, often with a purulent exudate. Common pathogens are group A β-haemolytic streptococci and the Epstein–Barr virus (infectious mononucleosis). Group A β-haemolytic streptococcus can be cultured from many tonsils; however, it is uncertain why it causes recurrent tonsillitis in some children but not in others.
+
+Although the surface exudates seen in infectious mononucleosis are reported to be more membranous in appearance compared to bacterial tonsillitis, in reality it is not possible to distinguish clinically between viral and bacterial causes. Marked constitutional disturbance, such as headache, apathy and abdominal pain, white tonsillar exudate and cervical lymphadenopathy, is more common with bacterial infection.
+
+Antibiotics (often penicillin, or erythromycin if there is penicillin allergy) are often prescribed for severe pharyngitis and tonsillitis even though only a third are caused by bacteria. They may hasten recovery from streptococcal infection. In order to eradicate the organism to prevent rheumatic fever, 10 days of treatment is required, but this is not indicated in the UK where rheumatic fever is now exceedingly rare. In severe cases, children may require hospital admission for intravenous fluid administration and analgesia if they are unable to swallow solids or liquids. Amoxicillin is best avoided as it may cause a widespread maculopapular rash if the tonsillitis is due to infectious mononucleosis.
+
+It is not possible to distinguish clinically between viral and bacterial tonsillitis.
+
+Acute infection of the middle ear (acute otitis media)
+
+Most children will have at least one episode of acute otitis media (OM). This is most common at 6–12 months of age. Up to 20% will have three or more episodes. Infants and young children are prone to acute otitis media because their Eustachian tubes are short, horizontal and function poorly. There is pain in the ear and fever. Every child with a fever must have their tympanic membranes examined (Fig. 16.2a–d). In acute otitis media, the tympanic membrane is seen to be bright red and bulging with loss of the normal light reflection (Fig. 16.2b). Occasionally, there is acute perforation of the eardrum with pus visible in the external canal. Pathogens include viruses, especially RSV and rhinovirus, and bacteria including pneumococcus, non-typeable H. influenzae and Moraxella catarrhalis. Serious complications are mastoiditis and meningitis, but are now uncommon. Pain should be treated with an analgesic such as paracetamol or ibuprofen. Regular analgesia is more effective than intermittent (as required) and may be needed for up to a week until the acute inflammation has resolved. Most cases of acute otitis media resolve spontaneously. Antibiotics marginally shorten the duration of pain but have not been
+
+
+PDF PAGE 9 — PRINTED PAGE 279
+
+Figure 16.2 Appearance of the eardrum. (a) Normal. (b) Acute otitis media. (c) Otitis media with effusion. (d) Grommet. (Courtesy of Mr N Shah & Mr N Tolley.)
+
+shown to reduce the risk of hearing loss (see Ch. 5). It is often useful to give the parents a prescription, but ask them to use it only if the child remains unwell after 2–3 days. Amoxicillin is widely used. Neither decongestants nor antihistamines are beneficial.
+
+Recurrent ear infections can lead to otitis media with effusion (OME or glue ear or serous otitis media). Children are asymptomatic apart from possible decreased hearing. The eardrum is seen to be dull and retracted, often with a fluid level visible (Fig. 16.2c). Confirmation of otitis media with effusion can be gained by a flat trace on tympanometry, in conjunction with evidence of a conductive loss on pure tone audiometry (possible if >4 years old), or reduced hearing on a distraction hearing test in younger children. Otitis media with effusion is very common between the ages of 2 and 7 years, with peak incidence between 2.5 and 5 years. This condition usually resolves spontaneously. Cochrane reviews have shown no evidence of long-term benefit from the use of antibiotics, steroids or decongestants.
+
+Otitis media with effusion is the most common cause of conductive hearing loss in children and can interfere with normal speech development and result in learning difficulties in school. In such children insertion of ventilation tubes (grommets, Fig. 16.2d) can be beneficial, but there is evidence, again from Cochrane reviews, that adenoidectomy can offer more long-term benefit. It is believed that the adenoids can harbour organisms within biofilms that contribute to infection spreading up the Eustachian tubes. In addition, grossly hypertrophied adenoids may obstruct and affect the function of the Eustachian tubes, leading to poor ventilation of the middle ear and subsequent recurrent infections. In practice, children with recurrent URTIs and chronic glue ear that do not resolve with conservative measures undergo grommet insertion. If these problems recur after grommet extrusion, reinsertion of grommets with adjuvant adenoidectomy is usually advocated.
+
+Sinusitis
+
+Infection of the paranasal sinuses may occur with viral URTIs. Occasionally there is secondary bacterial infection, with pain, swelling and tenderness over the cheek from infection of the maxillary sinus. As the frontal sinuses do not develop until late childhood, frontal sinusitis is uncommon in the first decade of life. Antibiotics and analgesia are used for acute sinusitis in addition to topical decongestants. There is some recent evidence that the concurrent use of intranasal corticosteroids or antihistamines together with antibiotics hasten recovery.
+
+Tonsillectomy and adenoidectomy
+
+Children with recurrent tonsillitis are often referred for removal of their tonsils, one of the commonest operations performed in children. Many children have large tonsils but this in itself is not an indication for tonsillectomy, as they shrink spontaneously in late childhood.
+
+The indications for tonsillectomy are controversial, and must be balanced against the risks of surgery, but include:
+• Recurrent severe tonsillitis (as opposed to recurrent URTIs) – tonsillectomy reduces the number of episodes of tonsillitis by a third, e.g. from three to two per year, but is unlikely to benefit mild symptoms.
+• A peritonsillar abscess (quinsy)
+• Obstructive sleep apnoea (the adenoids will also normally be removed).
+
+Like the tonsils, adenoids increase in size until about the age of 8 years and then gradually regress. In young children, the adenoids grow proportionately faster than the airway, so that their effect of narrowing the airway lumen is greatest between 2 and 8 years of age. They may narrow the posterior nasal space sufficiently to justify adenoidectomy. Indications for the removal of both the tonsils and adenoids are controversial but include:
+• Recurrent otitis media with effusion with hearing loss, where it gives a significant long-term additional benefit, especially if reinsertion of grommets is considered
+• Obstructive sleep apnoea (an absolute indication).
+
+Summary
+
+Acute otitis media
+• Can only be diagnosed by examining the tympanic membrane
+• Antibiotics marginally shorten the duration of pain but do not reduce hearing loss
+• If recurrent, may result in otitis media with effusion, which may cause speech and learning difficulties from hearing loss.
+
+
+PDF PAGE 10 — PRINTED PAGE 280
+
+Box 16.1 Differential diagnosis of acute upper airways obstruction
+
+Common causes
+• Viral laryngotracheobronchitis (‘croup’ – very common)
+
+Rare causes
+• Epiglottitis
+• Bacterial tracheitis
+• Inhalation of smoke and hot air in fires
+• Trauma to the throat
+• Retropharyngeal abscess
+• Laryngeal foreign body
+• Allergic laryngeal angioedema (seen in anaphylaxis and recurrent croup)
+• Hypocalcaemia due to poor vitamin D intake
+• Infectious mononucleosis causing severe lymph node swelling
+• Measles
+• Diphtheria
+
+Figure 16.3 The degree of subcostal, intercostal and sternal recession is a more useful indicator of severity of upper airways obstruction than the respiratory rate.
+
+Laryngeal and tracheal infections
+
+The mucosal inflammation and swelling produced by laryngeal and tracheal infections can rapidly cause life-threatening obstruction of the airway in young children. Several conditions can cause acute upper airways obstruction (Box 16.1). They are characterised by:
+• Stridor, a rasping sound heard predominantly on inspiration
+• Hoarseness due to inflammation of the vocal cords
+• A barking cough like a sea lion
+• A variable degree of dyspnoea.
+
+The severity of upper airways obstruction is best assessed clinically by the degree of chest retraction (none, only on crying, at rest) and degree of stridor (none, only on crying, at rest or biphasic) (Fig. 16.3).
+
+Severe obstruction leads to increasing respiratory rate, heart rate and agitation. Central cyanosis or drowsiness indicates severe hypoxaemia and the need for urgent intervention – the most reliable objective measure of hypoxaemia is by measuring the oxygen saturation by pulse oximetry.
+
+Basic management of acute upper airways obstruction
+
+• Do not examine the throat!
+• Reduce anxiety by being calm, confident and well organised.
+• Observe carefully for signs of hypoxia or deterioration.
+• If severe, administer nebulised epinephrine (adrenaline) and contact an anaesthetist.
+• If respiratory failure develops from increasing airways obstruction, exhaustion or secretions blocking the airway, urgent tracheal intubation is required.
+
+Total obstruction of the upper airway may be precipitated by examination of the throat using a spatula. One must avoid looking at the throat of a child with upper airways obstruction unless full resuscitation equipment and personnel are at hand.
+
+Croup
+
+With laryngotracheobronchitis, usually called croup, there is mucosal inflammation and increased secretions affecting the airway, but it is the oedema of the subglottic area that is potentially dangerous in young children because it may result in critical narrowing of the trachea. Viral croup accounts for over 95% of laryngotracheal infections. Parainfluenza viruses are the commonest cause, but other viruses, such as human metapneumovirus, RSV and influenza, can produce a similar clinical picture. Croup occurs from 6 months to 6 years of age but the peak incidence is in the second year of life. It is commonest in the autumn. The typical features are a barking cough, harsh stridor and hoarseness, usually preceded by fever and coryza. The symptoms often start, and are worse, at night.
+
+When the upper airway obstruction is mild, the stridor and chest recession disappear when the child is at rest. The child can usually be managed at home. The parents need to observe the child closely for the signs of increasing severity. The decision to manage the child at home or in hospital is influenced not only by the severity of the illness but also by the time of day, ease of access to hospital and the child’s age (with a low threshold for admission for those <12 months old, due to their narrow airway caliber), and parental understanding and confidence about the disorder.
+
+Inhalation of warm moist air is widely used but is of unproven benefit. Oral dexamethasone, oral prednisolone and nebulised steroids (budesonide) reduce the severity and duration of croup, and the need for hospitalisation.
+
+In severe upper airways obstruction, nebulised epinephrine (adrenaline) with oxygen by facemask provides transient improvement. Close monitoring,

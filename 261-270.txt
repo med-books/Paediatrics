@@ -1,0 +1,481 @@
+PDF PAGE 1 — PRINTED PAGE 261
+
+Clinical features of TB
+
+Primary infection
+
+Asymptomatic
+
+Nearly half of infants and 90% of older children will show minimal signs and symptoms of infection. A local inflammatory reaction limits the progression of infection. However, the disease remains latent and may therefore develop into active disease at a later time. A Mantoux test may become positive and is sufficient evidence to initiate treatment (Fig. 18.19a).
+
+a) Example of a positive Mantoux test (24 mm induration)
+
+A Mantoux test (2 units PPD, Purified Protein Derivative) is positive if:
+> 10 mm induration (no BCG given)
+> 15 mm induration (BCG given)
+Implies active infection.
+
+b) Chest X-ray of pulmonary TB. There is marked left hilar lymphadenopathy.
+
+Symptomatic
+
+In this case the local host response fails to contain the inhaled tubercle bacilli, allowing spread via the lymphatic system to regional lymph nodes. The lung lesion plus the lymph node constitutes the ‘Ghon (or primary) complex’.
+
+When the host’s cellular immune system responds to the infection (3–6 weeks), mycobacterial replication diminishes but systemic symptoms develop:
+• fever
+• anorexia and weight loss
+• cough
+• chest X-ray changes (Fig. 18.19b).
+
+The primary complex usually heals and may calcify. The inflammatory reaction may lead to local enlargement of peribronchial lymph nodes which may cause bronchial obstruction, with collapse and consolidation of the affected lung. Pleural effusions may also be present. Further progression may be halted by the host’s immunological response, or there may be local dissemination to other regions of the lung.
+
+Although primary infection most commonly occurs in the lung, it may also involve other organs including gut, skin and superficial lymph nodes. The latter may occasionally caseate forming a ‘cold abscess’. Multiple sites may be colonised by metastatic lesions released during the primary infection.
+
+Dormancy and dissemination
+
+Both asymptomatic and symptomatic infections may become dormant but subsequently reactivate and spread by lymphohaematological routes.
+
+Reactivation
+
+Post-primary TB
+
+This may present as local disease or may be widely disseminated, miliary TB to sites such as bones, joints, kidneys, pericardium and CNS. In infants and young children, seeding of the CNS is particularly likely, causing tuberculous meningitis. This was always fatal before antimicrobial therapy was available, and is still associated with significant morbidity and mortality if treatment is not initiated early in the disease.
+
+Figure 14.19 Clinical features of TB.
+
+Non-tuberculous mycobacterial infection
+
+There are numerous non-tuberculous mycobacteria found in the environment. Immunocompetent individuals rarely suffer from diseases caused by these organisms. They occasionally cause persistent lymphadenopathy in young children, which is usually treated surgically by complete node excision, as biopsy or partial excision may result in formation of a chronic fistula. Unlike TB, these organisms are transmitted in soil and water and therefore contact tracing is
+
+
+PDF PAGE 2 — PRINTED PAGE 262
+
+not required following infection. Non-tuberculous mycobacteria may cause disseminated infection in immune deficient individuals. Mycobacterium avium intracellulare (MAI) infections are particularly common in patients with advanced HIV disease. These infections do not respond to conventional TB treatment, and require a cocktail of alternative anti-mycobacterial drugs.
+
+Summary
+
+Tuberculosis
+• TB affects millions of children worldwide; low but increasing incidence in many developed countries
+• Clinical features follow a sequence – primary infection, then dormancy, which may be followed by reactivation to post-primary TB
+• Diagnosis is often difficult, so decision to treat is usually based on contact history, Mantoux test, interferon-gamma release assays (IGRA), chest X-ray and clinical features. Young children swallow their sputum, so gastric washings are required
+• Adherence to drug therapy can be problematic but is essential for successful treatment
+• Contact tracing is important
+• TB is more difficult to diagnose and more likely to disseminate in the immunosuppressed.
+
+Tropical infections
+
+Although tropical infections must be considered, children who have been or are in the tropics are still susceptible to the usual range of childhood infections found. The most common or most serious imported infections are outlined in Figure 14.20.
+
+A febrile child returning from the tropics – commonest causes are non-tropical infections, but consider malaria, typhoid fever and other tropical infections.
+
+HIV infection
+
+Globally, HIV infection affects over 2 million children, mostly in sub-Saharan Africa (Fig. 14.21), and there are still 380 000 children becoming infected each year (Fig. 14.22). The major route of HIV infection in children is mother-to-child transmission (MTCT), which occurs during pregnancy (intrauterine), at delivery (intrapartum) or through breast-feeding (postpartum). The virus may also be transmitted to children by infected blood products, contaminated needles or through child sexual abuse, but this is uncommon.
+
+Diagnosis
+
+In children over 18 months old, HIV infection is diagnosed by detecting antibodies to the virus. Children less than 18 months of age who are born to infected mothers will have transplacental maternal IgG HIV antibodies, and at this age, a positive test confirms HIV exposure but not HIV infection. The most sensitive test for HIV diagnosis before 18 months of age is HIV DNA PCR. All infants born to HIV-infected mothers should be tested for HIV infection, whether or not they are symptomatic. Two negative HIV DNA PCRs within the first 3 months of life, at least 2 weeks after completion of postnatal antiretroviral therapy, indicate the infant is not infected, although this is confirmed by the loss of transplacental maternal HIV antibodies from the infant’s circulation after 18 months of age.
+
+Clinical features
+
+A proportion of HIV-infected infants progress rapidly to symptomatic disease and onset of AIDS in the first year of life; however, other infected children remain asymptomatic for months or years before progressing to clinical disease. Some asymptomatic children will only be identified in adolescence at routine screening following diagnosis in another family member. Clinical presentation varies with the degree of immunosuppression. Children with mild immunosuppression may have lymphadenopathy or parotitis; if moderate, they may have recurrent bacterial infections, candidiasis, chronic diarrhoea and lymphocytic interstitial pneumonitis (LIP) (Fig. 14.23). This lymphocytic infiltration of the lungs may be caused by a response to the HIV infection itself, or it may be related to EBV infection. Severe AIDS diagnoses include opportunistic infections, e.g. Pneumocystis jiroveci (carinii) pneumonia (PCP), severe failure to thrive, encephalopathy (Fig. 14.24), and malignancy, although this is rare in children. More than one clinical feature is often present. An unusual constellation of symptoms, especially if infectious, should alert one to HIV infection.
+
+Children with persistent lymphadenopathy, hepatosplenomegaly, recurrent fever, parotid swelling, thrombocytopenia, or any suggestion of SPUR (Serious, Persistent, Unusual, Recurrent) infections should be tested for HIV.
+
+Treatment
+
+A decision to start antiretroviral therapy (ART) is based on a combination of clinical status, HIV viral load and CD4 count, except in infants who should all start ART shortly after diagnosis, because they have a higher risk of disease progression. As in adults, combinations of three (or four) drugs are used. Prophylaxis against Pneumocystis jiroveci (carinii) pneumonia (PCP), with co-trimoxazole, is prescribed for infants who are HIV-infected, and for older children with low CD4 counts.
+
+Other aspects of management include:
+• Immunisation, which is important because of the higher risk of infections, and should follow
+
+
+PDF PAGE 3 — PRINTED PAGE 263
+
+An approach to the febrile child returning from the tropics
+
+History
+
+All places visited and duration of stay. Immunisation, malaria prophylaxis. History of food, drink (infected water), accommodation (exposure to vectors), contacts, swimming (infected rivers and lakes).
+
+Examination
+
+Particular reference to: fever, jaundice, anaemia, enlarged liver or spleen.
+
+Non-tropical causes of fever
+
+Consider non-tropical causes of fever in childhood – upper and lower respiratory tract infections, gastroenteritis, urinary tract infection, septicaemia, meningitis, osteomyelitis, hepatitis, viral infections including the childhood exanthems.
+
+Tropical infections
+
+Malaria
+
+40% of the world's population live in an area where the female Anopheles mosquito transmits malaria. Causes over 700,000 child deaths in Africa each year, predominantly from Plasmodium falciparum malaria. The clinical features include fever (often not cyclical), diarrhoea, vomiting, flu-like symptoms, jaundice, anaemia and thrombocytopenia. Whilst typically the onset is 7–10 days after inoculation, infections can present many months later. Children are particularly susceptible to severe anaemia and the gravest form of the disease, cerebral malaria. The infection is diagnosed by examination of a thick film. The species (falciparum, vivax, ovale or malariae) is confirmed on a thin film. Repeated blood films may be necessary.
+
+Quinine is required in most cases of Plasmodium falciparum seen in the UK because of the emergence of chloroquine-resistant strains worldwide. Travellers to endemic areas should always seek up-to-date information on malaria prevention. Prophylaxis reduces but does not eliminate the risk of infection. Prevention of mosquito bites with repellants and bed nets is also important. In many countries there has been a marked reduction in the incidence of malaria in children from insecticide-treated bed nets, indoor residual spraying of houses with insecticides, destruction of mosquito larvae and breeding areas and prompt treatment with artemisinin-based combination therapy.
+
+Typhoid
+
+A child with worsening fever, headaches, cough, abdominal pain, anorexia, malaise and myalgia may be suffering from infection with Salmonella typhi or paratyphi. Gastrointestinal symptoms (diarrhoea or constipation) may not appear until the second week. Splenomegaly, bradycardia and rose-coloured spots on the trunk may be present. The serious complications of this disease include gastrointestinal perforation, myocarditis, hepatitis and nephritis. The recent increase in multi-drug resistant strains, particularly from the Indian subcontinent, means that treatment with cotrimoxazole, chloramphenicol or ampicillin may be inadequate. A third-generation cephalosporin or azithromycin is usually effective.
+
+Dengue fever
+
+This viral infection is widespread in the tropics, and it is transmitted by mosquitoes. The primary infection is characterised by a fine erythematous rash, myalgia, arthralgia and high fever. After resolution of the fever, a secondary rash with desquamation may occur. Dengue haemorrhagic fever, also known as dengue shock syndrome, occurs when a previously infected child has a subsequent infection with a serologically different strain of the virus. Unfortunately, the partially effective host immune response serves to augment the severity of the infection. The child presents with severe capillary leak syndrome leading to hypotension as well as haemorrhagic manifestations. With fluid resuscitation, most children will recover fully. A patient with this condition is not infectious as direct person-to-person spread does not occur.
+
+Gastroenteritis and dysentery
+
+Gastroenteritis frequently accompanies foreign travel. ‘Traveller’s diarrhoea’ is commonly caused by a change in gut flora, viruses including rotavirus and by E. coli. It rarely needs more than attention to rehydration. Fever accompanied by loose stools with blood or mucus suggests dysentery caused by Shigella, Salmonella, Campylobacter or Entamoeba histolytica. Blood cultures and stool cultures should be taken and appropriate antibiotics started, if indicated.
+
+Viral haemorrhagic fevers
+
+Causes include the Lassa, Marburg, Ebola and Crimean–Congo viruses. These rare infections are imported, although Hantavirus has recently been isolated from within the UK. These are highly contagious, often lethal, infections. If suspected, strict isolation procedures should be initiated for any symptomatic patient who has returned from an endemic area within the 21-day incubation period of these infections. Specialist advice should be sought.
+
+Figure 14.20 An approach to the febrile child returning from the tropics.
+
+
+PDF PAGE 4 — PRINTED PAGE 264
+
+Figure 14.21 Children (<15 years) estimated to be living with HIV, 2009 (UNAIDS, WHO, 2010). Reproduced with the permission of UNICEF.
+
+North America: 4500
+Western and Central Europe: 1400
+Eastern Europe and Central Asia: 18 000
+East Asia: 8 000
+North Africa and Middle East: 21 000
+Caribbean: 17 000
+South and South East Asia: 150 000
+Sub-Saharan Africa: 2.3 million
+Latin America: 36 000
+Oceania: 3100
+Total: 2.5 million
+
+Figure 14.22 New HIV infections among children, 1991–2009, showing recent decline because HIV prevalence in mothers has stabilised and increasing programmes for preventing mother-to-child transmission. (UNAIDS, WHO, 2010; Reproduced with the permission of UNICEF.)
+
+Figure 14.23 Lymphocytic interstitial pneumonitis (LIP) in a child with HIV infection. There is diffuse reticulonodular shadowing with hilar lymphadenopathy.
+
+Figure 14.24 A CT scan in a child with HIV encephalopathy showing diffuse increase in CSF spaces from cerebral atrophy and volume loss.
+
+[Continuation of HIV management]
+the routine vaccination schedule, with the exception of BCG which should not be given as it is a live vaccine that can cause disseminated disease. Additional vaccination against influenza, hepatitis A, B and varicella zoster should be considered.
+• Multidisciplinary management of children, if possible in a family clinic, where they can be seen together with other members of their family who may be HIV-infected and where the team includes an adult specialist. The team will need to address issues such as adherence to medication, disclosure of HIV diagnosis and planning for the future.
+• Regular follow-up, with particular attention paid to weight, neurodevelopment and clinical signs and symptoms of disease. Effective antiretroviral therapy has transformed HIV infection into a chronic disease of childhood. Paediatric HIV clinics increasingly manage adolescents when there may be issues relating to maintaining ART adherence and address maternal issues such as safe sex practices, fertility and pregnancy.
+
+
+PDF PAGE 5 — PRINTED PAGE 265
+
+Reduction of vertical transmission
+
+Mothers who are most likely to transmit HIV to their infants are those with a high HIV viral load and more advanced disease. Where mothers breast-feed, 25–40% of infants become infected with HIV and it is known that avoidance of breast-feeding reduces the rate of transmission. In developed countries, perinatal transmission of HIV has been reduced to <1% by using a combination of interventions:
+• Use of maternal antenatal, perinatal and postnatal antiretroviral drugs to achieve an undetectable maternal viral load at the time of delivery
+• Avoidance of breast-feeding
+• Active management of labour and delivery, to avoid prolonged rupture of the membranes or unnecessary instrumentation
+• Pre-labour Caesarean section if the mother’s viral load is detectable close to the time of delivery.
+
+This effective combination of interventions is not available to all women globally. Avoidance of breast-feeding is not safe in many parts of the world, where use of formula-feeding increases the risk of gastroenteritis and malnutrition. It may be safer for babies in this environment to breast-feed, and antiretroviral drugs may be given to the breast-feeding baby or mother to reduce the ongoing risk of mother-to-child transmission through this route.
+
+Antenatal antiretroviral drugs, active management of labour and delivery, and avoidance of breast-feeding can reduce vertical transmission of HIV to <1%.
+
+Summary
+
+HIV
+• Affects >2 million children worldwide
+• Treatment includes combination antiretroviral therapy and prophylaxis against Pneumocystis jiroveci pneumonia (PCP)
+• The majority of perinatally infected children are surviving into adulthood if ART treatment is available
+• Raises complex psychosocial issues for the family and caregivers, including when and what to tell the child and siblings, confidentiality and adherence support.
+
+Lyme disease
+
+This disease, caused by the spirochaete Borrelia burgdorferi, was first recognised in 1975 in a cluster of children with arthritis in Lyme, Connecticut. It occurs in the UK. Borrelia burgdorferi is transmitted by the hard tick, which has a range of hosts but favours deer and moose. Infections occur most commonly in the summer months in susceptible persons in rural settings.
+
+Clinical features
+
+Following an incubation period of 4–20 days, an erythematous macule at the site of the tick bite enlarges to cause the classical skin lesion known as erythema migrans, a painless red expanding lesion with a bright red outer spreading edge. During early disease, the skin lesion is often accompanied by fever, headache, malaise, myalgia, arthralgia and lymphadenopathy. Usually, these features fluctuate over several weeks and then resolve. Dissemination of infection in the early stages is rare, but may lead to cranial nerve palsies, meningitis, arthritis or carditis.
+
+The late stage of Lyme disease occurs after weeks to months with neurological, cardiac and joint manifestations. Neurological disease includes meningoencephalitis and cranial (particularly facial nerve) and peripheral neuropathies. Cardiac disease includes myocarditis and heart block. Joint disease occurs in about 50% and varies from brief migratory arthralgia to acute asymmetric mono- and oligoarthritis of the large joints. Recurrent attacks of arthritis are common. In 10%, chronic erosive joint disease occurs months to years after the initial attack.
+
+Diagnosis
+
+This is based on clinical and epidemiological features and serology. Serology may be negative in early disease, so repeat titres after 2–4 weeks are advised. Isolation of the organism is difficult.
+
+Treatment
+
+The drug of choice for early uncomplicated cases over 12 years of age is doxycycline, and for younger children, amoxicillin. Intravenous treatment with ceftriaxone is required for carditis or neurological disease.
+
+Immunisation
+
+Immunisation is one of the most effective and economic public health measures to improve the health of both children and adults. The most notable success has been the worldwide eradication of smallpox achieved in 1979, but the prevalence of many other diseases has been dramatically reduced.
+
+Differences exist in the composition and scheduling of immunisation programmes in different countries, and schedules change as new vaccines become available. The current UK schedule (Fig. 14.25) is available on the Department of Health website.
+
+Features are:
+• In the newborn – BCG is given to infants at high risk of infection
+• At 2, 3 and 4 months of age – the ‘5 in 1’ vaccine is given, against diphtheria, tetanus, pertussis, H. influenzae type b (Hib) and polio. The oral, live polio vaccine has been replaced by killed-vaccine given by injection, owing to the risk of vaccine-associated polio in unvaccinated family members or immune-deficient people following contact with gastrointestinal excretions of vaccine recipients
+• At 2, 4 and 13 months, the pneumococcal conjugate vaccine (PCV13) is given.
+
+
+PDF PAGE 6 — PRINTED PAGE 266
+
+Immunisation schedule in the UK (2011)
+
+Ages: Birth; 1 month; 2 months; 3 months; 4 months; 12–13 months; 3 years 4 months +; 12–13 years; 13–18 years.
+
+BCG: Birth, if at risk.
+Hep B: Birth, 1 month, 2 months and 12–13 months, if at risk.
+Diphtheria, tetanus, pertussis, polio, Haemophilus influenzae type B (DTaP/IPV/Hib): 5 in 1 at 2, 3 and 4 months.
+Pneumococcal vaccine (PCV): Pneumo vaccine at 2, 4 and 12–13 months.
+Meningococcal group C (MenC): MenC at 3 and 4 months.
+Hib/MenC: Hib/MenC at 12–13 months.
+MMR: At 12–13 months and 3 years 4 months +.
+Diphtheria, tetanus, pertussis, polio (DTaP/IPV): DTaP/IPV at 3 years 4 months +.
+Human papillomavirus (HPV), girls only: HPV (3 doses) at 12–13 years.
+Diphtheria, tetanus, polio (Td/IPV): Td/IPV at 13–18 years.
+
+Figure 14.25 Immunisation schedule in the UK. (Available at: www.dh.gov.uk, Accessed August 2011.)
+
+• At 3 and 4 months, the conjugate vaccine against group C meningococcus (MenC) is given by separate injection
+• At 12–13 months, a booster Hib vaccine is given, MenC and MMR (measles, mumps, rubella) is given
+• At 12–13 years of age, the human papillomavirus (HPV) vaccine is given to girls. The rubella vaccine is no longer given to adolescent girls.
+• BCG is no longer given to adolescents.
+
+Rationale behind the immunisation programme
+
+Diphtheria – infection causes local disease with membrane formation affecting the nose, pharynx or larynx or systemic disease with myocarditis and neurological manifestations. Immunisation has eradicated the disease in the UK (Fig. 14.26a).
+
+Pertussis – clinical features described in Chapter 16. Huge decline in incidence with immunisation, but epidemics recur when immunisation rates fall (Fig. 14.26b).
+
+Haemophilus influenzae type b – causes invasive disease in young children. The number of reports of infection dropped dramatically after the introduction of Hib vaccination (Fig. 14.26c), but a gradual rise from 1988 occurred because protection was not maintained throughout childhood. This was managed with a Hib catch-up programme, and to prevent a further resurgence, a Hib booster dose has been introduced at 12 months of age.
+
+Poliovirus infection – Although most infected children are asymptomatic or have a mild illness, some develop aseptic meningitis and <1% develop paralytic polio. Almost eradicated worldwide (Fig. 14.26d).
+
+Meningococcal C – The marked fall in the number of reports in all age groups is shown in Figure 14.26e.
+
+Pneumococcal vaccination – introduced into the immunisation programme in 2006. Prior to this, about 530 children under 2 years of age developed invasive pneumococcal disease in England and Wales each year. In 2010, a 13-valent conjugate vaccine (PCV, effective against 13 serotypes) was introduced, which protects against about 90% of disease-causing pneumococcal serotypes.
+
+Human papillomavirus (HPV) vaccine – introduced in 2008. Provides protection against the two strains (HPV16 and 18) that cause 70% of cervical cancer. Three doses of vaccine are given over a 6-month period to all girls aged 12–13 years of age.
+
+BCG immunisation – although the number of notifications of TB is rising, it remains uncommon and mainly confined to high-risk populations. BCG immunisation in the neonatal period is therefore targeted to those at increased risk. The main value of BCG is in prevention of disseminated disease (including meningitis) in younger children, hence the rationale for changing the timing of vaccination from early adolescence to the neonatal period.
+
+Hepatitis B and varicella vaccination – included in the immunisation programme in the USA and many other countries. In the UK, hepatitis B immunisation is given to babies born to hepatitis B surface antigen positive (HBsAg) mothers at 0, 1, 2 and 12 months of age. Babies born to highly infectious e-antigen positive mothers (HBeAg positive) should additionally receive hepatitis B immunoglobulin at birth. Varicella vaccine is not routinely given in the UK, but may be given to the siblings of ‘at-risk’ children (e.g. those undergoing chemotherapy).
+
+
+PDF PAGE 7 — PRINTED PAGE 267
+
+Figure 14.26 Effect of immunisation on the number of notifications in England and Wales.
+
+(a) Diphtheria
+Notifications (000s); deaths (000s); immunisation introduced.
+Year labels: 1914, 1924, 1934, 1944, 1954, 1964, 1974, 1984, 1994, 1998.
+
+(b) Pertussis
+Notifications (000s); immunisation introduced; vaccine controversy; vaccine coverage (%).
+Year labels: 1940, 1950, 1960, 1970, 1980, 1990, 2000, 2005, 2010.
+
+(c) Haemophilus influenzae b
+Notifications; Hib vaccine introduced; Hib catch-up.
+Year labels: 1990–2008.
+
+(d) Poliomyelitis
+Notifications (000s); Salk vaccine (IPV); Sabin vaccine (OPV).
+Year labels: 1912–1992.
+
+(e) Meningococcal C infection
+Notifications; MenC vaccine introduced.
+Year labels: 1997–2008.
+
+(f) Measles
+Notifications (000s); vaccine coverage (%); measles vaccine; MMR vaccine.
+Year labels: 1950–2009.
+
+Figure 14.26 Effect of immunisation on the number of notifications in England and Wales. (a) Diphtheria. (b) Pertussis. (c) Haemophilus influenzae type b. (d) Poliomyelitis. (e) Meningococcal disease. (f) Measles (Health Protection Agency).
+
+Developing countries – huge effort and funds are devoted to improving immunisation uptake and programmes. The Expanded Programme on Immunization of the WHO is tailored according to healthcare systems. The majority use measles vaccine rather than MMR, for cost–benefit reasons.
+
+Complications and contraindications
+
+Following vaccination, there may be swelling and discomfort at the injection site and a mild fever and malaise. Some vaccines, such as measles and rubella, may be followed by a mild form of the disease 7–10 days later. More serious reactions, including anaphylaxis, may occur but are very rare. Local guidelines about vaccination and its contraindications should be followed. Vaccination should be postponed if the child has an acute illness; however, a minor infection without fever or systemic upset is not a contraindication. Live vaccines should not be given to children with impaired immune responsiveness (except in children with HIV infection in whom MMR vaccine can be given).
+
+The controversy regarding a possible association between MMR vaccination and autism and inflammatory bowel disease has been discredited by a large number of well-conducted studies. However, public
+
+
+PDF PAGE 8 — PRINTED PAGE 268
+
+confidence in the immunisation programme was damaged, and uptake rates dropped (Fig. 14.26f). The MMR vaccine is only contraindicated in children with proven non-HIV-related immunodeficiency and those who are allergic to neomycin or kanamycin, which may be present in small quantities in the vaccine. Children with a history of anaphylaxis to egg (the virus is grown in fibroblast cultures generated from chick embryos) should be immunised with MMR under medical supervision. There is a 10% vaccine failure rate from primary vaccination with MMR at 12–13 months of age, but the proportion of susceptible school-age children in the UK has been reduced by the introduction of a preschool booster of MMR. Detailed information on MMR and other vaccines is available at: http://www.dh.gov.uk/en/Publichealth/Immunisation; further information about contraindications to vaccination can be found in the Department of Health Green Book, at: http://www.dh.gov.uk/en/Publichealth/Immunisation/Greenbook.
+
+Immune deficiency
+
+Immune deficiency may be:
+• Primary (uncommon) – an intrinsic defect in the immune system
+• Secondary (more common) – caused by another disease or treatment, such as an intercurrent bacterial or viral infection, malignancy, malnutrition, HIV infection, immunosuppressive therapy, splenectomy or nephrotic syndrome.
+
+Primary immune deficiencies
+
+Many of the primary immunodeficiencies are inherited as X-linked or autosomal recessive disorders. There may be a family history of parental consanguinity and unexplained death, particularly in boys. Immune deficiency should be considered in children who present with Severe, Prolonged, Unusual or Recurrent (SPUR) infections (Box 14.3). The clinical presentation of the different primary immune deficiencies is shown in Figure 14.27.
+
+Box 14.3 Presentation of immune deficiency
+
+• Recurrent (proven) bacterial infections
+• Severe infections (e.g. meningitis, osteomyelitis, pneumonia)
+• Infections that present atypically, are unusually severe or chronic or fail regular treatment
+• Infections caused by an unexpected or opportunistic pathogen or child has been immunised against
+• Severe or long-lasting warts, generalised molluscum contagiosum
+• Extensive candidiasis
+• Complications of vaccination (disseminated BCG)
+• Abscesses of internal organs; recurrent subcutaneous abscesses
+• Prolonged or recurrent diarrhoea.
+
+From: de Vries E. 2006. Patient-centred screening for primary immunodeficiency: a multi-stage diagnostic protocol designed for non-immunologists. Clin Exp Immunol 145:204–214.
+
+Investigation
+
+This is directed towards the most likely cause (Table 14.3). Investigations can quantify the essential components of the immune system and also provide a functional assessment of immunocompetence.
+
+Table 14.3 Investigation to identify primary immune deficiency
+
+Immune defect — Investigations
+
+Cellular (T cells)
+Full blood count (lymphocyte count)
+Lymphocyte subsets (to assess CD3+ (total T cell), CD4+ (helper T cell) and CD8+ (cytotoxic T cell) numbers)
+PHA (phytohaemagglutinin)
+Ability of T cells to proliferate in response to mitogen
+
+Antibody (humoral; B cells)
+Immunoglobulins
+IgG subclasses (in children >2 years)
+Specific antibody responses (e.g. tetanus, pneumococcal antibodies)
+Lymphocyte subsets (B cells present?)
+
+Combined (B and T cells)
+Investigations as above
+Specific genetic/molecular tests for severe combined immunodeficiency (SCID)
+
+Neutrophils
+Full blood count (neutropenia)
+Nitroblue tetrazolium (NBT) – abnormal in chronic granulomatous disease
+Tests for leucocyte adhesion deficiency – CD11b/CD18 expression
+Tests of chemotaxis (neutrophil mobility)
+
+Complement/mannose-binding lectin
+Tests of classical and alternative complement pathways (CH50, AP50)
+Assays for individual complement proteins
+Mannose-binding lectin levels
+
+
+PDF PAGE 9 — PRINTED PAGE 269
+
+Clinical presentation of primary immune deficiency
+
+Defect — Presentation — Examples
+
+T-cell defects
+
+Severe and/or unusual viral and fungal infections and failure to thrive in first months of life, e.g. severe bronchiolitis, diarrhoea, oral thrush, Pneumocystis jiroveci (carinii) pneumonia (PCP).
+
+Severe combined immunodeficiency (SCID). Heterogeneous group of inherited disorders of profoundly defective cellular and humoral immunity. Fatal without treatment.
+
+HIV infection.
+
+Wiskott-Aldrich – triad with thrombocytopenia, and eczema (X-linked).
+
+DiGeorge – with maldevelopment of the 5th branchial arch causing heart defects, palatal and facial defects, absence of thymus and hypocalcaemia (deletion of section of chromosome 22).
+
+Duncan syndrome (X-linked lymphoproliferative disease) – inability to make a normal response to Epstein–Barr virus; either succumb to the initial infection or develop secondary lymphoma (X-linked).
+
+Ataxia telangectasia – defect in DNA repair, also increased risk of lymphoma. Cerebellar ataxia, developmental delay.
+
+B-cell (antibody) defects
+
+In first 2 years (beyond infancy because of passively acquired maternal antibody) – severe bacterial infections, especially ear, sinus, pulmonary and skin infections; recurrent diarrhoea and failure to thrive. Recurrent pneumonias can lead to bronchiectasis; recurrent ear infections to impaired hearing.
+
+X-linked (Bruton) agammaglobulinaemia. Abnormal tyrosine kinase gene; essential for B-cell maturation.
+
+Common variable immune deficiency (CVID) – B-cell deficiency. High risk of autoimmune disorders and malignancy. Later onset than Bruton agammaglobulinaemia.
+
+Hyper IgM syndrome – B cells produce IgM but prevented from switching to IgG and IgA.
+
+Selective IgA deficiency – most common primary immune defect. Usually asymptomatic, or recurrent ear, sinus and pulmonary infections.
+
+Neutrophil defects
+
+Recurrent bacterial infections – abscesses (skin, lymph nodes, lung, liver, spleen, bone), poor wound healing, perianal disease and periodontal infections; invasive fungal infections, such as aspergillosis. Diarrhoea and failure to thrive. Granulomas from chronic inflammation.
+
+Chronic granulomatous disease – most are X-linked recessive, some autosomal recessive. Defect in phagocytosis as fail to produce superoxide after ingestion of micro-organisms.
+
+Leucocyte function defects
+
+Delayed separation of umbilical cord, delayed wound healing, chronic skin ulcers and deep-seated infections.
+
+Leucocyte adhesion deficiency (LAD) – deficiency of neutrophil surface adhesion molecules, CD18, CD11b, leads to inability of neutrophils to migrate to sites of infection/inflammation.
+
+Complement defects
+
+Recurrent bacterial infections. SLE-like illness. Recurrent meningococcal infections – with deficiency of the terminal complement components (C5b to C9).
+
+Early complement component deficiency
+Terminal complement component deficiency
+Mannose-binding lectin (MBL) deficiency.
+
+Figure 14.27 Clinical presentation of primary immune deficiency.
+
+
+PDF PAGE 10 — PRINTED PAGE 270
+
+Management
+
+Management options include:
+
+• Antimicrobial prophylaxis
+  – For T-cell and neutrophil defects – cotrimoxazole to prevent Pneumocystis jiroveci infection and itraconazole or fluconazole to prevent other fungal infections
+  – For B-cell defects – antibiotic prophylaxis (e.g. azithromycin) to prevent recurrent bacterial (e.g. chest, ear, sinus) infections
+
+• Antibiotic treatment
+  – Prompt treatment of infections
+  – Appropriate choice of antibiotics to cover likely organisms
+  – Generally longer courses, with lower threshold for intravenous therapy
+
+• Screening for end-organ disease
+  – e.g. CT scan in children with antibody deficiency to detect bronchiectasis
+
+• Immunoglobulin replacement therapy
+  – For children with antibody deficiency
+  – Can be given intravenously, which may require central venous (Portacath or Hickman) line insertion or subcutaneously
+
+• Bone marrow transplantation
+  – e.g. for SCID (severe combined immunodeficiency), chronic granulomatous disease
+  – Can be matched sibling donor, matched unrelated donor or haploidentical (parental) transplant
+
+• Gene therapy
+  – For certain forms of SCID, but associated with a risk of leukaemia.
+
+Further reading
+
+American Academy of Pediatrics: Report of the Committee on Infectious Diseases. ‘Red Book’, ed 27, Illinois, 2006, AAP.
+Useful manual on paediatric infection and immunisation in the USA.
+
+Feigin RD, Cherry JD: Textbook of Pediatric Infectious Diseases, ed 5, Philadelphia, PA, 2004, Saunders.
+Large comprehensive textbook.
+
+Websites for updates on immunisation and current information on infectious diseases (Accessed May 2011)
+
+Meningitis Research Foundation: Available at: http://www.meningitis.org.
+Useful teaching material on meningitis.
+
+American Academy of Pediatrics: Available at: http://www.aap.org.
+
+Centers for Disease Control, Atlanta, USA: Available at: http://www.cdc.gov.
+
+CHIVA: Children’s HIV Association of UK and Ireland. Available at: http://www.bhiva.org/chiva.
+Guidelines to reduce HIV vertical transmission.
+
+Department of Health Immunisation Information: Available at: http://www.dh.gov.uk/en/Publichealth/Immunisation.
+Up-to-date information on the immunisation programme in the UK.
+
+Health Protection Agency: Available at: http://www.hpa.org.uk.
+
+MMR: The facts. Available at: http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_4002972.
+Information about the MMR vaccine.
+
+UNAIDS: Available at: http://www.unaids.org.
+Worldwide information on HIV.
+
+World Health Organization: Available at: http://www.who.int.

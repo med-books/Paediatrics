@@ -1,0 +1,437 @@
+281
+
+along with the advice of an anaesthetist or intensivist, is imperative due to the risk of rebound symptoms once the effects of the epinephrine (adrenaline) diminish after about 2 h. Only a few children with croup require tracheal intubation since the introduction of steroid therapy. Some children have a pattern of recurrent croup, which may be related to atopy.
+
+Bacterial tracheitis (pseudomembranous croup)
+
+This rare but dangerous condition is similar to severe viral croup except that the child has a high fever, appears toxic and has rapidly progressive airways obstruction with copious thick airway secretions. It is caused by infection with Staphylococcus aureus. Treatment is by intravenous antibiotics and intubation and ventilation if required.
+
+Acute epiglottitis
+
+Acute epiglottitis is a life-threatening emergency due to the high risk of respiratory obstruction. It is caused by H. influenzae type b. In the UK and many other countries, the introduction of universal Hib immunisation in infancy has led to a >99% reduction in the incidence of epiglottitis and other invasive H. influenzae type b infections.
+
+There is intense swelling of the epiglottis and surrounding tissues associated with septicaemia. Epiglottitis is most common in children aged 1–6 years but affects all age groups. It is important to distinguish clinically between epiglottitis and croup (Table 16.1), as they require quite different treatment.
+
+The onset of epiglottitis is often very acute (see Case History 16.1), with:
+• High fever in an ill, toxic-looking child
+• An intensely painful throat that prevents the child from speaking or swallowing; saliva drools down the chin
+• Soft inspiratory stridor and rapidly increasing respiratory difficulty over hours
+• The child sitting immobile, upright, with an open mouth to optimise the airway.
+
+Table 16.1 Clinical features of croup (viral laryngotracheitis) and epiglottitis
+
+Feature — Croup — Epiglottitis
+Onset — Over days — Over hours
+Preceding coryza — Yes — No
+Cough — Severe, barking — Absent or slight
+Able to drink — Yes — No
+Drooling saliva — No — Yes
+Appearance — Unwell — Toxic, very ill
+Fever — <38.5°C — >38.5°C
+Stridor — Harsh, rasping — Soft, whispering
+Voice, cry — Hoarse — Muffled, reluctant to speak
+
+Case History 16.1 Acute epiglottitis
+
+This 5-year-old girl developed a severe sore throat, drooling of saliva, a high fever and increasing difficulty breathing over 8 h (Fig. 16.4a). Epiglottitis was diagnosed and her airway was guaranteed with a nasotracheal tube. Antibiotics were started immediately (Fig. 16.4b,c). She made a full recovery.
+
+Figure 16.4 Acute epiglottitis. (a) At presentation. (b) At 16 h, with nasotracheal and nasogastric tubes and an indwelling cannula for intravenous antibiotics. (c) At 36 h, following removal of the nasotracheal and nasogastric tubes.
+
+282
+
+In contrast to viral croup, cough is minimal or absent. Attempts to lie the child down or examine the throat with a spatula or perform a lateral neck X-ray must not be undertaken as they can precipitate total airway obstruction and death.
+
+If the diagnosis of epiglottitis is suspected, urgent hospital admission and treatment are required. A senior anaesthetist, paediatrician and ENT surgeon should be summoned and treatment initiated without delay. The child should be transferred directly to the intensive care unit or an anaesthetic room, and must be accompanied by senior medical staff in case respiratory obstruction occurs. The child should be intubated under controlled conditions with a general anaesthetic. Rarely, this is impossible and urgent tracheostomy is life-saving. Only after the airway is secured should blood be taken for culture and intravenous antibiotics such as cefuroxime started. The tracheal tube can usually be removed after 24 h and antibiotics given for 3–5 days. With appropriate treatment, most children recover completely within 2–3 days. As with other serious H. influenzae infections, prophylaxis with rifampicin is offered to close household contacts.
+
+Minutes count in acute epiglottitis.
+
+Bronchitis
+
+There is controversy about the term bronchitis in childhood. While some inflammation of the bronchi producing a mixture of wheeze and coarse crackles is often a feature of respiratory infections, bronchitis in children is very different from the chronic bronchitis of adults. In acute bronchitis in children, cough and fever are the main symptoms. The cough may persist for about 2 weeks, or longer with pertussis or Mycoplasma infections. There is no evidence that antibiotics, cough suppressants or expectorants speed recovery.
+
+Whooping cough (pertussis)
+
+This is a highly contagious respiratory infection caused by Bordetella pertussis. It is endemic, with epidemics every 3–4 years. After a week of coryza (catarrhal phase), the child develops a characteristic paroxysmal or spasmodic cough followed by a characteristic inspiratory whoop (paroxysmal phase). The spasms of cough are often worse at night and may culminate in vomiting. During a paroxysm, the child goes red or blue in the face, and mucus flows from the nose and mouth. The whoop may be absent in infants, but apnoea is a feature at this age. Epistaxis and subconjunctival haemorrhages can occur after vigorous coughing. The paroxysmal phase lasts 3–6 weeks. The symptoms gradually decrease (convalescent phase) but may persist for many months. Complications of pertussis, such as pneumonia, convulsions and bronchiectasis, are uncommon, but there is still a significant mortality, particularly in infants. Infants who have not yet completed their primary vaccination at 4 months are particularly susceptible. Infants and young children suffering severe spasms of cough or cyanotic attacks should be admitted to hospital and isolated from other children.
+
+The organism can be identified early in the disease from culture of a per-nasal swab, although PCR is more sensitive. Characteristically, there is a marked lymphocytosis (>15 × 10⁹/L) on a blood count. Although erythromycin eradicates the organism, it decreases symptoms only if started during the catarrhal phase. Siblings, parents and school contacts may develop a similar cough, and close contacts should receive erythromycin prophylaxis, and unvaccinated infant contacts should be vaccinated. Immunisation reduces the risk of developing pertussis and the severity of disease in those affected, but does not guarantee protection. The level of protection declines steadily during childhood.
+
+Summary: Pertussis
+• Caused by Bordetella pertussis
+• Paroxysmal cough followed by inspiratory whoop and vomiting; in infants, apnoea rather than whoop, which is potentially dangerous
+• Diagnosis: culture of organism on per-nasal swab, marked lymphocytosis on blood film.
+
+Bronchiolitis
+
+Bronchiolitis is the commonest serious respiratory infection of infancy: 2–3% of all infants are admitted to hospital with the disease each year during annual winter epidemics; 90% are aged 1–9 months (bronchiolitis is rare after 1 year of age). Respiratory syncytial virus (RSV) is the pathogen in 80% of cases. The remainder are accounted for by human metapneumovirus, parainfluenza virus, rhinovirus, adenovirus, influenza virus, and Mycoplasma pneumoniae. Dual infection with RSV and human metapneumovirus is associated with severe bronchiolitis.
+
+Clinical features
+
+Coryzal symptoms precede a dry cough and increasing breathlessness. Feeding difficulty associated with increasing dyspnoea is often the reason for admission to hospital. Recurrent apnoea is a serious complication, especially in young infants. Infants born prematurely who develop bronchopulmonary dysplasia or with other underlying lung disease, such as cystic fibrosis or have congenital heart disease, are most at risk from severe bronchiolitis. The characteristic findings on examination (Fig. 16.5) are:
+• Sharp, dry cough
+• Tachypnoea
+• Subcostal and intercostal recession
+• Hyperinflation of the chest:
+  – Prominent sternum
+  – Liver displaced downwards
+• Fine end-inspiratory crackles
+• High-pitched wheezes – expiratory > inspiratory
+• Tachycardia
+• Cyanosis or pallor.
+
+283
+
+Summary: The child with stridor
+
+Clinical features to assess:
+Fever; toxic, ill-looking appearance; exhaustion; level of consciousness; hoarse, barking cough; drooling saliva; cyanosis; stridor; chest recession (mild—at rest only; severe—marked sternal recession even at rest); O₂ saturation.
+
+Clinical conditions:
+
+Croup
+• Mostly viral
+• 6 months to 6 years of age
+• Harsh, loud stridor
+• Coryza and mild fever, hoarse voice
+
+Bacterial tracheitis
+• High fever, toxic
+• Loud, harsh stridor
+
+Inhaled foreign body
+• Choking on peanut or toy in mouth
+• Sudden onset of cough or respiratory distress
+
+Epiglottitis
+• Caused by H. influenzae type b, rare since Hib immunisation
+• Mostly aged 1–6 years
+• Acute, life-threatening illness
+• High fever, ill, toxic-looking
+• Painful throat, unable to swallow saliva, which drools down the chin
+
+Laryngomalacia or congenital airway abnormality
+• Recurrent or continuous stridor since birth
+
+Other rare causes
+• See Box 16.1
+
+Figure 16.5 Clinical features of severe bronchiolitis in an infant.
+
+Diagram labels: Bronchiolitis; O₂ therapy via nose; intravenous infusion; liver displaced downwards; apnoea in infants <4 months; sharp, dry cough; cyanosis or pallor; hyperinflation of the chest (sternum prominent; liver displaced downwards); subcostal and intercostal recession; auscultation (fine end-inspiratory crackles; prolonged expiration).
+
+284
+
+Figure 16.6 In acute bronchiolitis, the chest X-ray shows hyperinflation of the lungs with flattening of the diaphragm, horizontal ribs and increased hilar bronchial markings. However, chest X-ray is rarely helpful in bronchiolitis.
+
+Investigations
+
+Respiratory viruses are now usually identified by PCR analysis of nasopharyngeal secretions. A chest X-ray is unnecessary in straightforward cases, but if performed, typically shows hyperinflation of the lungs due to small airways obstruction, air trapping (Fig. 16.6) and often focal atelectasis. Pulse oximetry is used to measure and monitor arterial oxygen saturation continuously. Blood gas analysis, usually a capillary sample, is only performed in severe disease to identify hypercarbia when additional ventilatory support is considered.
+
+Management
+
+This is supportive. Humidified oxygen is delivered via nasal cannulae; the concentration required is determined by pulse oximetry. The infant is monitored for apnoea. Mist, antibiotics, steroids and nebulised bronchodilators, such as salbutamol or ipratropium, have not been shown to reduce the severity or duration of the illness. Fluids may need to be given by nasogastric tube or intravenously. Assisted ventilation in the form of nasal or facemask CPAP or full ventilation is required in a small percentage of infants admitted to hospital. RSV is highly infectious, and infection control measures, particularly good hand hygiene, are needed to prevent cross-infection to other infants in hospital.
+
+Prognosis
+
+Most infants recover from the acute infection within 2 weeks. However, as many as half will have recurrent episodes of cough and wheeze (see below). Rarely, usually following adenovirus infection, the illness may result in permanent damage to the airways (bronchiolitis obliterans).
+
+Prevention
+
+A monoclonal antibody to RSV (palivizumab, given monthly by intramuscular injection) reduces the number of hospital admissions in high-risk preterm infants. Its use is limited by cost and the need for multiple intramuscular injections.
+
+Pneumonia
+
+The incidence of pneumonia peaks in infancy and old age, but is relatively high in childhood. Pneumonia is a major cause of childhood mortality in resource-poor countries. It is caused by a variety of viruses and bacteria, although in over 50% of cases no causative pathogen is identified. Viruses are the most common cause in younger children, while bacteria are commoner in older children. In clinical practice it is difficult to distinguish between viral and bacterial pneumonia.
+
+The pathogens causing pneumonia vary according to the child’s age:
+• Newborn – organisms from the mother’s genital tract, particularly group B streptococcus, but also Gram-negative enterococci
+• Infants and young children – respiratory viruses, particularly RSV, are most common, but bacterial infections include Streptococcus pneumoniae or Haemophilus influenzae. Bordetella pertussis and Chlamydia trachomatis can also cause pneumonia at this age. An infrequent but serious cause is Staphylococcus aureus
+• Children over 5 years – Mycoplasma pneumoniae, Streptococcus pneumoniae and Chlamydia pneumoniae are the main causes.
+• At all ages Mycobacterium tuberculosis should be considered.
+
+A conjugate vaccine (Prevenar), with immunogenicity against thirteen of the most common serotypes of Streptococcus pneumoniae responsible for invasive disease, is now included in the routine immunisation schedule in the UK and many countries. There has been a marked reduction in the incidence of pneumonia from Haemophilus influenzae type B since the introduction of Hib immunisation.
+
+Clinical features
+
+Fever and difficulty in breathing are the commonest presenting symptoms, usually preceded by an upper respiratory tract infection. Other symptoms include cough, lethargy, poor feeding and an ‘unwell’ child. Localised chest, abdominal, or neck pain is a feature of pleural irritation and suggests bacterial infection.
+
+Examination reveals tachypnoea, nasal flaring and chest indrawing – the best clinical sign of pneumonia in children is increased respiratory rate, and pneumonia can sometimes be missed if the respiratory rate is not measured in a febrile child (so-called ‘silent pneumonia’). There may be end-inspiratory respiratory coarse crackles over the affected area, but the classic signs of consolidation with dullness on percussion, decreased breath sounds and bronchial breathing over the affected area are often absent in young children. Oxygen saturation readings may be decreased; this is an indication for hospital admission.
+
+A chest X-ray may confirm the diagnosis, but with the exception of a classic lobar pneumonia
+
+285
+
+Figure 16.7 Consolidation of the right upper lobe. Lobar consolidation is a feature of pneumococcal pneumonia.
+
+Figure 16.8 Right-sided empyema.
+
+characteristic of Streptococcus pneumoniae (Fig. 16.7), a chest X-ray cannot differentiate between bacterial and viral pneumonia. In younger children, a nasopharyngeal aspirate is useful to identify viral causes, but blood tests, including full blood count and acute-phase reactants, are generally unhelpful in differentiating between a viral and bacterial cause. A small proportion of pneumonias are associated with a pleural effusion, where there may be blunting of the costophrenic angle on the chest X-ray. Some of these effusions develop into empyema and fibrin strands may form, leading to septations, which make drainage difficult (Fig. 16.8). The incidence of childhood empyema has risen over the last decade, the precise reason for which remains unclear. Ultrasound of the chest will often distinguish between parapneumonic effusion and empyema.
+
+Management
+
+Evidence-based guidelines for the management of pneumonia in childhood have been published (British Thoracic Society). Most cases can be managed at home, but indications for admission include oxygen saturation <93%, severe tachypnoea and difficulty breathing, grunting, apnoea, not feeding or family unable to provide appropriate care. General supportive care should include oxygen for hypoxia and analgesia if there is pain. Intravenous fluids should be given if necessary, to correct dehydration and maintain adequate hydration and salt balance. Physiotherapy has no role.
+
+The choice of antibiotic is determined by the child’s age, severity of illness and appearance on chest X-ray. Newborns require broad-spectrum intravenous antibiotics. Most older infants can be managed with oral amoxicillin, with broader-spectrum antibiotics such as co-amoxiclav being reserved for those who are complicated or unresponsive. For children >5 years of age, either amoxicillin or an oral macrolide such as erythromycin is the treatment of choice.
+
+Parapneumonic effusions usually resolve with appropriate antibiotics, but the small proportion that develop an empyema require drainage of the collection. This may be achieved by either placement of a chest drain with or without the installation of a fibrinolytic agent in the intrapleural space (e.g. urokinase) to break down any septations, or by surgical decortication. Practices vary between different centres.
+
+Prognosis
+
+Follow-up is not generally required for children with simple consolidation on chest X-ray and who recover clinically. Those with evidence of lobar collapse, atelectasis or empyema should have a repeat chest X-ray after 4–6 weeks. Virtually all children with pneumonia, even those with empyema, make a full recovery.
+
+Consider pneumonia in children with neck stiffness or acute abdominal pain.
+
+Asthma
+
+Asthma is the most common chronic respiratory disorder in childhood, affecting 15–20% of children. Worldwide there has been a significant increase in the incidence of asthma over the last 40 years, although this has now plateaued in many developed countries. Although the symptoms of asthma are readily controlled in most children, it is an important cause of absence from school, restricted activity and anxiety for the child and family. There are still about 20 deaths from asthma in children each year in the UK.
+
+Diagnosing asthma in preschool children is often difficult. Approximately half of all children wheeze at some time during the first 3 years of life. In general, there are two patterns of wheezing (Fig. 16.9):
+• Transient early wheezing
+• Persistent and recurrent wheezing.
+
+Transient early wheezing
+
+Most wheezy preschool children have virus-associated wheeze (also known as episodic viral wheeze and wheezy bronchitis). Transient early wheezing is thought to result from small airways being more likely to narrow and obstruct due to inflammation and aberrant immune responses to viral infection. This gives the
+
+286
+
+Summary: The infant with tachypnoea or wheeze
+
+Clinical features to assess:
+• Fever
+• Level of consciousness
+• Weight loss?
+• Exhaustion?
+• Apnoea?
+• Cyanosis
+• Hepatomegaly
+• O₂ saturation
+• Breathing: too breathless to feed? Respiratory rate >40 breaths/min; chest hyperexpansion; chest recession; use of accessory muscles; expiratory grunting, nasal flaring; auscultation, percussion – abnormal signs
+• Heart: heart rate >160 beats/min; heart murmur
+
+Clinical conditions to consider:
+
+Bronchiolitis
+• Age 1–9 months
+• Poor feeding, apnoea, dry cough
+• Laboured breathing – chest recession, hyperinflation of the chest, fine end-inspiratory crackles, wheeze, liver displaced downwards
+• Apnoea, cyanosis, respiratory failure
+• Increased severity with bronchopulmonary dysplasia in preterm or congenital heart disease
+
+Transient early wheezing – with viral infections, risk increased in preterm and maternal smoking
+
+Non-atopic wheezing – following viral lower respiratory infection
+
+Atopic asthma – recurrent wheezing, eczema, positive family history of allergy/atopy
+
+Pneumonia
+• Fever, poor feeding, cough, lethargy, cyanosis
+• Tachypnoea, nasal flaring, chest recession, wheeze and end-inspiratory coarse crackles over the affected area
+• O₂ saturation may be decreased
+• Chest X-ray – consolidation, parapneumonic effusion or empyema
+
+Cardiac failure – respiratory distress, heart murmur, hepatomegaly
+
+Inhaled foreign body – choking on peanut or toy, etc.
+
+Aspiration of feeds – especially with neuromuscular disorder
+
+Other causes – see Box 16.2
+
+Figure 16.9 Prevalence of wheeze in children caused by the two major phenotypes by age.
+Graph labels: Wheezing prevalence; transient early wheezers; IgE-associated wheeze/asthma; Age (years): 0, 3, 6, 11.
+
+287
+
+condition its episodic nature, being triggered by viruses that cause the common cold. Studies have found that transient early wheezers often have decreased lung function from birth, from small airway diameter. Risk factors include maternal smoking during and/or after pregnancy and prematurity. A family history of asthma or allergy is not a risk factor. Transient early wheezing is more common in males and usually resolves by 5 years of age, presumably from the increase in airway size.
+
+Persistent and recurrent wheezing
+
+Some children, both preschool and school-aged, have frequent wheeze triggered by many stimuli. The presence of IgE to common inhalant allergens, such as house dust mite, pollens or pets, is associated with persistence of wheezing beyond the preschool years. Recurrent wheezing associated with evidence of allergy to one or more inhaled allergens (e.g. by skin-prick test or IgE blood test) is termed ‘atopic asthma’. Atopic wheezers have persistent symptoms and decreased lung function. Atopic asthma is strongly associated with other atopic diseases such as eczema, rhinoconjunctivitis and food allergy, and is more common in those with a family history of such diseases.
+
+Box 16.2 Causes of childhood wheeze
+• Transient early wheezing
+• Atopic asthma (IgE-mediated)
+• Non-atopic asthma
+• Recurrent aspiration of feeds
+• Inhaled foreign body
+• Cystic fibrosis
+• Recurrent anaphylaxis in a child with food allergies
+• Congenital abnormality of lung, airway or heart
+• Idiopathic.
+
+A small number of persistent or recurrent wheezing children will have other causes, such as the non-atopic asthmatics. Other causes of recurrent wheeze are listed in Box 16.2.
+
+Pathophysiology of asthma
+
+An outline of the pathophysiology of asthma is shown in Figure 16.10.
+
+Up to 40% of all children are atopic (see Ch. 15). Siblings and parents have an increased risk of allergic diseases. The presence of one allergic condition increases the risk of another, e.g. half of children with allergic asthma have eczema at some time during their lives. The majority of asthma exacerbations are triggered by rhinovirus infection, and there is evidence that those with asthma have specific immune defects which increase their vulnerability to these viruses.
+
+Clinical features
+
+Asthma should be suspected in any child with wheezing on more than one occasion. Wheeze is a polyphonic (multiple pitch) noise coming from the airways believed to represent many airways of different dimensions vibrating from abnormal narrowing. Although it may be clear to most clinicians what ‘wheezing’ is, patients and parents do not always mean the same thing. It is best to describe the sound to a parent (e.g. ‘a whistling in the chest when your child breaths out’) and ask if that fits with their child’s symptoms. Ideally, the presence of wheeze is confirmed on auscultation by a health professional to distinguish it from transmitted upper respiratory noises. Other key features associated with a high probability of a child having asthma include:
+• Symptoms worse at night and in the early morning
+• Symptoms that have triggers (e.g. exercise, pets, dust, cold air, emotions, laughter)
+• Interval symptoms, i.e. symptoms between acute exacerbations
+
+Figure 16.10 Pathophysiology of asthma.
+
+Diagram labels: Genetic predisposition; atopy; environmental triggers (upper respiratory tract infections; allergens, e.g. house dust mite, grass pollens, pets; smoking, active or passive; cold air; exercise; emotional upset or anxiety; chemical irritants, e.g. paint, aerosols); bronchial inflammation (oedema; excessive mucus production; infiltration with cells—eosinophils, mast cells, neutrophils, lymphocytes); bronchial hyperresponsiveness (exaggerated “twitchiness” to inhaled stimuli); airway narrowing (reversible airflow obstruction, e.g. peak flow variability); symptoms (wheeze, cough, breathlessness, chest tightness).
+
+288
+
+• Personal or family history of an atopic disease
+• Positive response to asthma therapy.
+
+Once suspected, the pattern or phenotype should be further explored by asking:
+• How frequent are the symptoms?
+• What triggers the symptoms? Specifically, are sport and general activities affected by the asthma?
+• How often is sleep disturbed by asthma?
+• How severe are the interval symptoms between exacerbations?
+• How much school has been missed due to asthma?
+
+Examination of the chest is usually normal between attacks. In long-standing asthma there may be hyperinflation of the chest, generalised polyphonic expiratory wheeze and a prolonged expiratory phase. Onset of the disease in early childhood may result in Harrison sulci (Fig. 16.11). Evidence of eczema should be sought, as should examination of the nasal mucosa for allergic rhinitis. Growth should be plotted but is normal unless the asthma is extremely severe. The presence of a wet cough or sputum production, finger clubbing, or poor growth suggests a condition characterised by chronic infection such as cystic fibrosis or bronchiectasis.
+
+In practice, the diagnosis is usually made on a history of recurrent wheeze, with exacerbations usually precipitated by viral respiratory infections.
+
+Investigations
+
+Asthma can usually be diagnosed from the history and examination and no investigations are needed. Sometimes, specific investigations are required to confirm the diagnosis, or explore the severity and phenotype in more detail. Skin-prick testing for common allergens is often considered both as an aid to the diagnosis of atopy and to identify allergens which may be acting as triggers. A chest X-ray is usually normal but may help to rule out other conditions. If there is uncertainty, recording peak expiratory flow rate (PEFR) may be useful. Most children over 5 years of age can use a peak flow meter. Uncontrolled asthma leads to increased variability in peak flow, with both diurnal variability (morning PEFR usually lower than evening PEFR) and day-to-day variability (change in PEFR over the course of a week). Often, response to treatment is the most helpful investigation. This can be assessed if
+
+Figure 16.11 The depressions at the base of the thorax associated with the muscular insertion of the diaphragm are called Harrison sulci, and are associated with chronic obstructive airways disease such as asthma during childhood.
+
+Summary: Assessment of the child with chronic asthma
+
+Clinical features to check:
+• Growth and nutrition
+• Peak flow/spirometry
+• Chest for: hyperinflation, Harrison’s sulcus, wheeze
+• Are there other allergic disorders? Allergic rhinitis; eczema, etc.
+• If there is sputum, finger clubbing or growth failure, other causes should be sought.
+
+Monitor:
+• Peak flow diary
+• Severity and frequency of symptoms
+• Exercise tolerance
+• Interference with life, time off school
+• Is sleep disturbed?
+• Use of preventer and reliever medication – are they appropriate?
+• Inhaler technique
+
+Consider triggers:
+• Allergic rhinitis needing treatment?
+• Allergens – animal dander, etc.
+• Stress
+
+289
+
+Table 16.2 Drugs in asthma
+
+Type of drug — Drug
+
+Bronchodilators
+β₂-agonists (relievers): Salbutamol; Terbutaline
+Anticholinergic bronchodilator: Ipratropium bromide
+
+Preventative/prophylactic treatment
+Inhaled steroids: Budesonide; Beclometasone; Fluticasone; Mometasone
+Long-acting β₂-bronchodilators: Salmeterol; Formoterol
+Methylxanthines: Theophylline
+Leukotriene inhibitors: Montelukast
+Oral steroids: Prednisolone
+Anti-IgE injections: Omalizumab
+
+All are given by inhalation, except prednisolone, leukotriene modulators, theophylline preparations, which are by mouth, and omalizumab, which is by injection.
+
+necessary by measuring the PEFR before and after inhaling a bronchodilator; it should increase by more than 10–15%.
+
+Management
+
+The aim of management is to allow the child to lead as normal a life as possible by controlling symptoms and preventing exacerbations, optimising pulmonary function, while minimising treatment and side-effects. It is important to set the aims with the child as they are more likely to comply with their therapy if they are involved in their management. An evidence-based and regularly updated British Guideline on Asthma Management gives guidance on asthma treatment in children and adults.
+
+Medications used to treat children with asthma are shown in Table 16.2.
+
+Bronchodilator therapy
+
+Inhaled β₂-agonists are the most commonly used and most effective bronchodilators. Short-acting β₂-agonists (often called relievers) such as salbutamol or terbutaline have a rapid onset of action, are effective for 2–4 h and have few side-effects. They are used as required for increased symptoms, and in high doses for acute asthma attacks.
+
+In contrast, long-acting β₂-agonists (LABAs) such as salmeterol or formoterol are effective for 12 h. They are not used in acute asthma, and should not be used without an inhaled corticosteroid. LABAs are useful in exercise-induced asthma.
+
+Ipratropium bromide, an anticholinergic bronchodilator, is sometimes given to young infants when other bronchodilators are found to be ineffective, or in the treatment of severe acute asthma.
+
+Inhaled corticosteroids
+
+Prophylactic drugs are effective only if taken regularly. Inhaled corticosteroids (often called preventers) are the most effective inhaled prophylactic therapy. They decrease airway inflammation, resulting in decreased symptoms, asthma exacerbations and bronchial hyperactivity. They are increasingly used in conjunction with an inhaled LABA. They have no clinically significant side-effects when given in conventional licensed doses. They can produce systemic side-effects, including impaired growth, adrenal suppression and altered bone metabolism, when high doses are used.
+
+Add-on therapy
+
+The first choice of add-on therapy in a child over 5 years is a LABA, whereas in children under 5 years, an oral leukotriene receptor antagonist such as montelukast is recommended. The latter can also be used in older children when symptoms are not controlled by the addition of a LABA. Slow-release oral theophylline is an alternative; however, it has a high incidence of side-effects (vomiting, insomnia, headaches, poor concentration), so it is not commonly used in children.
+
+Other therapies
+
+Oral prednisolone, usually given on alternate days to minimise the adverse effect on height, is required only in severe persistent asthma where other treatment has failed. All children on this therapy must be managed by a specialist in childhood asthma. Anti-IgE therapy (omalizumab) is an injectable monoclonal antibody that acts against IgE, the natural antibody that mediates allergy. It is used for the treatment of severe atopic asthma, and should only be administered by a specialist in childhood asthma.
+
+Most antibiotics are of no value in the absence of a bacterial infection, although recent data suggest that macrolide antibiotics (e.g. erythromycin) may have a specific role in asthma management, but neither cough medicines nor decongestants are helpful. Antihistamines, e.g. loratadine and nasal steroids, are useful in the treatment of allergic rhinitis.
+
+The British Guideline on Asthma Management uses a stepwise approach, starting treatment with the step most appropriate to the severity of the asthma. Treatment increases from step 1 (mild intermittent asthma) to step 5 (chronic severe asthma requiring continuous or frequent use of oral steroids), stepping down when control is good (Fig. 16.12).
+
+Allergen avoidance and other non-pharmacological measures
+
+Although asthma in many children is precipitated or worsened by specific allergens, complete avoidance of the allergen is difficult to achieve. The value of identifying such triggers by history or allergy testing is controversial. There is currently no conclusive evidence that allergen avoidance measures (such as removal of furry
+
+290
+
+Figure 16.12 A stepwise approach to the treatment of asthma.
+
+Step 1: Mild intermittent asthma
+Inhaled short-acting β₂-agonist as required.
+Infants and young children – consider inhaled ipratropium bromide.
+
+Step 2: Regular preventer therapy – requires 3 or more β₂-agonist inhalations per week
+Add inhaled steroid.
+Start at dose appropriate to severity of disease.
+<5 years: consider oral leukotriene receptor antagonist if inhalers not tolerated.
+
+Step 3: Poorly controlled on conventional doses of inhaled steroids – ‘add-on’ therapy
+5 years or over:
+i) Add inhaled long-acting β₂-agonist (LABA)
+ii) Assess control of asthma:
+• Good response to LABA – continue
+• Benefit from LABA but control inadequate – go to step 4
+• No response to LABA – stop LABA and try leukotriene receptor antagonist or theophyllines
+<5 years:
+i) Consider adding in leukotriene receptor agonists to inhaled steroids
+ii) In children <2 years, consider referral to respiratory paediatrician
+
+Step 4: Persistent poor control
+5 years or over:
+• Increase inhaled steroids to maximum recommended dose
+• If not responding, go to step 5 and refer to respiratory paediatrician
+<5 years:
+Refer to respiratory paediatrician
+
+Step 5: Continuous frequent use of oral steroids
+Daily oral steroids in the lowest dose for adequate control.
+Refer for specialist care – may require immunosuppressant or immunomodulation therapy and psychological input.
+
+There is a logical stepwise progression to treatment. This is determined by the frequency and severity of symptoms and the response to treatment. The aim is to gain control of symptoms and to then step down treatment over the next few months.
+
+Figure 16.12 (continued). From: British Thoracic Society/Scottish Intercollegiate Guideline Network. 2009. The British Guideline on Asthma Management. Reproduced with permission. Available at: http://www.sign.ac.uk/guidelines/ (Accessed January 2011).
+
+animals or using dust mite impermeable mattress covers) are beneficial, although they may be considered in selected cases. Allergen immunotherapy is effective for treating atopic asthma, but its use is limited by the risk of systemic allergic reactions associated with the treatment (see Ch. 15).
+
+Parents should be advised about the harmful effects of cigarette smoking in the house. Although exercise improves general fitness, there is no evidence that physical training improves asthma itself. Psychological intervention may be useful in chronic severe asthma.
+
+Exercise-induced asthma
+
+Some children’s asthma is brought on only by vigorous exercise. With appropriate treatment, asthma should not restrict exercise, and there are many elite athletes with asthma. For most, a short-acting β₂-agonist bronchodilator taken immediately before exercise is sufficient, but if there are more marked symptoms a LABA taken in conjunction with an inhaled steroid will give greater protection. A LABA should not be prescribed without an inhaled steroid.
+
+Acute asthma
+
+Assessment
+
+With each acute attack, the duration of symptoms, the treatment already given and the course of previous attacks should be noted. Clinical features are:
+• Wheeze and tachypnoea (respiratory rate >50 breaths/min in children 2–5 years, >30 breaths/min in children ≥5 years) – but poor guide to severity
+• Increasing tachycardia (>130 beats/min in children aged 2–5 years, >120 beats/min in children ≥5 years) – better guide to severity
+• The use of accessory muscles and chest recession – also better guide to severity
+• The presence of marked pulsus paradoxus (the difference between systolic pressure on
