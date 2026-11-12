@@ -1,0 +1,441 @@
+PDF page 1 (printed page 441)
+
+Prevention of long-term complications
+
+It has been shown that meticulous diabetic control delays or prevents diabetic retinopathy and nephropathy and, if retinopathy occurs, it can slow the progression. There is also evidence that good early control reduces the risk of later complications, even if control deteriorates later in life. Levels of glycosylated haemoglobin above 58 mmol/mol (7.5%) are related to the risk of later complications in an almost exponential fashion, and so the ideal is to aim for below this level as much as possible.
+
+Although long-term health problems are uncommon during childhood, there needs to be regular review for long-term complications and associated illnesses:
+• Growth and pubertal development. Some delay in the onset of puberty may occur. Obesity is common, especially in females, if their insulin dose is not reduced towards the end of puberty. Intensive insulin regimens increase the risk of excessive weight gain and BMI should be plotted at each clinic visit
+• Blood pressure – must be checked at least once a year for evidence of hypertension
+• Renal disease – the detection of microalbuminuria is an early sign of nephropathy and should be screened annually in teenagers
+• Eyes – retinopathy or cataracts requiring treatment are rare in children but should be monitored annually after 5 years of diabetes or from the onset of puberty, ideally with retinal photography
+• Feet – children should be encouraged to take good care of their feet from an early age, to avoid tight shoes and treat any infections early
+• Other associated illnesses – coeliac disease and thyroid disease are more common in type 1 diabetes and easily missed clinically, so screening for them is recommended at diagnosis and subsequently (thyroid function yearly post-diagnosis and coeliac screening by tissue transglutaminase levels after 3 years) or if suspected clinically. There should be a low threshold for investigating for other autoimmune disorders (rheumatoid, vitiligo, etc.).
+
+Hypoglycaemia
+
+Hypoglycaemia is a common problem in neonates during the first few days of life (see Chapter 10). Thereafter, it is uncommon in non-diabetics. It is often defined as a plasma glucose <2.6 mmol/L, although the development of clinical features will depend on whether other energy substrates can be utilised. Clinical features include:
+• Sweating
+• Pallor
+• Central nervous system signs of irritability, headache, seizures and coma.
+
+The neurological sequelae may be permanent if hypoglycaemia persists and include epilepsy, severe learning difficulties and microcephaly. This risk is greatest in early childhood during the period of most rapid brain growth.
+
+Box 25.5 Tests to perform when hypoglycaemia is present
+
+Blood
+• Confirm hypoglycaemia with laboratory blood glucose
+• Growth hormone, IGF-1, cortisol, insulin, C-peptide, fatty acids, ketones (acetoacetate, 3-hydroxybutyrate), glycerol, branched-chain amino acids, acylcarnitine profile, lactate, pyruvate
+
+First urine after hypoglycaemia
+• Organic acids
+• Consider saving blood and urine for toxicology, e.g. salicylate, sulphonylurea
+
+Infants have high energy requirements and relatively poor reserves of glucose from gluconeogenesis and glycogenesis. They are at risk of hypoglycaemia with fasting. Infants should never be starved for more than 4 h, e.g. preoperatively. A blood glucose should be checked in any child who:
+• becomes septicaemic or appears seriously ill. ABC then DEFG – ‘Don’t Ever Forget Glucose’
+• has a prolonged seizure
+• develops an altered state of consciousness.
+
+This is often done at the bedside, using glucose-sensitive strips, the accuracy of which is improved by use of a meter. However, the strips only indicate that the glucose is within a low range of values and any low reading must always be confirmed by laboratory measurement.
+
+If the cause of the hypoglycaemia is unknown, it is vital that blood is collected at the time of the hypoglycaemia and the first available urine sent for analysis, so that a valuable opportunity for making the diagnosis is not missed (Box 25.5).
+
+Causes
+
+These are listed in Box 25.6.
+
+Ketotic hypoglycaemia is a poorly-defined entity in which young children readily become hypoglycaemic following a short period of starvation, probably due to limited reserves for gluconeogenesis. The child is often short and thin and the insulin levels are low. Regular snacks and extra glucose drinks when ill will usually prevent hypoglycaemia. The condition resolves spontaneously in later life. A number of rare endocrine and metabolic disorders may present with hypoglycaemia at almost any age in childhood. Hepatomegaly would suggest the possibility of an inherited glycogen storage disorder, in which hypoglycaemia can be profound.
+
+Transient neonatal hypoglycaemia in neonates may be due to exposure to high levels of insulin in utero if mothers are diabetic or glucose intolerant. In contrast, recurrent, severe neonatal hypoglycaemia may be
+
+
+PDF page 2 (printed page 442)
+
+Box 25.6 Causes of hypoglycaemia beyond the immediate neonatal period
+
+Fasting
+• Insulin excess
+  – Excess exogenous insulin, e.g. in diabetes mellitus/insulin given surreptitiously
+  – β-cell tumours/disorders – persistent hypoglycaemic hyperinsulinism of infancy (PHHI, previously called nesidioblastosis), insulinoma
+  – Drug-induced (sulphonylurea)
+  – Autoimmune (insulin receptor antibodies)
+  – Beckwith syndrome
+• Without hyperinsulinaemia
+  – Liver disease
+  – Ketotic hypoglycaemia of childhood
+  – Inborn errors of metabolism, e.g. glycogen storage disorders
+  – Hormonal deficiency: GH↓, ACTH↓, Addison disease, congenital adrenal hyperplasia
+
+Reactive/non-fasting
+• Galactosaemia
+• Leucine sensitivity
+• Fructose intolerance
+• Maternal diabetes
+• Hormonal deficiency
+• Aspirin/alcohol poisoning.
+
+caused by persistent hypoglycaemic hyperinsulinism of infancy (PHHI, formerly called ‘nesidioblastosis’). This is a rare disorder of infancy where there are gene mutations of various pathways leading to dysregulation of insulin release by the islet cells of the pancreas leading to profound non-ketotic hypoglycaemia. Treatment with high-concentration dextrose solutions and diazoxide (plus other medications) may be required to maintain safe blood sugar levels pending investigation. Special scans reveal that up to 40% of cases are caused by localised lesions in the pancreas amenable to partial resection, although the majority of cases either require long-term medication or total pancreatectomy with the attendant risk of diabetes and exocrine pancreatic insufficiency.
+
+Treatment
+
+Hypoglycaemia can usually be corrected with an intravenous infusion of glucose (2 ml/kg of 10% dextrose followed by 10% dextrose infusion). Care must be taken to avoid giving an excess volume as the solution is hypertonic and could cause cerebral oedema. If there is delay in establishing an infusion or failure to respond, glucagon is given intramuscularly (0.5–1 mg). If a higher concentration than a 10% solution is required in a neonate, the low sugar is highly likely to be secondary to hyperinsulinism.
+
+Corticosteroids may also be used if there is a possibility of hypopituitarism or hypoadrenalism.
+
+The correction of hypoglycaemia must always be documented with satisfactory laboratory glucose measurements.
+
+Summary
+
+Hypoglycaemia
+• Should be excluded in any child with septicaemia, who is seriously ill, has a prolonged seizure or altered state of consciousness (‘Don’t Ever Forget Glucose’)
+• Low blood glucose on bedside testing must be confirmed by laboratory measurement
+• If the cause is unknown, diagnostic blood and urine samples should, if possible, be taken at the time.
+
+Hypothyroidism
+
+There is only a small amount of thyroxine transfer from the mother to the fetus, although severe maternal hypothyroidism can affect the developing brain. The fetal thyroid predominantly produces ‘reverse T3’, a derivative of T3 which is largely inactive. After birth, there is a surge in the level of thyroid-stimulating hormone (TSH) which is accompanied by a marked rise in T4 and T3 levels. The TSH declines to the normal adult range within a week. Preterm infants may have very low levels of T4 for the first few weeks of life, while the TSH is within the normal range; under these circumstances, additional thyroxine is not required.
+
+Congenital hypothyroidism
+
+Detection of congenital hypothyroidism is important, as it is:
+• Relatively common, occurring in 1 in 4000 births
+• One of the few preventable causes of severe learning difficulties.
+
+Causes of congenital hypothyroidism are:
+• Maldescent of the thyroid and athyrosis – the commonest cause of sporadic congenital hypothyroidism. In early fetal life, the thyroid migrates from a position at the base of the tongue (sublingual) to its normal site below the larynx. The thyroid may fail to develop completely or partially. In maldescent, the thyroid remains as a lingual mass or a unilobular small gland. The reason for this failure of formation or migration is not well understood
+• Dyshormonogenesis, an inborn error of thyroid hormone synthesis, in about 5–10% of cases, although commoner in some ethnic groups with consanguineous marriage
+• Iodine deficiency, the commonest cause of congenital hypothyroidism worldwide but rare in the UK. It can be prevented by iodination of salt in the diet
+
+
+PDF page 3 (printed page 443)
+
+Box 25.7 Clinical features of hypothyroidism
+
+Congenital
+Usually asymptomatic and picked up on screening. Otherwise:
+Failure to thrive
+Feeding problems
+Prolonged jaundice
+Constipation
+Pale, cold, mottled dry skin
+Coarse facies
+Large tongue
+Hoarse cry
+Goitre (occasionally)
+Umbilical hernia
+Delayed development
+
+Acquired
+Females > males
+Short stature/growth failure
+Cold intolerance
+Dry skin
+Cold peripheries
+Bradycardia
+Thin, dry hair
+Pale, puffy eyes with loss of eyebrows
+Goitre
+Slow-relaxing reflexes
+Constipation
+Delayed puberty
+Obesity
+Slipped upper femoral epiphysis
+Deterioration in school work
+Learning difficulties
+
+Figure 25.7 Untreated congenital hypothyroidism.
+
+• Hypothyroidism due to TSH deficiency – isolated TSH deficiency is rare (<1% of cases) and is usually associated with panhypopituitarism, which usually manifests with growth hormone, gonadotrophin and ACTH deficiency leading to hypoglycaemia or micropenis and undescended testes in affected boys before the hypothyroidism becomes evident.
+
+The clinical features (Box 25.7 and Fig. 25.7) are difficult to differentiate from normal in the first month of life, but become more prominent with age. There is a slight excess of other congenital abnormalities, especially heart defects.
+
+Most infants with congenital hypothyroidism are detected on routine neonatal biochemical screening (Guthrie test), performed on all newborn infants, by identifying a raised TSH in the blood. However, thyroid dysfunction secondary to pituitary abnormalities may not be picked up at neonatal screening as they will have a low TSH. In some countries T4 is also measured. Treatment with thyroxine is started at 2–3 weeks of age.
+
+Early treatment of congenital hypothyroidism is essential to prevent learning difficulties. With neonatal screening, the results of long-term intellectual development have been satisfactory and intelligence should be in the normal range for the majority of children. Treatment is lifelong with oral replacement of thyroxine, titrating the dose to maintain normal growth, TSH and T4 levels.
+
+Juvenile hypothyroidism
+
+This is usually caused by autoimmune thyroiditis. There is an increased risk in children with Down or Turner syndrome and of developing other autoimmune disorders, e.g. vitiligo, rheumatoid arthritis, diabetes mellitus. In some families, Addison disease may also occur.
+
+The clinical features are listed in Box 25.7. It is commoner in females. There is growth failure accompanied by delayed bone age. Goitre is often present but this may also be physiological in pubertal girls. Treatment is with thyroxine.
+
+Summary
+
+Congenital hypothyroidism
+• Is identified on routine neonatal biochemical screening (Guthrie test)
+• Although present antenatally, treatment started soon after birth results in satisfactory intellectual development.
+
+Hyperthyroidism
+
+This usually results from Graves disease (autoimmune thyroiditis), secondary to the production of thyroid-stimulating immunoglobulins (TSIs). The clinical
+
+
+PDF page 4 (printed page 444)
+
+Box 25.8 Clinical features of hyperthyroidism
+
+Systemic
+Anxiety, restlessness
+Increased appetite
+Sweating
+Diarrhoea
+Weight loss
+Rapid growth in height
+Advanced bone maturity
+Tremor
+Tachycardia, wide pulse pressure
+Warm, vasodilated peripheries
+Goitre (bruit)
+Learning difficulties/behaviour problems
+Psychosis
+
+Eye signs (uncommon in children)
+Exophthalmos
+Ophthalmoplegia
+Lid retraction
+Lid lag
+
+Figure 25.8 Exophthalmos in Graves disease.
+
+features are similar to those in adults, although eye signs are less common (Box 25.8 and Fig. 25.8). It is most often seen in teenage girls. The levels of thyroxine (T4) and/or tri-iodothyronine (T3) are elevated and TSH levels are suppressed to very low levels. Antithyroid peroxisomal antibodies may also be present which may eventually result in spontaneous resolution of the thyrotoxicosis but subsequently cause hypothyroidism (so-called hashitoxicosis).
+
+The first-line of treatment is medical, with drugs such as carbimazole or propylthiouracil that interfere with thyroid hormone synthesis. Initially, β-blockers can be added for symptomatic relief of anxiety, tremor and tachycardia. There is a risk of neutropenia from anti-thyroid medication and all families should be warned to seek urgent help and a blood count if sore throat and high fever occur on starting treatment. Medical treatment is given for about 2 years, which should control the thyrotoxicosis, but the eye signs may not resolve. When medical treatment is stopped, 40–75% relapse. A second course of drugs may then be given or surgery in the form of subtotal thyroidectomy will usually result in permanent remission. Radioiodine treatment is simple and is no longer considered to result in later neoplasia. Follow-up is always required as thyroxine replacement is often needed for subsequent hypothyroidism.
+
+Neonatal hyperthyroidism may occur in infants of mothers with Graves disease from the transplacental transfer of TSIs. Treatment is required as it is potentially fatal, but it resolves spontaneously with time.
+
+Parathyroid disorders
+
+Parathyroid hormone (PTH) promotes bone formation via bone-forming cells (osteoblasts). However, when calcium levels are low, PTH promotes bone resorption via osteoclasts, increases renal uptake of calcium and activates metabolism of vitamin D to promote gut absorption of calcium. In hypoparathyroidism, which is rare in childhood, in addition to a low serum calcium, there is a raised serum phosphate and a normal alkaline phosphatase. The parathyroid hormone level is very low. Severe hypocalcaemia leads to muscle spasm, fits, stridor and diarrhoea. It is a common problem in premature infants, and increasingly seen as a presentation of severe rickets (see Ch. 12). Other causes are rare in childhood.
+
+Hypoparathyroidism in infants is usually due to a congenital deficiency (DiGeorge syndrome), associated with thymic aplasia, defective immunity, cardiac defects and facial abnormalities. In older children, hypoparathyroidism is usually an autoimmune disorder associated with Addison disease.
+
+In pseudohypoparathyroidism there is end-organ resistance to the action of parathyroid hormone caused by a mutation in a signalling molecule. Serum calcium and phosphate levels are abnormal but the parathyroid hormone levels are normal or high. Other abnormalities are short stature, obesity, subcutaneous nodules, short fourth metacarpals and learning difficulties. There may be teeth enamel hypoplasia and calcification of the basal ganglia. A related state, in which there are the physical characteristics of pseudohypoparathyroidism but the calcium, phosphate and PTH are all normal, is called pseudopseudohypoparathyroidism. There may be a positive family history of both disorders in the same kindred.
+
+Treatment of acute symptomatic hypocalcaemia is with an intravenous infusion of calcium gluconate. The 10% solution of calcium gluconate must be diluted as extravasation of the infusion will result in severe skin damage. Chronic hypocalcaemia is treated with oral calcium and high doses of vitamin D analogues, adjusting the dose to maintain the plasma calcium concentration just below the normal range. Hypercalcuria is to be avoided as it may cause nephrocalcinosis and so the urinary calcium excretion should be monitored.
+
+
+PDF page 5 (printed page 445)
+
+Hyperparathyroidism results in a high calcium level, which in turn produces constipation, anorexia, lethargy and behavioural effects, polyuria and polydipsia. Bony erosions of the phalanges may be seen on a wrist radiograph. In neonates and young children, it is associated with some rare genetic abnormalities (e.g. William syndrome), but in later childhood can be secondary to adenomas occurring spontaneously or as part of the multiple endocrine neoplasia (MEN) syndromes. Severe hypercalcaemia is treated with rehydration, diuretics and bisphosphonates.
+
+Adrenal cortical insufficiency
+
+Congenital adrenal hyperplasia is the commonest non-iatrogenic cause of insufficient cortisol and mineralocorticoid secretion (see Ch. 11).
+
+Primary adrenal cortical insufficiency (Addison disease) is rare in children. It may result from:
+• An autoimmune process, sometimes in association with other autoimmune endocrine disorders, e.g. diabetes mellitus, hypothyroidism, hypoparathyroidism
+• Haemorrhage/infarction – neonatal, meningococcal septicaemia (usually fatal)
+• X-linked adrenoleucodystrophy, a rare neurodegenerative metabolic disorder
+• Tuberculosis, now rare.
+
+Adrenal insufficiency may also be secondary to hypopituitarism from hypothalamic–pituitary disease or from hypothalamic–pituitary–adrenal suppression following long-term corticosteroid therapy.
+
+Box 25.9 Features of adrenal cortical insufficiency
+
+Acute
+Hyponatraemia
+Hyperkalaemia
+Hypoglycaemia
+Dehydration
+Hypotension
+Circulatory collapse
+
+Chronic
+Vomiting
+Lethargy
+Brown pigmentation (gums, scars, skin creases)
+Growth failure
+
+Figure 25.9 Buccal pigmentation in adrenal cortical insufficiency (Addison disease). This 9-year-old boy presented with salt craving and pigmentation. (Courtesy of Dr Steven Robinson.)
+
+Presentation
+
+Infants present acutely (Box 25.9) with a salt-losing crisis, hypotension and/or hypoglycaemia. Dehydration may follow a gastroenteritis-like illness, from which the child recovers until the next episode. In older children, presentation is usually with chronic ill health and pigmentation (Fig. 25.9).
+
+Diagnosis
+
+This is made by finding hyponatraemia and hyperkalaemia, often associated with a metabolic acidosis and hypoglycaemia. The plasma cortisol is low and the plasma ACTH concentration high (except in hypopituitarism). With an ACTH (Synacthen) test, plasma cortisol concentrations remain low in both primary adrenal failure and in long-standing pituitary/hypothalamic Addison disease. A normal response excludes adrenal cortical insufficiency.
+
+Management
+
+An adrenal crisis requires urgent treatment with intravenous saline, glucose and hydrocortisone. Long-term treatment is with glucocorticoid and mineralocorticoid replacement. The dose of glucocorticoid needs to be increased by three times at times of illness or for an operation. Parents are taught how to inject intramuscular hydrocortisone in an emergency. All children at risk of an adrenal crisis should wear a MedicAlert bracelet.
+
+Summary
+
+Adrenal cortical insufficiency
+• Usually due to corticosteroid therapy, congenital adrenal hyperplasia or, rarely, Addison disease
+• May result in an adrenal crisis requiring urgent treatment.
+
+Cushing syndrome
+
+Glucocorticoid excess in children is usually a side-effect of long-term glucocorticoid treatment (intravenous, oral or, more rarely, inhaled, nasal or topical) for conditions such as the nephrotic syndrome, asthma or, in the past, for severe bronchopulmonary dysplasia (Box 25.10 and Fig. 25.10). Corticosteroids are potent growth suppressors and prolonged use in high dosage will lead to reduced adult height and osteopenia. This unwanted side-effect of systemic corticosteroids is markedly reduced by taking corticosteroid medication in the morning on alternate days.
+
+Other causes of glucocorticoid excess are rare. It may be ACTH-driven, from a pituitary adenoma, usually in older children, or from ectopic ACTH-producing tumours, but these almost never occur in children. ACTH-independent disease is usually from corticosteroid therapy, but may be from adrenocortical tumours
+
+
+PDF page 6 (printed page 446)
+
+Box 25.10 Clinical features of Cushing syndrome
+• Growth failure/short stature
+• Face and trunk obesity
+• Red cheeks
+• Hirsutism
+• Striae
+• Hypertension
+• Bruising
+• Carbohydrate intolerance
+• Muscle wasting and weakness
+• Osteopenia
+• Psychological problems.
+
+(benign or malignant), when there may also be virilisation; these usually occur in young children. A diagnosis of Cushing syndrome is often questioned in obese children. Most obese children from dietary excess are of above-average height, in contrast to children with Cushing syndrome, who are short and have growth failure.
+
+If Cushing syndrome is a possibility, then the normal diurnal variation of cortisol (high in the morning, low at midnight) may be shown to be lost – in Cushing syndrome the midnight concentration is also high. The 24-h urine free cortisol is also high. After the administration of dexamethasone, there is failure to suppress the plasma 09.00 h cortisol levels. Adrenal tumours are identified on CT or MRI scan of the abdomen and a pituitary adenoma on MRI brain scan. Adrenal tumours are usually unilateral and are treated by adrenalectomy and radiotherapy if indicated. Pituitary adenomas are best treated by trans-sphenoidal resection, but radiotherapy can be used.
+
+Figure 25.10 Facial obesity from prolonged course of high-dose corticosteroids for bronchopulmonary dysplasia in a preterm infant. Such prolonged courses are no longer used. Additional oxygen therapy is being given via nasal cannulae.
+
+Inborn errors of metabolism
+
+Although individually rare, inborn errors of metabolism are an important cause of paediatric morbidity and mortality. The specialised nature of the diagnostic tests and subsequent management often means that these patients are managed in specialist centres. However, as the prognosis for most patients depends upon the speed of diagnosis, all doctors need to be familiar with their variable presentation and diagnosis. It is often assumed that a precise knowledge of a large number of biochemical pathways is necessary to make a diagnosis, but in fact a more than adequate diagnostic approach can be based on the correct use of only a few screening tests.
+
+Presentation
+
+An inborn error of metabolism may be suspected before birth from a positive family history or previous unexplained deaths in the family.
+
+After birth, inborn errors of metabolism usually, but not invariably, present in one of five ways:
+• As a result of newborn screening, e.g. phenylketonuria (PKU), or family screening, e.g. familial hypercholesterolaemia
+• After a short period of apparent normality, with a severe neonatal illness with poor feeding, vomiting, encephalopathy, acidosis, coma and death, e.g. organic acid or urea cycle disorders
+• As an infant or older child with an illness similar to that described above but with hypoglycaemia as a prominent feature or as an ALTE (acute life-threatening episode) or near-miss ‘cot death’, e.g. a fat oxidation defect such as medium-chain acyl-CoA dehydrogenase deficiency (MCADD)
+• In a subacute way, after a period of normal development, with regression, organomegaly and coarse facies, e.g. mucopolysaccharide disease or other lysosomal storage disorder or with enlargement of the liver and/or spleen alone, with or without accompanying biochemical upset such as hypoglycaemia, e.g. glycogen storage disease
+• As a dysmorphic syndrome.
+
+Newborn screening
+
+The parents of all babies born in the UK are offered a screening test to detect hypothyroidism and phenylketonuria (PKU). The tests are done on a spot of blood from a heel-prick collected onto a filter paper. Although it is technically possible to screen for a much larger group of disorders, this has been resisted in the UK. However, the screening programme has been extended to include cystic fibrosis, haemoglobinopathies and the metabolic disorder MCADD.
+
+Amino acid disorders
+
+Phenylketonuria
+
+This occurs in 1 in 10 000–15 000 live births in the UK. It is either due to a deficiency of the enzyme phenylalanine hydroxylase (classical PKU) or in the
+
+
+PDF page 7 (printed page 447)
+
+synthesis or recycling of the biopterin cofactor for this enzyme. Untreated, it usually presents with developmental delay at 6–12 months of age. There may be a musty odour due to the metabolite phenylacetic acid. Many affected children are fair-haired and blue-eyed and some develop eczema and seizures. Fortunately, most affected children are detected through the national biochemical screening programme (Guthrie test).
+
+Treatment of classical PKU is with restriction of dietary phenylalanine, while ensuring there is sufficient for optimal physical and neurological growth. The blood plasma phenylalanine is monitored regularly. The current recommendation is to maintain the diet throughout life. This is particularly important during pregnancy, when high maternal phenylalanine levels may damage the fetus.
+
+Cofactor defects, which have a much poorer prognosis than classical PKU, are treated with a diet low in phenylalanine and neurotransmitter precursors.
+
+Homocystinuria
+
+This is due to cystathionine synthetase deficiency. Presentation is with developmental delay and eventually subluxation of the ocular lens (ectopia lentis). There is progressive learning difficulty, psychiatric disorders and convulsions. Skeletal manifestations resemble Marfan syndrome. The complexion is usually fair with brittle hair. Thromboembolic episodes may occur at any age. Almost half respond to large doses of the coenzyme pyridoxine. Those who do not respond are treated with a low-methionine diet supplemented with cysteine and with the addition of the re-methylating agent betaine.
+
+Tyrosinaemia
+
+Tyrosinaemia (type 1) is a rare autosomal recessive disorder caused by a deficiency of fumarylacetoacetase. Accumulation of toxic metabolites results in damage to the liver (leading to liver failure) and renal tubules (resulting in Fanconi syndrome). Untreated the disorder is fatal, but effective therapy is now available with a drug called NTBC, which inhibits an enzyme required in the catabolism of tyrosine, together with a diet low in tyrosine and phenylalanine.
+
+Disorders presenting acutely in the neonatal period
+
+This group includes:
+• Disorders of the catabolic pathways of several essential amino acids (the branched-chain amino acids, leucine, isoleucine and valine, and odd-chain amino acids, e.g. threonine) to cause maple syrup urine disease and other organic acid disorders
+• Defects in the urea cycle
+• A disorder of carbohydrate metabolism – classical galactosaemia.
+
+In these disorders, the affected child is normal at birth and after several days develops non-specific signs and symptoms shared with other more common neonatal disorders, such as generalised infection. The most common patterns of illness are:
+• Vomiting, acidosis and circulatory disturbance, followed by depressed consciousness and convulsions – suggestive of one of the organic acidaemias
+• Neurological features of lethargy, refusal to feed, hypotonia, drowsiness, unconsciousness and apnoea – suggestive of primary defects of the urea cycle. Improvement when given intravenous fluids but relapse if milk feeds are restarted is characteristic of classical galactosaemia.
+
+Diagnosis is with a ‘metabolic screen’ in addition to the standard investigations for unwell infants. The ‘metabolic screen’ varies between laboratories and should be discussed with the specialist laboratory before collecting samples. The urgency should also be indicated. Both blood and urine samples are likely to be required. A simple bedside test for ketones can be helpful as heavy ketosis and acidosis in an encephalopathic infant is strongly suggestive of an organic acid disorder. In patients with acidosis, calculation of the anion gap (the sum of serum concentrations of sodium and potassium minus the sum of the concentrations of chloride and bicarbonate) can be helpful. Values >25 mmol/L (normal 12–16 mmol/L) are usually secondary to an organic acidaemia. It is good practice to collect all urine passed by the infant for possible future analysis (or until a diagnosis is established), as well as collecting a sample of blood before any blood transfusion in case the latter interferes with the interpretation of laboratory tests. Both short-term and long-term management depend on the underlying diagnosis. In the immediate emergency situation, removal of toxic metabolites and limitation of catabolism have the highest priority. Transfer to a neonatal intensive care unit, mechanical ventilation and haemodialysis are often required. Long-term management involves skilled dietetic support as well as the use of specific medications depending on the underlying diagnosis.
+
+Disorders of carbohydrate metabolism
+
+Galactosaemia
+
+This rare, recessively inherited disorder results from deficiency of the enzyme galactose-1-phosphate uridyltransferase, which is essential for galactose metabolism. When lactose-containing milk feeds such as breast or infant formula are introduced, affected infants feed poorly, vomit and develop jaundice and hepatomegaly and hepatic failure (see Ch. 20). Chronic liver disease, cataracts and developmental delay are inevitable if the condition is untreated. Management is with a lactose- and galactose-free diet for life. Even if treated early, there are usually moderate learning difficulties (adult IQ 60–80).
+
+Glycogen storage disorders
+
+These mostly recessively inherited disorders have specific enzyme defects which prevent mobilisation of glucose from glycogen, resulting in an abnormal
+
+
+PDF page 8 (printed page 448)
+
+Table 25.2 Some of the glycogen storage disorders
+
+Type I (von Gierke)
+Enzyme defect: Glucose-6-phosphatase
+Onset: Infant
+Liver: +++
+Muscle: –
+Comments: See Figure 25.11; enlarged liver and kidneys; growth failure. Hypoglycaemia; good prognosis
+
+Type II (Pompe)
+Enzyme defect: Lysosomal α-glucosidase
+Onset: Infant
+Liver: ++
+Muscle: +++
+Comments: Hypotonia and cardiomegaly at several months. Enzyme replacement therapy (Myozyme). Death from heart failure
+
+Type III (Cori)
+Enzyme defect: Amylo-1,6-glucosidase
+Onset: Infant
+Liver: ++
+Muscle: +
+Comments: Milder features of type I, but muscles may be affected; good prognosis
+
+Type V (McArdle)
+Enzyme defect: Phosphorylase
+Onset: Child
+Liver: –
+Muscle: ++
+Comments: Temporary weakness and cramps muscles after exercise; myoglobinuria in later life
+
+Figure 25.11 Type I glycogen storage disease in a 12-year-old girl. There is truncal obesity with a distended abdomen from an enlarged liver; short stature and hypotrophic muscles; ‘doll’ facies; nasogastric feeding to maintain blood glucose levels overnight.
+
+storage of glycogen in liver and/or muscle. There are nine main enzyme defects, some of which are shown in Table 25.2. The disorder may predominantly affect muscle (e.g. types II, V), leading to skeletal muscle weakness. In type II (Pompe disease) there is generalised intralysosomal storage of glycogen. The heart is severely affected, leading to death from cardiomyopathy. In other types (e.g. I, III) the liver is the main organ of storage, and hepatomegaly and hypoglycaemia are prominent (Fig. 25.11). Long-term complications of type I include hyperlipidaemia, hyperuricaemia, the development of hepatic adenomas and cardiovascular disease.
+
+Management is to maintain blood glucose by frequent feeds or by carbohydrate infusion via a gastrostomy or nasogastric tube in infancy. In older children, glucose levels can be maintained using slow-release oligosaccharides (corn starch). In type II (Pompe disease), treatment with enzyme replacement therapy (Myozyme) is now available. In type III disorder, a high-protein diet is recommended to prevent growth retardation and myopathy.
+
+Hyperlipidaemia
+
+Hyperlipidaemia is one of the main risk factors for coronary heart disease. Identification and treatment of hyperlipidaemia in childhood may delay the onset of cardiovascular disease in later life.
+
+Children should be screened for hyperlipidaemia if they are at increased risk – if a parent or grandparent has a history of coronary heart disease before 55 years of age or if there is a family history of a lipid disorder. At present, screening all children is not thought justifiable in view of the many uncertainties about selecting who should be treated, what treatment should be given and its effect on outcome.
+
+If the serum cholesterol is high (>5.3 mmol/L) on random testing, fasting serum cholesterol, triglyceride and low-density lipoprotein (LDL) and high-density lipoprotein (HDL) cholesterol are measured. Secondary
+
+
+PDF page 9 (printed page 449)
+
+causes of hypercholesterolaemia should be considered, such as obesity, hypothyroidism, diabetes mellitus, nephrotic syndrome and obstructive jaundice.
+
+Familial hypercholesterolaemia (FH)
+
+This autosomal dominant disorder of lipoprotein metabolism is due to a defect in the LDL receptor. About 1 in 500 of the population are affected. The serum LDL cholesterol concentration is markedly raised (>3.3 mmol/L). The condition is associated with premature coronary heart disease, which occurs in half by 50 years of age in males and by 60 years in females. Skin and tendon xanthomata (Fig. 25.12) may be present, but are uncommon in childhood. Drug therapy is considered in children aged 10 years and older and depends on how high the LDL cholesterol concentration is raised, if there is a family history of premature coronary heart disease (<55 years of age), if there is evidence of tissue lipid deposition (xanthomata or bruits) and other non-lipid risk factors, e.g. diabetes. The main drugs used are the non-systemically acting bile acid sequestrants and more recently the HMG-CoA reductase inhibitors, the statins. Although bile acid sequestrants are moderately effective, compliance remains a major problem with them. Statins have been shown to be effective in children, without adverse effects on growth, maturation or endocrine function. The fibrate drug fenofibrate has also been shown to reduce LDL cholesterol and to be well tolerated by children and adolescents.
+
+Figure 25.12 Severe skin xanthomata. In this child, it was secondary to liver failure and resolved within weeks of liver transplantation.
+
+Homozygous disease is very rare and much more severe, causing xanthomata in childhood and clinical cardiovascular disease in the second decade. Affected children require referral to a specialist centre. Response to drugs is variable, depending on the gene mutation. Liver transplantation has been tried.
+
+Further reading
+
+Brook C, Clayton P, Brown R: Brook’s Paediatric Endocrinology, ed 8, Oxford, 2009, Blackwell.
+
+Sperling M: Pediatric Endocrinology, ed 3, Amsterdam, 2008, Elsevier.
+
+Websites (Accessed April 2011)
+
+International Society for Pediatric and Adolescent Diabetes: Available at http://www.ispad.org.
+
+European Society for Paediatric Endocrinology: Available at http://www.eurospe.org.
+
+Endotext.com Endocrine Source: Available at http://www.endotext.org/pediatrics/index.htm. Articles on endocrinology.
+
+449
+
+
+PDF page 10
+
+This page intentionally left blank
