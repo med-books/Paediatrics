@@ -1,0 +1,543 @@
+PDF PAGE 1 — BOOK PAGE 371
+
+Treatment schema for standard-risk acute lymphoblastic leukaemia
+
+Induction
+Vincristine
+Steroid (dexamethasone)
+L-Asparaginase
+Intrathecal (IT) methotrexate
+
+Interim and continuing maintenance therapy
+Monthly vincristine and pulsed (5 days) steroid (dexamethasone)
+Daily 6-mercaptopurine
+Weekly oral methotrexate
+Prophylactic co-trimoxazole is given throughout treatment (after induction) to prevent Pneumocystis carinii pneumonia
+IT methotrexate
+
+Consolidation & CNS protection
+IT methotrexate
+Vincristine
+Steroid
+Thiopurine
+
+Delayed intensification
+Vincristine
+Dexamethasone
+Doxorubicin
+L-Asparaginase
+IT methotrexate
+Cyclophosphamide
+Cytarabine
+
+Treatment timeline:
+Diagnosis → Induction → Consolidation and CNS protection → Interim maintenance (1) → Delayed intensification (1) → Continuing maintenance
+Weeks of treatment: Diagnosis, 5, 8, 16, 23, 31, 38
+Maintenance treatment continues from week 23 for a further 2 years in girls and 3 years in boys.
+
+Figure 21.7 Treatment schema for standard-risk acute lymphoblastic leukaemia.
+
+Rathke pouch. It is not truly malignant but is locally invasive and grows slowly in the suprasellar region.
+
+Clinical features
+
+Signs and symptoms are often related to evidence of raised intracranial pressure but focal neurological signs may be detected depending on the site of the tumour (see below). Spinal tumours, primary or metastatic, can present with back pain, peripheral weakness of arms or legs or bladder/bowel dysfunction, depending on the level of the lesion.
+
+Persistent back pain in children warrants investigation with MRI scan.
+
+Investigations
+
+Brain tumours are best characterised on MRI scan. Magnetic resonance spectroscopy can be used to examine the biological activity of a tumour. Lumbar puncture must not be performed without neurosurgical advice if there is any suspicion of raised intracranial pressure.
+
+Management
+
+Surgery is usually the first treatment and is aimed at treating hydrocephalus, providing a tissue diagnosis and attempting maximum resection. In some cases the anatomical position of the tumour means biopsy is not safe, e.g. tumours in the brainstem. Even tumours which are histologically ‘benign’ can cause major challenges to survival. The use of radiotherapy and/or chemotherapy varies with tumour type and the age of the patient.
+
+Late effects
+
+The functional implications of the site of the tumour, the potential hazards of surgery and the importance of radiotherapy in treatment all combine to place children with brain tumours at particular risk of neurological disability and of growth, endocrine, neuropsychological and educational problems. Survivors may present complex combinations of these problems.
+
+Lymphomas
+
+Lymphomas are malignancies of the cells of the immune system and can be divided into Hodgkin and non-Hodgkin lymphoma (NHL). NHL is more common in childhood, while Hodgkin lymphoma is seen more frequently in adolescence.
+
+Hodgkin lymphoma
+
+Clinical features
+
+Classically presents with painless lymphadenopathy, most frequently in the neck. Lymph nodes are much larger and firmer than the benign lymphadenopathy
+
+
+PDF PAGE 2 — BOOK PAGE 372
+
+Brain tumours – clinical features
+
+(a) Location of brain tumours
+
+Supratentorial:
+• Cortex – astrocytoma
+
+Midline:
+• Craniopharyngioma
+
+Infratentorial:
+• Cerebellar – medulloblastoma, astrocytoma, ependymoma
+• Brainstem – brainstem glioma
+
+Spinal cord:
+• Astrocytoma, ependymoma
+
+Raised intracranial pressure
+
+Children and adolescents
+Headache – worse in the morning
+Vomiting – especially on waking in the morning
+Behaviour/personality change
+Visual disturbance
+Papilloedema
+
+Infants
+Vomiting
+Separation of sutures/tense fontanelle
+Increased head circumference
+Head tilt/posturing
+Developmental delay/regression
+
+Headaches and behaviour changes – is there raised intracranial pressure?
+
+Site of tumour and clinical features specific to anatomical position — MRI scans — Typical case history
+
+Supratentorial – cortex
+Seizures
+Hemiplegia
+Focal neurological signs
+
+14 year old. Aggressive behaviour at school, headaches, seizure.
+MRI scan – (Fig 21.8b)
+Diagnosis – astrocytoma – glioblastoma multiforme
+Management – surgery, radiotherapy +/- chemotherapy, but prognosis poor (<30% survival)
+Astrocytomas – commonly found in the cerebral hemispheres, thalamus and hypothalamus. For posterior fossa tumours, see below.
+
+Midline
+Visual field loss – bitemporal hemianopia
+Pituitary failure – growth failure, diabetes insipidus, weight gain
+
+10 year old complaining of headaches, vomiting, poor growth, struggling to see the board at school.
+MRI scan – (Fig 21.8c)
+Diagnosis – craniopharyngioma
+Management – surgical excision +/- radiotherapy
+Prognosis – good survival but risk of long-term visual impairment and lifelong, complex pituitary insufficiency
+
+Cerebellar and IVth ventricle
+Truncal ataxia
+Coordination difficulties
+Abnormal eye movements
+
+3 year old vomiting in the mornings, unsteady on his feet, new-onset convergent squint.
+MRI scan – (Fig 21.8d)
+Diagnosis – medulloblastoma
+Management – surgery, chemotherapy, radiotherapy.
+Prognosis – survival rates are improving with 5-year survival about 50%
+Other posterior fossa tumours:
+Astrocytoma – cystic, slow growing. Good prognosis following surgery.
+Ependymoma – behaves like medulloblastoma
+
+Brainstem
+Cranial nerve defects
+Pyramidal tract signs
+Cerebellar signs – ataxia
+Often no raised intracranial pressure
+
+4 year old. Refuses to walk, unable to climb stairs, squint, facial asymmetry and drooling.
+MRI scan – (Fig 21.8e)
+Diagnosis – brainstem glioma. But not for biopsy as too hazardous.
+Management – palliative radiotherapy
+Prognosis – very poor (<10% survival)
+
+Figure 21.8 Location and clinical features of brain tumours. (a) Location of brain tumours. MRI scans showing (b) fronto-parietal mass, (c) large midline suprasellar mass, (d) cerebellar mass and (e) brainstem mass.
+
+
+PDF PAGE 3 — BOOK PAGE 373
+
+Figure 21.9 PET scan showing active disease in the right cervical and axillary nodes by uptake of FDG (an analogue of glucose).
+
+Case History
+
+21.2 Pressure from a mass on local structures or tissue, e.g. airway obstruction secondary to enlarged lymph nodes
+
+A 14-year-old girl complained of a cough for 2 weeks which was non-productive and worse at night. She had seen her general practitioner and her chest was clear. She returned 2 weeks later, as she had noticed a swelling in her neck. On examination, she had a large anterior cervical lymph node which was non-tender. On referral to hospital, she had a chest X-ray, which showed a large mediastinal mass (Fig. 21.10).
+
+Differential diagnosis
+• T-cell non-Hodgkin lymphoma/acute lymphatic leukaemia
+• Hodgkin lymphoma
+
+Her full blood count was normal. A biopsy of the mass was consistent with a diagnosis of Hodgkin lymphoma.
+
+Diagnosis: Hodgkin lymphoma.
+
+commonly seen in young children. The lymph nodes may cause airways obstruction (see Case History 21.2). The clinical history is often long (several months) and systemic symptoms (sweating, pruritus, weight loss and fever – the so-called ‘B’ symptoms) are uncommon, even in more advanced disease.
+
+Investigations
+
+Lymph node biopsy, radiological assessment of all nodal sites and bone marrow biopsy is used to stage disease and determine treatment.
+
+Management
+
+Combination chemotherapy with or without radiotherapy. Positron emission tomography (PET) scanning is used in the UK to monitor treatment response and guide further management (Figure 21.9).
+
+Overall, about 80% of all patients can be cured. Even with disseminated disease, about 60% can be cured.
+
+Figure 21.10 Chest X-ray showing a large mediastinal mass.
+
+Non-Hodgkin lymphoma
+
+T-cell malignancies may present as acute lymphoblastic leukaemia or non-Hodgkin lymphoma, with both being characterised by a mediastinal mass with varying degrees of bone marrow infiltration. The mediastinal mass may cause superior vena caval obstruction. B-cell malignancies present more commonly as non-Hodgkin lymphoma, with localised lymph node disease usually in the head and neck or abdomen. Abdominal disease presents with pain from intestinal obstruction, a palpable mass or even intussusception in cases with involvement of the ileum.
+
+Investigations
+
+Biopsy, radiological assessment of all nodal sites (CT or MRI) and examination of the bone marrow and CSF.
+
+Management
+
+Multi-agent chemotherapy. The majority of patients now do well and survival rates of over 80% are expected for both T- and B-cell disease.
+
+Neuroblastoma
+
+Neuroblastoma and related tumours arise from neural crest tissue in the adrenal medulla and sympathetic nervous system. It is a biologically unusual tumour in that spontaneous regression sometimes occurs in very young infants. There is a spectrum of disease from the benign (ganglioneuroma) to the highly malignant (neuroblastoma). Neuroblastoma is most common before the age of 5 years.
+
+
+PDF PAGE 4 — BOOK PAGE 374
+
+Clinical features
+
+At presentation (Box 21.1), most children have an abdominal mass, but the primary tumour can lie anywhere along the sympathetic chain from the neck to the pelvis. Classically, the abdominal primary is of adrenal origin, but at presentation the tumour mass is often large and complex, crossing the midline and enveloping major blood vessels and lymph nodes. Paravertebral tumours may invade through the adjacent intervertebral foramen and cause spinal cord compression. Over the age of 2 years, clinical symptoms are mostly from metastatic disease, particularly bone pain, bone marrow suppression causing weight loss and malaise (see Case History 21.3).
+
+Box 21.1 Presentation of neuroblastoma
+
+Common
+Pallor
+Weight loss
+Abdominal mass
+Hepatomegaly
+Bone pain
+Limp
+
+Less common
+Paraplegia
+Cervical lymphadenopathy
+Proptosis
+Periorbital bruising
+Skin nodules
+
+Case History
+
+21.3 Neuroblastoma
+
+Jack, a 3-year-old boy, was taken to his general practitioner by his mother because he was not eating as well as usual and had a distended abdomen. Recently, he appeared reluctant to walk and sometimes cried when he was picked up. His grandmother thought he had lost weight. On examination, the general practitioner confirmed that he seemed generally miserable and pale. He was concerned to note a large abdominal mass. Urgent referral to his local hospital was made and, on arrival, he was also noted to be hypertensive.
+
+Differential diagnosis and specific investigations
+
+An initial ultrasound examination confirmed the abdominal mass and an MRI scan characterised a very large upper abdominal mass in complex relationship with the left kidney and the major vessels but extending towards the midline, suggestive of neuroblastoma (Fig. 21.11). Subsequent investigations confirmed bone marrow infiltration by tumour cells and a positive MIBG scan showing uptake at the primary and distant sites consistent with metastatic disease (Fig 21.12).
+
+Diagnosis: Metastatic neuroblastoma.
+
+Figure 21.11 Transverse MRI image showing a large left-sided primary neuroblastoma arising from the adrenal region and distorting coeliac and mesenteric blood vessels.
+
+Diagram labels:
+Spleen
+Tumour
+Upper pole of left kidney
+Aorta and coeliac vessels
+
+Figure 21.12 The MIBG scan ‘maps’ metastatic tumour marrow. This image shows the lower half of the abdomen, pelvis and legs. The dark areas are evidence of high isotope uptake and the pattern is consistent with widespread metastatic disease. (Normal uptake from excretion of isotope into urine in the bladder has been blocked in this exposure.)
+
+
+PDF PAGE 5 — BOOK PAGE 375
+
+Investigations
+
+Characteristic clinical and radiological features with raised urinary catecholamine levels suggest neuroblastoma. Confirmatory biopsy is usually obtained and evidence of metastatic disease detected with bone marrow sampling, MIBG (metaiodobenzylguanidine) scan (as in Fig. 21.12) with or without a bone scan.
+
+Age and stage of disease at diagnosis are the major factors which influence prognosis. Unfortunately, the majority of children over 1 year present with advanced disease and have a poor prognosis. Increasingly, information about the biological characteristics of neuroblastoma is being used to guide therapy and prognosis. Overexpression of the N-myc oncogene, evidence of deletion of material on chromosome 1 (del 1p) and gain of genetic material on chromosome 17q in tumour cells are all associated with a poorer prognosis.
+
+Management
+
+Localised primaries without metastatic disease can often be cured with surgery alone.
+
+Metastatic disease is treated with chemotherapy, including high-dose therapy with autologous stem cell rescue, surgery and radiotherapy. Risk of relapse is high and the prospect of cure for children with metastatic disease is still little better than 30%. Immunotherapy and the use of long-term ‘maintenance’ treatment with differentiating agents (retinoic acid) are now establishing a role in those with high-risk disease.
+
+Wilms tumour (nephroblastoma)
+
+Wilms tumour originates from embryonal renal tissue and is the commonest renal tumour of childhood. Over 80% of patients present before 5 years of age and it is very rarely seen after 10 years of age.
+
+Clinical features
+
+Most children present with a large abdominal mass, often found incidentally in an otherwise well child. Other clinical features are listed in Box 21.2.
+
+Investigations
+
+Ultrasound and/or CT/MRI (Fig. 21.13) is usually characteristic, showing an intrinsic renal mass distorting the normal structure. Staging is to assess for distant metastases (usually in the lung), initial tumour resectability and function of the contralateral kidney.
+
+Management
+
+In the UK, children receive initial chemotherapy followed by delayed nephrectomy, after which the tumour is staged histologically and subsequent treatment is planned according to the surgical and pathological findings. Radiotherapy is restricted to those with more advanced disease.
+
+Prognosis is good, with more than 80% of all patients cured. Cure rate for patients with metastatic disease at presentation (~15%) is over 60%, but relapse carries a poor prognosis.
+
+Soft tissue sarcomas
+
+Rhabdomyosarcoma is the most common form of soft tissue sarcoma in childhood. The tumour is thought to originate from primitive mesenchymal tissue and there are a wide variety of primary sites, resulting in varying presentations and prognosis.
+
+Box 21.2 Presentation of Wilms tumour
+
+Common
+Abdominal mass
+
+Uncommon
+Abdominal pain
+Anorexia
+Anaemia (haemorrhage into mass)
+Haematuria
+Hypertension
+
+About 5% have bilateral disease at diagnosis.
+
+Figure 21.13 Large Wilms tumour arising within the left kidney, showing characteristic cystic and solid tissue densities.
+
+Diagram labels:
+Wilms tumour
+Large tumour, showing the characteristic mixed tissue densities (cystic and solid). It arises within the kidney and envelops a remnant of normal renal tissue.
+Remnant of left kidney
+Liver
+Normal kidney
+
+
+PDF PAGE 6 — BOOK PAGE 376
+
+Figure 21.14 Rhabdomyosarcoma. (a) Soft tissue mass of lower limb. The scar is from a biopsy. (b) MRI scan of a child presenting with proptosis of the right eye. It shows a right periorbital soft tissue mass displacing the globe and compressing other orbital structures. Histology confirmed the diagnosis of rhabdomyosarcoma.
+
+Clinical features
+
+Head and neck are the most common sites of disease (40%), causing, e.g. proptosis, nasal obstruction or bloodstained nasal discharge.
+
+Genitourinary tumours may involve the bladder, paratesticular structures or the female genitourinary tract. Symptoms include dysuria and urinary obstruction, scrotal mass or bloodstained vaginal discharge.
+
+Metastatic disease (lung, liver, bone or bone marrow) is present in approximately 15% of patients at diagnosis and is associated with a particularly poor prognosis.
+
+Investigations
+
+Biopsy and full radiological assessment of primary disease and any evidence of metastasis (Fig. 21.14).
+
+Management
+
+Multimodality treatment (chemotherapy, surgery and radiotherapy) is used, dependent on the age of the patient and the site, size and extent of disease. The tumour margins are deceptively ill-defined, and attempts at primary surgical excision are often unsuccessful and are not attempted unless this can be achieved without mutilation or irreversible organ damage. Overall cure rates are about 65%.
+
+Bone tumours
+
+Malignant bone tumours are uncommon before puberty. Osteogenic sarcoma is more common than Ewing sarcoma, but Ewing sarcoma is seen more often in younger children. Both have a male predominance.
+
+Clinical features
+
+The limbs are the most common site. Persistent localised bone pain is the characteristic symptom, usually preceding the detection of a mass, and is an indication for early X-ray. At diagnosis, most patients are otherwise well.
+
+Investigations
+
+Plain X-ray is followed by MRI and bone scan (Fig. 21.15a–c). A bone X-ray shows destruction and variable periosteal new bone formation. In Ewing sarcoma, there is often a substantial soft tissue mass. Chest CT is used to assess for lung metastases and bone marrow sampling to exclude marrow involvement.
+
+Figure 21.15 Ewing sarcoma of the humerus. (a) Plain X-ray shows a destructive bone lesion within the proximal humeral metaphysis. (b) MRI shows a large destructive soft tissue mass arising from the proximal metadiaphysis of the left humerus. (c) Bone scan shows prominent abnormal tracer uptake in the proximal left humerus. (d) Post-surgery, most of the humerus has been resected and replaced by a metallic prosthesis.
+
+
+PDF PAGE 7 — BOOK PAGE 377
+
+Management
+
+In both tumours, treatment involves the use of combination chemotherapy given before surgery. Whenever possible, amputation is avoided by using en bloc resection of tumours with endoprosthetic resection (Fig. 21.15d). In Ewing sarcoma, radiotherapy is also used in the management of local disease, especially when surgical resection is impossible or incomplete, e.g. in the pelvis or axial skeleton.
+
+Retinoblastoma
+
+Retinoblastoma is a malignant tumour of retinal cells and, although rare, it accounts for about 5% of severe visual impairment in children. It may affect one or both eyes. All bilateral tumours are hereditary, as are about 20% of unilateral cases. The retinoblastoma susceptibility gene is on chromosome 13, and the pattern of inheritance is dominant, but with incomplete penetrance. Most cases present within the first 3 years of life. Children from families with the hereditary form of the disease should be screened regularly from birth.
+
+Clinical features
+
+The most common presentation of unsuspected disease is when a white pupillary reflex is noted to replace the normal red one (Fig. 21.16) or with a squint.
+
+Investigations
+
+MRI and examination under anaesthetic. Tumours are frequently multifocal.
+
+Treatment
+
+The aim is to cure, yet preserve vision. Biopsy is not undertaken and treatment is based on the ophthalmological findings. Enucleation of the eye may be necessary for more advanced disease. Chemotherapy is used, particularly in bilateral disease, to shrink the tumour(s), followed by local laser treatment to the retina. Radiotherapy may be used in advanced disease, but it is more often reserved for the treatment of recurrence. Most patients are cured, although many are visually impaired. There is a significant risk of second malignancy (especially sarcoma) among survivors of hereditary retinoblastoma.
+
+Figure 21.16 White pupillary reflex in retinoblastoma.
+
+Rare tumours
+
+Liver tumours
+
+Primary malignant liver tumours are mostly hepatoblastoma (65%) or hepatocellular carcinoma (25%). Presentation is usually with abdominal distension or with a mass. Pain and jaundice are rare. Elevated serum α-fetoprotein (αFP) is detected in nearly all cases of hepatoblastoma and in some cases of hepatocellular carcinoma. Management includes chemotherapy, surgery and, in inoperable cases, liver transplantation is required. The majority of children with hepatoblastoma can now be cured, but the prognosis for children with hepatocellular carcinoma is less satisfactory.
+
+Germ cell tumours
+
+Germ cell tumours (GCTs) may be benign or malignant. They arise from the primitive germ cells which migrate from yolk sac endoderm to form gonads in the embryo. Benign tumours are most common in the sacrococcygeal region, and most malignant germ cell tumours are found in the gonads. Serum markers (αFP and β-HCG) are invaluable in confirming the diagnosis and in monitoring response to treatment. Malignant germ cell tumours are very sensitive to chemotherapy, and a very good outcome can be expected for disease at most sites, including the brain.
+
+Langerhans cell histiocytosis
+
+Langerhans cell histiocytosis (LCH) is a rare disorder characterised by an abnormal proliferation of histiocytes. It is no longer believed to be a truly malignant condition and is classified as a disorder of dendritic (antigen presenting) cells. However, its sometimes aggressive behaviour and its response to chemotherapy place it within the practice of oncologists. Clinically, its manifestations include:
+• Bone lesions – present at any age with pain, swelling or even fracture. X-ray reveals a characteristic lytic lesion with a well-defined border, often involving the skull (Fig. 21.17).
+
+Figure 21.17 Lytic bone lesions on a skull X-ray in Langerhans cell histiocytosis.
+
+
+PDF PAGE 8 — BOOK PAGE 378
+
+• Diabetes insipidus – may be associated with skull disease with proptosis and hypothalamic infiltration
+• Systemic LCH – the most aggressive form which tends to present in infancy with a seborrhoeic rash (Fig. 21.18) and soft tissue involvement of the gums, ears, lungs, liver, spleen, lymph nodes and bone marrow. This form of LCH is usually progressive and requires chemotherapy, although spontaneous regression may occur.
+
+The prognosis is variable, but most patients are cured.
+
+Long-term survivors
+
+Improved survival rates means an ever-increasing population of adult survivors of childhood cancer. Over half have at least one residual problem as a consequence of either the disease or its treatment (Table 21.2).
+
+All survivors need regular long-term follow-up to provide appropriate treatment or advice. This need for specialist multidisciplinary follow-up continues into adulthood, and its provision presents a challenge within adult healthcare services. Until recently, the majority of survivors have remained under the care of paediatric oncologists, although specialist adult clinics are being established. Some survivors will require specific counselling for problems such as poor or asymmetric growth, infertility and sexual dysfunction, and advances in the use of adult growth hormone. Assisted conception techniques have enhanced the lives of many patients. The risk of second cancer is small, but nevertheless survivors are at increased risk and this may rise with increasing survival rates. When new treatment protocols for childhood cancers are developed, there is a need to reduce, whenever possible, the toxicity of treatment to spare the children adverse short- and long-term effects.
+
+Figure 21.18 Rash in systemic Langerhans cell histiocytosis. It is often mistaken for seborrhoeic dermatitis or eczema.
+
+Palliative care
+
+When a child relapses, further treatment may be considered. A reasonable number can still be cured and others may have a further significant remission with good-quality life. However, for some children, a time comes when death is inevitable and the staff and family must make the decision to concentrate on palliative care.
+
+Most parents prefer to care for their terminally ill child at home, but will need practical help and emotional support. Pain control and symptom relief are a serious source of anxiety for parents, but they can often be achieved successfully at home. Health professionals with experience in palliative care for children work together with the family and local healthcare workers. After the child’s death, families should be offered continuing contact with an appropriate member of the team who looked after their child, and be given support through their bereavement.
+
+With adequate support from health professionals, palliative care for children can usually be provided at home.
+
+Table 21.2 Some problems that may occur following cure of childhood cancer
+
+Problem — Cause
+
+Specific organ dysfunction
+• Nephrectomy for Wilms tumour
+• Toxicity from chemotherapy, e.g. renal from cisplatin or ifosfamide, cardiac from doxorubicin or mediastinal radiotherapy
+
+Growth/endocrine problems
+• Growth hormone deficiency from pituitary irradiation
+• Bone growth retardation at sites of irradiation
+
+Infertility
+• Gonadal irradiation
+• Alkylating agent chemotherapy (cyclophosphamide, ifosfamide)
+
+Neuropsychological problems
+• Cranial irradiation (particularly at age <5 years)
+• Brain surgery
+
+Second malignancy
+• Irradiation
+• Alkylating agent chemotherapy
+
+Social/educational disadvantage
+• Chronic ill health
+• Absence from school
+
+
+PDF PAGE 9 — BOOK PAGE 379
+
+Summary
+
+Presentation of malignant disease in children
+
+Brain tumours:
+• Raised intracranial pressure
+• Neurological signs – depends on anatomical position
+
+Retinoblastoma:
+• Screening if positive family history
+• White pupillary reflex or squint
+
+Lymphomas:
+• Enlarged lymph nodes in the head and neck or abdomen
+• Mediastinal mass – may cause superior vena caval obstruction.
+
+Wilms tumour:
+• Large abdominal mass in a well child
+• Occasionally anorexia, abdominal pain, haematuria
+
+Langerhans cell histiocytosis:
+• Seborrhoeic rash
+• Widespread soft tissue infiltration
+• Bone pain, swelling or fracture
+• Diabetes insipidus
+
+Soft tissue sarcomas:
+• Mass any site
+
+Neuroblastoma:
+• Abdominal mass, crosses the midline
+• Spinal cord compression
+• Weight loss and malaise
+• Pallor, bruising
+• Bone pain
+
+Acute lymphoblastic leukaemia (ALL):
+• Malaise, anorexia
+• Pallor, lethargy
+• Infections
+• Bruising, petechiae, nose bleeds
+• Lymphadenopathy
+• Hepatosplenomegaly
+• Bone pain
+
+Malignant bone tumours:
+• Localised bone pain
+
+Age-related presentation
+
+Pre-school (<5 years old)
+Acute lymphoblastic leukaemia (ALL) – peak incidence
+Non-Hodgkin lymphoma
+Neuroblastoma
+Wilms tumour
+Retinoblastoma
+
+School-aged
+Acute lymphoblastic leukaemia (ALL)
+Brain tumours
+
+Adolescence
+Acute lymphoblastic leukaemia (ALL)
+Hodgkin lymphoma
+Malignant bone tumours
+Soft tissue sarcomas
+
+Further reading
+
+Bailey S, Skinner R, editors: 2009 Paediatric Haematology and Oncology. Oxford Specialist Handbooks in Paediatrics. Oxford University Press, Oxford.
+Short textbook
+
+Carroll WL, Finlay JL, editors: Cancer in Children and Adolescents, Sudbury, MA, 2009, Jones and Bartlett Publishers.
+Comprehensive textbook
+
+Pizzo PA, Poplack DG, editors: Principles and Practice of Pediatric Oncology, ed 6, Lippincott, 2010, Williams and Wilkins.
+Comprehensive textbook
+
+Stevens MCG, Caron HN, Biondi A, editors: Cancer in Children: Clinical Management, ed 6, Oxford, 2011, Oxford University Press.
+Short textbook
+
+Stiller C, editor: 2007 Childhood Cancer in Britain: Incidence, Survival, Mortality, Oxford, 2007, Oxford University Press.
+
+Malignant disease
+
+
+PDF PAGE 10 — BOOK PAGE 380
+
+Websites (Accessed May 2011)
+
+CCLG (Children Cancer and Leukaemia Group):
+Available at: http://www.cclg.org.uk/index.php
+Association of healthcare professionals involved in the treatment and care of children and younger teenagers with cancer, underpins all the activity in paediatric oncology in the UK.
+
+Cure4Kids. Available at: http://www.cure4kids.org
+Dedicated to improving healthcare for children with cancer and other catastrophic diseases around the globe. Provides continuing medical education and communication tools to healthcare professionals and scientists worldwide.
+
+Malignant disease

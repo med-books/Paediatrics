@@ -1,0 +1,237 @@
+PDF PAGE 1 — BOOK PAGE 361
+
+Many of these patients would have presented with a Reye-like syndrome later in life.
+
+Chronic liver disease
+
+The causes of chronic liver disease are given in Box 20.2. The clinical presentation varies from an apparent acute hepatitis to the insidious development of hepatosplenomegaly, cirrhosis and portal hypertension with lethargy and malnutrition. The commonest causes of chronic hepatitis are hepatitis viruses (B or C) and autoimmune hepatitis, but Wilson disease should always be excluded. Histology may demonstrate varying degrees of hepatitis, with an inflammatory infiltrate in the portal tracts that spreads into the liver lobules.
+
+Autoimmune hepatitis
+
+The mean age of presentation is 7–10 years. It is more common in girls. It may present as an acute hepatitis, as fulminant hepatic failure or chronic liver disease with autoimmune features such as skin rash, lupus erythematosus, arthritis, haemolytic anaemia or nephritis. Diagnosis is based on elevated total protein, hypergammaglobulinaemia (IgG > 20 g/L); positive autoantibodies, a low serum complement (C4); and typical histology. Autoimmune hepatitis may occur in isolation or in association with inflammatory bowel disease, coeliac disease or other autoimmune diseases. Some 90% of children will respond to prednisolone and azathioprine.
+
+Cystic fibrosis
+
+Liver disease is the second commonest cause of death after respiratory disease in cystic fibrosis. The most common liver abnormality is hepatic steatosis (fatty liver). It may be associated with protein energy malnutrition or micronutrient deficiencies. Steatosis does not generally progress and treatment involves ensuring optimal nutritional support. More significant liver disease arises from thick tenacious bile with abnormal bile acid concentration leading to progressive biliary fibrosis. Cirrhosis and portal hypertension develop in 20% of children by mid-adolescence. Early liver disease is difficult to detect by biochemistry, ultrasound or radioisotope scanning. Liver histology includes fatty liver, focal biliary fibrosis or focal nodular cirrhosis. Therapy includes standard supportive and nutritional therapy and treatment with ursodeoxycholic acid. Liver transplantation may be considered for those with end-stage liver disease, either alone or in combination with a heart–lung transplant.
+
+Wilson disease
+
+Wilson disease is an autosomal recessive disorder with an incidence of 1 in 200 000. Many mutations have now been identified (on chromosome 13). The basic genetic defect is a combination of reduced synthesis of caeruloplasmin (the copper-binding protein) and defective excretion of copper in the bile, which leads to an accumulation of copper in the liver, brain, kidney and cornea. Wilson disease rarely presents in children under the age of 3 years. In those presenting in childhood, a hepatic presentation is more likely. They may present with almost any form of liver disease, including acute hepatitis, fulminant hepatitis, cirrhosis and portal hypertension. Neuropsychiatric features are more common in those presenting from the second decade onwards and include deterioration in school performance, mood and behaviour change, and extrapyramidal signs such as incoordination, tremor and dysarthria. Renal tubular dysfunction, with vitamin D-resistant rickets, and haemolytic anaemia also occur. Copper accumulation in the cornea (Kayser–Fleischer rings) (Fig. 20.8) is not seen before 7 years of age.
+
+Diagnosis can be problematic. A low serum caeruloplasmin and copper is characteristic, but not universal. Urinary copper excretion is increased and this further increases after administering the chelating agent penicillamine. However, the diagnosis is confirmed by the finding of elevated hepatic copper on liver biopsy or identification of the gene mutation.
+
+Treatment is with penicillamine or trientine. Both promote urinary copper excretion, reducing hepatic and central nervous system copper. Zinc is given to
+
+Box 20.2 Causes of chronic liver disease in children
+
+Chronic hepatitis
+• Post-viral hepatitis B, C
+• Autoimmune hepatitis
+• Drugs (nitrofurantoin, non-steroidal anti-inflammatory)
+• Inflammatory bowel disease
+• Primary sclerosing cholangitis (± ulcerative colitis)
+
+Wilson disease (>3 years)
+α1-Antitrypsin deficiency
+Cystic fibrosis
+Neonatal liver disease
+Bile duct lesions.
+
+Figure 20.8 Kayser–Fleischer rings from copper in the cornea in a child with Wilson disease.
+
+Liver disorders
+
+
+PDF PAGE 2 — BOOK PAGE 362
+
+reduce copper absorption. Pyridoxine is given to prevent peripheral neuropathy. Neurological improvement may take up to 12 months of therapy. About 30% of children with Wilson disease will die from hepatic complications if untreated. Liver transplantation is considered for children with acute liver failure or severe end-stage liver disease.
+
+Fibropolycystic liver disease
+
+This is a range of inherited conditions affecting the development of the intrahepatic biliary tree. Presentation is with liver and renal disease. The liver disease may include cystic disease of the liver or biliary tree or congenital hepatic fibrosis.
+
+Congenital hepatic fibrosis (CHF) presents in children over 2 years old with hepatosplenomegaly, abdominal distension and portal hypertension. It differs from cirrhosis in that liver function tests are normal in the early stage. Liver histology shows large bands of hepatic fibrosis containing abnormal bile ductules. The consequent portal hypertension causes bleeding from varices. Cystic renal disease may coexist and may cause hypertension or renal dysfunction.
+
+Non-alcoholic fatty liver disease
+
+Non-alcoholic fatty liver disease (NAFLD) is the single most common cause of chronic liver disease in the developed world. It is a spectrum of disease, ranging from simple fatty deposition (steatosis) through to inflammation (steatohepatitis), fibrosis, cirrhosis and end-stage liver failure. The prognosis in childhood is uncertain; very few develop cirrhosis in childhood in contrast to 8–17% of adults. Most affected children are obese. They are usually asymptomatic, although some complain of vague right upper quadrant abdominal pain or lethargy. The diagnosis is often suspected following the incidental finding of an echogenic liver on ultrasound or mildly elevated transaminases carried out for some other reason. Liver biopsy demonstrates marked steatosis with or without inflammation or fibrosis. The pathogenesis is not fully understood but may be linked to insulin resistance. Treatment is targeted at weight loss, which may lead to liver function tests returning to normal.
+
+Cirrhosis and portal hypertension
+
+Cirrhosis is the end result of many forms of liver disease. It is defined pathologically as extensive fibrosis with regenerative nodules. It may be secondary to hepatocellular disease or to chronic bile duct obstruction (biliary cirrhosis). The main pathophysiological effects of cirrhosis are diminished hepatic function and portal hypertension with splenomegaly, varices and ascites (see Fig. 20.1). Hepatocellular carcinoma may develop.
+
+Children with compensated cirrhosis may be asymptomatic if liver function is adequate. They will not be jaundiced and may have normal liver function tests. As the cirrhosis increases, however, the results of deteriorating liver function and portal hypertension become obvious (Fig. 20.9). Physical signs include palmar and plantar erythema and spider naevi, malnutrition and hypotonia. Dilated abdominal veins and splenomegaly suggest portal hypertension, although the liver may be impalpable.
+
+Figure 20.9 Cirrhosis and portal hypertension. (i) Malnutrition with loss of fat and muscle bulk; (ii) distended abdomen from hepatosplenomegaly and ascites; (iii) scrotal swelling from ascites; and (iv) no jaundice, despite advanced liver disease.
+
+Investigations include:
+• Screening for the known causes of chronic liver disease (see Box 20.2)
+• Upper gastrointestinal endoscopy to detect the presence of oesophageal varices and/or erosive gastritis
+• Abdominal ultrasound – may show a shrunken liver and splenomegaly with gastric and oesophageal varices
+• Liver biopsy – may be difficult because of increased fibrosis but may indicate the aetiology (e.g. typical changes in congenital hepatic fibrosis, copper storage).
+
+As cirrhosis decompensates, biochemical tests may demonstrate an elevation of aminotransferases and alkaline phosphatase. The plasma albumin falls and the prothrombin time becomes increasingly prolonged.
+
+Oesophageal varices
+
+These are an inevitable consequence of portal hypertension and may develop rapidly in children. They are best diagnosed by upper gastrointestinal endoscopy, as a barium swallow may miss small varices. Acute bleeding is treated conservatively with blood transfusions and H2-blockers (e.g. ranitidine) or omeprazole. If bleeding persists, octreotide infusion, vasopressin analogues, sclerotherapy or band ligation may be effective.
+
+Liver disorders
+
+
+PDF PAGE 3 — BOOK PAGE 363
+
+Figure 20.10 This infant has a grossly distended abdomen from ascites. There are dilated abdominal veins secondary to portal hypertension and an umbilical hernia from increased abdominal pressure. There is a surgical scar.
+
+Portacaval shunts may preclude liver transplantation, but radiological placement of a stent between the hepatic and portal veins can be used as a temporary measure if transplantation is being considered.
+
+Ascites
+
+Ascites is a major problem (Fig. 20.10). The pathophysiology of ascites is uncertain, but contributory factors include hypoalbuminaemia, sodium retention, renal impairment and fluid redistribution. It is treated by sodium and fluid restriction and diuretics. Additional therapy for refractory ascites includes albumin infusions or paracentesis.
+
+Spontaneous bacterial peritonitis
+
+This should always be considered if there is undiagnosed fever, abdominal pain, tenderness or an unexplained deterioration in hepatic or renal function. A diagnostic paracentesis should be performed and the fluid sent for white cell count and differential and culture. Treatment is with broad-spectrum antibiotics.
+
+Encephalopathy
+
+This occurs in end-stage liver disease and may be precipitated by gastrointestinal haemorrhage, sepsis, sedatives, renal failure or electrolyte imbalance. It is difficult to diagnose in children as the level of consciousness may vary throughout the day. Infants present with irritability and sleepiness, while older children present with abnormalities in mood, sleep rhythm, intellectual performance and behaviour.
+
+Figure 20.11 Many infants and children with liver disease need intensive nutritional supplementation. This malnourished infant is having both parenteral nutrition via a central line and continuous nasogastric feeding.
+
+Plasma ammonia may be elevated and an EEG is always abnormal.
+
+Renal failure
+
+This may be secondary to renal tubular acidosis, acute tubular necrosis or functional renal failure (hepatorenal syndrome).
+
+Management of children with liver disease
+
+Although certain diseases may require specific treatment, the management of the sequelae of chronic liver disease is supportive, with the emphasis on correction of nutritional abnormalities, prevention of complications and intensive family support.
+
+Nutrition
+
+Malnutrition may be due to protein malnutrition, fat malabsorption, anorexia or fat-soluble vitamin deficiency (vitamins A, D, E and K).
+
+Treatment is to provide a high-protein, high-carbohydrate diet with 50% more calories than the recommended dietary allowance. In children with cholestasis, medium-chain triglycerides, which are absorbed by the portal circulation, will provide fat, but 20–40% long-chain triglycerides are required to prevent essential fatty acid deficiency. Many children will require nasogastric tube feeding or parenteral nutrition (Fig. 20.11).
+
+Fat-soluble vitamins
+
+Vitamin K deficiency in liver disease may be due to malabsorption or diminished synthesis. Water-soluble forms of vitamin K are available.
+
+Vitamin A deficiency causes night blindness in adults and retinal changes in infants. It is easily prevented with oral vitamin A.
+
+Vitamin E deficiency causes peripheral neuropathy, haemolysis and ataxia. It is very poorly absorbed in cholestatic conditions and high oral doses are required.
+
+Liver disorders
+
+
+PDF PAGE 4 — BOOK PAGE 364
+
+Vitamin D deficiency causes rickets and pathological fractures. It is prevented by using a water-soluble form of vitamin D. Vitamin D-resistant rickets indicates renal tubular acidosis.
+
+Pruritus
+
+Many children with cholestasis have severe pruritus. Management is problematic but may include:
+• Loose cotton clothing, avoiding overheating
+• Emollients or evening primrose oil
+• Phenobarbital to stimulate bile flow; cholestyramine which is a bile salt resin; ursodeoxycholic acid, an oral bile acid.
+
+Encephalopathy
+
+In children, encephalopathy is managed by treating the precipitating factor (sepsis, gastrointestinal haemorrhage) by protein restriction or by using oral lactulose to reduce ammonia reabsorption by lowering colonic pH and increasing colonic transit.
+
+Liver transplantation
+
+Liver transplantation is an accepted therapy for acute or chronic end-stage liver failure and has revolutionised the prognosis for these children. Transplantation is also considered for some hepatic malignancy.
+
+The indications for transplantation in chronic liver failure are:
+• Severe malnutrition unresponsive to intensive nutritional therapy
+• Recurrent complications (bleeding varices, resistant ascites)
+• Failure of growth and development
+• Poor quality of life.
+
+Liver transplant evaluation includes assessment of the vascular anatomy of the liver and exclusion of irreversible disease in other systems. Absolute contraindications include sepsis, untreatable cardiopulmonary disease or cerebrovascular disease.
+
+There is considerable difficulty in obtaining small organs for children. Most children receive part of an adult’s liver, either a cadaveric graft or more recently from a living related donor. A cadaveric organ may either be reduced to fit the child’s abdomen (reduction hepatectomy) or split (shared between an adult and child).
+
+Complications post-transplantation include:
+• Primary non-function of the liver (5%)
+• Hepatic artery thrombosis (10–20%)
+• Biliary leaks and strictures (20%)
+• Rejection (30–60%)
+• Sepsis, the main cause of death.
+
+In large national centres, the overall 1-year survival is approximately 90%, and the overall 5-year survival is >80%. Most deaths occur in the first 3 months. Children who survive the initial postoperative period usually do well. Long-term studies indicate normal psychosocial development and quality of life in survivors.
+
+Further reading
+
+Beattie M, Dhawan A, Puntis J: Paediatric Gastroenterology, Hepatology and Nutrition, Oxford Specialist Handbooks in Paediatrics, Oxford, 2009, Oxford University Press.
+Short handbook.
+
+Kelly DA: Diseases of the Liver and Biliary System in Childhood, ed 3. Oxford, 2008, Blackwell Science.
+Comprehensive textbook.
+
+Liver disorders
+
+
+PDF PAGE 5 — CHAPTER 21 OPENER
+
+21
+
+Malignant disease
+
+Aetiology 366
+Clinical presentation 366
+Investigations 366
+Treatment 366
+Supportive care and side-effects of treatment 367
+Leukaemia 369
+Brain tumours 370
+Lymphomas 371
+Neuroblastoma 373
+Wilms tumour (nephroblastoma) 375
+Soft tissue sarcomas 375
+Bone tumours 376
+Retinoblastoma 377
+Rare tumours 377
+Long-term survivors 378
+Palliative care 378
+
+Cancer in children is not common.
+
+• Around 1 child in 500 develops cancer by 15 years of age.
+• Each year, in Western countries, there are 120–140 new cases per million children aged under 15 years, equivalent to about 1500 new cases each year in the UK.
+
+The types of disease seen (Fig. 21.1) are very different from those in adults, where carcinomas of the lung, breast, gut and skin predominate. The age at presentation varies with the different types of disease:
+
+• Leukaemia affects children at all ages (although there is an early childhood peak).
+• Neuroblastoma and Wilms tumour are almost always seen in the first 6 years of life.
+• Hodgkin lymphoma and bone tumours have their peak incidence in adolescence and early adult life.
+
+Despite significant improvements in survival over the last four decades (Fig. 21.2), cancer is the commonest
+
+Figure 21.1 Relative frequency of different types of cancer in children in the UK.
+
+Chart title: % of all childhood cancers in the UK
+Horizontal axis: 0, 5, 10, 15, 20, 25, 30, 35
+Leukaemia — 32%
+Brain and spinal tumours — 24%
+Lymphomas — 10%
+Neuroblastoma — 7%
+Soft tissue sarcomas — 7%
+Wilms tumour — 6%
+Bone tumours — 4%
+Retinoblastoma — 3%
+Other — 7%
+
+Survival
+%
+
+Vertical axis: 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100
+Horizontal axis: Year of diagnosis
+1966–1970; 1971–1975; 1976–1980; 1981–1985; 1986–1990; 1991–1995; 1996–2000; 2001–2005
+
+Series labels: Wilms tumour; ALL; NHL; CNS tumours; Neuroblastoma.
+
+Figure 21.2 Five-year survival rates showing the considerable improvement over the last 50 years. (ALL, acute lymphoblastic leukaemia; NHL, non-Hodgkin lymphoma.) (Sources: 1971–2000. Stiller C (Editor) Childhood Cancer in Britain – Incidence, Survival, Mortality, Oxford, 2007, Oxford University Press; and 1966–1970 & 2001–2005, National Registry of Childhood Tumours, unpublished data.)
