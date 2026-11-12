@@ -1,0 +1,1377 @@
+521
+
+HbSAg (Hepatitis B surface antigen), 359
+
+Head
+    abnormal growth of, 191–193
+    asymmetric heads, 192
+    circumference, 182
+    injuries to, 97, 99, 100f, 186–187
+    lag, 23
+    soft tissue sarcomas, 376
+    trauma, 24–27
+    see also Brain; Neck
+Head lice, 430
+Headache, 469–472
+    in adolescents, 498–499
+    management of, 471–472
+    primary, 469–470
+    recurrent, assessment of child with, 471b
+    secondary, 470
+    see also Migraine
+Health promotion, 500–501
+Health service delivery, 4
+Health surveillance, 42
+Healthy child programme (HCP), 42, 43t
+Hearing
+    checklist for parents, 42b
+    development, 34–40, 37f, 39f, 42–44, 44b
+    in fetus, 42
+    impairment, 59–61, 116, 245
+        see also Deafness
+    median ages, 37f
+    in newborn, 44, 45f, 153
+    normal compared to impaired, 60f
+    parental concern, 44
+    tests, 44
+Hearing aids, 59, 61
+Heart failure, 19, 303–304, 303b
+    in adolescents, 303
+    case history, 305
+    in infants, 19, 303–304, 303b
+    symptomatic, 321
+Heart murmurs, 303
+    examining, 19
+Heart sounds, examining, 19
+Height
+    measuring, 17, 181–183
+    phases of normal human growth, 181
+    socioeconomic status, 202
+    standard deviation, 183
+    velocity charts, 182f, 186
+    see also Growth; Short stature; Tall stature
+Heimlich manoeuvre, 102f
+Helicobacter pylori (H. pylori), 228
+Hemiplegia, 54
+Henoch-Schönlein purpura, 336, 338–340, 339f, 465
+Hepatitis, 20, 140
+    autoimmune, 361
+    fulminant, 360–361
+    hepatitis A virus (HAV), 358
+    hepatitis B virus (HBV), 175, 266, 358–359
+        chronic, 359
+    hepatitis C virus (HCV), 359–360
+    hepatitis D virus (HDV), 360
+    hepatitis E virus, 360
+    neonatal hepatitis syndrome, 356–358
+    viral, 358–360
+    worldwide prevalence, 359f
+    see also Epstein-Barr virus
+Hepatocellular carcinoma, 377
+Hepatomegaly, 19–20, 21t, 356–358
+Hereditary motor sensory neuropathies (HMSN), 481
+Hereditary spherocytosis, 386–387
+Hernia
+    diaphragmatic, 173
+    inguinal, 167, 347–348, 347f–348f
+Herpangina, 255
+Herpes simplex encephalitis, 90f
+Herpes simplex virus (HSV), 251–252, 426
+    encephalitis, 247
+    in newborn, 175
+Herpetic whitlows, 252
+High throughput sequencing, 115
+Hip, disorders in newborn, 149–152
+Hirschsprung disease, 178, 238–239
+History-taking, 13–15
+    allergic disorders, 272
+    in coma, 91t
+HIV (human immunodeficiency virus), 262–265
+Hodgkin disease, 371–373
+Homocystinuria, 447
+Homozygosity, autosomal dominant inheritance, 122
+Hormonal abnormalities, 345
+Hormone tests, undescended testes, 349
+Horseshoe kidney, 329
+Hospital care, 67–73
+    admissions, 68–69, 68f, 68t, 291
+    child-orientated environment, 70
+    discharge from hospital, 72–73
+    family-centred care, 69–70
+    information and psychosocial support, 70
+    multidisciplinary, 70
+    reduction in stay, 69
+    skilled staff, 70
+    tertiary, 70
+    see also Bad news, breaking; Medications; Pain
+Human genome project, 115
+Human herpesvirus 6 (HHV6) and 7, 255
+Human normal immunoglobulin (HNIG), 358
+Human papillomavirus (HPV) vaccine, 266
+Human varicella zoster immunoglobulin (VZIG), 252–253
+Humerus, fracture at birth, 159
+Huntington disease, 123–124
+Hyaline membrane disease see Respiratory distress syndrome (RDS)
+Hydatid of Morgagni, 350
+Hydrocele, 347–348, 348f
+Hydrocephalus, 141, 371, 487–488
+    causes, 488b
+    clinical features, 488
+    infections, 244–245
+Hydrocortisone, 428
+Hygiene hypothesis, allergy, 272
+Hyperactivity, 414–415
+Hyperbilirubinaemia, conjugated, 172
+Hypercholesterolaemia, 337
+Hyperexpanded chest, 17, 18f
+Hypergonadotropic hypogonadism, 196
+Hyperkalaemia, 343
+Hyperlipidaemia, 448–449
+Hypermetropia (long sight), 62
+Hypernatraemic dehydration, 205, 230–231
+Hyperoxia (nitrogen washout) test, 310–311
+Hyperparathyroidism, 445
+Hyperphosphataemia, 343
+Hypersensitivity
+    defined, 271
+    insect bites or stings, 276
+Hypertension, 203, 340–341
+Hyperthyroidism, 24, 138–139, 443–444
+
+
+522
+
+Hypertrophic cardiomyopathy, 138
+Hypoalbuminaemia, 338
+Hypocalcaemia, 148, 213
+Hypoglycaemia, 90f
+    in diabetes, 437
+    in fetus, 138, 148
+    in kwashiorkor, 212
+    in newborn, 148, 175–176
+    non-diabetes related, 441–442
+    and seizures, 176
+    in very low birthweight infants, 167f
+Hypogonadotropic hypogonadism, 196
+Hyponatraemic dehydration, 230
+Hypoparathyroidism, 444
+Hypoplastic left heart syndrome, 319–320, 319t
+Hypospadias, 198, 351, 352f
+Hypotension, very low birthweight infants, 167f
+Hypothermia, 146–148, 212
+Hypothyroidism, 24, 116, 442–443
+    congenital, 172, 442–443, 443b
+    juvenile, 443
+    short stature, 186
+Hypotonic cerebral palsy, 54
+Hypotonic trunk, 23
+Hypovolaemia, 88, 337, 343
+Hypoxic-ischaemic encephalopathy (HIE)
+    abnormal development, 53–54
+    neonates, 156–157, 157f
+Hysterotomy, 137
+
+I
+
+Idiopathic short stature (ISS), 187
+IgA nephropathy, 340
+Ileostomy, 236–237
+Ileum, atresia or stenosis of, 178
+Illness
+    in adult life, linked with poor nutrition, 202
+    chronic, short stature resulting from, 187
+    fabricated or induced, 107
+    nutritional demands, 202
+    severity, 17
+Imaging
+    brain tumours, 371
+    Crohn disease, 236
+    Hodgkin disease, 373
+    internal injuries, 99
+    kidneys and urinary tract, 326t
+    seizures, 474–475
+    see also Ultrasound screening
+Immune deficiency, 268–270, 269f
+    chest infections, 294
+Immune thrombocytopenic purpura (ITP), 111f, 400–401, 400b
+    chronic, 401
+Immunisation, 265–268
+    MMR vaccine, 141, 256–257, 267–268
+    against pneumonia, 284
+    against TB, 260
+Immunocompromised patients, infection in, 252
+Immunoglobin, 203
+Immunoglobulin, 243f
+Immunoglobulin replacement therapy, 270
+Immunohistochemistry, 366
+Immunomodulators, 428
+Immunoreactive trypsin (IRT), 297
+Immunosuppression, infections from, 367
+Immunotherapy, allergen, 273
+Impairment
+    hearing see Hearing impairment
+    speech and language, 57
+    terminology, 50
+    vision see Vision impairment
+Impetigo, 249–250
+Imprinting, 125, 126b, 126f
+Inborn errors of metabolism, 446
+Increased work of breathing, 17
+Individual education plan (IEP), 65
+Infant feeding, 203–206
+    breast-feeding, 164, 203–205
+    formula milk, 205–206
+    weaning, 206
+Infantile seborrhoeic dermatitis, 425
+Infants
+    colic, 223, 273
+    emotional abuse, 108–110
+    food allergy/intolerance, 273
+    general appearance, 17
+    growth, 181
+    growth-restricted, 148
+    head injuries, 99
+    heart failure, 19, 303–304, 303b
+    immunoglobulin levels, 243f
+    infections see under Infections
+    large-for-gestational-age, 148
+    learning difficulties apparent in, 58
+    nutritional vulnerability of, 201–202
+    pre-term see Pre-term infants
+    visual problems apparent in, 61
+    see also Neonates; Sudden infant death syndrome (SIDs)
+Infections
+    bacterial, 244–245, 248–250
+    C. difficile, 238
+    congenital, 140–141, 170
+    early-onset, 173–174
+    with fever see Febrile child
+    focus for, 243
+    fungal, 428–429
+    gram-negative, 175, 368
+    HIV, 262–265
+    from immunosuppression, 367
+    in infants/newborns, 164, 173–175, 202, 252
+    infective endocarditis, 322–323
+    and jaundice, 170, 172
+    Kawasaki disease, 258, 258b–259b, 323
+    late-onset, 174
+    life-threatening, 243–248
+    listeria, 133–134, 173–175
+    nephrotic syndrome, 337
+    pneumonia in, 284
+    respiratory see Respiratory infections
+    risk factors, 241–242
+    skin see Skin disorders
+    SPUR, 268–270
+    streptococcal see Streptococcal infections
+    tick-borne, 246, 265
+    tropical, 241, 262, 263f
+    tuberculosis, 260–262
+    umbilical, 175
+    urinary tract see Urinary tract infection (UTIs)
+    in very low birthweight infants, 167f
+    viral, 245–246, 250–257
+Infectious mononucleosis (glandular fever), 254, 278
+Inflammatory bowel disease (IBD), 187, 235–237
+Inflammatory myopathies, 483
+Ingestant allergens, 271
+Inguinal hernia, 167
+    in boys, 347–348, 347f–348f
+    in girls, 354
+Inguinoscrotal disorders, 347–351
+Inhalant allergens, 271
+Inherited aplastic anaemia, 394
+Injuries
+    at birth, 157–159
+    brain, 112, 164, 167f
+    child abuse, 109t
+    head, 97, 99, 100f, 186–187
+    internal, 99
+    seriously injured child, 82, 86f
+    sport, 458
+    unintentional see Accidents
+Insect bites or stings
+    anaphylaxis, 89–90
+    hypersensitivity, 276
+    IgE-mediated immune responses, 272
+    non-IgE mediated immune responses, 272
+Inspection
+    of abdomen, 20
+    cardiovascular system examination, 18–19
+Insulin, 435–436, 436f
+Insulin-like growth factor (IGF-1), 181, 186–190
+Integrated Management of Childhood Illness (IMCI), 8, 9f
+Intensive care unit, paediatric, 99
+    neonatal intensive care, 155
+Interferon-gamma release assays (IGRA), 260
+International classification of functioning, disability and Health (ICF), 66
+Intersex conditions, 196–199
+Intestinal malabsorption, rickets, 214
+Intestinal obstruction, 177–178, 220
+In-toeing and out-toeing, 451–452
+Intracranial haemorrhage, 485
+Intracranial pressure, raised, 89, 470
+Intracytoplasmic sperm injection (ICSI), 297
+Intrahepatic biliary hypoplasia, 356, 358
+Intrarenal reflux (IRR), 332
+Intrauterine growth restriction (IUGR), 137–138, 147
+    and short stature, 186–190
+Intrauterine shunting, 137
+Intravenous immunoglobulin (IVIG), 248, 258
+Intraventricular haemorrhage, 53
+Intussusception, 20, 22, 225–226
+Investigations
+    apparent life-threatening events, 93
+    in coma, 91t
+    developmental problems, 51t
+    failure to thrive, 207, 209b
+    gastroenteritis, 231
+    genetic, 130
+    nutritional status, 209
+    in pre-term or sick infants, 160
+    sexual abuse, 111–112
+    short stature, 187, 190t
+    see also Examination
+Ipratropium bromide, 289
+    nebulised, 292
+IQ tests, 41
+Iron
+    deficiency, 383–384
+        treatment with normal Hb, 385
+    dietary sources, 384
+    requirements during childhood, 384–385
+Irritable bowel syndrome (IBS), 228
+Isonatraemic dehydration, 230
+Isoniazid, 260
+
+523
+
+J
+
+Jaundice, 167f, 168–172, 355–356, 356b, 386
+    within 24 hours of birth, 169–170
+    age at onset, 168
+    breast milk, 170, 172
+    clinical evaluation, 168–171
+    gestation, 171
+    infection, 170
+    kernicterus, 168, 169f, 171
+    management of, 171–172
+    persistent, 357–358
+    physiological, 170
+    rate of change, 170
+    severity of, 170
+    at two days to three weeks of age, 170
+    over two weeks (three weeks if pre-term), 171–172
+Jejunum, atresia or stenosis of, 178
+Joint pain, nephritis, 339
+Justice, 74
+Juvenile dermatomyositis (JDMS), 466
+Juvenile hypothyroidism, 443
+Juvenile idiopathic arthritis (JIA), 462–465, 463t
+Juvenile myasthenia, 482
+
+K
+
+Kanamycin, 267–268
+Kartagener’s syndrome, 294
+Kasai procedure, 356, 357f
+Kawasaki disease (KD), 258, 258b–259b, 323
+Kayser-Fleischer rings, 361
+Kernicterus, 168, 169f, 171
+Ketoacidosis, 138
+Ketogenic diets, 477
+Kidneys and urinary tract disorders, 325–345
+    absence of both kidneys, 325
+    acidosis, 344–345
+    acute kidney injury, 342–344
+    antenatal diagnosis, 325–329, 329f, 332
+    antenatal treatment, 329
+    assessment of kidneys and urinary tract, 325
+    chronic disease, 344–345
+    congenital abnormalities, 325–329, 327b
+    dialysis, 343, 345
+    enuresis, 335
+    examining, 20
+    haematuria, 338–340
+    haemolytic uraemic syndrome, 344
+    hypertension, 340–341
+    palpable kidneys, 341b
+    posterior urethral valves, case study, 330b
+    postnatal management, 329
+    proteinuria, 336–338
+    radiological investigation, 326t
+    renal calculi, 341
+    renal failure see Renal failure
+    renal masses, 341
+    renal scarring, 335
+    renal tubular disorders, 341–342
+    salt and water balance, controlling, 344–345
+    transplantation, 345
+    transport defects, 342
+    urinary tract infection see Urinary tract infection (UTIs)
+    urinary tract obstruction, 328b
+Klebsiella, 174, 331
+Klinefelter syndrome (47, XXY), 119, 120b, 187, 190–191
+Knee pain, 457–458
+Knock-knees (genu valgum), 451
+Kwashiorkor, 211–212
+
+
+524
+
+L
+
+La (SS-B) antigen, 139
+Labial adhesions, 354
+Labour
+    drugs given during, affecting fetus, 140
+    pre-term, 137
+        see also Pre-term infants
+Laboured breathing, 17
+Lactose intolerance, 206, 232
+Langerhans cell histiocytosis (LCH), 377–378
+Laparoscopy, undescended testes, 349
+Large bowel obstruction, 178
+Laron syndrome, 186–190
+Laryngeal infections, 280–282
+Laryngotracheobronchitis (croup), 280–281
+Laser therapy, in fetus, 136
+Laxatives, bulk forming, 80
+Lead poisoning, 103–106
+Learning difficulties, 53t
+    co-morbidities, 58
+    concentration problems, 59
+    conditions causing, 53t
+    in Down syndrome, 117
+    in fragile X syndrome, 125
+    general, 57–58
+    management of, 58
+    severe, 58
+    specific, 58–59
+    terminology, 50
+Left-to-right shunts, 301, 306–310, 308b
+‘Lemon-shaped’ skull, 136
+Leukaemia, 365–366, 369–370
+    acute lymphoblastic, 369–370
+    clinical presentation, 369–370
+    investigations, 369
+Leukotriene receptor antagonists, 289
+Levator palati, 23
+Lice, 430
+Life support
+    advanced, 82, 85f
+    basic, 82, 84f
+Life-threatening illness, explaining diagnosis to parents, 73b
+Limb tone, 23
+    in cerebral palsy, 54
+Limbs
+    acute onset pain, 456–457
+    inspecting, 23
+Limit ages, 32–33
+    walking, 33
+Limp, 458–460
+Lipid storage disorders, 490t
+Listeria infection, 133–134, 173–175
+Liver
+    biopsy, 356, 358f
+    percussion, 21
+    tenderness in, 20
+Liver disorders, 355–364
+    acute liver failure, 360–361
+    in children, 355
+    chronic disease, 361–362
+    cirrhosis, 362–363
+    fibropolycystic, 362
+    hepatitis see Hepatitis
+    management of, 363–364
+    neonatal, 355–358, 356b–357b
+    non-alcoholic fatty liver disease, 362
+    tumours, 366, 377
+Liver transplantation, 364
+    in cystic fibrosis patients, 297
+Liver/kidney microsomal antibodies (LKMs), 361
+Local authority care, 3
+Locomotor patterns, 33
+Lomotil, 231
+Long-acting β₂-agonists (LABAs), 289
+Looked after children, 3
+Loperamide, 231
+Lumbar puncture, 164
+Luteinising hormone (LH), 193
+Lyme disease, 246, 265
+Lymph nodes, examining, 24
+Lymphadenopathy, in rubella, 257
+Lymphocytes, 257
+Lymphocytic interstitial pneumonitis (LIP), 262, 264f
+Lymphomas, 371–373
+    Burkitt, 254
+    Hodgkin disease, 371–373
+    non-Hodgkin lymphoma, 371, 373
+Lysosomal storage disorders, 491–492
+
+M
+
+Macrocephaly, 192
+Macrolide antibiotics, 289
+Macrosomia, 138
+Magnetic resonance imaging (MRI), brain, 156, 157f, 176, 176f
+Magnetic resonance spectroscopy, 371
+Malabsorption, 233–234, 235f
+    see also Coeliac disease
+Male puberty, 184
+    precocious, 194–195
+Malformations see Congenital malformations
+Malignant disease, 365–380
+    aetiology, 366
+    bone tumours, 376–377
+    brain tumours, 366, 370–371
+    and choledochal cysts, 356
+    clinical presentation, 366
+    colon adenocarcinoma, 236–237
+    cure, problems following, 378t
+    drug-specific side effects, 368
+    fertility preservation, 368
+    gastrointestinal damage, 368
+    germ cell tumours, 366, 377
+    high-dose therapy with bone marrow rescue, 367
+    investigations, 366
+    Langerhans cell histiocytosis, 377–378
+    leukaemia see Leukaemia
+    liver tumours, 366, 377
+    long-term survivors, 378
+    lymphomas, 371–373
+    management of, 366
+    melanoma, 129–130
+    musculoskeletal pain, 456–457
+    neuroblastoma, 366, 373–375
+    palliative care, 378
+    pathology, 366
+    presentation in children, 379f
+    psychosocial support, 368
+    relapse, treatment of, 370
+    retinoblastoma, 377, 377f
+    soft tissue sarcomas, 375–376
+    staging, 366
+    supportive care, 367–368
+    surgical treatment, 367
+    in teenagers and young adults, 366
+    treatment, 366–367
+    and undescended testes, 349
+    venous access, 368
+    Wilms’ tumour, 20, 375, 375b
+Malnutrition, 201–202, 209–212, 212b, 257
+Malrotation, 227
+    with volvulus, 178
+Mantoux test, in TB, 260
+Marasmus, 211–212
+Marble bone disease, 466
+Marfan’s syndrome, 190–191
+Mask ventilation, 143
+Masses, abnormal
+    examination, 20–22
+    renal, 341
+MCAD (medium-chain acyl-CoA dehydrogenase deficiency), 153
+Meal refusal, 409
+Measles, 256–257
+Measles/mumps/rubella (MMR) vaccine, 141, 256–257, 267–268
+Measurements
+    blood pressure, 24
+    growth, 17, 181–183
+Meckel diverticulum, 226–227
+Meconium aspiration, 143, 172
+Meconium ileus, 178
+Meconium plug, 178
+Media and technology, 5
+Medial tibial torsion, 452
+Median ages
+    developmental milestones, 40b, 40t
+    gross motor development, 35f
+    hearing, speech and language, 37f
+    limit ages distinguished, 32–33
+    meaning, 32
+    social, emotional and behavioural development, 38f
+    vision and fine motor skills, 36f
+Medical history, 15
+Medications
+    absorption, 72
+    accidental poisoning by, 102–103
+    allergic disorders, 428
+    antibiotics see Antibiotic therapy
+    antiretroviral therapy, 262
+    asthma, 289, 289t, 291b
+    distribution, 72
+    elimination, 72
+    fetus, maternal drugs affecting, 133, 139–140
+    gastroenteritis, 231
+    gastro-oesophageal reflux, 222
+    heart failure, 309
+    immunosuppressant, 236
+    and induced illness, 107
+    during labour, affecting fetus, 140
+    obesity, 217
+    past and present, 15
+    peptic ulceration, 228
+    prescribing for children, 72
+    ulcerative colitis, 236
+    see also Drug abuse
+Medium-chain acyl-CoA dehydrogenase deficiency (MCAD), 92, 360–361
+Medulloblastoma, 370
+Melanocytic naevi (moles), 423–424
+Mendelian inheritance, 120–123
+    autosomal dominant inheritance, 120–122
+    autosomal recessive inheritance, 122
+    X-linked conditions, 122–123
+    Y-linked inheritance, 123
+Meningitis, 88, 174, 186–187, 243–246, 255
+    bacterial, 244–245
+    cerebral complications, 245
+    group C meningococcal, 245
+    and seizures, 176
+    tuberculous, 260
+    uncommon pathogens, 246
+    viral, 245–246, 257
+Meningocele, 486–487
+Meningococcal infection, 248–249
+    meningococcal C, 266
+Meningococcal septicaemia, 88, 245
+    case histories, 75, 248
+Menstruation, 186
+Mental health problems, adolescents, 499
+Mercury poisoning, 103
+Mesenteric adenitis, 225
+Metabolic myopathies, 483
+Metastatic disease, 376
+Metatarsus varus, 451
+Metformin, 217
+Methicillin-resistant Staphylococcus aureus (MRSA), 248
+Methicillin-sensitive Staphylococcus aureus (MSSA), 248
+Methotrexate, 464
+Metronidazole, 228
+Microarray techniques, 115
+Microcephaly, 191–192
+Micrognathia, Pierre Robin sequence, 177f
+Microscopic polyarteritis, 340
+Micturating cystourethrogram (MCUG), 332–333
+Middle ear, acute infection of, 278–279
+Midstream samples of urine, 331
+Migraine
+    with aura, 469–470
+    uncommon forms, 470
+    without aura, 228, 469
+Milia, in newborn, 150f
+Milk aspiration, in newborn, 173
+Millennium Development Goals (MDGs), 8–9, 9f–10f
+Mineralocorticoids, 199
+Mitochondrial inheritance, 125
+Mitral atresia, 315
+MMR (measles/mumps/rubella) vaccine, 141, 256–257, 267–268
+Moles, 423–424
+Molluscum contagiosum, 428
+Mongolian spots, 108
+    in newborn, 150f
+Moraxella catarrhalis, 278–279
+Mortality, child, 7–9
+    adolescents, 496
+    neonatal/perinatal, 133, 155f
+    reduction in, 5
+    worldwide causes of death, 242f
+Mosaicism, Down syndrome, 117
+Mother-to-child transmission (MTCT), HIV, 262
+Motor development, 36f
+    abnormal, 52–56, 55f
+    normal see Fine motor skills, development; Gross motor development
+Motor disorders, 478–484, 479t
+    central, 479
+    cerebral palsy see Cerebral palsy
+    muscle disorders, 482–483
+    neuromuscular transmission, 482
+    peripheral, 479–484
+Movement patterns, neurological examination, 22
+MtDNA disorders, 125
+Mucopolysaccharidoses, 491b
+Multicystic dysplastic kidney (MCDK), 326–329
+Multidisciplinary child development services, 63–64
+Multiple births/pregnancies, 137
+Mumps, 257
+Murmurs, heart see Heart murmurs
+Muscle bulk, 23
+Muscle tone, 23
+Muscular dystrophies, 482–483
+Musculoskeletal disorders, 451–468
+    abnormal posture, 453–455
+    arthritis, 460–466, 463t
+    assessment of system, 451
+    genetic conditions, 466–467, 467f
+    limp, 458–460
+    painful limb, knee and back, 455–458
+    Perthes disease, 460
+    slipped capital femoral epiphysis, 460
+    systems review, 15
+    transient synovitis, 458–460
+    variations of normal posture, 451–453
+Mutation analysis, 130
+Myasthenia gravis, 482
+Mycobacterium tuberculosis, 277
+Mycoplasma pneumoniae, 277
+Myelomeningocele, 486–487
+Myobacterial infection, non-tuberculous, 261–262
+Myocardial dysfunction, 88
+Myocarditis, 255, 323
+Myopathy, 22
+Myopia (short sight), 62
+Myotonic disorders, 123–124, 483
+
+526
+
+N
+
+Naloxone, 146
+Napkin rashes, 425
+Narcotics, maternal drug abuse with, 140
+Nasogastric tube feeding, 161f, 164, 179
+National Institute of Clinical Excellence (NICE)
+    on diabetes, 138
+    on fever, 243
+Natural disasters, 6
+Nebuliser treatment, 280, 292
+Neck
+    examining, 24
+    soft tissue sarcomas, 376
+    stiffness in, 245
+    see also Head
+Necrotising enterocolitis, 164–165, 167f
+Necrotising fasciitis/cellulitis, 248
+Neglect, 107–108
+Neighbourhoods, 4
+Neomycin, 267–268
+Neonatal resuscitation, 143–147, 144f–146f
+Neonatal units, 155
+Neonates, 155–179
+    anaemia in, 392–394
+    birth injuries, 157–159, 158b
+    cerebral infarction, 176
+    craniofacial disorders, 176–177
+    gastrointestinal disorders, 177–179
+    hearing in, 44, 45f, 153
+    heart failure, 303
+    heat loss prevention in, 163
+    hypoxic-ischaemic encephalopathy, 156–157, 157f
+    infections see under Infections
+    lesions resolving spontaneously in, 150b
+    liver disorders, 355–358, 356b–357b
+    medicine prescription, 72
+    mortality, 7, 133
+    pneumonia in, 284
+    pre-term see Pre-term infants
+    respiratory distress, 172–173
+    routine examination, 148–153
+    seizures, 176
+    with shunts, 303
+    significant abnormalities detected, 151b
+    skin disorders in, 423–425
+    transient tachypnoea of newborn, 172
+    vision, 44
+    see also Infants
+Nephritis
+    acute, 338–340, 340b
+    familial, 340
+    post-streptococcal and post-infectious, 338
+Nephroblastoma (Wilms’ tumour), 20, 375, 375b
+Nephrotic syndrome, 336–338
+    congenital, 338
+    steroid-resistant, 337–338
+    steroid-sensitive, 325, 336–337
+Nerve palsies, at birth, 158–159
+Neural tube defects, 486–487
+Neuroblastoma, 20, 366, 373–375, 374b
+Neurocutaneous syndromes, 488–490
+Neurodegenerative disorders, 490–492
+Neurodevelopmental problems see Developmental problems
+Neurofibromatosis type 1 (NF1), 489
+Neurological disorders, 469–492
+    ataxia, 484–485
+    cerebral palsy see Cerebral palsy
+    cerebrovascular disease, 485–486
+    epilepsies of childhood, 474–478, 476t
+    headache see Headache; Migraine
+    hydrocephalus see Hydrocephalus
+    motor disorders see Motor disorders
+    neural tube defects, 486–487
+    neurocutaneous syndromes, 488–490
+    neurodegenerative disorders, 490–492
+    seizures see Seizures
+    systems review, 15
+Neurological examination, 22–23
+Neuronal development, 201–202
+Newborn see Neonates
+Niferex, 385
+Night terrors, 410
+Nightmares, 410
+Nikolsky sign, scalded skin syndrome, 250
+Nissen fundoplication, 222
+Nitrogen losses, 202
+N-myc oncogene, 366, 375
+Nocturnal enuresis, 412
+Non-alcoholic fatty liver disease (NAFLD), 362
+Non-disjunction, meiotic (Down syndrome), 116, 118f
+Non-Hodgkin lymphoma (NHL), 371, 373
+Non-maleficence, 74
+Non-penetrance, autosomal dominant inheritance, 122, 122f
+Nonspecific abdominal pain (NSAP), 225
+Noonan syndrome, 128f, 187
+Norwood procedure, 320
+Nut allergy, in adolescents, 89–90
+
+
+527
+
+Nutrition, 201–218
+    assessment of status, 209–212
+    Crohn disease, 236
+    in cystic fibrosis patients, 297
+    demands for growth, 201
+    dental caries, 217–218
+    in diabetes, 436
+    dietary elimination, atopic eczema, 428
+    enteral, 164, 210–211
+    failure to thrive see Failure to thrive
+    gastroenteritis, 232
+    infantile growth, 181
+    intensive support, role, 210–211
+    and kidney disease, 344
+    and liver disease, 363
+    long-term outcome of deficiency, 202
+    low stores, in infants and children, 201–202
+    malnutrition, 201–202, 209–212, 212b, 257
+    and neuronal development, 201–202
+    and obesity, 6, 181, 215–217
+    parenteral, 160, 211
+    during pregnancy, 134
+    in pre-term infants, 164
+    seizures, 477
+    and short stature, 187
+    in very low birthweight infants, 167f
+    vitamin deficiency see Vitamin A deficiency; Vitamin D deficiency
+    vulnerability of infants and children, 201–202
+Nystagmus, 23–24
+
+O
+
+Obesity, 6, 215–217, 218b
+    complications, 216b
+    definitions, 216–217
+    endogenous causes, 217
+    and low birthweight, 181
+    management of, 217
+    prevention, 217
+    reduced, in breast-feeding, 203
+Obstructive sleep apnoea (OSA), 279, 298
+Occipital plagiocephaly, 192
+Occipital seizures, 474
+Occlusive bandages, 428
+Oedema, pulmonary, 88
+Oesophageal atresia, 177
+Oesophageal varices, 362–363
+Oesophagitis, acid-related, 222
+Omalizumab, 289
+Omeprazole, 222, 228
+Omphalocele, 178–179
+Ophthalmoscopy, 24–27
+Opiates, maternal drug abuse with, 140
+Oral allergy syndrome, 273
+Orchidopexy, 349–350
+Orchitis, 257
+Orlistat, 217
+Ortolani manoeuvre, 152f
+Osgood-Schlatter disease, 457
+Osteochondritis dissecans, 458
+Osteogenesis imperfecta, 112, 122, 466, 467f
+Osteomalacia, 213
+Osteomyelitis, 456, 456b
+Osteopaenia of prematurity, 167f
+Osteopetrosis, 466
+Osteoporosis, 464
+Otitis media (OM), 59, 80
+    acute, 278–279
+    with effusion (OME), 279
+    recurrent, 279
+Otosclerosis, 122
+Outflow obstruction
+    in sick child, 301, 318–320
+    in well child, 301, 315–318, 318b
+Oxygen dissociation curve, 382f
+Oxygen therapy, pre-term infants, 162
+Oxytocin, 140
+
+P
+
+Pain, 71, 71f
+    acute, 71
+    assessing, 71f
+    back, 458
+    chest, 321
+    chronic, 71
+    limbs, 456–457
+    management of, 71
+Palliative care, 378
+Palpation
+    abdominal examination, 20
+    cardiovascular system examination, 19
+    respiratory system examination, 17
+Pancreatic exocrine insufficiency, in CF, 296
+Parainfluenza viruses, 280
+Paralytic squints, 61
+Paraphimosis, 353
+Parasitic infestations, 429–430
+Parathyroid disorders, 444–445
+Parathyroid hormone, 213
+Paravertebral tumours, 374
+Parental chromosomal analysis, 117, 129
+Parental employment, 3
+Parenteral nutrition, 160, 211
+Parenting, normal, 405
+Parenting styles, 3
+Parietal lobe seizures, 474
+Paroxysmal disorders, 473
+Partially sighted children, 62
+Participation rights of child, 6
+Parvovirus B19, 255, 385
+Patau syndrome (trisomy 13), 118, 119b
+Patent ductus arteriosus, pre-term infants, 163
+Peak expiratory flow rate (PEFR), 288–289
+Pectus carinatum (pigeon chest), 17
+Pectus excavatum (hollow chest), 17
+Pedestrian road traffic accidents, 98
+Pediculosis capitis, 430
+Peer groups, 4
+Pelvic kidney, 329
+Pelviureteric junction (PUJ) obstruction, 228
+D-penicillamine, 105–106
+Penicillin resistance, 245
+Penis, 351–353
+    circumcision, 352–353
+    hypospadias, 198, 351, 352f
+    paraphimosis, 353
+Peptic ulceration, 228
+Percussion
+    cardiovascular system examination, 19
+    masses, abnormal, 21
+    respiratory system examination, 17
+Performance IQ (PIQ), 41–42
+Periarticular oedema, 339
+Pericarditis, 255
+Perinatal isoimmune thrombocytopenia, 136
+
+528
+
+Perinatal medicine, 133–153
+    antenatal diagnosis, 134–137
+    congenital infections, 133, 140–141
+    defined, 133
+    extrauterine life, adaptation to, 141–143
+    neonatal resuscitation, 143–147, 144f–146f
+    pre-pregnancy care, 133–134
+    routine examination of newborn, 148–153
+    size at birth, 147–148
+    see also Fetus
+Periorbital cellulitis, 250
+Peripheral intravenous line, 160
+Peristalsis, gastric, 222
+Peritonitis, 224
+Periventricular leucomalacia (PVL), 53, 164
+Periventricular white injury, 164
+Persistent ductus arteriosus (PDA), 309–310, 310b
+Persistent pulmonary hypertension of newborn, 173
+Perthes disease, 460
+Pertussis, 166, 266, 282
+Pes cavus, 454
+PGALS (paediatric Gait, Arms, Legs, Spine) screen, 24
+Pharyngitis, 278
+Phenylketonuria, 446–447
+Phimosis, 352
+Phototherapy, jaundice, 171
+Physical abuse, 107, 109b, 109f, 111
+Physiological jaundice, 170
+PICC lines (peripherally inserted central catheters), 164
+Pierre Robin sequence, 177
+‘Pink disease,’ mercury poisoning, 103
+Pituitary-derived gonadotropins, 193
+Pityriasis rosea, 430–431
+Pizotifen, 472
+PiZZ phenotype, 356
+Placental insufficiency, 137
+Plantar responses, neurological examination, 23
+Platelets, 394
+Pleurodynia (Bornholm disease), 255
+Pluripotent haemopoietic stem cells, 381
+Pneumococcal infections, 249
+Pneumococcal vaccination, 266
+Pneumococcus, 88, 337
+Pneumocystis jiroveci pneumonia (PJP), 262
+Pneumonia, 284–285
+    antibiotics for, 172–173, 285
+    clinical features, 284–285
+    examination, 18
+    giant-cell, 257
+    management of, 285
+    in newborn, 166, 172–173
+    as potentially life-threatening, 277
+    prognosis, 285
+    see also Pneumocystis jiroveci pneumonia (PJP); Streptococcal infections
+Pneumothorax
+    in pre-term infants, 162, 164
+    in term infants, 173
+    very low birthweight infants, 167f
+Point mutations, 130
+Poisoning, 102–106
+    accidental, 102–103
+    chronic, 103–106
+    and coma, 90f
+    deliberate, 103
+    lead, 103–106
+    management of, 103, 105f
+    potentially harmful poisons, 103t
+    smoking, 106
+Poliovirus infection, 266
+Pollen fruit syndrome, 273
+Polyarteritis nodosa, 340
+Polyarthritis, 461t
+Polycystic ovarian syndrome (PCOS), 195
+Polycythaemia, 138, 148
+Polyhydramnios, 138
+Polymerase chain reaction (PCR), 254, 402
+    DNA analysis, 130
+Portal hypertension, 361–363, 362f
+Positional talipes, in newborn, 150f
+Positron emission tomography (PET) scanning, 373
+Posseting, 219
+Postoperative pain, 71
+Post-term infants, defined, 133
+Postural reflexes, 34t
+Posture, abnormal, 149–152, 453–455
+Potter syndrome, 127, 326–329, 327f
+Poverty, children living in, 4
+Power, neurological examination, 23
+Prader-Willi syndrome (PWS), 125, 126f, 128f, 187–190, 196, 217
+Precocious puberty (PP), 193–194
+Prednisolone, 280, 289, 292
+Pre-eclampsia, 137–138
+Pregnancy
+    antenatal diagnosis, 134–137
+    dietary considerations, 134
+    pre-pregnancy care, 133–134
+    teenage, 500
+Preimplantation genetic diagnosis (PGD), 134, 135f
+Prematurity
+    anaemia of, 382, 394
+    and development, 33
+    extreme, 186
+    surfactant therapy, 80
+    see also Osteopaenia of prematurity; Pre-term infants; Retinopathy of prematurity (ROP)
+Pre-operational thought, 34
+Preputioplasty, 353
+Presenting symptoms, general, 14
+Pressurised metered-dose inhaler (pMDI), 292
+Pre-symptomatic testing, 132
+Pre-term infants
+    apnoea, 162–163
+    bradycardia, 162–163
+    brain injury, 164
+    breast-feeding, 203
+    bronchopulmonary dysplasia, 166
+    compared with term, 161f, 161t
+    crying in, 223
+    defined, 133
+    desaturation, 162–163
+    fluid balance, 163–164
+    head growth, abnormal, 193f
+    infections see under Infections
+    jaundice, 171–172
+        see also Jaundice
+    maturational changes, 161b
+    medical problems, 159b
+    necrotising enterocolitis, 164–165
+    nutritional issues, 164, 201
+    patent ductus arteriosus, 163
+    pneumothorax, 162
+    and pre-eclampsia in mother, 137–138
+    problems following discharge, 166–168, 167f
+    respiratory distress syndrome, 159–162
+    resuscitation, 146–147
+    retinopathy of prematurity, 165–166
+    stabilising, 159, 160b
+    surfactant therapy in, 80, 159, 162f
+    temperature control, 163
+    very low birthweight, 167f, 168
+    see also Infants; Jaundice; Neonates
+Prevenar vaccine, 284
+Preventers (inhaled corticosteroids), 289
+Primary care, 67
+Primitive reflexes, 34t, 54
+Primordial dwarfism, 187
+Progressive familial intrahepatic cholestasis (PFIC), 358
+Prop-feeding, discouraging, 218
+Prostaglandin F2, 140
+Protease inhibitor (Pi), 356
+Protection rights of child, 6
+Protein
+    importance in obese children, 217
+    requirements, reference values, 202t
+    transient intolerances, 234
+Proteinuria, 336–338
+Proteus infection, 331
+Proton pump inhibitors, 222, 228
+Prune-belly syndrome, 329
+Pruritus
+    eczema, 426
+    liver disease, 364
+Pseudohepatomegaly, 20
+Pseudohypoparathyroidism, 444
+Pseudomembranous croup (bacterial tracheitis), 281
+Pseudomonas, 174
+Pseudomonas aeruginosa, 295–296
+Pseudopseudohypoparathyroidism, 444
+Psoriasis, 430
+Psychosis, 420
+Psychosocial deprivation, and short stature, 181, 187
+Psychosocial support
+    atopic eczema, 428
+    headache, 472
+    hospital care, 70
+    malignant disease, 368
+Puberty, 183–186
+    in both sexes, 185
+    delayed, 195–196
+        constitutional delay, 186, 196
+    diabetes management, 439
+    in females, 183, 184f
+    growth spurt, 181
+    in males, 184
+    precocious, 193–194
+    Tanner stages, 184f
+    timing of, 185f
+    see also Adolescents
+Public health issues, 6
+Pulmonary hypertension, 323–324
+    in newborn, 173
+Pulmonary hypoplasia, 173
+Pulmonary interstitial emphysema (PIE), 162
+Pulmonary oedema, 88
+Pulmonary stenosis, 316–317
+Pulse oximetry, 280
+Pulses
+    examining, 18–19
+    normal resting, in children, 19t
+Pupillary signs, in coma, 90f
+Purified protein derivative (PPD), 260
+Purpura fulminans, 252
+P-wave, 320
+Pyelonephritis, 330, 334
+Pyloric stenosis, 222, 222b–223b
+Pyloromyotomy, 222
+Pyramidal tract dysfunction, 22–23
+Pyrazinamide, 260
+Pyridoxine, 260
+
+Q
+
+QRS complex, 320
+Quadriplegia, 54
+
+R
+
+Radiological investigation
+    kidneys and urinary tract disorders, 326t
+    malignant disease, 366
+Radiotherapy, 367, 371, 377
+Rashes, 425–428
+    chickenpox, 252–253
+    in febrile child, 243, 251t
+    German measles, 133, 140–141, 257
+    Langerhans cell histiocytosis, 378f
+    measles, 256–257
+    nephritis, 339
+    and systemic disease, 431–432
+    systems review, 15
+    see also Meningitis
+RAST test, 426
+    allergies, 274
+RB gene, 366
+Reactive arthritis, 461
+Reconstituted families, 3
+Rectal atresia, 178
+Rectal examination, 21–22
+Recurrent abdominal pain (RAP), 227–228
+Red cell aplasia, 385–386
+Red cells
+    abnormally shaped, 386f
+    increased destruction in haemolytic anaemia, 386–394
+    reduced production in newborn, 392
+Reflexes
+    absent, 23
+    corneal light reflex test, 61
+    neurological examination, 23
+    postural, 34t
+    primitive, 34t, 54
+Refractive errors, 62
+Refugees, 3
+Regurgitation, 219–220
+Relievers (short-acting β₂-agonists), 289
+Remission induction, in leukaemia, 369–370
+Renal acidosis, 344–345
+Renal agenesis, 325
+Renal calculi, 341
+Renal failure, 343
+    acute, 343b–344b
+    chronic, 187, 325, 345b
+    and liver disease, 363
+    postrenal, 343
+    prerenal, 343
+    see also Kidneys and urinary tract disorders; Urinary tract infection (UTIs)
+Renal function, assessment in children, 326t
+Renal masses, 341
+Renal osteodystrophy, prevention, 344
+Renal scarring, 335
+Renal tubular disorders, 341–342
+Research in paediatrics, ethics of, 75–76
+Respiratory depression, 146
+
+530
+
+Respiratory disorders, 277–300
+    asthma see Asthma
+    chronic lung infection, 294
+    cough, recurrent or persistent, 293–294
+    cystic fibrosis see Cystic fibrosis
+    foreign body inhalation/obstruction, 101, 102f, 295
+    sleep related breathing problems, 298–300
+    systems review, 15
+    see also Respiratory distress; Respiratory distress syndrome (RDS); Respiratory infections
+Respiratory distress, in newborn, 172–173
+Respiratory distress syndrome (RDS), 80, 138, 146–147
+    in pre-term infants, 159–162
+    very low birthweight infants, 167f
+Respiratory infections, 277–285
+    age distribution, 278f
+    bronchiolitis, 166–167, 277, 282–284, 288
+    bronchitis, 282
+    classification, 277
+    host and environmental factors, 277
+    laryngeal and tracheal, 280–282
+    pathogens, 277
+    pneumonia see Pneumonia
+    upper respiratory tract, 243, 278–279
+    whooping cough (pertussis), 166, 266, 282
+    see also Specific infection
+Respiratory syncytial virus (RSV), 166–167, 277, 282
+Respiratory system examination, 17–18
+Resuscitation
+    cardiopulmonary, 81–82
+    diaphragmatic hernia, 173
+    failure to respond, in neonate, 147
+    fluids, 87
+    near-drowning, 101
+    neonatal, 143–147, 144f–146f
+Retina, development, 44
+Retinal haemorrhages, 24–27
+Retinoblastoma, 377, 377f
+Retinoids, 133
+Retinopathy, and toxoplasmosis, 141
+Retinopathy of prematurity (ROP), 77, 165–166, 167f
+Reye syndrome, 360–361
+Reynell language scale, 41, 57
+Rhabdomyosarcoma, 375
+Rhesus haemolytic disease, 169, 171
+Rhesus isoimmunisation, 136
+Rheumatic fever, 321–322
+    Jones criteria, 322f
+Rhinoconjunctivitis, 275, 275b
+Ribavirin, 257
+Rickets, 213–215
+    1,25(OH)₂D₃ defective production/target organ resistance to, 214
+    intestinal malabsorption, 214
+    nutritional, 214–215
+    and seizures, 215
+Rifampicin, 245, 260, 282
+Rights, 74
+    see also Children’s rights
+Right-to-left shunts, 301, 310–314
+Ringworm, 428–429
+Ritualistic and repetitive behaviour, in autistic spectrum disorder, 57
+Ro (SS-A) antigen, 139
+Road traffic accidents (RTAs), 98–99
+Robertsonian translocation, 117, 118f
+Roseola infantum, 255
+Rotavirus infection, 229
+Royal Society for the Prevention of Accidents, 98
+Rubella, 133, 140–141, 257
+Russell-Silver syndrome, 187, 188f–189f
+
+S
+
+Salbutamol, 289
+    intravenous, 292–293
+Salmeterol, 289
+Scabies, 429
+Scalded skin syndrome, 250, 250f
+Scalds, 97, 99–101
+    child abuse, 109f, 112
+Schedule of Growing Skills, 41
+School Action/School Action Plus, 65
+School refusal, 416
+Schools, 4
+Scoliosis, 454–455
+Sedatives, during labour, 140
+Seizures, 472–473
+    causes, 472b
+    epilepsies of childhood see Epilepsies of childhood
+    febrile, 472
+    focal, 474
+    frontal, 474
+    generalised, 474
+    investigation, 474–475
+    management of, 475–477
+    in newborn, 176
+    occipital, 474
+    parietal lobe, 474
+    paroxysmal disorders, 473
+    reflex anoxic, 474b
+    and rickets, 215
+    temporal lobe, 474
+Self-esteem, 407
+SENCO (special educational needs coordinator), 65
+Sensation, neurological examination, 23
+Sensorineural hearing loss, 59, 60b, 60f
+Sepsis, 173–174
+Septic arthritis, 461–462
+Septicaemia, 88, 88b, 243
+    and coma, 90f
+    meningococcal, 75, 88, 245, 248
+Sequence birth defects, 127
+Seriously ill child, 81, 82f–83f
+    coping with illness, 407–408
+    with fever see Febrile child
+    outflow obstruction, 301, 318–320
+    severity of illness, 242
+    stabilising, 159, 160b
+Seriously injured child, 82, 86f
+Serotonin agonists, 471
+Serratia sp., 174
+Sexual abuse, 107, 111, 330
+Sexual development, premature, 193–195
+Sexual health, 499–500
+Shaken baby syndrome, 24–27
+Shigella, 229, 344
+Shingles (herpes zoster), 253
+Shock, 86–87
+    case history, 305
+Short stature, 186–190
+    assessment of child with, 191f
+    causes, 186–187, 188f–189f
+    disproportionate, 187
+    endocrine factors, 186–187
+    examination and investigation, 187
+    extreme, 187
+    familial, 186–187

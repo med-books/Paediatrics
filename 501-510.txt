@@ -1,0 +1,338 @@
+501
+
+Summary
+
+The main health problems of adolescents
+
+Common acute illnesses
+
+Chronic illness and disability, including previously fatal congenital disorders
+
+Somatic symptoms:
+• Fatigue, headache, backache and abdominal pain (see Ch. 23)
+
+Mental health problems (see Ch. 23)
+
+Health-risk behaviours:
+• Smoking, drinking, drug abuse, road traffic accidents (see Chs 1 and 23)
+
+Sexual health:
+• Sexually transmitted infections, contraception, teenage pregnancy
+
+Eating disorders (see Ch. 23) and obesity (see Ch. 12)
+
+• Health promotion by professionals. Exhorting adolescents not to smoke, to eat a balanced diet, use contraception, etc., has not been found to be effective, and may be counter-productive. Health professionals do have a role in health promotion at an individual level. It is likely to be most effective if targeted at those who are receptive or contemplating change in their health-risk behaviour. However, motivational interviewing techniques (which do not assume that they are ready to change their behaviour, but aim to increase their intrinsic motivation to change) have also been shown to be useful with this age group.
+
+Further reading
+
+Not Just a Phase: A Guide to the Participation of Children and Young People in Health Services, London, 2010, Royal College of Paediatrics and Child Health (RCPCH).
+
+Viner R: ABC of Adolescence, London, 2005, BMJ Books.
+
+Websites (Accessed May 2011)
+
+Teenage Health Freak: Available at: http://www.teenagehealthfreak.org.
+
+Youth Health Talk: Available at: http://www.youthhealthtalk.org.
+
+
+502
+
+This page intentionally left blank
+
+
+503
+
+Appendix
+
+Growth charts — 503
+Gestational age assessment of newborn infants — 507
+Management plan for asthma — 508
+Blood pressure chart — 509
+Peak flow chart — 509
+Normal ranges: haematology — 509
+
+Growth charts
+
+Examples of growth charts used in the UK for:
+• low birthweight males (A.1a) and females (A.1b)
+• 0–1 years, boys (A.1c) and girls (A.1d)
+• 1–4 years, boys (A.1e) and girls (A.1f)
+• Birth–20 years, boys (A.1g).
+
+[Growth-chart labels, centile lines, axis values, and date-box text appear in the scanned chart.]
+
+Figure A.1 Growth charts for low birthweight males (A.1a) and females (A.1b). (RCPCH/WHO/Department of Health. ©2009 Department of Health.)
+
+
+504
+
+BOYS — 0–1 year
+GIRLS — 0–1 year
+Preterm
+Age in weeks/months
+Birth Head Circumference
+Head Circumference (cm)
+Gestation in weeks
+Birth Weight
+Weight (kg)
+
+Plotting preterm infants:
+Use the low birthweight chart for infants less than 32 weeks gestation and any other infants requiring detailed assessment.
+Use this section for infants of less than 37 weeks gestation. As with term infants there may be some weight loss in the early days.
+From 42 weeks, plot on the 0–1 year chart with gestational correction.
+
+Gestational correction:
+Plot actual age then draw a line back the number of weeks the infant was preterm and mark the spot with an arrow; this is the gestationally corrected centile.
+
+Some degree of weight loss is common after birth. Calculating the percentage weight loss is a useful way to identify babies who need assessment.
+
+Figure A.1, cont’d Growth charts 0–1 year Boys (A.1c) Girls (A.1d). (RCPCH/WHO/Department of Health. ©2009 Department of Health.)
+
+
+505
+
+BOYS — 1–4 years
+GIRLS — 1–4 years
+Age in months/years
+Adult Height Prediction
+
+Measure length until age 2; measure height after age 2. A child’s height is usually slightly less than their length.
+
+Plot child’s height centile on the blue lines above; the black numbers show average male adult height for this centile; 80% of children will be within ±6 cm of this value.
+
+Plot child’s height centile on the pink lines above; the black numbers show average female adult height for this centile; 80% of children will be within ±6 cm of this value.
+
+Figure A.1, cont’d Growth charts 1–4 years Boys (A.1e) Girls (A.1f). (RCPCH/WHO/Department of Health. ©2009 Department of Health.)
+
+
+506
+
+Boys 0–20 yrs
+
+D.O.B. NHS No.
+
+HEIGHT
+WEIGHT
+
+Penis stage
+Pubic hair stage
+Testes volume
+
+Trace growth curves from charts 1–3 and obtain 2–15 yrs head circumference chart if appropriate.
+
+Figure A.1, cont’d Growth chart of males from birth to 20 years using the nine centile UK chart (A.1g). The interval between each pair of centile lines is the same (⅔ standard deviation). It shows the 0.4 and 99.6 centile lines, which are 2⅔ standard deviations below and above the median respectively. It also shows the timing of the stages of puberty. (Chart ©Child Growth Foundation.)
+
+
+507
+
+Gestational age assessment of newborn infants
+
+Neuromuscular maturity
+
+Posture
+Square window (wrist)
+Arm recoil
+Popliteal angle
+Scarf sign
+Heel to ear
+
+Physical maturity
+
+Skin
+Sticky, friable, transparent
+Gelatinous, red, translucent
+Smooth pink, visible veins and/or rash
+Superficial peeling and/or rash, few veins
+Cracking, pale areas, rare veins
+Parchment, deep cracking, no vessels
+Leatherly, cracked, wrinkled
+
+Lanugo
+None; Sparse; Abundant; Thinning; Bald areas; Mostly bald
+
+Plantar surface
+Heel-toe 40–50 mm: –1; <40 mm: –2
+>50 mm no crease
+Faint red marks
+Anterior transverse crease only
+Creases ant. 2/3
+Creases over entire sole
+
+Breast
+Imperceptible
+Barely perceptible
+Flat areola, no bud
+Stippled areola, 1–2 mm bud
+Raised areola, 3–4 mm bud
+Full areola, 5–10 mm bud
+
+Eye/ear
+Lids fused loosely: –1; tightly –2
+Lids open; Pinna flat, stays folded
+Sl. curved pinna; soft; slow recoil
+Well-curved pinna; soft but ready recoil
+Formed and firm, instant recoil
+Thick cartilage, ear stiff
+
+Genitalia male
+Scrotum flat, smooth
+Scrotum empty, faint rugae
+Testes in upper canal, rare rugae
+Testes descending, few rugae
+Testes down, good rugae
+Testes pendulous, deep rugae
+
+Genitalia female
+Clitoris prominent, labia flat
+Prominent clitoris, small labia minora
+Prominent clitoris, enlarging minora
+Majora and minora equally prominent
+Majora large, minora small
+Majora cover clitoris and minora
+
+Maturity rating
+Score / Weeks:
+–10 / 20
+–5 / 22
+0 / 24
+5 / 26
+10 / 28
+15 / 30
+20 / 32
+25 / 34
+30 / 36
+35 / 38
+40 / 40
+45 / 42
+50 / 44
+
+Figure A.2 Scoring system for assessment of gestational age in newborn infants (Ballard score). This is a method of assessing gestational age according to neuromuscular and physical maturity. The infant’s gestation or age (±2 weeks) is determined from the total score using the conversion chart. (Adapted from: Ballard JL, Khoury JC, Wedig K, et al. 1991. New Ballard score, expanded to include extremely premature infants. Journal of Pediatrics 119:417–423.)
+
+
+508
+
+Management plan for asthma
+
+Green zone – GO
+
+Your asthma is under control if:
+• your breathing feels good
+• you do not have a cough or wheeze
+• you can take part in normal activities and play games / sport.
+• your are sleeping through the night
+• you are not missing school because of your asthma
+
+Peak Flows are between:
+…………………………………
+…………………………………
+
+Green zone action –
+Your normal medicines are:
+Preventer
+…………………………………
+…………………………………
+
+Other Medicines
+…………………………………
+…………………………………
+
+Reliever
+…………………………………
+as required.
+
+Remember: If necessary take this before exercise or if you have cold-like symptoms. Take 2–4 puffs every 4 hours if you need it. If there is no improvement, move to the Amber zone.
+
+Amber zone – WARNING
+
+Your asthma is getting worse if you:
+• wake at night with asthma symptoms
+• have a cough, wheeze or ‘tight’ chest
+• need to use the reliever inhaler once a day, more than usual or it is not lasting for four hours.
+
+Peak Flows are between:
+…………………………………
+…………………………………
+
+Amber zone action –
+Take all medicines as normal.
+
+Take 4–10 puffs of reliever – one puff at a time as taught. Use a spacer if you have one and shake the MDI in between puffs. Take every four hours if needed.
+
+• If no improvement – make an appointment to see your doctor for that day.
+• If you have a Symptom/Peak Flow Diary – start filling it in and take it with you to the doctor.
+
+Or
+
+Start your home prednisolone …….mgs daily, if you have it. See your doctor if you are not better after 12 hours.
+
+Remember: If no better after 10 puffs of reliever, move to Red zone.
+
+Red zone – DANGER
+
+Your asthma is severe if after taking 10 puffs of reliever you:
+• are still breathing hard and fast
+• can’t talk or feed easily
+• are exhausted
+• are frightened and look anxious
+• are very pale/grey/blue in colour
+
+Peak Flow reading (if able) below:
+…………………………………
+…………………………………
+
+Red zone action –
+Call an ambulance now
+
+• Keep taking one puff of reliever every 20–30 seconds or 4 slow breaths or, if you have one, nebulized reliever with oxygen until the ambulance arrives.
+• Take a dose of oral steroids if not already taken.
+• Don’t move about
+• Keep calm
+
+Figure A.3 Example of patient management plan for asthma.
+
+
+509
+
+Blood pressure chart
+
+Systolic blood pressure
+
+Male
+Female
+
+95th centile
+50th centile
+5th centile
+
+Days — Weeks — Years
+
+Figure A.4 Systolic blood pressure according to age. Blood pressure charts are also available according to height. (Data from: de Swiet M, Fayers P, Shinebourne EA. 1980. Blood pressure in a population of infants in the first year of life: the Brompton Study. Pediatrics 65:1028–1035 and de Man SA, Andre JL, Bachmann H et al. 1991. Blood pressure in childhood: pooled findings of six European studies. Journal of Hypertension 9:109–114.)
+
+Peak flow chart
+
+Peak flow rate (L/min)
+95th centile
+50th centile
+5th centile
+Height (cm)
+
+Figure A.5 The normal range of peak flow measurements according to height. (Reproduced with permission from: Godfrey S, Kamburoff PL, Nairn JR. 1970. Spirometry, lung volumes and airway resistance in normal children aged 5 to 18 years. British Journal of Diseases of the Chest 64:15–24.)
+
+Normal ranges: haematology
+
+Age | Hb (g/dl) | MCV (fL) | WBC (×10⁹/L) | Platelets (×10⁹/L)
+Birth | 14.5–21.5 | 100–135 | 10–26 | 150–450 at all ages
+2 weeks | 13.4–19.8 | 88–120 | 6–21
+2 months | 9.4–13.0 | 84–105 | 6–18
+1 year | 11.3–14.1 | 71–85 | 6–17.5
+2–6 years | 11.5–13.5 | 75–87 | 5–17
+6–12 years | 11.5–15.5 | 77–95 | 4.5–14.5
+12–18 years:
+  Male | 13.0–16.0 | 78–95 | 4.5–13
+  Female | 12.0–16.0 | 78–95 | 4.5–13
+
+
+510
+
+This page intentionally left blank

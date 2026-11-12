@@ -1,0 +1,463 @@
+PDF PAGE 1 — PRINTED PAGE 481
+
+Figure 27.7 Spinal muscular atrophy type 1 (Werdnig–Hoffmann disease) showing proximal muscle wasting, chest deformity from weakness of the intercostal muscles and thighs held abducted because of hypotonia.
+
+Figure 27.8 Bell palsy. There is right facial weakness of both the upper and lower face.
+
+Spinal muscular atrophy type 1 (Werdnig–Hoffmann disease)
+
+A very severe progressive disorder presenting in early infancy (Fig. 27.7). Diminished fetal movements are often noticed during pregnancy and there may be arthrogryposis (positional deformities of the limbs with contractures of at least two joints) at birth. Typical signs include:
+
+• Lack of antigravity power in hip flexors
+• Absent deep tendon reflexes
+• Intercostal recession
+• Fasciculation of the tongue.
+
+These children never sit unaided. Death is from respiratory failure within about 12 months. There are milder forms of the disorder with a later onset. Children with type 2 spinal muscular atrophy can sit, but never walk independently. Those with type 3 (Kugelberg–Welander) do walk and can present later in life.
+
+Peripheral neuropathies
+
+The hereditary motor sensory neuropathies (HMSN)
+
+This group of disorders typically leads to symmetrical, slowly progressive muscular wasting, which is distal rather than proximal. Type I, formerly known as peroneal muscular atrophy (Charcot–Marie–Tooth disease), is usually dominantly inherited and the most common. Affected nerves may be hypertrophic due to demyelination followed by attempts at remyelination. Nerve biopsy typically shows ‘onion bulb formation’ due to these two processes. Onset is in the first decade with distal atrophy and pes cavus, the legs being affected more than the arms. Rarely, there may be distal sensory loss and the reflexes are diminished. The disease is chronic and only rarely do those affected lose the ability to walk. The initial presentation of Friedreich ataxia can be similar.
+
+Acute post-infectious polyneuropathy (Guillain–Barré syndrome)
+
+Presentation is typically 2–3 weeks after an upper respiratory tract infection or campylobacter gastroenteritis. There may be fleeting abnormal sensory symptoms in the legs, but the prominent feature is an ascending symmetrical weakness with loss of reflexes and autonomic involvement. Sensory symptoms, usually in the distal limbs, are less striking than the paresis but can be unpleasant. Involvement of bulbar muscles leads to difficulty with chewing and swallowing and the risk of aspiration. Respiratory depression may require artificial ventilation. The maximum muscle weakness may occur only 2–4 weeks after the onset of illness. Although full recovery may be expected in 95% of cases, this may take up to 2 years.
+
+The CSF protein is characteristically markedly raised, but this may not be seen until the second week of illness. The CSF white cell count is not raised. Nerve conduction velocities are reduced.
+
+Management of post-infectious polyneuropathy is supportive, particularly of respiration. The disorder is probably due to the formation of antibody attaching itself to protein components of myelin. Corticosteroids have no beneficial effect and may delay recovery. Controlled trials indicate the ventilator-dependent period can be significantly reduced by immunoglobulin infusion. If this is not successful, plasma exchange may be effective.
+
+Bell palsy and facial nerve palsies
+
+Bell palsy is an isolated lower motor neurone paresis of the VIIth cranial nerve leading to facial weakness (Fig. 27.8). Although the aetiology is unclear, it is probably post-infectious with an association with herpes simplex virus in adults. Corticosteroids may be of value in reducing oedema in the facial canal during the first week; no benefit from aciclovir has been
+
+
+PDF PAGE 2 — PRINTED PAGE 482
+
+demonstrated. Recovery is complete in the majority of cases but may take several months. The main complication is conjunctival infection due to incomplete eye closure on blinking. This may require the eye to be protected with a patch or even tarsorrhaphy.
+
+There is an important differential diagnosis. If symptoms of an VIIIth nerve paresis are also present then the most likely diagnosis is a compressive lesion in the cerebellopontine angle. The herpes virus may invade the geniculate ganglion and give painful vesicles on the tonsillar fauces and external ear, along with a facial nerve paresis. Treatment for this is with aciclovir.
+
+Hypertension should be excluded, as there is an association between Bell palsy and coarctation of the aorta. If the facial weakness is bilateral, sarcoidosis should be suspected, and this is also seen in Lyme disease.
+
+Disorders of neuromuscular transmission
+
+Myasthenia gravis
+
+This presents as abnormal muscle fatiguability which improves with rest or anticholinesterase drugs.
+
+Transient neonatal myasthenia
+
+This is described in Chapter 9.
+
+Juvenile myasthenia
+
+This is similar to adult autoimmune myasthenia and is due to binding of antibody to acetylcholine receptors on the post-junctional synaptic membrane. This gives a reduction of the number of functional receptors. Presentation is usually after 10 years of age with ophthalmoplegia and ptosis, loss of facial expression and difficulty chewing (Fig. 27.9). Generalised, especially proximal, weakness may be seen.
+
+Diagnosis is made by observing improvement following the administration of intravenous edrophonium and can be further confirmed by testing for acetylcholine receptor antibodies (seen in 60–80%) or, more rarely, anti-muscle-specific kinase (anti-MuSK) antibodies. Treatment is with the anti-muscarinic drugs neostigmine or pyridostigmine. In the longer term, immunosuppressive therapy with prednisolone or azathioprine is of value. Plasma exchange is used for crises. Thymectomy is considered if a thymoma is present or if the response to medical therapy is unsatisfactory. About a quarter will show remission post thymectomy and up to half show some improvement.
+
+Figure 27.9 Myasthenia gravis showing ptosis from ocular muscle fatigue which improved with edrophonium.
+
+Muscle disorders
+
+The muscular dystrophies
+
+This is a group of inherited disorders with muscle degeneration, often progressive.
+
+Duchenne muscular dystrophy
+
+Duchenne muscular dystrophy is the most common phenotype, affecting 1 in 4000 male infants. It is inherited as an X-linked recessive disorder, although about a third have new mutations. It results from a deletion on the short arm of the X chromosome (at the Xp21 site). This site codes for a protein called dystrophin, which connects the cytoskeleton of a muscle fibre to the surrounding extracellular matrix through the cell membrane. Where it is deficient, there are several aberrant intracellular signalling pathways associated with an influx of calcium ions, a breakdown of the calcium calmodulin complex and an excess of free radicals, ultimately leading to myofibre necrosis. The serum creatine phosphokinase (CPK) is markedly elevated. Some countries, e.g. Wales, have introduced neonatal screening for Duchenne dystrophy; affected children are detected in the neonatal screening test by an elevated CPK.
+
+Children present with a waddling gait and/or language delay; they have to mount stairs one by one and run slowly compared to their peers. Although the average age of diagnosis remains 5.5 years, children often become symptomatic much earlier. They will show Gowers sign (the need to turn prone to rise). There is pseudohypertrophy of the calves because of replacement of muscle fibres by fat and fibrous tissue.
+
+In the early school years, affected boys tend to be slower and clumsier than their peers. The progressive muscle atrophy and weakness means that they are no longer ambulant by the age of about 10–14 years. Life expectancy is reduced to the late twenties from respiratory failure or the associated cardiomyopathy. About one-third of affected children have learning difficulties. Scoliosis is a common complication.
+
+Management – Appropriate exercise helps to maintain muscle power and mobility and delays the onset of scoliosis. Contractures, particularly at the ankles, should be prevented by passive stretching and the provision of night splints. Walking can be prolonged with the provision of orthoses, in particular those which allow ambulation by leaning from side to side. Lengthening of the Achilles tendon may be required to facilitate ambulation. Attention to maintaining a good sitting posture helps to minimise the risk of scoliosis. Scoliosis is managed with a truncal brace, a moulded seat and ultimately surgical insertion of a metal spinal rod. Later in the condition, episodes of nocturnal hypoxia secondary to weakness of the intercostal muscles may present with lassitude or irritability. Respiratory aids, particularly overnight CPAP (continuous
+
+
+PDF PAGE 3 — PRINTED PAGE 483
+
+positive airway pressure) or non-invasive positive pressure ventilation (NIPPV), may be provided to improve the quality of life. As with all chronic disabling conditions, parent self-help groups are a useful continuing source of information and support for families. Affected children should be reviewed periodically at a specialist regional centre. Ambulant children with Duchenne dystrophy are increasingly treated with corticosteroids (prednisolone for 10 days each month) to preserve mobility and prevent scoliosis. The precise mechanism by which glucocorticoids may help is not known.
+
+It may be possible to identify female carriers if they have a mildly raised CPK or if the gene deletion can be detected on DNA analysis. Antenatal diagnosis is then possible.
+
+Becker muscular dystrophy
+
+In Becker dystrophy some functional dystrophin is produced. The features are similar to those of Duchenne dystrophy but clinically the disease progresses more slowly. The average age of onset is 11 years, inability to walk in the late twenties, with life expectancy being from the late forties to normal.
+
+Congenital muscular dystrophies
+
+This is a heterogeneous group of disorders, most with recessive inheritance, which present at birth or early infancy with weakness, hypotonia or contractures. Typically the proximal weakness is slowly progressive with a tendency to contracture when the ability to walk is lost. Some may run a more static course. Biopsy shows dystrophic features with a reduction of one of the extracellular matrix proteins such as laminin (most common); or one of several glycosyltransferases. These dystrophies may be linked with central nervous abnormalities, which may result in learning difficulties.
+
+Congenital myopathies
+
+These present at birth or in infancy with generalised hypotonia and muscle weakness. They are static or slowly progressive. They are named according to the changes seen on muscle biopsy or electron microscopy. Creatine phosphokinase levels are normal or only mildly elevated.
+
+Metabolic myopathies
+
+Metabolic conditions can affect muscles, due either to the deposition of storage material or to energy-depleting enzyme deficiencies. Presentation is as a floppy infant or, in older children, with muscle weakness or cramps on exercise. The main causes are:
+
+• Glycogen storage disorders (see Ch. 25).
+• Disorders of lipid metabolism. Fatty acids are important muscle fuel. Fatty acid oxidation occurs in the mitochondria and defects in this pathway can result in weakness. Carnitine is essential to supply long-chain fatty acids to the mitochondria for breakdown, and carnitine deficiency causes weakness.
+• Mitochondrial cytopathies. Rare disorders which are coded as maternally inherited mitochondrial DNA. Myopathy may be the major manifestation or the disorder may be multisystem, with lactic acidosis and encephalopathy. Mitochondrial DNA testing is available.
+
+Figure 27.10 Heliotrope rash in dermatomyositis.
+
+The inflammatory myopathies
+
+Benign acute myositis
+
+This is assumed to be a post-viral phenomenon, as it often follows an upper respiratory tract infection and runs a self-limiting course. Pain and weakness occur in affected muscles. CPK is usually raised.
+
+Dermatomyositis
+
+This is a systemic illness, probably due to an angiopathy. Usual onset is between 5 and 10 years. This can be acute, but more typically is insidious with fever, misery, and eventually symmetrical muscle weakness, which is mainly proximal. Sometimes pharyngeal muscle involvement affects swallowing. There is also a characteristic violaceous (heliotrope) rash to the eyelids, and periorbital oedema (Fig. 27.10). The rash may also affect the extensor surfaces of joints, e.g. elbow, and with time subcutaneous calcification can appear. Inflammatory markers (CRP, ESR) can be raised but not invariably. Muscle biopsy shows an inflammatory cell infiltrate and atrophy. Physiotherapy is needed to prevent contractures. Corticosteroids are the standard treatment, and continue at a tailored dose for 2 years. Other immunosuppressants, e.g. methotrexate, ciclosporin, may be needed. Mortality is 5–10%.
+
+Myotonic disorders
+
+Myotonia is delayed relaxation after sustained muscle contraction. It can be identified clinically and on electromyography.
+
+Dystrophia myotonica
+
+This relatively common illness is dominantly inherited and caused by a nucleotide triplet repeat expansion, so this means there can be anticipation through generations, especially when maternally transmitted (see Ch. 8). Newborns can present with hypotonia and feeding and respiratory difficulties due to muscle weakness. It is then useful to examine the mother for myotonia. This manifests as slow release of handshake or difficulty releasing the tightly clasped fist. This may be mild and not have been appreciated. Sensitivity is required as diagnosis in the neonate may have repercussions for the family. Older children can present with myopathic facies (Fig. 27.11), learning difficulties and myotonia. Adults develop cataracts and males develop baldness and testicular atrophy. Death is usually due to cardiomyopathy.
+
+
+PDF PAGE 4 — PRINTED PAGE 484
+
+Figure 27.11 Dystrophia myotonica in an 8-year-old who has marked facial weakness and moderately severe learning difficulties.
+
+The ‘floppy infant’
+
+Persisting hypotonia in infants can be readily felt on picking up the infant, who tends to slip through the fingers or hang like a rag doll when suspended prone. There will be marked head lag when the head is lifted by the arms from supine. The causes are listed in Box 27.3. The clinical examination may help determine the site of the lesion, whether cortical or neuromuscular. Central hypotonia is associated with poor truncal tone but preserved limb tone. Dysmorphic features suggest a genetic cause. Lower motor neurone lesions are suggested by a frog-like posture (Fig. 27.7), poor antigravity movements and absent reflexes.
+
+Box 27.3 Causes of the floppy (hypotonic) infant
+
+Central
+
+Cortical
+• Hypoxic-ischaemic encephalopathy
+• Cortical malformations
+
+Genetic
+• Down syndrome
+• Prader–Willi syndrome
+
+Metabolic
+• Hypothyroidism
+• Hypocalcaemia
+
+Peripheral
+
+Neuromuscular
+• Spinal muscular atrophy
+• Myopathy
+• Myotonia
+• Congenital myasthenia.
+
+Summary
+
+Neuromuscular disorders
+
+• Present with muscle weakness, which may manifest with floppiness, delayed motor milestones, unsteady gait or muscle fatiguability
+• Anterior horn cell – spinal muscular atrophy: progressive weakness and wasting of skeletal muscles; tongue fasciculation may aid diagnosis
+• Peripheral nerve
+  – Hereditary motor sensory neuropathies (HMSN): symmetrical wasting of the distal muscles
+  – Acute post-infectious polyneuropathy (Guillain–Barré syndrome): ascending symmetrical weakness; may be bulbar palsy and respiratory depression
+• Neuromuscular transmission – juvenile myasthenia: >10 years old, ophthalmoplegia and ptosis, loss of facial expression and difficulty chewing
+• Muscle – Duchenne muscular dystrophy: X-linked recessive, presents with waddling gait and difficulty climbing stairs
+
+Ataxia
+
+Friedreich ataxia
+
+This is an autosomal recessive condition. The gene mutation (Frataxin) is an example of a trinucleotide repeat disorder. It presents with worsening ataxia, distal wasting in the legs, absent lower limb reflexes but extensor plantar responses because of pyramidal involvement, pes cavus and dysarthria. This is similar to the hereditary motor sensory neuropathies, but in Friedreich ataxia, there is impairment of joint position and vibration sense, extensor plantars and there is often optic atrophy. The cerebellar component becomes more apparent with age. Evolving kyphoscoliosis and cardiomyopathy can cause cardiorespiratory compromise and death at 40–50 years.
+
+Ataxia telangiectasia
+
+This disorder of DNA repair is an autosomal recessive condition. The gene (ATM) has been identified. There may be mild delay in motor development in infancy and oculomotor problems with incoordination and delay in ocular pursuit of objects (oculomotor dyspraxia), with difficulty with balance and coordination becoming evident at school age. There is subsequent deterioration, with a mixture of dystonia and cerebellar signs. Many children require a wheelchair for mobility in early adolescence. Telangiectasia develops in the conjunctiva (Fig. 27.12), neck and shoulders from about 4 years of age. These children:
+
+• Have an increased susceptibility to infection, principally from an IgA surface antibody defect
+• Develop malignant disorders, principally acute lymphoblastic leukaemia (about 10%)
+• Have a raised serum alpha-fetoprotein
+
+
+PDF PAGE 5 — PRINTED PAGE 485
+
+Figure 27.12 Telangiectasia of the conjunctiva are present from about 4 years of age in ataxia telangiectasia.
+
+• Have an increased white cell sensitivity to irradiation, which can be used diagnostically, but the ATM gene test is now mostly used.
+
+Other hereditary cerebellar ataxias
+
+There is a growing number of these, largely dominantly inherited (genotypes identified), with a relatively benign course in childhood.
+
+Summary
+
+Cerebellar ataxia
+
+• Causes – medication and drugs, varicella infection, posterior fossa lesions or tumours, genetic and degenerative disorders, e.g. ataxic cerebral palsy, Friedreich ataxia and ataxia telangiectasia.
+
+Cerebrovascular disease
+
+Intracranial haemorrhage
+
+Extradural haemorrhage
+
+This usually follows direct head trauma, often associated with skull fracture (tearing of middle meningeal artery as it passes through the foramen spinosum of the sphenoid bone). It results from arterial or venous bleeding into the extradural space. There is often a lucid interval until the conscious level deteriorates, with seizures, secondary to increasing size of the haematoma. There may be focal neurological signs with dilatation of the ipsilateral pupil, paresis of the contralateral limbs and a false localising uni- or bilateral VIth nerve paresis. In young children, initial presentation may be with anaemia and shock. The diagnosis is confirmed with a CT scan. Management is to correct hypovolaemia, urgent evacuation of the haematoma and arrest of the bleeding.
+
+Subdural haematoma
+
+This results from tearing of the veins as they cross the subdural space. It is a characteristic lesion in non-accidental injury caused by shaking or direct trauma in infants or toddlers. Retinal haemorrhages are usually present. There has been recent controversy surrounding the relative contributions of direct trauma, shearing injury and hypoxia. Subdural haematomas are occasionally seen following a fall from a considerable height.
+
+Subarachnoid haemorrhage
+
+This is much more common in adults. Presentation is usually with acute onset of head pain, neck stiffness and occasionally fever. Retinal haemorrhage is usually present. Seizures and coma may develop. A CT scan of the head usually identifies blood in the CSF. A lumbar puncture in the acute situation is best avoided as haemorrhage may extend following the release of intracranial pressure. The cause is often an aneurysm or arteriovenous malformation (AVM). It can be identified on MR angiography (MRA), CT or conventional angiography. Treatment can be neurosurgical or with interventional radiography.
+
+Summary
+
+Cerebral haemorrhage
+
+• History of significant head injury – remember that an extradural haemorrhage may be present even if lucid afterwards
+• Subdural haematoma and retinal haemorrhages in an infant – consider non-accidental injury caused by shaking or direct trauma.
+
+Stroke
+
+Infantile stroke is dealt with in Chapter 10. Childhood stroke may be due to vascular, thromboembolic or haemorrhagic disease. The clinical presentation is determined by the vascular territory involved. There is compromise of the anterior circulation (internal carotid, anterior and middle cerebral arteries), which leads to hemiparesis with or without speech disturbance. Less common is compromise of the posterior circulation (vertebrobasilar arteries) with associated visual or cerebellar signs.
+
+Causes include:
+
+• Cardiac: congenital cyanotic heart disease, e.g. Fallot tetralogy, endocarditis
+• Haematological: sickle cell disease; deficiencies of anti-thrombotic factors, e.g. protein S
+• Post-infective: following varicella or other viral infection
+• Inflammatory: damage to vessels in autoimmune disease, e.g. SLE (systemic lupus erythematosus)
+• Metabolic/genetic: homocystinuria, mitochondrial disorders, e.g. MELAS (myoclonic epilepsy, lactic acidosis and stroke); CADASIL (cerebral autosomal dominant arteriopathy with subcortical infarcts
+
+
+PDF PAGE 6 — PRINTED PAGE 486
+
+and leukoencephalopathy), the most common form of hereditary stroke disorder
+• Vascular malformations: moyamoya disease. These children have abnormal vasculature. Moyamoya comes from the Japanese for ‘puff of smoke’, similar to the blurred appearance seen on angiography.
+
+Investigations should include an assessment of cerebral vasculature with MRI and MRA and carotid Doppler studies to rule out dissection of the carotid arteries (formal angiography may be required later); echocardiography to detect a source of embolism, along with a thrombophilia and vasculitis screen, and metabolic tests for homocysteine and mitochondrial cytopathy. Often no cause can be identified. Rehabilitation requires the involvement of the remedial therapy team. Aspirin prophylaxis is recommended but further evidence is needed on the advisability of anti-thrombolytic agents.
+
+Summary
+
+Strokes
+
+• Occur in infants and children
+• Occur in the antenatal or perinatal period, and may present in late infancy with a hemiplegia or at the time with seizures
+• Are most often seen in association with cardiac or sickle cell disease, but varicella infection is another cause.
+
+Neural tube defects and hydrocephalus
+
+Neural tube defects
+
+Neural tube defects result from failure of normal fusion of the neural plate to form the neural tube during the first 28 days following conception. Their birth prevalence in the UK has fallen dramatically from 4 per 1000 live births in the 1970s to 0.15 per 1000 live births in 1998 and to 0.11 per 1000 live births in 2005 (Fig. 27.13). This is mainly because of a natural decline, as well as antenatal screening.
+
+The reason for the natural decline is uncertain, but may be associated with improved maternal nutrition. Mothers of a fetus with a neural tube defect have a 10-fold increase in risk of having a second affected fetus. Folic acid supplementation reduces this risk. High doses are now recommended periconceptually for women with a previously affected infant planning a further pregnancy. Low-dose periconceptual folic acid supplementation is recommended for all pregnancies. In some countries e.g. United States, folic acid is added to flour for bread.
+
+Anencephaly
+
+This is failure of development of most of the cranium and brain. Affected infants are stillborn or die shortly after birth. It is detected on antenatal ultrasound screening and termination of pregnancy is usually performed.
+
+Encephalocele
+
+There is extrusion of brain and meninges through a midline skull defect, which can be corrected surgically. However, there are often underlying associated cerebral malformations.
+
+Spina bifida occulta
+
+This failure of fusion of the vertebral arch (Fig. 27.14a) is often an incidental finding on X-ray, but there may be an associated overlying skin lesion such as a tuft of hair, lipoma, birth mark or small dermal sinus, usually in the lumbar region. There may be underlying tethering of the cord (diastematomyelia), which, with growth, may cause neurological deficits of bladder function and lower limbs. The extent of the underlying lesion can be delineated using ultrasound and/or MRI scans. Neurosurgical relief of tethering is usually indicated.
+
+Meningocele and myelomeningocele
+
+Meningoceles (Fig. 27.14b) usually have a good prognosis following surgical repair.
+
+Myelomeningoceles (Figs 27.14c, 27.15) may be associated with:
+
+• Variable paralysis of the legs
+• Muscle imbalance, which may cause dislocation of the hip and talipes
+• Sensory loss
+• Bladder denervation (neuropathic bladder)
+• Bowel denervation (neuropathic bowel)
+• Scoliosis
+• Hydrocephalus from the Chiari malformation (herniation of the cerebellar tonsils and brainstem tissue through the foramen magnum), leading to disruption of CSF flow.
+
+Management – The back lesion is usually closed soon after birth.
+
+Paralysis and muscle imbalance – physiotherapy helps prevent joint contractures. Walking aids or a wheelchair help mobility.
+
+For sensory loss – skin care is required to avoid the development of skin damage and ulcers.
+
+Neuropathic bladder – an indwelling catheter may be required for a neurogenic bladder, or intermittent urinary catheterisation may be performed by parents or by older children themselves. There should be regular checks for hypertension, renal function and urinary infection. Prophylactic antibiotics may be necessary. Medication (such as ephedrine or oxybutynin) may improve bladder function and improve urinary dribbling.
+
+Bowel denervation – requires regular toileting, and laxatives and suppositories are likely to be necessary with a low roughage diet for lesions above L3.
+
+Scoliosis – is monitored and may require surgical treatment. Ventricular dilatation associated with a Chiari malformation – often present at birth and 80% of affected infants require a shunt for progressive hydrocephalus during the first few weeks of life.
+
+The most severely disabled have a spinal lesion above L3 at birth. They are unable to walk, have a scoliosis, neuropathic bladder, hydronephrosis and frequently develop hydrocephalus.
+
+Modern medical care has improved the quality of life for severely affected children. Their care is best managed by a specialist multidisciplinary team.
+
+Figure 27.13 The decline in the number of babies born with neural tube defects. This has resulted from a natural decrease together with antenatal diagnosis and termination of pregnancy.
+
+Graph labels: Neural tube defects; Birth prevalence (per 1000 births); Spina bifida; Anencephaly; Year; 1965, 1970, 1975, 1980, 1985, 1990, 1995; 0.0–2.2.
+
+Figure 27.14 Neural tube defects: (a) spina bifida occulta; (b) meningocele; (c) myelomeningocele.
+
+Diagram labels: (a) Spina bifida occulta; Hairy patch on skin; (b) Meningocele; Pia and arachnoid; Skin and dura; CSF; Nerve root; (c) Myelomeningocele; Neural plaque; Spinal cord; Skin.
+
+Figure 27.15 Myelomeningocele showing the exposed neural tissue and the patulous anus from neuropathic bowel.
+
+
+PDF PAGE 7 — PRINTED PAGE 487
+
+Hydrocephalus
+
+In hydrocephalus, there is obstruction to the flow of cerebrospinal fluid, leading to dilatation of the ventricular system proximal to the site of obstruction. The obstruction may be within the ventricular system or aqueduct (non-communicating or obstructive hydrocephalus), or at the arachnoid villi, the site of absorption of CSF (communicating hydrocephalus) (Box 27.4).
+
+Figure 27.16 Grossly enlarged head and downward deviation of the eyes (setting-sun sign) from untreated hydrocephalus.
+
+Figure 27.17 Ventriculoperitoneal shunt for drainage of symptomatic hydrocephalus. A sufficient length of shunt tubing is left in the peritoneal cavity to allow for the child’s growth. Right atrial catheters require revision with growth.
+
+Diagram labels: Burr hole; Reservoir; Valve; Peritoneal catheter (commonest); Right atrial catheter (uncommon); Extra length to allow for growth.
+
+Box 27.4 Causes of hydrocephalus
+
+Non-communicating (obstruction in the ventricular system)
+
+Congenital malformation
+• Aqueduct stenosis
+• Atresia of the outflow foramina of the fourth ventricle (Dandy–Walker malformation)
+• Chiari malformation
+
+Posterior fossa neoplasm or vascular malformation
+Intraventricular haemorrhage in preterm infant
+
+Communicating (failure to reabsorb CSF)
+
+Subarachnoid haemorrhage
+Meningitis, e.g. pneumococcal, tuberculous
+
+Some can cause both non-communicating and communicating hydrocephalus.
+
+Clinical features
+
+In infants with hydrocephalus, as their skull sutures have not fused, the head circumference may be disproportionately large or show an excessive rate of growth. The skull sutures separate, the anterior fontanelle bulges and the scalp veins become distended. An advanced sign is fixed downward gaze or sun setting of the eyes (Fig. 27.16). Older children will develop signs and symptoms of raised intracranial pressure.
+
+Hydrocephalus may be diagnosed on antenatal ultrasound screening or in preterm infants on routine cranial ultrasound scanning. For suspected hydrocephalus, initial assessment is with cranial ultrasound (in infants) or imaging with CT or MRI. Head circumference should be monitored over time on centile charts.
+
+Treatment is required for symptomatic relief of raised intracranial pressure and to minimise the risk of neurological damage. The mainstay is the insertion of a ventriculoperitoneal shunt (Fig. 27.17), but endoscopic treatment to create a ventriculostomy can now be performed. Shunts can malfunction due to blockage or infection (usually with coagulase-negative staphylococci). They then need replacing or revising. Overdrainage of fluid can cause low-pressure headaches but the insertion of regulatory valves can help avoid this.
+
+Summary
+
+Hydrocephalus
+
+• In infants, presents with excessive increase in head circumference, separation of skull sutures, bulging of the anterior fontanelle, distension of scalp veins and sun setting of the eyes
+• Older children present with raised intracranial pressure
+• Treatment is usually with a ventriculoperitoneal shunt.
+
+The neurocutaneous syndromes
+
+The nervous system and the skin have a common ectodermal origin. Embryological disruption causes syndromes involving abnormalities to both systems – the neurocutaneous syndromes.
+
+
+PDF PAGE 8 — PRINTED PAGE 488
+
+Neurocutaneous syndromes
+
+Figure 27.18 Café-au-lait patches and axillary freckling in neurofibromatosis.
+
+Figure 27.19 Adenoma sebaceum in tuberous sclerosis.
+
+Figure 27.20 Sturge–Weber syndrome. There is a port-wine stain in the distribution of the trigeminal nerve.
+
+Neurofibromatosis type 1 (NF1)
+
+This affects 1 in 3000 live births. It is an autosomal dominant, highly penetrant condition. One-third have new mutations. The gene has been identified.
+
+In order to make the diagnosis, two or more of these criteria need to be present:
+
+• Six or more café-au-lait spots >5 mm in size before puberty, >15 mm after puberty (Fig. 27.18)
+• More than one neurofibroma, an unsightly firm nodular overgrowth of any nerve
+• Axillary freckles (Fig. 27.18)
+• Optic glioma which may cause visual impairment
+• One Lisch nodule, a hamartoma of the iris seen on slit-lamp examination
+• Bony lesions from sphenoid dysplasia, which can cause eye protrusion
+• A first-degree relative with NF1.
+
+The cutaneous features tend to become more evident after puberty, and there is a wide spectrum of involvement from mild to severe. Neurofibromata appear in the course of any peripheral nerve, including cranial nerves. They may look unsightly or cause neurological signs if they occur at a site where a peripheral nerve passes through a bony foramen. Visual or auditory impairment may result if there is compression of the IInd or VIIIth cranial nerve. Megalencephaly with learning difficulties and epilepsy are sometimes seen.
+
+Neurofibromatosis type 2 (NF2; bilateral, acoustic or central) is less common and presents in adolescence. Bilateral acoustic neuromata are the predominant feature and present with deafness and sometimes a cerebellopontine angle syndrome with a facial (VIIth) nerve paresis and cerebellar ataxia.
+
+There may be an overlap between the features of NF1 and NF2. Both NF1 and NF2 can be associated with endocrinological disorders, the multiple endocrine neoplasia (MEN) syndromes.
+
+Other associations are phaeochromocytoma, pulmonary hypertension, renal artery stenosis with hypertension, and gliomatous change, particularly in central nervous system lesions. Rarely, the benign tumours undergo sarcomatous change. However, most people with the disorder carry no features other than the cutaneous stigmata.
+
+Tuberous sclerosis
+
+This disorder is a dominantly inherited disorder, but up to 70% are new mutations. Prevalence is 1 in 9000 live births.
+
+The cutaneous features consist of:
+
+• Depigmented ‘ash leaf’-shaped patches which fluoresce under ultraviolet light (Wood’s light)
+• Roughened patches of skin (shagreen patches) usually over the lumbar spine
+• Adenoma sebaceum (angiofibromata) in a butterfly distribution over the bridge of the nose and cheeks, which are unusual before the age of 3 years (Fig. 27.19).
+
+Neurological features are:
+
+• Infantile spasms and developmental delay
+• Epilepsy – often focal
+• Intellectual impairment.
+
+
+PDF PAGE 9 — PRINTED PAGE 489
+
+These children have severe learning difficulties and often have autistic features to their behaviour when older. Other features are:
+
+• Fibromata beneath the nails (subungual fibromata)
+• Dense white areas on the retina (phakomata) from local degeneration
+• Rhabdomyomata of the heart which are identifiable in the early weeks on echocardiography but usually resolve in infancy
+• Polycystic kidneys.
+
+As with neurofibromatosis, gliomatous change can occur in the brain lesions. Many people who carry the gene have no stigmata other than the cutaneous features and no associated neurological features.
+
+CT scans will detect the calcified subependymal nodules and tubers from the second year of life. MRI is more sensitive and more clearly identifies other tubers and lesions.
+
+Sturge–Weber syndrome
+
+This is a sporadic disorder with a haemangiomatous facial lesion (a port-wine stain) in the distribution of the trigeminal nerve associated with a similar lesion intracranially. The ophthalmic division of the trigeminal nerve is always involved (Fig. 27.20). Calcification of the gyri used to show characteristic ‘rail-road track’ calcification on skull X-ray, but MRI is the imaging modality of choice nowadays. In the most severe form, it may present with epilepsy, learning disability and hemiplegia. Children presenting with intractable epilepsy in early infancy may benefit from hemispherectomy. For children who are less severely affected, deterioration is unusual after the age of 5 years, although there may still be seizures and learning difficulties. There is a high risk of glaucoma, which should be assessed in the neonatal period.
+
+Summary
+
+The neurocutaneous syndromes
+
+Include neurofibromatosis, tuberous sclerosis and Sturge–Weber syndrome.
+
+Neurodegenerative disorders
+
+These are disorders that cause a deterioration in motor and intellectual function. Abnormal neurological features develop, including seizures, spasticity, abnormal
+
+Table 27.5 Lipid storage disorders
+
+Disorder | Enzyme defect | Clinical features
+
+Tay–Sachs disease | Hexosaminidase A | Autosomal recessive disorder. Most common among Ashkenazi Jews. Developmental regression in late infancy, exaggerated startle response to noise, visual inattention and social unresponsiveness. Severe hypotonia, enlarging head. Cherry red spot at the macula. Death by 2–5 years. Diagnosis – measurement of the specific enzyme activity. Carrier detection of high-risk couples is practised. Prenatal detection is possible.
+
+Gaucher disease | Beta-glucosidase | Occurs in 1 in 500 Ashkenazi Jews. Chronic childhood form – splenomegaly, bone marrow suppression, bone involvement, normal IQ. Splenectomy may alleviate hypersplenism. Enzyme replacement therapy is available, but is expensive. Acute infantile form – splenomegaly, neurological degeneration with seizures. Carrier detection and prenatal diagnosis are possible.
+
+Niemann–Pick disease | Sphingomyelinase | At 3–4 months, feeding difficulties and failure to thrive, hepatosplenomegaly, developmental delay, hypotonia and deterioration of hearing and vision. Cherry red spot in macula affects 50%. Death by 4 years.
+
+
+PDF PAGE 10 — PRINTED PAGE 490
+
+Table 27.5 Lipid storage disorders (continued)
+
+Disorder | Enzyme defect | Clinical features
+
+Tay–Sachs disease | Hexosaminidase A | Autosomal recessive disorder. Most common among Ashkenazi Jews. Developmental regression in late infancy, exaggerated startle response to noise, visual inattention and social unresponsiveness. Severe hypotonia, enlarging head. Cherry red spot at the macula. Death by 2–5 years. Diagnosis – measurement of the specific enzyme activity. Carrier detection of high-risk couples is practised. Prenatal detection is possible.
+
+Gaucher disease | Beta-glucosidase | Occurs in 1 in 500 Ashkenazi Jews. Chronic childhood form – splenomegaly, bone marrow suppression, bone involvement, normal IQ. Splenectomy may alleviate hypersplenism. Enzyme replacement therapy is available, but is expensive. Acute infantile form – splenomegaly, neurological degeneration with seizures. Carrier detection and prenatal diagnosis are possible.
+
+Niemann–Pick disease | Sphingomyelinase | At 3–4 months, feeding difficulties and failure to thrive, hepatosplenomegaly, developmental delay, hypotonia and deterioration of hearing and vision. Cherry red spot in macula affects 50%. Death by 4 years.

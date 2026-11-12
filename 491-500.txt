@@ -1,0 +1,483 @@
+PDF PAGE 1 — PRINTED PAGE 491
+
+Head circumference (macro- or microcephaly), involuntary movement disorders, visual and hearing loss and behaviour change. While individually rare, they are numerous and include:
+
+• Lysosomal storage disorders, e.g. lipid storage disorders and mucopolysaccharidoses, in which absence of an enzyme leads to accumulation of a harmful metabolite
+• Peroxisomal enzyme defects, e.g. X-linked adrenoleucodystrophy. Peroxisomes are catalase- and oxidase-containing organelles involved in long-chain fatty acid oxidation. Enzyme deficiencies can lead to accumulation of very long-chain fatty acids (VLCFAs)
+• Heredodegenerative disorders, e.g. Huntington disease, which presents with progressive dystonia, dementia, seizures and corticospinal tract signs
+• Wilson disease, from the accumulation of copper, may cause changes in behaviour and additional involuntary movements or a mixture of neurological and hepatic symptoms
+• Subacute sclerosing panencephalitis (SSPE), a delayed response in adolescence to previous measles infection causing neurological regression with a characteristic EEG, but has become rare since measles immunisation.
+
+Lysosomal storage disorders
+
+In metachromatic leucodystrophy, a sulfatidosis, an accumulation of sulphatides causes a destruction of myelin and is diagnosed on testing white cell enzymes.
+
+In lipid storage disorders (Table 27.5), which are sphingolipidoses, there is an accumulation of sphingolipids, essential components of CNS membranes. They are diagnosed on testing white cell enzymes.
+
+Mucopolysaccharidoses
+
+Figure 27.21 Hurler syndrome showing the characteristic facies and skeletal dysplasia.
+
+Table 27.6 Clinical features of mucopolysaccharidoses
+
+Eyes
+Corneal clouding
+Retinal degeneration
+Glaucoma
+
+Skin
+Thickened skin
+Coarse facies
+
+Heart
+Valvular lesions
+Cardiac failure
+
+Neurology
+Developmental regression
+
+Skeletal
+Thickened skull
+Broad ribs
+Claw hand
+Thoracic kyphosis
+Lumbar lordosis
+
+Other
+Hepatosplenomegaly
+Carpal tunnel syndrome
+Conductive deafness
+Umbilical and inguinal hernias
+
+Table 27.7 Types of mucopolysaccharidoses
+
+Type | Inheritance | Cornea | Heart | Brain | Skeletal
+MPS I (Hurler) | AR | +++ | ++ | +++ | ++
+MPS II (Hunter) | X-linked | − | + | ++ | +
+MPS III (Sanfilippo) | AR | ± | − | + | +
+MPS IV (Morquio) | AR | + | + | − | +++
+MPS VI (Maroteaux–Lamy) | AR | +++ | ++ | − | ++
+
+AR, autosomal recessive.
+
+
+PDF PAGE 2 — PRINTED PAGE 492
+
+The mucopolysaccharidoses are progressive multisystem disorders which may affect the neurological, ocular, cardiac and skeletal systems (Table 27.6). Hepatosplenomegaly is usually present. Most children present with developmental delay following a period of essentially normal growth and development up to 6–12 months of age. Developmental attainment then slows and children may show some loss of skills. It is only in the second 6 months of life that the characteristic facies begin to emerge, with coarsening of the facial features and prominent forehead due to frontal bossing (Fig. 27.21).
+
+The characteristics of five of the varieties are shown in Table 27.7. The diagnosis is made by identifying the enzyme defect and the excretion in the urine of the major storage substances, the glycosaminoglycans (GAGs). Treatment is supportive according to the child’s needs. Successful enzyme replacement by bone marrow transplantation has been performed but cannot reverse any established neurological abnormality.
+
+Summary
+
+In neurodegenerative disorders
+
+There is developmental regression with the evolution of abnormal neurological signs.
+
+Further reading
+
+Forsyth R, Newton R: Paediatric Neurology. Oxford Specialist Handbook in Paediatrics, Oxford, 2007, Oxford University Press.
+
+Newton RW: Colour Atlas of Pediatric Neurology, London, 1995, Mosby-Wolfe.
+A well-illustrated textbook.
+
+Websites (Accessed May 2011)
+
+British Paediatric Neurology Association: Available at: http://www.bpna.org.uk.
+
+Child Neurology: Available at: http://www.familyvillage.wisc.edu/.
+Provides ‘family village’ library with information on many neurological diagnoses.
+
+International Headache Society classification:
+Available at: http://ihs-classification.org/en.
+
+International League Against Epilepsy (ILAE):
+Available at: http://www.ilae.org.
+
+Neuromuscular Disease Center: (Washington University School of Medicine, St Louis, MO). Available at: http://neuromuscular.wustl.edu.
+
+Systematic reviews of migraine treatment in children, epilepsy, steroids for facial palsy and treatment of Guillain–Barré syndrome can be found in the Cochrane Library. Available via: http://www.thecochranelibrary.com.
+
+
+PDF PAGE 3 — PRINTED PAGE 493
+
+28
+Adolescent medicine
+
+Communicating with adolescents 494
+Consent and confidentiality 495
+Range of health problems 495
+Mortality 496
+Impact of chronic conditions 496
+Fatigue, headache and other somatic symptoms 498
+Mental health problems 499
+Health-risk behaviour 499
+Sexual health 499
+Health promotion 500
+
+Adolescence is the transition from childhood to adulthood. There is no clearly defined age range, but it is usually considered to be from puberty until 18 years of age. There are 7.8 million adolescents in the UK, 12–13% of the population, with increased proportions observed in ethnic minority groups.
+
+The transition from being a child to an adult involves many biological, psychological and social changes (Table 28.1). Pubertal development is considered in Chapter 11. Difficulties may arise if the pubertal changes are early or delayed.
+
+Table 28.1 Developmental changes of adolescence
+
+Early adolescence
+
+Biological:
+Early puberty:
+Females – breast bud, pubic hair development, start of growth spurt
+Males – testicular enlargement, start of genital growth
+
+Psychological:
+Concrete thinking (Fig. 28.1a), but begin to develop moral concepts and awareness of their sexual identity
+
+Social:
+The early emotional separation from parents, start of a strong peer identification, early exploratory behaviours, e.g. may start smoking
+
+Mid-adolescence
+
+Biological:
+Females – end of growth spurt, menarche, change in body shape
+Males – sperm production, voice breaks, start of growth spurt
+Acne
+Blushing
+Need for more sleep
+
+Psychological:
+Abstract thinking, but still seen as ‘bulletproof’, increasing verbal dexterity, may develop a fervent ideology (religious, political)
+
+Social:
+Continuing emotional separation from parents, heterosexual peer interest, early vocational plans
+
+Late adolescence
+
+Biological:
+Males – end of puberty, continued growth in height, strength and body hair
+
+Psychological:
+Complex abstract thinking (Fig. 28.1b), identification of difference between law and morality, increased impulse control, further development of personal identity, further development or rejection of ideologies
+
+Social:
+Social autonomy, may develop intimate relationships, further education or employment, may begin or develop financial independence
+
+Adapted from Adolescent development. In: Viner R, ed. 2005. ABC of Adolescence. Blackwell, Oxford.
+
+
+PDF PAGE 4 — PRINTED PAGE 494
+
+(a) “You said I’d get ill if I missed my inhalers but I forgot them twice and stayed fine. So I don’t need them anymore.”
+
+(b) “I missed my inhalers a couple of times but I think I got away with it because I wasn’t doing much exercise. I think I’ll still need them in the future if I’m doing lots of exercise.”
+
+Figure 28.1 Example showing the difference between (a) concrete and (b) abstract thinking in the management of asthma in an older child and an adolescent.
+
+While general practitioners will see all adolescent medical problems, difficulties may arise when obtaining specialist medical care. Those less than 16 years old are generally looked after by paediatricians; over 16 years old, by either paediatricians or more often by adult physicians and surgeons. However, paediatric facilities, e.g. children’s wards, are often geared to the needs of young children rather than adolescents, whilst older adolescents may be overwhelmed by the medical conditions encountered on adult wards and the independence expected of them. Adolescent females with gynaecological problems are often cared for by gynaecologists, usually in adult facilities. Some paediatricians in the UK are now specialising in adolescent medicine in a similar way to North America and Australia.
+
+Communicating with adolescents
+
+The adolescent consultation differs from the paediatric consultation for young children, in that the adolescent has a greater active role in the consultation.
+
+As well as seeing adolescents with their parents, an integral component of adolescent healthcare is offering young people the opportunity to be seen independently of their parents for at least part of the visit. The principle is that the parents should not be seen alone after the adolescent has spent time with the doctor, so that the adolescent can trust that whatever confidences have been disclosed to the doctor have been kept.
+
+Some practical points about communicating and working with adolescents are:
+
+• Make the adolescent the central person in the consultation.
+• Be yourself. When establishing rapport, it may be appropriate to engage the adolescent by talking about their interests, e.g. football, clothes or music, but do not try to be cool, false or patronising; your relationship should be as their doctor, not their friend.
+• Consider the family dynamics. Is the mother or father answering for the adolescent? Does the adolescent seem to want this or resent being interrupted?
+• Avoid being judgemental or lecturing. Avoid ‘You ….’ statements and use ‘I ….’ statements in preference, e.g. ‘I am concerned that you ….’. A frank and direct approach works best. Your role should be that of a knowledgeable, trusted adult from whom they can get advice if they so choose.
+• An authoritarian approach is likely to result in a rebellious stance. Working things out together in a practical way has the best chance of success.
+• Frame difficult questions so they are less threatening and judgemental, e.g. ‘Lots of teenagers drink alcohol, do any of your friends drink? How much do they drink in a week? Do you drink alcohol – how much do you drink compared to them?’ Likewise, when asking sensitive questions on, e.g. sexual health, always give young people warning and explain the rationale of why such questions need to be asked.
+• Confidentiality is particularly important to this age group and must be respected. Explain that you will keep everything you are told confidential, unless they or somebody else is at risk of serious harm. Always assess their understanding of confidentiality and correct any misunderstanding.
+• Bear in mind proxy presentations, e.g. abdominal pain, when the real reason is anxiety about the possibility of pregnancy, or sexually transmitted infection or the result of recreational drug use.
+• A full adolescent psychosocial history is useful to engage the young person, to assess the level of risk as well as provide information which will aid the formulation of effective interventions. The HEADS acronym may be helpful in this regard (Table 28.2), although questions must always be tailored to stage of development and the right of the young person to not answer should be respected.
+
+
+PDF PAGE 5 — PRINTED PAGE 495
+
+Table 28.2 HEADS acronym for psychosocial history taking in adolescents
+
+H — Home life: Relationships, social support, household chores
+E — Education: School, exams, work experience, career, university, financial issues
+A — Activities: Exercise, sport, other leisure activities; Social relationships, friends, peers, who can they rely on?
+D — Driving: Aged 16 if has high rate mobility component of the Disability Living Allowance (DLA)
+Drugs: Drug use, cigarettes, alcohol. How much? How often?
+Diet: Weight, caffeine (diet drinks), binges/vomits
+S — Sex: Concerns, periods, contraception (and in relation to medication)
+Sleep: How much? Hard to get to sleep? Wake often?
+Suicide/affect: Early waking? Depression, self-harm, body image
+
+• Communicate and explain concepts appropriate to their cognitive development. For young adolescents, use concrete examples (‘here and now’) rather than abstract concepts (‘if … then’).
+• History-taking should avoid making the assumption of heterosexuality with questions about romantic and sexual partners asked in a gender neutral way.
+• If they need to have a physical examination, consider their privacy and personal integrity – Who do they want present? As with any age, young people have the right to a chaperone but it should not be assumed the young person will want this to be their parent. Also, find out if they would prefer a doctor of the same sex, if this is an option.
+
+Summary
+
+Talking and listening with young people
+
+• Always give them the opportunity to be seen independently of their parents
+• Explain and assure confidentiality
+• Psychosocial screening is useful to:
+  – Engage young people
+  – Assess risk
+  – Assist formulation of interventions.
+
+Consent and confidentiality
+
+Consent
+
+In the UK, young people can give consent if they are sufficiently informed and either over 16 years old or under 16 years and competent to make decisions for themselves. Conflict rarely arises about a treatment, as usually the adolescent, their parents and doctors agree that it is necessary. Handling of disagreement over consent is considered in Chapter 5.
+
+Confidentiality
+
+Confidentiality is regarded by adolescents as of crucial importance in their medical care. They want to know that information they have disclosed to their doctor is not revealed to others, whether parents, school or police, without their permission. In most circumstances, their confidentiality should be kept unless there is a risk of serious harm, either to themselves from physical or sexual abuse or from suicidal thoughts or to others from homicidal intent. Difficulties relating to confidentiality for adolescents are usually about contraception, abortion, sexually transmitted infections, substance abuse or mental health. It is usually desirable for the parents to be informed and involved in the management of these situations and the adolescent should be encouraged to tell them or allow the doctor to do so. However, if the young person is competent to make these decisions for himself/herself, the courts have supported medical management of these situations without parental knowledge or consent.
+
+Range of health problems
+
+Adolescence is considered a healthy stage of life compared with early childhood or old age. In spite of this, the majority of young people will consult their general practitioner more than once in a year and 13% of adolescents report a chronic illness. The range of health problems affecting adolescents include:
+
+• Common acute illnesses: respiratory disorders, skin conditions, musculoskeletal problems including sports injuries and somatic complaints. Acute serious illness has become rare, with mortality predominantly from trauma
+• Chronic illness and disability: e.g. asthma, epilepsy, diabetes, cerebral palsy, juvenile idiopathic arthritis, sickle cell disease. The prevalence of some of the common chronic disorders in adolescence is shown in Table 28.3. There is also a range of uncommon disorders with serious chronic morbidity such as malignant disease and connective tissue disorders. In addition, children
+
+
+PDF PAGE 6 — PRINTED PAGE 496
+
+Table 28.3 Prevalence of some chronic illnesses per 1000 adolescents (12–18 years old)
+
+Disease | Prevalence per 1000 adolescents
+Musculoskeletal conditions | 41
+Skin conditions | 32
+Significant mental health problems | 120
+Diabetes
+  Type 1 | 2
+  Type 2 | 1–2
+Respiratory conditions | 150
+  Asthma | 100
+  Cystic fibrosis | 0.1
+Epilepsy | 4
+Hearing problems | 18
+Cerebral palsy | 1.5
+
+with many congenital disorders which often used to be fatal in childhood now survive into adolescence or adult life, e.g. cystic fibrosis, Duchenne muscular dystrophy, complex congenital heart disease, metabolic disorders, etc.
+• High prevalence of somatic symptoms: fatigue, headaches, backache, etc.
+• Mental health problems including suicide and deliberate self-harm
+• Eating disorders and weight problems
+• Those associated with health-risk behaviours, such as smoking, drinking, drug abuse and sexual health, contraception and teenage pregnancy.
+
+Mortality
+
+The dramatic improvement in the mortality of young children seen since the 1960s has not been matched in adolescents, who now have a higher mortality rate than that of 1–4-year-olds (Fig. 28.2). Although deaths in adolescents from communicable diseases have declined markedly, this has not been matched by mortality from road traffic accidents, other injuries and suicide, and these now predominate (Fig. 28.3). Alcohol is thought to be a contributing factor in one-third of these deaths.
+
+Figure 28.2 Mortality by age group in England and Wales 1960–2008, showing that the mortality rate is now greater at 15–19 years than at 1–4 years. (Source: ONS, 2010.)
+
+Graph labels: Mortality rate per 100 000 population; 1–4 years; 15–19 years; 5–9 years; 10–14 years; 1960, 1970, 1980, 1990, 2000, 2008.
+
+Figure 28.3 Causes of death, 15–19 years of age, in England and Wales, 2008. (Source: ONS, 2010.)
+
+Chart labels: Injury and poisoning 60%; Other causes 16%; Cancer 10%; Nervous system 9%; Heart disease 5%.
+
+Impact of chronic conditions
+
+Chronic illness may disrupt biological, psychological and social development. In addition, these developmental changes may affect the control and management of the disorder (Table 28.4). The impact of chronic illness on children, young people and their families is considered in Chapter 23.
+
+Adherence
+
+Poor adherence is a problem for many people, including adolescents as they are beginning to take over management of their illness, wish to avoid parental supervision and may give the management of their illness a lower priority than social and recreational activities. They may not believe that taking the medication
+
+
+PDF PAGE 7 — PRINTED PAGE 497
+
+Table 28.4 Some of the ways in which chronic illness and development interact with each other
+
+Biological
+
+Effect of chronic illness on development:
+Delayed puberty
+Short stature
+Reduced bone mass accretion
+Malnutrition secondary to inadequate intake due to increased caloric requirement of disease or anorexia
+Localised growth abnormalities in inflammatory joint disease, e.g. premature fusion of epiphyses
+
+Effect of development on chronic illness:
+Pubertal hormones may impact on disease, e.g. growth hormone worsens diabetes and increases insulin requirements; females with cystic fibrosis may have deterioration in lung function; corticosteroid toxicity worse in peripubertal phase
+Increased caloric requirement may worsen disease control or result in undernutrition – may need dietary supplements or overnight feeding with nasogastric tube or gastrostomy
+Growth may cause scoliosis
+
+Psychological
+
+Effect of chronic illness on development:
+Regression to less mature behaviour
+Adopt sick role
+Impaired development of sense of attractive/sexual self
+Parental stress, depression, financial problems in providing care; siblings may suffer
+
+Effect of development on chronic illness:
+Deny that their health may suffer from their actions
+Poor adherence and disease control
+Reject medics like parents
+
+Social
+
+Effect of chronic illness on development:
+Reduced independence when should be separating
+Failure of peer relationships
+Social isolation – unable to participate in sports or social events
+School absence and decline in school performance, may lower self-esteem
+Vocational failure
+
+Effect of development on chronic illness:
+Risk behaviour may adversely affect disease, e.g. smoking and asthma or cystic fibrosis, alcohol and diabetic control, sleep deprivation and epilepsy
+Chaotic eating habits lead to malnutrition or obesity
+
+medication really matters, especially if it is preventative or of long-term rather than short-term benefit.
+
+Peer relationships and self-image are very important when considering adherence. For example, it may be more important for an adolescent with diabetes to lunch promptly, so he can sit with his friends rather than go to the school nurse first for his insulin injection. Side-effects are also important, particularly those that affect well-being or appearance. They may assess risk differently from adults, so that the risk of not being one of their crowd because of having to adhere to a certain treatment may appear to be more important than the risks attached to not taking any medication.
+
+Adherence may be influenced by lack of knowledge and/or poor recall of previous disease education. The disorder may have presented when the child was much younger, so that the original consultation will have taken place primarily between the doctor and parents. If this communication has not been updated with increasing age, the adolescent’s knowledge may be poor, with little understanding about his/her illness, what medications he/she is taking and why. As the responsibility for management moves to the young person, information needs to be provided about medications and treatment appropriate for his/her development. Other ways to maximise adherence are summarised in Table 28.5.
+
+The implications of their condition on the rest of their health needs to be considered. This may include sexual health, future vocational development, including the need for disclosure and their rights under the Disability Discrimination Act. Similarly, the implications of other health-risk behaviours such as substance use, tattoos and piercing may need to be discussed.
+
+Transition to adult services
+
+The young person with a chronic condition must eventually leave paediatric and adolescent services for adult services. This often involves changing from a treatment model based around close contact between the adolescent and healthcare professionals (unlimited telephone advice from clinical nurse specialists, possibly home visits, frequent appointments) and involvement with parents and other family members, to one where they are likely to be seen infrequently in a busy adult
+
+
+PDF PAGE 8 — PRINTED PAGE 498
+
+Table 28.5 Ways to maximise adherence
+
+Assess the size of the problem and be non-judgemental:
+Ask: ‘Most people have trouble taking their medication. When was the last time you forgot?’
+
+Take time to explore practicalities:
+Try to put yourself in the adolescent’s shoes and think through the detail of their regimen with them. Make regimen as simple as possible. Don’t forget practical issues – poor adherence may be as simple as not having anywhere private at school to take the treatment.
+
+Explore beliefs:
+May harbour strange or incorrect beliefs about medications, e.g. falsely attribute a side-effect and therefore refuse to take the medication.
+
+Use daily routines to ‘anchor’ adherence:
+Find daily activities to anchor taking the medication, e.g. brushing teeth, or ‘with breakfast and dinner’ instead of ‘twice a day’. Find the least chaotic time of day: may be morning or evening! Let the suggestions come from the adolescent.
+
+Motivation:
+Negotiate short-term treatment goals. Search for factors that motivate the young person.
+
+Involve and contract:
+Plan the regimen with the adolescent. Some may respond to a written contract that both sides agree to stick to.
+
+Written instructions:
+Most of what is said has been shown to be forgotten once they leave the room!
+
+Take time to explain:
+Check level of knowledge on each occasion.
+
+Solution-focused approach:
+Find out what has been going well and why. Use this information, e.g. ‘How have you managed to remain out of hospital for 3 weeks this month?’
+
+clinic where parental involvement may be minimal or discouraged.
+
+Young people and their parents need both information about the transfer process and time to prepare. Transitional care encompasses this preparation which, by definition, addresses the medical, psychosocial and educational/vocational needs as a young person moves from child- to adult-centred services. Parents are often concerned that the adult team will not address their teenager’s healthcare needs. It is helpful if an identified healthcare professional, often a nurse specialist, is responsible for coordinating transition arrangements.
+
+Whereas transitional care starts in early adolescence, some flexibility in age of transfer is desirable, so that it can occur when the young person is developmentally ready and has the necessary maturity to cope with adult services.
+
+Transfer may be via an adolescent or young adult service with clinics run by both adolescent and adult teams together. Such bridging arrangements have many advantages, but require a sufficient number of patients and medical staff able and willing to provide this service. These clinics are usually for specialist conditions, e.g. diabetes, juvenile idiopathic arthritis, cystic fibrosis or congenital heart disease. Alternatively, transfer may be successfully accomplished if there is good communication between teams, although it usually involves a radical change in ethos for the adolescent and family. The general practitioner may be a source of continuity between changing specialty practitioners.
+
+Summary
+
+Chronic conditions during adolescence
+
+• Chronic illness and/or disability may disrupt adolescent development
+• Consideration should be made of the impact of the chronic condition on the rest of health (including sexual and reproductive health) as well as education and leisure
+• Transitional care aims to address medical, psychosocial and educational/vocational issues as young people move from child- to adult-centred services.
+
+Fatigue, headache and other somatic symptoms
+
+Fatigue, headache, abdominal pain, backache and dizziness are common in adolescence. International surveys of adolescents in Europe reveal that two-thirds report morning fatigue more than once a week, 25% have a headache and 15% stomach ache, backache or sleep problems more than once a week. In many, these symptoms appear to be a feature of adolescence, although organic disease must be excluded by history, examination and, occasionally, investigation. For a minority, they may be a physical manifestation of
+
+
+PDF PAGE 9 — PRINTED PAGE 499
+
+Table 28.6 Main mental health problems and disorders in adolescents
+
+Problem or disorder | Prevalence (%)
+Depression | 3–5
+Anxiety | 4–6
+Attention deficit hyperactivity disorder | 2–4
+Eating disorders | 1–2
+Conduct disorder | 4–6
+Substance misuse disorder | 2–3
+
+Source: Michaud P-A, Fombonne E. 2005. Common mental health problems. In: Viner R, ed. 2005. ABC of Adolescence. Blackwell, Oxford.
+
+psychological problems, and are precipitated by or maintained by factors such as bullying or parental discord.
+
+Occasionally, the symptoms are so severe and persistent that they considerably affect quality of life, with impairment of school attendance, academic results and peer relationships. This may be from chronic fatigue syndrome or chronic idiopathic pain syndromes. Further investigation and assessment will be required and multidisciplinary rehabilitation and cognitive behavioural therapy within the family may be beneficial. The management of somatic symptoms and chronic fatigue syndrome are considered further in Chapter 23.
+
+Mental health problems
+
+The prevalence of mental health problems in adolescents is estimated to be about 11%. The main problems are listed in Table 28.6.
+
+Deliberate self-harm varies from little actual harm, where there is a wish to communicate distress or escape from an interpersonal crisis, to suicide. About 7–14% of adolescents will self-harm, depending on its definition.
+
+Eating disorders are common during adolescence. About 40% of females and 25% of males begin dieting in adolescence because of dissatisfaction with their body. In anorexia nervosa and bulimia, there is a morbid preoccupation with weight and body shape. This is discussed in more detail in Chapter 23.
+
+Health-risk behaviour
+
+During adolescence, young people begin to explore ‘adult’ behaviours, including smoking, drinking, drug use and sex. These behaviours, often referred to as ‘risk-taking’ behaviours, may reflect the adolescent’s search for pleasure and excitement by participating in new and enjoyable experiences, as well as exerting independence from parents or rebelling against parents’ wishes and lifestyle. There is also considerable pressure to fit in with peers.
+
+Adolescents do not always understand the risks involved and may behave as if they are immune from harm. Participating in these activities may also deflect attention away from themselves to mask shyness or anxiety. Unfortunately, health-risk behaviours started in adolescence tend to continue into adult life.
+
+Sexual health
+
+The average age for first sexual intercourse in the UK is 16 years, with one-fifth of 14-year-olds having had intercourse. Having sexual intercourse at an early age is often associated with unsafe sex. This may be because of a lack of knowledge, lack of access to contraception, inability to negotiate obtaining contraception, being drunk or high on drugs or unable to resist being pressurised by their partner.
+
+Risk-taking behaviour in adolescents can result in sexually transmitted infections (STIs) or unplanned pregnancy. STIs may present with urethral or vaginal discharge, urinary symptoms, pain on micturition, abdominal or loin pain, or post-coital vaginal bleeding. Chlamydia is asymptomatic in 50% of cases and can lead to later infertility. In young teenagers, it is more likely to present with a vaginal discharge. Studies have shown that up to one-third of sexually active teenage girls have a sexually transmitted infection. They are also at risk of HIV infection.
+
+Management of sexually transmitted infections
+
+Taking a sexual history from an adolescent should be approached sensitively, in a developmentally appropriate manner, giving the young person warning of the topic, as well as why the questions are being asked. Relevant questions include those related to the risk of STIs: number of partners; any partners during travel abroad; contraception used; whether vaginal, oral or anal sex; any discharge, lower abdominal pain, urinary symptoms; last menstrual period. However, many sexually transmitted infections are asymptomatic, especially in younger teenagers, male and female.
+
+If indicated, swabs should be taken for virology and microbiology (to look for human papillomavirus (HPV), herpes simplex virus (HSV), chlamydia and gonorrhoea). HIV testing may be indicated. In England, in response to the high rates of chlamydia in the under-25-year-old age group, there is a national chlamydia screening programme enabling them to test themselves with easy-to-use kits.
+
+Treatment regimens vary, depending on prevalent antibiotic resistance. Chlamydia can be treated with azithromycin or doxycycline, gonorrhoea with a cephalosporin. Metronidazole can be added for pelvic inflammatory disease. It is advisable to inform and treat partners.
+
+
+PDF PAGE 10 — PRINTED PAGE 500
+
+Contraception
+
+Most adolescents who are sexually active are using contraception, albeit sometimes haphazardly. In the UK, contraception is used by only half at first intercourse. Condoms, followed by the oral contraceptive pill, are the commonest forms of contraception used. As teenagers have a relatively high failure rate in their ability to use condoms correctly and with the oral contraceptive pill having irregular use, the ‘double Dutch’ method of condom and oral contraception is advocated to protect against both sexually transmitted infections and pregnancy.
+
+Adolescents with chronic disease, e.g. diabetes, even without microvascular complications, are generally started on lower doses of the contraceptive pill. Some medications prescribed in adolescents are potentially teratogenic (e.g. retinoids for acne, methotrexate for juvenile idiopathic arthritis or other disorders) and may therefore need to be combined with an oral contraceptive pill or depot hormonal implant. Discussions, however, must also reinforce condom use to prevent STIs.
+
+Emergency contraception
+
+Emergency contraception (in the past misleadingly known as the ‘morning after pill’) can provide significant protection from pregnancy for up to 72 h after unprotected intercourse. Emergency contraception is available from a pharmacist without prescription for those 16 years and over, and on prescription for those under 16 years. If taken within 72 h, it has a 2% failure rate. Side-effects include nausea and lethargy. However, knowledge of emergency contraception is poor among many young people.
+
+Teenage pregnancy
+
+The UK has the highest rate of teenage pregnancy in Western Europe. Teenage girls may present with complaints such as abdominal pain, fatigue, breast tenderness or appetite changes rather than late or missed menstrual period.
+
+Becoming a teenage mother can be a positive life choice and is influenced by culture. There may be considerable support from the extended family, and this may work well. However, in those where the pregnancy was unintended or who are emotionally deprived themselves or unsupported and live in poverty, there may be many adverse consequences for the mother and child. Children of teenage mothers have a higher infant mortality, a higher rate of childhood accidents, illness and admission to hospital, being taken into care, low educational achievement, sexual abuse and mental health problems. Deprivation, from the mother’s lack of financial and emotional support and the paucity of her own education and life experiences, is the strongest risk factor. Protective factors are having a supportive family, religious belief and a stable, long-term relationship with the partner.
+
+Health promotion
+
+The reasons to undertake health promotion in adolescents are:
+
+• It is the period for starting health-risk behaviours (smoking, alcohol, drug misuse, unsafe sexual activity)
+• Health-risk behaviours started in adolescence often continue into adult life
+• Health behaviours may have a direct effect on their lives, e.g. teenage pregnancy, road traffic accidents
+• Increasing morbidity, e.g. obesity and diabetes.
+
+The main areas for health promotion are:
+
+• Health-risk behaviours
+• Mental health
+• Violent behaviour
+• Physical activity, nutrition and obesity
+• Parent–adolescent communication.
+
+There are a number of approaches to health promotion for adolescents:
+
+• Provide suitable information in a user-friendly way for young people. An example is the website: Teenage Health Freak (Fig. 28.4).
+• Health promotion by society as a whole, e.g. banning cigarette advertising, making emergency contraception available in pharmacies. These can be very effective. However, there is increasing evidence that improving the socioeconomic circumstances of young people would be the most effective intervention for health promotion. Also, as adolescents often embark on more than one risk behaviour, tackling the underlying problem may reduce other risk-taking behaviours: e.g. a programme to reduce bullying in a whole school may also reduce other behaviour such as drug misuse.
+• Training programmes to improve adolescents’ ability to accept or reject certain courses of behaviour can be effective for the individual, but is time-consuming and expensive.
+
+Figure 28.4 The website Teenage Health Freak promotes health in a user-friendly way to teenagers. Available at: http://www.teenagehealthfreak.org (Accessed May 2011). (Reproduced with permission.)
