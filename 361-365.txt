@@ -235,3 +235,251 @@ Horizontal axis: Year of diagnosis
 Series labels: Wilms tumour; ALL; NHL; CNS tumours; Neuroblastoma.
 
 Figure 21.2 Five-year survival rates showing the considerable improvement over the last 50 years. (ALL, acute lymphoblastic leukaemia; NHL, non-Hodgkin lymphoma.) (Sources: 1971–2000. Stiller C (Editor) Childhood Cancer in Britain – Incidence, Survival, Mortality, Oxford, 2007, Oxford University Press; and 1966–1970 & 2001–2005, National Registry of Childhood Tumours, unpublished data.)
+
+PDF PAGE 1 — BOOK PAGE 366
+
+Malignant disease
+
+...disease causing death in childhood (beyond the neonatal period). Overall, the 5-year survival of children with all forms of cancer is about 75%, most of whom can be considered cured, although cure rates vary considerably for different diagnoses. This improved life expectancy can be attributed mainly to the introduction of multi-agent chemotherapy, supportive care and specialist multidisciplinary management. However, for some children, the price of survival is long-term medical or psychosocial difficulties.
+
+In children, leukaemia is the most common malignancy followed by brain tumours.
+
+Aetiology
+
+In most cases, the precise aetiology of childhood cancer is unclear, but it is likely to involve an interaction between environmental factors (e.g. viral infection) and host genetic susceptibility. In fact, there are very few established environmental risk factors, and although cancer occurs as a result of mutations in cellular growth controlling genes, which are usually sporadic but may be inherited, in most cases a specific gene mutation is unknown. One example of an inherited cancer is bilateral retinoblastoma, which is associated with a mutation within the RB gene located on chromosome 13. There is a wide range of syndromes associated with an increased risk of cancer in childhood, e.g. associations exist between Down syndrome and leukaemia, and neurofibromatosis and glioma. In time, the further identification of biological characteristics of specific tumour cells may also help elucidate the basic pathogenetic mechanisms behind their origin.
+
+Clinical presentation
+
+Cancer in children can present with:
+• A localised mass
+• The consequences of disseminated disease, e.g. bone marrow infiltration, causing systemic ill-health
+• The consequences of pressure from a mass on local structures or tissue, e.g. airway obstruction secondary to enlarged lymph nodes in the mediastinum.
+
+Investigations
+
+Initial symptoms can be very non-specific and this can often lead to significant delays in diagnosis. Once a diagnosis of malignancy is suspected, the child should be referred to a specialist centre for further investigation.
+
+Radiology
+
+The location of solid tumours and evidence of any metastases are identified and localised, using a combination of ultrasound, plain X-rays, CT and MRI scans. Nuclear medicine imaging (e.g. radiolabelled technetium bone scan) may be useful to identify bone or bone marrow disease or, using special markers (MIBG scan), localise tumours of neural crest origin, e.g. neuroblastoma.
+
+Tumour marker studies
+
+Increased urinary catecholamine excretion (e.g. VMA, vanillylmandelic acid) is useful in confirming the diagnosis of neuroblastoma. High α-fetoprotein (αFP) production is often observed in germ cell tumours and liver tumours and can be used to monitor treatment response.
+
+Pathology
+
+All diagnoses must be confirmed histologically, either by bone marrow aspiration for cases of leukaemia or by biopsy for most solid tumours, although this may not always be possible for brain tumours. Histological techniques such as immunohistochemistry are routinely used to differentiate tumour types. Molecular and genetic techniques are also used to confirm diagnosis (e.g. translocation of chromosomes 11 and 22 in Ewing sarcoma) and to predict prognosis (e.g. amplification of the ‘N-myc’ oncogene associated with a poor prognosis in neuroblastoma).
+
+Management
+
+Once malignancy has been diagnosed, the parents and child need to be seen and the diagnosis explained to them in a realistic, yet positive way. Detailed investigation to define the extent of the disease (staging) is paramount to planning treatment. Children are usually treated as part of national and international collaborative studies that offer consistency in care and have contributed to improvements in outcome.
+
+In the UK, children with cancer are initially investigated and treated in specialist centres where experienced multidisciplinary teams can provide the intensive medical and psychosocial support required. Subsequent management is often shared between the specialist centre, referral hospital and local services within the community, to provide the optimum care with the least disruption to the family.
+
+Teenagers and young adults (TYA)
+
+Survival statistics suggest that teenagers and young adults have poorer outcomes than children and constitute a distinct population. This relates both to the specific types and biological behaviour of their tumours and to their particular social/psychological needs. This has prompted the development of age-appropriate treatment protocols, facilities and support networks.
+
+Treatment
+
+Treatment may involve chemotherapy, surgery or radiotherapy, alone or in combination.
+
+
+PDF PAGE 2 — BOOK PAGE 367
+
+Chemotherapy
+
+This is used:
+• as primary curative treatment, e.g. in acute lymphoblastic leukaemia
+• to control primary or metastatic disease before definitive local treatment with surgery and/or radiotherapy, e.g. in sarcoma or neuroblastoma
+• as adjuvant treatment to deal with residual disease and to eliminate presumed micrometastases, e.g. after initial local treatment with surgery in Wilms tumour
+
+The use of biologically targeted therapies and their role in combination with conventional treatment modalities is an area of active research that is likely to increase in importance in the near future.
+
+Radiotherapy
+
+This retains a role in the treatment of some tumours, but the risk of damage to growth and function of normal tissue is greater in a child than in an adult. The need for adequate protection of normal tissues and for careful positioning and immobilisation of the patient during treatment raises practical difficulties, particularly in young children.
+
+Surgery
+
+Initial surgery is frequently restricted to biopsy to establish the diagnosis, and more extensive operations are usually undertaken to remove residual tumour after chemotherapy and/or radiotherapy.
+
+High-dose therapy with bone marrow rescue
+
+The limitation of both chemotherapy and radiotherapy is the risk of irreversible damage to normal tissues, particularly bone marrow. Transplantation of bone marrow stem cells can be used as a strategy to intensify the treatment of patients with the administration of potentially lethal doses of chemotherapy and/or radiation. The source of the marrow stem cells may be allogeneic (from a compatible donor) or autologous (from the patient him/herself, harvested beforehand, while the marrow is uninvolved or in remission). Allogeneic transplantation is principally used in the management of high-risk or relapsed leukaemia and autologous stem cell support is used most commonly in the treatment of children with solid tumours whose prognosis is poor using conventional chemotherapy, e.g. advanced neuroblastoma.
+
+Supportive care and side-effects of treatment
+
+Cancer treatment produces frequent, predictable and often severe multisystem side-effects (Fig. 21.3). Supportive care is an important part of management and improvements in this aspect of cancer care have contributed to the increasing survival rates.
+
+Figure 21.3 Short-term side-effects of chemotherapy.
+
+Diagram labels:
+Bone marrow suppression → Anaemia
+Bone marrow suppression → Thrombocytopenia and bleeding
+Bone marrow suppression → Neutropenia → Infection
+Immunosuppression → Infection
+Gut mucosal damage → Infection
+Gut mucosal damage → Undernutrition
+Nausea and vomiting → Undernutrition
+Anorexia → Undernutrition
+Alopecia
+
+Infection from immunosuppression
+
+Due to both treatment (chemotherapy or wide-field radiation) and underlying disease, children with cancer are immunocompromised and at risk of serious infection. Children with fever and neutropenia must be admitted promptly to hospital for cultures and treatment with broad-spectrum antibiotics. Some important opportunistic infections associated with therapy for cancer include Pneumocystis jiroveci (carinii) pneumonia (especially in children with leukaemia), disseminated fungal infection (e.g. aspergillosis and candidiasis) and coagulase-negative staphylococcal infections of central venous catheters.
+
+Most common viral infections are no worse in children with cancer than in other children, but measles and varicella zoster (chickenpox) may have atypical presentation and can be life-threatening. If non-immune, immunocompromised children are at risk from contact with measles or varicella, some protection can be afforded by prompt administration of immunoglobulin or zoster immune globulin. Aciclovir is used to treat established varicella infection, but no treatment is available for measles. During chemotherapy and from 6 months to a year subsequently, the use of live vaccines is contraindicated due to depressed immunity. After this period, re-immunisation against common childhood infections is recommended.
+
+Bone marrow suppression
+
+Anaemia may require blood transfusions. Thrombocytopaenia presents the hazard of bleeding, and considerable blood product support may be required, particularly for children with leukaemia, those undergoing intensive therapy requiring bone marrow
+
+
+PDF PAGE 3 — BOOK PAGE 368
+
+transplantation and in the more intensive solid tumour protocols.
+
+Gastrointestinal damage, nausea and vomiting and nutritional compromise
+
+Mouth ulcers are common, painful and, when severe, can prevent a child eating adequately. Many chemotherapy agents are nauseating and induce vomiting, which may be only partially prevented by the routine use of antiemetic drugs. These two complications can result in significant nutritional compromise. Chemotherapy-induced gut mucosal damage also causes diarrhoea and may predispose to Gram-negative infection.
+
+Drug-specific side-effects
+
+Many individual drugs have very specific side-effects: e.g. cardiotoxicity with doxorubicin; renal failure and deafness with cisplatin; haemorrhagic cystitis with cyclophosphamide; and neuropathy with vincristine. The extent of these side-effects is not always predictable and patients require careful monitoring during, and in some cases, after treatment is complete.
+
+Figure 21.4 The central venous catheter allows pain-free blood tests and injections for this child on chemotherapy, which has caused the alopecia.
+
+Other supportive care issues
+
+Fertility preservation
+
+Some patients may be at risk of infertility as a result of their cancer treatment. Appropriate fertility preservation techniques may involve surgically moving a testis or ovary out of the radiotherapy field; sperm banking (which should be offered to boys mature enough to achieve this); and consideration of newer techniques such as cryopreservation of ovarian cortical tissue, although the long-term efficacy of this is still uncertain.
+
+Venous access
+
+The discomfort of multiple venepunctures for blood sampling and intravenous infusions can be avoided with central venous catheters, although these do carry a risk of infection (Fig. 21.4).
+
+Fever with neutropenia requires hospital admission, cultures and intravenous antibiotics.
+
+Psychosocial support
+
+The diagnosis of a potentially fatal illness has an enormous and long-lasting impact on the whole family. They need the opportunity to discuss the implications of the diagnosis and its treatment and their anxiety, fear, guilt and sadness. Most will benefit from the counselling and practical support provided by health professionals. Help with practical issues, including transport, finances, accommodation and care of siblings, is an early priority. The provision of detailed written material for parents will help them understand their child’s disease and treatment. The children themselves, and their siblings, need an age-appropriate explanation of the disease. Once treatment is established and the disease appears to be under control, families should be encouraged to return to as normal a lifestyle as possible. Early return to school is important and children with cancer should not be allowed to under-achieve the expectations previously held for them. It is easy to underestimate the severe stress that persists within families in relation to the uncertainty of the long-term outcome. This often manifests itself as marital problems in parents and behavioural difficulties in both the child and siblings.
+
+Summary
+
+Malignant disease in children
+• Uncommon, but affects 1 in 500 by 15 years of age
+• The overall 5-year survival rate is 75%
+• Presents with a localised mass or its pressure effects or disseminated disease
+• Treatment may involve chemotherapy, surgery, radiotherapy or high-dose therapy with bone marrow rescue
+• Fever with neutropenia must be investigated and treated urgently
+• Measles and varicella zoster infection are potentially life-threatening
+• Requires a multidisciplinary team to provide supportive care and psychosocial support
+• Supportive care – includes not only management of side-effects but also pain management and fertility preservation
+• Psychosocial support – includes not only the patient and parents but also siblings and other family and community members.
+
+Malignant disease
+
+
+PDF PAGE 4 — BOOK PAGE 369
+
+Leukaemia
+
+Acute lymphoblastic leukaemia (ALL) accounts for 80% of leukaemia in children. Most of the remainder is acute myeloid/acute non-lymphocytic leukaemia (AML/ANLL). Chronic myeloid leukaemia and other myeloproliferative disorders are rare.
+
+Clinical presentation
+
+Presentation of acute lymphoblastic leukaemia peaks at 2–5 years. Clinical symptoms and signs result from disseminated disease and systemic ill-health from infiltration of the bone marrow or other organs with leukaemic blast cells (Fig. 21.5). In most children, leukaemia presents insidiously over several weeks (see Case History 21.1) but in some children the illness presents and progresses very rapidly.
+
+Investigations
+
+Full blood count – in most but not all children, the blood count is abnormal, with low haemoglobin, thrombocytopenia and evidence of circulating leukaemic blast cells. Bone marrow examination is essential to confirm the diagnosis and to identify immunological and cytogenetic characteristics which give useful prognostic information. Chest X ray is required to identify a mediastinal mass characteristic of T-cell disease.
+
+Both ALL and AML are classified by morphology. Immunological phenotyping further subclassifies ALL; the common (75%) and T-cell (15%) subtypes are the most common. Prognosis and some aspects of clinical presentation vary according to different subtypes, and treatment intensity is adjusted accordingly.
+
+Management of acute lymphoblastic leukaemia
+
+A number of factors contribute to prognosis in ALL and dictate the intensity of therapy (Table 21.1).
+
+A typical treatment schema is shown in Figure 21.7.
+
+Remission induction
+
+Before starting treatment of the disease, anaemia may require correction with blood transfusion, the risk of bleeding minimised by transfusion of platelets, and infection must be treated. Additional hydration and allopurinol (or urate oxidase when the white cell count is high and the risk is greater) are given to protect renal function against the effects of rapid cell lysis. Remission implies eradication of the leukaemic blasts and restoration of normal marrow function. Four weeks of
+
+Figure 21.5 Signs and symptoms of acute leukaemia.
+
+Diagram labels:
+General → Malaise, anorexia
+
+Bone marrow infiltration →
+• Anaemia → Pallor, lethargy
+• Neutropenia → Infection
+• Thrombocytopenia → Bruising, petechiae, nose bleeds
+• Bone pain
+
+Reticulo-endothelial infiltration →
+• Hepatosplenomegaly
+• Lymphadenopathy
+• Superior mediastinal obstruction (uncommon)
+
+Other organ infiltration* →
+• Central nervous system → Headaches, vomiting, nerve palsies
+• Testes → Testicular enlargement
+
+*Rare at diagnosis, more often at relapse
+
+
+PDF PAGE 5 — BOOK PAGE 370
+
+Case History
+
+21.1 Disseminated disease, e.g. bone marrow infiltration, causing systemic ill-health
+
+A 4-year-old girl was generally unwell, lethargic, looking pale and occasionally febrile over a period of 9 weeks. Two courses of antibiotics for recurrent sore throat failed to result in any benefit. Her parents returned to their general practitioner when she developed a rash. Examination showed pallor, petechiae, modest generalised lymphadenopathy and mild hepatosplenomegaly. A full blood count showed:
+• Hb 8.3 g/dl
+• WBC 15.6 × 10⁹/L
+• Platelets 44 × 10⁹/L.
+
+Blast cells were seen on the peripheral blood film. Cerebrospinal fluid (CSF) examination was normal. Bone marrow examination confirmed acute lymphoblastic leukaemia (Fig. 21.6).
+
+Diagnosis: Acute lymphoblastic leukaemia.
+
+Figure 21.6 Leukaemic blast cells on a bone marrow smear.
+
+Table 21.1 Prognostic factors in acute lymphatic leukaemia
+
+Prognostic factor — High-risk features
+
+Age — <1 year or >10 years
+
+Tumour load (measured by the white cell count, WBC) — >50 × 10⁹/L
+
+Cytogenetic/molecular genetic abnormalities in tumour cells — e.g. MLL rearrangement, t(4;11), hypodiploidy (<44 chromosomes)
+
+Speed of response to initial chemotherapy — Persistence of leukaemic blasts in the bone marrow
+
+Minimal residual disease assessment (MRD) (submicroscopic levels of leukaemia detected by PCR) — High
+
+Central nervous system
+
+Cytotoxic drugs penetrate poorly into the CNS. As leukaemic cells in this site may survive effective systemic treatment, additional treatment with intrathecal chemotherapy is used to prevent CNS relapse.
+
+Continuing therapy
+
+Chemotherapy of modest intensity is continued over a relatively long period of time, up to 3 years from diagnosis. Co-trimoxazole prophylaxis is given routinely to prevent Pneumocystis carinii pneumonia.
+
+Treatment of relapse
+
+High-dose chemotherapy, usually with total body irradiation (TBI) and bone marrow transplantation, is used as an alternative to conventional chemotherapy after a relapse.
+
+Brain tumours
+
+In contrast to adults, brain tumours in children are almost always primary and 60% are infratentorial. They are the most common solid tumour in children and are the leading cause of childhood cancer deaths in the UK. The types of brain tumour are:
+• Astrocytoma (~40%) – varies from benign to highly malignant (glioblastoma multiforme)
+• Medulloblastoma (~20%) – arises in the midline of the posterior fossa. May seed through the CNS via the CSF and up to 20% have spinal metastases at diagnosis
+• Ependymoma (~8%) – mostly in posterior fossa where it behaves like medulloblastoma
+• Brainstem glioma (6%)
+• Craniopharyngioma (4%) – a developmental tumour arising from the squamous remnant of
