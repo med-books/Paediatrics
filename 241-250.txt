@@ -1,0 +1,533 @@
+241
+
+14
+Infection and immunity
+
+The febrile child 241
+Serious life-threatening infections 243
+Specific bacterial infections 248
+Common viral infections 250
+Uncommon viral infections 256
+Prolonged fever 258
+Tuberculosis 260
+Tropical infections 262
+HIV infection 262
+Lyme disease 265
+Immunisation 265
+Immune deficiency 268
+
+Infections are the most common cause of acute illness in children.
+
+Worldwide, acute respiratory infections, diarrhoea, neonatal infection, malaria, measles and HIV infection, often accompanied by undernutrition, are responsible for the deaths of more than 4.5 million children <5 years old annually (Fig. 14.1).
+
+In developed countries, morbidity and mortality from infections has declined dramatically, and deaths from infectious diseases are uncommon. However, serious infections still occur, e.g. meningococcal septicaemia, meningitis, and multi-drug resistant pathogens, and some have re-emerged, e.g. tuberculosis and PVL-toxin-secreting Staphylococcus aureus, and require early recognition and treatment. Children with immune deficiency are vulnerable to a range of unusual or opportunist pathogens.
+
+With air travel, tropical diseases are encountered in all countries. In addition, epidemics may spread widely, e.g. SARS and H1N1, with children (and the elderly) most vulnerable.
+
+The febrile child
+
+Most febrile children have a brief, self-limiting viral infection. Mild localised infections, e.g. otitis media or tonsillitis, may be diagnosed clinically. The clinical problem lies in identifying the relatively few children with a serious infection which needs prompt treatment.
+
+Clinical features
+
+When assessing a febrile child, consider the following.
+
+(i) How is fever identified in children?
+
+Parents usually know if their child has been febrile.
+
+In hospital, it is measured at:
+• <4 weeks old by an electronic thermometer in the axilla
+• 4 weeks to 5 years by an electronic or chemical dot thermometer in the axilla or infrared tympanic thermometer.
+
+In general, axillary temperatures underestimate body temperature by 0.5°C.
+
+(ii) How old is the child?
+
+Febrile infants <3 months old present with non-specific clinical features (see Box 10.2) and often have a bacterial infection, which cannot be identified reliably on clinical examination alone. It is uncommon for them to have the common viral infections of older infants and children because of passive immunity from their mothers (Fig. 14.2). Unless a clear cause for the fever is identified, they require urgent investigation with a septic screen (Box 14.1) and intravenous antibiotic therapy given immediately to avoid the illness becoming more severe and to prevent rapid spread to other sites of the body. This is considered in more detail in the section on neonatal infection (Chapter 10 Neonatal medicine).
+
+(iii) Are there risk factors for infection?
+
+These include:
+• Illness of other family members
+• If a specific illness is prevalent in the community
+• Unimmunised
+• Recent travel abroad, e.g. malaria, typhoid
+
+
+242
+
+Figure 14.1 Worldwide causes of death in children <5 years old, 2008 (http://www.who.int, accessed January 2011).
+
+Worldwide causes of death in children <5 years old:
+Measles 1%
+HIV/AIDS 2%
+Others 17%
+Diarrhoea 14%
+Pneumonia 14%
+Injuries 3%
+Malaria 8%
+Neonatal infection 12%
+Neonatal (excluding infection) 29%
+
+Every year, over half of the 8.8 million deaths of children <5 years old is from infections.
+
+Malaria
+• Deaths mostly from cerebral malaria from Plasmodium falciparum in Sub-Saharan Africa
+• Deaths have been reduced in many countries by insecticide-treated bed nets and early treatment with artemisinin-based combination therapy
+
+Diarrhoea
+• Most <2 years old
+• Often bacterial, although rotavirus also a major cause globally
+• Results in undernutrition, poor growth, death
+• Usually treated with oral rehydration solution, continuing to breast-feed
+• Antibiotics only for cholera, dysentery, giardiasis, amoebiasis
+
+Pneumonia
+• Risk factors – low birthweight, young age, not breast-fed, vitamin A deficiency, overcrowding
+• Predominantly bacterial
+• Strategy to reduce mortality:
+  • Prevention – breast feeding and hand hygiene
+  • Prevention – immunisation
+  • Treatment – effective case management by early diagnosis using WHO guidelines (fever, cough, tachypnoea, chest recession, head nodding) and prompt treatment with antibiotics
+
+Measles
+• Preventable by immunisation
+
+Neonatal infection
+• Remains major cause of death
+• Mainly early-onset infection acquired at delivery
+
+• Contact with animals, e.g. brucellosis.
+• Increased susceptibility from immunodeficiency. This is usually secondary, e.g. post-autosplenectomy in sickle cell disease or splenectomy or nephrotic syndrome, resulting in increased susceptibility to encapsulated organisms (Streptococcus pneumoniae, Haemophilus influenzae and salmonella), or rarely, primary immune deficiency.
+
+(iv) How ill is the child?
+
+Red Flag features suggesting serious illness and the need for urgent investigation and treatment are:
+• Fever >38°C if <3 months, >39°C if 3–6 months
+• Colour – pale, mottled, blue
+• Level of consciousness is reduced, neck stiffness, bulging fontanelle, status epilepticus, focal neurological signs or seizures
+• Significant respiratory distress
+• Bile-stained vomiting
+• Severe dehydration or shock.
+
+
+243
+
+Figure 14.2 Serum immunoglobulin levels in the fetus and infant. When maternal immunoglobulin levels decline, infants become susceptible to viral infections.
+
+Graph labels: Serum immunoglobulin levels (% adult values); maternally transferred IgG; IgG; IgM; IgA; total IgG; gestation (weeks); birth; age (years).
+
+Box 14.1 Septic screen
+• Blood culture
+• Full blood count including differential white cell count
+• Acute phase reactant, e.g. C-reactive protein (CRP)
+• Urine sample
+
+Consider if indicated:
+• Chest X-ray
+• Lumbar puncture (unless contraindicated)
+• Rapid antigen screen on blood/CSF/urine
+• Meningococcal and pneumococcal PCR on blood/CSF
+• PCR for viruses in CSF (especially HSV and enterovirus).
+
+Management
+
+Children who are not seriously ill can be managed at home with regular review by the parents, as long as they are given clear instructions (e.g. what clinical features should prompt reassessment by a doctor). Children who are significantly unwell, particularly if there is no focus of infection, will require investigations and observation or treatment in a paediatric assessment unit or A&E department or children’s ward. A septic screen will be required (Box 14.1).
+
+Parenteral antibiotics are given immediately to seriously unwell children, e.g. a third-generation cephalosporin such as cefotaxime or ceftriaxone if >3 months old. In infants 1–3 months old, cefotaxime (in case of septicaemia or meningitis) and ampicillin (in case of Listeria infection) are usually given. Aciclovir is given if herpes simplex encephalitis is suspected. Supportive care is given as indicated.
+
+The child should not be underdressed. The use of antipyretic agents should be considered in children with fever who appear distressed or unwell. They should not be given if the child is otherwise well. Either paracetamol or ibuprofen can be used. They can be given alternatively if unresponsive to a single agent. Evidence that antipyretics prevent febrile seizures is lacking. There are NICE guidelines for the management of the child with fever.
+
+Summary
+
+The febrile child
+• Upper respiratory tract infection (URTI) is an extremely common cause
+• Check for otitis media
+• Serious bacterial infection must be considered if there is no focus of infection, especially urinary tract infection or septicaemia, or there are Red Flag features of life-threatening illness
+• The younger the child, the lower the threshold for performing a septic screen and starting antibiotics.
+
+(v) Is there a rash?
+
+Rashes often accompany febrile illnesses. In some, the characteristics of the rash and other clinical features lead to a diagnosis, e.g. meningococcal septicaemia; in many, a specific diagnosis cannot be made clinically.
+
+(vi) Is there a focus for infection?
+
+Examination may identify a focus of infection (Fig. 14.3). If identified, investigations and management will be directed towards its treatment. However, if no focus is identified, this is often because it is the prodromal phase of a viral illness, but may indicate serious bacterial infection, especially urinary tract infection or septicaemia.
+
+Serious life-threatening infections
+
+Septicaemia
+
+This is considered in Chapter 6 on Paediatric Emergencies.
+
+Meningitis
+
+Meningitis occurs when there is inflammation of the meninges covering the brain. This can be confirmed by finding inflammatory cells in the cerebrospinal fluid (CSF). Viral infections are the most common cause of meningitis, and most are self-resolving. Bacterial meningitis may have severe consequences. Other causes of non-infectious meningitis include malignancy and autoimmune diseases.
+
+
+244
+
+Figure 14.3 Some diagnostic clues to evaluating the febrile child
+
+Upper respiratory tract infection
+Very common, may be coincidental with another more serious illness
+
+Otitis media
+Always examine tympanic membranes in febrile children
+
+Tonsillitis
+Erythema or exudate on the tonsils?
+
+Stridor
+Epiglottitis?
+Viral croup?
+Bacterial tracheitis?
+
+Pneumonia
+Fever, cough, raised respiratory rate, chest recession, abnormal auscultation. In infants, auscultation may be normal – diagnosis may require chest X-ray.
+
+Septicaemia
+Can be difficult to recognise in absence of rash before shock develops.
+Early signs are tachycardia, tachypnoea and poor perfusion.
+Need to start antibiotics on clinical suspicion without waiting for culture results.
+
+Meningitis/encephalitis
+Lethargy, loss of interest in surroundings, drowsiness or coma, seizures.
+Older children – headache, photophobia, neck stiffness, positive Kernig sign (pain on leg straightening).
+Younger children and infants – non-specific symptoms and signs.
+Raised intracranial pressure – reduced conscious level, abnormal pupillary responses, abnormal posturing,
+Cushing triad (bradycardia, hypertension, abnormal pattern of breathing).
+Late signs – papilloedema, bulging fontanelle in infants, opisthotonus (hyperextension of head and back).
+
+Seizure
+Febrile convulsion?
+Meningitis?
+Encephalitis?
+
+Periorbital cellulitis
+Redness and swelling of the eyelids.
+May spread to orbit of the eye
+
+Rash
+Viral exanthem?
+Purpura from meningococcal infection (Fig. 6.10)
+
+Urinary tract infection
+Urine sample needed for any seriously ill young child or any febrile illness that does not settle
+
+Abdominal pain
+Appendicitis?
+Pyelonephritis?
+Hepatitis?
+
+Diarrhoea
+Gastroenteritis?
+Fever with blood and mucus in the stool:
+Shigella, Salmonella or Campylobacter
+
+Osteomyelitis or septic arthritis
+Suspect if painful bone or joint or reluctance to move limb
+
+Prolonged fever
+Bacterial infection, e.g. UTI, bacterial endocarditis.
+Other infections – viral, fungal, protozoal.
+Kawasaki disease.
+Drug reaction.
+Malignant disease.
+Connective tissue disorder
+
+Bacterial meningitis
+
+Over 80% of patients with bacterial meningitis in the UK are younger than 16 years old. Bacterial meningitis remains a serious infection in children, with a 5–10% mortality. Over 10% of survivors are left with long-term neurological impairment.
+
+Pathophysiology
+
+Bacterial infection of the meninges usually follows bacteraemia. Much of the damage caused by meningeal infection results from the host response to infection and not from the organism itself. The release of inflammatory mediators and activated leucocytes, together with endothelial damage, leads to cerebral oedema, raised intracranial pressure and decreased cerebral blood flow. The inflammatory response below the meninges causes a vasculopathy resulting in cerebral cortical infarction, and fibrin deposits may block the resorption of CSF by the arachnoid villi, resulting in hydrocephalus.
+
+Organisms
+
+The organisms which commonly cause bacterial meningitis vary according to the child’s age (Table 14.1).
+
+
+245
+
+Table 14.1 Organisms causing bacterial meningitis according to age
+
+Neonatal–3 months
+• Group B streptococcus
+• E. coli and other coliforms
+• Listeria monocytogenes
+
+1 month–6 years
+• Neisseria meningitidis
+• Streptococcus pneumoniae
+• Haemophilus influenzae
+
+>6 years
+• Neisseria meningitidis
+• Streptococcus pneumoniae
+
+Presentation
+
+The clinical features are listed in Figure 14.4. The early signs and symptoms of meningitis are non-specific, especially in infants and young children. Only children old enough to talk are likely to describe the classical meningitis symptoms of headache, neck stiffness and photophobia. But neck stiffness may also be seen in some children with tonsillitis and cervical lymphadenopathy. As children with meningitis may also be septicaemic, signs of shock, such as tachycardia, tachypnoea, prolonged capillary refill time, and hypotension, should be sought. Purpura in a febrile child of any age should be assumed to be due to meningococcal sepsis, even if the child does not appear unduly ill at the time; meningitis may or may not be present.
+
+Investigations
+
+The essential investigations are listed in Figure 14.4. A lumbar puncture is performed to obtain CSF to confirm the diagnosis, identify the organism responsible, and its antibiotic sensitivity. If any of the contraindications listed in Figure 14.4 are present, a lumbar puncture should not be performed, as under these circumstances, the procedure carries a risk of coning of the cerebellum through the foramen magnum. In these circumstances, a lumbar puncture can be postponed until the child’s condition has stabilised. Even without a lumbar puncture, bacteriological diagnosis can be achieved in at least 50% of cases from the blood by culture or polymerase chain reaction (PCR), and rapid antigen screens can be performed on blood and urine samples. Throat swabs should also be obtained for bacterial and viral cultures. A serological diagnosis can be made on convalescent serum 4–6 weeks after the presenting illness if necessary.
+
+Management
+
+It is imperative that there is no delay in the administration of antibiotics and supportive therapy in a child with meningitis. The choice of antibiotics will depend on the likely pathogen. A third-generation cephalosporin, e.g. cefotaxime or ceftriaxone, is the preferred choice to cover the most common bacterial causes. Although still rare in the UK, pneumococcal resistance to penicillin and cephalosporins is increasing rapidly in certain parts of the world. The length of the course of antibiotics given depends on the causative organism and clinical response. Beyond the neonatal period, dexamethasone administered with the antibiotics reduces the risk of long-term complications such as deafness.
+
+Cerebral complications
+
+These include:
+• Hearing loss. Inflammatory damage to the cochlear hair cells may lead to deafness. All children who have had meningitis should have an audiological assessment promptly, as children who become deaf may benefit from hearing amplification or a cochlear implant.
+• Local vasculitis. This may lead to cranial nerve palsies or other focal lesions.
+• Local cerebral infarction. This may result in focal or multifocal seizures, which may subsequently lead to epilepsy.
+• Subdural effusion. Particularly associated with Haemophilus influenzae and pneumococcal meningitis. This is confirmed by CT scan. Most resolve spontaneously but may require prolonged antibiotic treatment.
+• Hydrocephalus. May result from impaired resorption of CSF (communicating hydrocephalus) or blockage of the ventricular outlets by fibrin (non-communicating hydrocephalus). A ventricular shunt may be required.
+• Cerebral abscess. The child’s clinical condition deteriorates with the emergence of signs of a space-occupying lesion. The temperature will continue to fluctuate. It is confirmed on CT scan. Drainage of the abscess is required.
+
+Prophylaxis
+
+Prophylactic treatment with rifampicin to eradicate nasopharyngeal carriage is given to all household contacts for meningococcal meningitis and Haemophilus influenzae infection. It is not required for the patient if given a third-generation cephalosporin, as this will eradicate nasopharyngeal carriage. Household contacts of patients who have had group C meningococcal meningitis should be vaccinated with the meningococcal group C vaccine.
+
+Partially treated bacterial meningitis
+
+Children are frequently given oral antibiotics for a non-specific febrile illness. If they have early meningitis, this partial treatment with antibiotics may cause diagnostic problems. CSF examination shows a markedly raised number of white cells, but cultures are usually negative. Rapid antigen screens and PCR are helpful in these circumstances. Where the diagnosis is suspected clinically, a full course of antibiotics should be given.
+
+Viral meningitis
+
+Two-thirds of CNS infections are viral. Causes include enteroviruses, Epstein–Barr virus, adenoviruses and mumps. Mumps meningitis is now rare in the UK due to the MMR vaccine. Viral meningitis is usually much less severe than bacterial meningitis and a full recovery
+
+
+246
+
+Figure 14.4 Assessment and investigation of meningitis/encephalitis
+
+History
+Fever
+Headache
+Photophobia
+Lethargy
+Poor feeding/vomiting
+Irritability
+Hypotonia
+Drowsiness
+Loss of consciousness
+Seizures
+
+Examination
+Fever
+Purpuric rash (meningococcal disease)
+Neck stiffness (not always present in infants)
+Bulging fontanelle in infants
+Opisthotonus (arching of back)
+Positive Brudzinski/Kernig signs
+Signs of shock
+Focal neurological signs
+Altered conscious level
+Papilloedema (rare)
+
+Investigations
+Full blood count and differential count
+Blood glucose and blood gas (for acidosis)
+Coagulation screen, C-reactive protein
+Urea and electrolytes, liver function tests
+Culture of blood, throat swab, urine, stool for bacteria and viruses
+Rapid antigen test for meningitis organisms (can be done on blood, CSF, or urine)
+Lumbar puncture for CSF unless contraindicated (see below for tests on CSF)
+Serum for comparison of convalescent titres
+PCR of blood and CSF for possible organisms
+If TB suspected: chest X-ray, Mantoux test, gastric washings or sputum, early morning urines
+Consider CT/MRI brain scan and EEG
+
+Signs associated with neck stiffness
+
+Brudzinski sign – flexion of the neck with the child supine causes flexion of the knees and hips.
+
+Kernig sign – with the child lying supine and with the hips and knees flexed, there is back pain on extension of the knee.
+
+Contraindications to lumbar puncture:
+• Cardiorespiratory instability
+• Focal neurological signs
+• Signs of raised intracranial pressure, e.g. coma, high BP, low heart rate or papilloedema
+• Coagulopathy
+• Thrombocytopenia
+• Local infection at the site of LP
+• If it causes undue delay in starting antibiotics
+
+Best time for LP? Diagnostically useful but potentially dangerous.
+
+Typical changes in the CSF in meningitis or encephalitis, beyond the neonatal period
+
+Normal: Appearance clear; white blood cells 0–5/mm³; protein 0.15–0.4 g/L; glucose ≥50% of blood.
+
+Meningitis, bacterial: Turbid; polymorphs ↑↑; protein ↑↑; glucose ↓↓.
+Meningitis, viral: Clear; lymphocytes ↑ (initially may be polymorphs); protein normal/↑; glucose normal/↓.
+Meningitis, tuberculosis: Turbid/clear/viscous; lymphocytes ↑; protein ↑↑↑; glucose ↓↓↓.
+Encephalitis, viral/unknown: Clear; normal/↑ lymphocytes; protein normal/↑; glucose normal/↓.
+
+Viral meningitis (continued)
+
+...can be anticipated. Diagnosis of viral meningitis can be confirmed by culture or PCR of CSF; culture of stool, urine, nasopharyngeal aspirate, throat swabs; and serology.
+
+Uncommon pathogens and other causes
+
+Where the clinical course is atypical or there is failure to respond to antibiotic and supportive therapy, unusual organisms, e.g. Mycoplasma or Borrelia burgdorferi (Lyme disease), or fungal infections need to be considered. Uncommon pathogens are particularly likely in children who are immunodeficient.
+
+Rarely, recurrent bacterial meningitis may occur in the immunodeficient or in children with structural abnormalities of the skull or meninges which facilitate bacterial access. Aseptic meningitis may be seen in malignancy or autoimmune disorders.
+
+Neonatal meningitis
+
+See Chapter 10.
+
+
+247
+
+Summary
+
+Meningitis
+• Predominantly a disease of infants and children
+• Incidence has been reduced by immunisation
+• Clinical features: non-specific in children under 18 months – fever, poor feeding, vomiting, irritability, lethargy, drowsiness, seizures or reduced consciousness; late signs – bulging fontanelle, neck stiffness and arched back (opisthotonos)
+• Septicaemia can kill in hours; good outcome requires prompt resuscitation and antibiotics
+• Any febrile child with a purpuric rash should be given intramuscular benzylpenicillin immediately and transferred urgently to hospital.
+
+Figure 14.5 Herpes simplex encephalitis. The CT scan shows gross atrophy from loss of neural tissue in the temporoparietal regions (arrows).
+
+Encephalitis/encephalopathy
+
+Whereas in meningitis there is inflammation of the meninges, in encephalitis there is inflammation of the brain substance, although the meninges are often also affected. Encephalitis may be caused by:
+• Direct invasion of the cerebrum by a neurotoxic virus (such as herpes simplex virus, HSV)
+• Delayed brain swelling following a disordered neuroimmunological response to an antigen, usually a virus (post-infectious encephalopathy), e.g. following chickenpox
+• A slow virus infection, such as HIV infection or subacute sclerosing panencephalitis (SSPE) following measles.
+
+In encephalopathy from a non-infectious cause, such as a metabolic abnormality, the clinical features may be similar to an infectious encephalitis.
+
+The clinical features and investigation of encephalitis are described in Figure 14.4. Most children present with fever, altered consciousness and often seizures. Initially, it may not be possible to clinically differentiate encephalitis from meningitis, and treatment for both should be started. The underlying causative organism is only detected in 50% of cases. In the UK, the most frequent causes of encephalitis are enteroviruses, respiratory viruses and herpesviruses (e.g. herpes simplex virus, varicella and HHV6). Worldwide, microorganisms causing encephalitis include Mycoplasma, Borrelia burgdorferi (Lyme disease), Bartonella henselae (cat scratch disease), rickettsial infections (e.g. Rocky Mountain spotted fever) and the arboviruses.
+
+Herpes simplex virus (HSV) is a rare cause of childhood encephalitis but it may have devastating long-term consequences. All children with encephalitis should therefore be treated initially with high-dose intravenous aciclovir, since this is a very safe treatment. Most affected children do not have outward signs of herpes infection, such as cold sores, gingivostomatitis or skin lesions. The PCR of the CSF may be positive for HSV. As HSV encephalitis is a destructive infection, the EEG and CT/MRI scan may show focal changes, particularly within the temporal lobes (Fig. 14.5). These tests may be normal initially and need to be repeated after a few days if the child is not improving. Later confirmation of the diagnosis may be made from HSV antibody production in the CSF. Proven cases of HSV encephalitis or cases where there is a high index of suspicion should be treated with intravenous aciclovir for 3 weeks, as relapses may occur after shorter courses. Untreated, the mortality rate from HSV encephalitis is over 70% and survivors usually have severe neurological sequelae.
+
+Summary
+
+Encephalitis
+• Onset can be insidious and includes behavioural change
+• Consider if HSV (herpes simplex virus) could be the cause
+• Treat potential HSV with parenteral high-dose aciclovir until diagnosis is excluded.
+
+Toxic shock syndrome
+
+Toxin-producing Staphylococcus aureus and group A streptococci can cause this syndrome, which is characterised by:
+• Fever >39°C
+• Hypotension
+• Diffuse erythematous, macular rash.
+
+The toxin can be released from infection at any site, including small abrasions or burns, which may look minor. The toxin acts as a superantigen and, in addition to the features above, causes organ dysfunction, including:
+• Mucositis (Fig. 14.6): conjunctivae, oral mucosa, genital mucosa
+
+
+248
+
+• Gastrointestinal: vomiting/diarrhoea
+• Renal impairment
+• Liver impairment
+• Clotting abnormalities and thrombocytopenia
+• Central nervous system: altered consciousness.
+
+Intensive care support is required to manage the shock. Areas of infection should be surgically debrided. Antibiotics often include a third-generation cephalosporin (such as ceftriaxone) together with clindamycin, which acts on the bacterial ribosome to switch off toxin production. Intravenous immunoglobulin may be given to neutralise circulating toxin. About 1–2 weeks after the onset of the illness, there is desquamation of the palms, soles, fingers and toes.
+
+PVL-producing Staphylococcus aureus causes recurrent skin and soft tissue infections, but can also cause necrotising fasciitis and a necrotising haemorrhagic pneumonia following an influenza-like illness; they carry a high mortality. PVL-producing Staphylococcus aureus produces a toxin called Panton-Valentine leukocidin (PVL) which has emerged in the UK and other countries. PVL is produced by fewer than 2% of Staphylococcus aureus strains (both methicillin-sensitive Staphylococcus aureus (MSSA) and methicillin-resistant Staphylococcus aureus (MRSA)). In children, the pro-coagulant state frequently results in venous thrombosis.
+
+Necrotising fasciitis/cellulitis
+
+This is a severe subcutaneous infection, often involving tissue planes from the skin down to fascia and muscle. The area involved may enlarge rapidly, leaving poorly perfused necrotic areas of tissue, usually at the centre. There is severe pain and systemic illness, which may require intensive care. The invading organism may be Staphylococcus aureus or a group A streptococcus, with or without another synergistic anaerobic organism. Intravenous antibiotic therapy alone is not sufficient to treat this condition. Without surgical intervention and debridement of necrotic tissue, the infection will continue to spread. Clinical suspicion of necrotising fasciitis warrants urgent surgical consultation and intervention. Intravenous immunoglobulin (IVIG) may also be given.
+
+Figure 14.6 A child with toxic shock syndrome receiving intensive care, including artificial ventilation via a nasotracheal tube. The lips are red and the eyelids are oedematous from capillary leak. (Courtesy of Professor Mike Levin.)
+
+Figure 14.7 (a) A boy with meningococcal septicaemia receiving intensive care. (b) After full recovery. (Courtesy of Dr Parviz Habibi.)
+
+Specific bacterial infections
+
+Meningococcal infection
+
+Meningococcal infection is a disease that strikes fear into both parents and doctors, as it can kill previously healthy children within hours (Case History 14.1). However, of the three main causes of bacterial meningitis, meningococcal has the lowest risk of long-term neurological sequelae, with most survivors recovering fully. The septicaemia is usually accompanied by a purpuric rash which may start anywhere on the body and then spread. The rash may or may not be present with meningococcal meningitis. Characteristic lesions are non-blanching on palpation, irregular in size and outline and have a necrotic centre (Fig. 14.8a,b). Any febrile child who develops a purpuric rash should be treated immediately, at home or in the general practitioner’s surgery, with systemic antibiotics such as penicillin before urgent admission to hospital. Although there are now polysaccharide conjugate vaccines
+
+Case History 14.1 Meningococcal septicaemia
+
+This 7-month-old boy presented with a 12-hour history of lethargy and a spreading purpuric rash. In hospital, he required immediate resuscitation and transfer to a paediatric intensive care unit for multi-organ failure (Fig. 14.7a). The gross oedema is from leak of capillary fluid into the tissues. He required colloid and inotropic support and peritoneal dialysis for renal failure. He made a full recovery (Fig. 14.7b).
+
+Meningococcal septicaemia can kill children in hours. Optimal outcome requires immediate recognition, prompt resuscitation and antibiotics.
+
+
+249
+
+Figure 14.8 Rash of meningococcal infection. (a) Characteristic purpuric skin lesions, irregular in size and outline and with a necrotic centre. (b) The lesions may be extensive, when it is called ‘purpura fulminans’.
+
+Against groups A and C meningococcus, there is still no effective vaccine for group B meningococcus, which accounts for the majority of isolates in the UK.
+
+Any febrile child with a purpuric rash should be given intramuscular benzylpenicillin immediately and transferred urgently to hospital.
+
+Pneumococcal infections
+
+Streptococcus pneumoniae is often carried in the nasopharynx of healthy children. Asymptomatic carriage is particularly prevalent among young children and may be responsible for the transmission of pneumococcal disease to other individuals by respiratory droplets. The organism may cause pharyngitis, otitis media, conjunctivitis, sinusitis as well as ‘invasive’ disease (pneumonia, bacterial sepsis and meningitis). Invasive disease, which carries a high burden of morbidity and mortality, mainly occurs in young infants as their immune system responds poorly to encapsulated pathogens such as pneumococcus. With the inclusion of the 13-valent pneumococcal vaccine into the standard immunisation schedule in the UK, the incidence of invasive disease has declined. Children at increased risk, e.g. from hyposplenism, should also be given daily prophylactic penicillin to prevent infection by strains not covered by the vaccine.
+
+Figure 14.9 Impetigo showing characteristic confluent honey-coloured crusted lesions. (Courtesy of Dr Paul Hutchins.)
+
+Summary
+
+Pneumococcal infection
+• Causes not only minor infections such as otitis media but also invasive disease
+• Susceptibility is increased in hyposplenism (e.g. sickle cell disease and nephrotic syndrome)
+• Vaccination is included in the standard immunisation schedule.
+
+Haemophilus infection
+
+H. influenzae type b was an important cause of systemic illness in children, including otitis media, pneumonia, epiglottitis, cellulitis, osteomyelitis and septic arthritis and was the second most common cause of meningitis in the UK. Immunisation has been highly effective and it now rarely causes systemic disease.
+
+Staphylococcal and group A streptococcal infections
+
+Staphylococcal and streptococcal infections are usually caused by direct invasion of the organisms. They may also cause disease by releasing toxins which act as superantigens. Whereas conventional antigens stimulate only a small subset of T cells which have a specific receptor, superantigens bind to a part of the T-cell receptor which is shared by many T cells and therefore stimulates massive T-cell proliferation and cytokine release. Other diseases following staphylococcal and streptococcal infections are immune-mediated.
+
+Impetigo
+
+This is a localised, highly contagious, staphylococcal and/or streptococcal skin infection, most common in infants and young children. It is more common where there is pre-existing skin disease, e.g. atopic eczema. Lesions are usually on the face, neck and hands and begin as erythematous macules which may become vesicular/pustular or even bullous (Fig. 14.9). Rupture
+
+
+250
+
+Figure 14.10 Periorbital cellulitis. It should be treated promptly with intravenous antibiotics to prevent spread into the orbit.
+
+Figure 14.11 Staphylococcal scalded skin syndrome. Its appearance must not be mistaken for a scald from non-accidental injury.
+
+Impetigo (continued)
+
+Rupture of the vesicles with exudation of fluid leads to the characteristic confluent honey-coloured crusted lesions. Infection is readily spread to adjacent areas and other parts of the body by autoinoculation of the infected exudate. Topical antibiotics (e.g. mupirocin) are sometimes effective for mild cases. Narrow-spectrum systemic antibiotics (e.g. flucloxacillin) are needed for more severe infections, although more broad-spectrum antibiotics such as co-amoxiclav or cefaclor have simpler oral administration regimens, taste better and therefore have better adherence. Affected children should not go to nursery or school until the lesions are dry. Nasal carriage is an important source of infection which can be eradicated with a nasal cream containing mupirocin or chlorhexidine and neomycin.
+
+Boils
+
+These are infections of hair follicles or sweat glands, usually caused by Staphylococcus aureus. Treatment is with systemic antibiotics and occasionally surgery. Recurrent boils are usually from persistent nasal carriage in the child or family acting as a reservoir for reinfection. Only rarely are they a manifestation of immune deficiency.
+
+Periorbital cellulitis
+
+In periorbital cellulitis there is fever with erythema, tenderness and oedema of the eyelid (Fig. 14.10). It is almost always unilateral. In young, unimmunised children it may also be caused by Haemophilus influenzae type b which may also be accompanied by infection at other sites, e.g. meningitis. It may follow local trauma to the skin. In older children, it may spread from a paranasal sinus infection or dental abscess. Periorbital cellulitis should be treated promptly with intravenous antibiotics to prevent posterior spread of the infection to become an orbital cellulitis. In orbital cellulitis, there is proptosis, painful or limited ocular movement and reduced visual acuity. It may be complicated by abscess formation, meningitis or cavernous sinus thrombosis. Where orbital cellulitis is suspected, a CT scan should be performed to assess the posterior spread of infection and a lumbar puncture may be required to exclude meningitis.
+
+Scalded skin syndrome
+
+This is caused by an exfoliative staphylococcal toxin which causes separation of the epidermal skin through the granular cell layers. It affects infants and young children, who develop fever and malaise and may have a purulent, crusting, localised infection around the eyes, nose and mouth with subsequent widespread erythema and tenderness of the skin. Areas of epidermis separate on gentle pressure (Nikolsky sign), leaving denuded areas of skin (Fig. 14.11), which subsequently dry and heal without scarring. Management is with an intravenous anti-staphylococcal antibiotic, analgesia and monitoring of fluid balance.
+
+Summary
+
+Staphylococcal and streptococcal infections
+• Symptoms are caused by direct invasion of bacteria or by release of toxins
+• Impetigo is highly contagious
+• Periorbital cellulitis should be treated aggressively to prevent spread to the orbit or brain
+• Scalded skin syndrome is rare but serious.
+
+Common viral infections
+
+Many of the common childhood infections present with fever and a rash (Table 14.2). Incubation periods vary from 24 h for viral gastroenteritis, to about 2 weeks for chickenpox, but for some diseases, such as HIV, the length of time between exposure and the development of symptomatic illness may extend to many years. This is a reflection of host–pathogen interactions; an effective initial host response may result in a prolonged period of clinical latency, whereas an ineffective response permits rapid evolution of disease.
+
+The infectious period characteristically begins a day or two before the rash appears and, for purposes of nursery/school exclusion, is generally considered to last until the rash has resolved or the lesions have dried up. For details about incubation and exclusion periods, see the Health Protection Agency website (http://www.hpa.org.uk).

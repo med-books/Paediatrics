@@ -1,0 +1,435 @@
+PAGE 341
+
+Box 18.8 Causes of palpable kidneys
+
+Unilateral
+• Multicystic kidney
+• Compensatory hypertrophy
+• Obstructed hydronephrosis
+• Renal tumour (Wilms tumour)
+• Renal vein thrombosis
+
+Bilateral
+• Autosomal recessive (infantile) polycystic kidneys
+• Autosomal dominant (adult) polycystic kidneys
+• Tuberous sclerosis
+• Renal vein thrombosis.
+
+Box 18.9 Causes of Fanconi syndrome
+
+Idiopathic
+
+Secondary to inborn errors of metabolism
+• Cystinosis (an autosomal recessive disorder causing intracellular accumulation of cystine)
+• Glycogen storage disorders
+• Lowe syndrome (oculocerebrorenal dystrophy)
+• Galactosaemia
+• Fructose intolerance
+• Tyrosinaemia
+• Wilson disease
+
+Acquired
+• Heavy metals
+• Drugs and toxins
+• Vitamin D deficiency.
+
+Early detection of hypertension is important. Any children with a renal abnormality should have their blood pressure checked annually throughout life. Children with a family history of essential hypertension should be encouraged to restrict their salt intake, avoid obesity and have their blood pressure checked regularly.
+
+Renal masses
+
+An abdominal mass identified on palpating the abdomen should be investigated promptly by ultrasound scan. The causes of palpable kidneys are shown in Box 18.8. Bilaterally enlarged kidneys in early life are most frequently due to autosomal recessive polycystic kidney disease, which is associated with hypertension, hepatic fibrosis and progression to chronic renal failure. This form of polycystic kidney disease must be distinguished from the autosomal dominant adult-type polycystic kidney disease, which has a more benign prognosis in childhood with onset of renal failure in adulthood.
+
+Figure 18.20 Renal ultrasound showing a staghorn calculus.
+
+Renal calculi
+
+Renal stones are uncommon in childhood (Fig. 18.20). When they occur, predisposing causes must be sought:
+• Urinary tract infection
+• Structural anomalies of the urinary tract
+• Metabolic abnormalities.
+
+The commonest are phosphate stones associated with infection, especially with Proteus. Calcium-containing stones occur in idiopathic hypercalciuria, the most common metabolic abnormality, and with increased urinary urate and oxalate excretion. Deposition of calcium in the parenchyma (nephrocalcinosis) may occur with hypercalciuria, hyperoxaluria and distal renal tubular acidosis. Nephrocalcinosis may be a complication of furosemide therapy in the neonate. Cystine and xanthine stones are rare.
+
+Presentation may be with haematuria, loin or abdominal pain, UTI or passage of a stone.
+
+Stones that are not passed spontaneously should be removed, by either lithotripsy or surgery, and any predisposing structural anomaly repaired. A high fluid intake is recommended in all affected children. If the cause is a metabolic abnormality, specific therapy may be possible.
+
+Renal tubular disorders
+
+Abnormalities of renal tubular function may occur at any point along the length of the nephron and affect any of the substances handled by it.
+
+Generalised proximal tubular dysfunction (Fanconi syndrome)
+
+Proximal tubule cells are among the most metabolically active in the body, so are especially vulnerable to cellular damage. The cardinal features are excessive urinary loss of amino acids, glucose, phosphate, bicarbonate, sodium, calcium, potassium and urate. The causes are listed in Box 18.9. Fanconi syndrome should be considered in a child presenting with:
+• Polydypsia and polyuria
+• Salt depletion and dehydration
+• Hyperchloraemic metabolic acidosis
+• Rickets
+• Failure to thrive/poor growth.
+
+
+PAGE 342
+
+Figure 18.21 Schematic diagram of specific transport defects in some renal tubular disorders.
+
+Diagram labels:
+Glomerulus
+Proximal tubule
+Distal tubule
+Loop of Henle
+Collecting duct
+
+Proximal tubule disorders:
+• Glycosuria — glucose (↓R); asymptomatic
+• Cystinuria — cystine and dibasic amino acids (↓R); renal calculi
+• Vitamin D resistant rickets — phosphate (↓R); rickets
+• Pseudohypoparathyroidism — phosphate (↑R); obesity, depressed nasal bridge, short fingers (2nd, 4th and 5th)
+• Hyperuricosuria — uric acid (↑S or ↓R); renal calculi
+• Renal tubular acidosis type II — bicarbonate (↓R); metabolic acidosis, alkaline urine, growth failure
+• Hypercalciuria — calcium (↓R); nephrocalcinosis or renal stones
+
+Distal tubule disorders:
+• Nephrogenic diabetes insipidus — water (↓R); polydipsia and polyuria, fever, failure to thrive/poor growth
+• Renal tubular acidosis type I — hydrogen ion (↓S); as for type II RTA and nephrocalcinosis
+• Bartter syndrome — chloride (↓R); hypokalaemic metabolic alkalosis, hypercalciuria, normal blood pressure with ↑renin, polydipsia and polyuria, growth failure
+
+R = reabsorption
+S = secretion
+
+Specific transport defects
+
+See Figure 18.21.
+
+Acute kidney injury
+
+Acute kidney injury has acute renal failure at the most severe end of the spectrum where there is a sudden, potentially reversible, reduction in renal function. Oliguria (<0.5 ml/kg per hour) is usually present. It can be classified as (see Box 18.10):
+• Prerenal: the commonest cause in children
+• Renal: there is salt and water retention; blood, protein and casts are often present in the urine; and there may be symptoms specific to an accompanying disease (e.g. haemolytic uraemic syndrome)
+• Postrenal: from urinary obstruction.
+
+
+PAGE 343
+
+Box 18.10 Causes of acute renal failure
+
+Prerenal
+• Hypovolaemia:
+  – Gastroenteritis
+  – Burns
+  – Sepsis
+  – Haemorrhage
+  – Nephrotic syndrome
+• Circulatory failure
+
+Renal
+• Vascular:
+  – Haemolytic uraemic syndrome (HUS)
+  – Vasculitis
+  – Embolus
+  – Renal vein thrombosis
+• Tubular:
+  – Acute tubular necrosis (ATN)
+  – Ischaemic
+  – Toxic
+  – Obstructive
+• Glomerular:
+  – Glomerulonephritis
+• Interstitial:
+  – Interstitial nephritis
+  – Pyelonephritis
+
+Postrenal
+• Obstruction:
+  – Congenital e.g. posterior urethral valves
+  – Acquired e.g. blocked urinary catheter
+
+Acute-on-chronic renal failure is suggested by the child having growth failure, anaemia and disordered bone mineralisation (renal osteodystrophy).
+
+Management
+
+Children with acute renal failure should have their circulation and fluid balance meticulously monitored. Investigation by ultrasound scan will identify obstruction of the urinary tract, the small kidneys of chronic renal failure, or large, bright kidneys with loss of cortical medullary differentiation typical of an acute process.
+
+Prerenal failure
+
+This is suggested by hypovolaemia. The fractional excretion of sodium is very low as the body tries to retain fluid. The hypovolaemia needs to be urgently corrected with fluid replacement and circulatory support if acute tubular necrosis is to be avoided.
+
+Renal failure
+
+If there is circulatory overload, restriction of fluid intake and challenge with a diuretic may increase urine output sufficiently to allow gradual correction of sodium and water balance. A high-calorie, normal protein feed will decrease catabolism, uraemia and hyperkalaemia. Emergency management of metabolic acidosis, hyperkalaemia and hyperphosphataemia is shown in Table 18.5. If the cause of renal failure is not obvious, a renal biopsy should be performed to identify rapidly progressive glomerulonephritis, as this may need immediate treatment with immunosuppression. The two commonest renal causes of acute renal failure in children in the UK are the haemolytic uraemic syndrome and acute tubular necrosis, the latter usually in the setting of multisystem failure in the intensive care unit or following cardiac surgery.
+
+Postrenal failure
+
+This requires assessment of the site of obstruction and relief by nephrostomy or bladder catheterisation. Surgery can be performed once fluid volume and electrolyte abnormalities have been corrected.
+
+Table 18.5 Some metabolic abnormalities in acute renal failure and their therapy
+
+Metabolic acidosis — Sodium bicarbonate
+Hyperphosphataemia — Calcium carbonate; dietary restriction
+Hyperkalaemia:
+• Calcium gluconate if ECG changes
+• Salbutamol (nebulised or intravenous)
+• Calcium exchange resin
+• Glucose and insulin
+• Dietary restriction
+• Dialysis
+
+Dialysis
+
+Dialysis in acute renal failure is indicated when there is:
+• Failure of conservative management
+• Hyperkalaemia
+• Severe hypo- or hypernatraemia
+• Pulmonary oedema or hypertension
+• Severe acidosis
+• Multisystem failure.
+
+Peritoneal dialysis or haemodialysis can be undertaken for acute renal failure. If plasma exchange is part of the treatment, haemodialysis is used. If there is cardiac decompensation or hypercatabolism, continuous arteriovenous or venovenous haemofiltration provides gentle, continuous dialysis and fluid removal. Acute renal failure in childhood generally carries a good prognosis for renal recovery unless complicating a life-threatening condition, e.g. severe infection, following cardiac surgery or multisystem failure.
+
+
+PAGE 344
+
+Haemolytic uraemic syndrome
+
+Haemolytic uraemic syndrome (HUS) is a triad of acute renal failure, microangiopathic haemolytic anaemia and thrombocytopenia. Typical HUS is secondary to gastrointestinal infection with verocytotoxin-producing E. coli O157:H7, acquired through contact with farm animals or eating uncooked beef, or, less often, Shigella. It follows a prodrome of bloody diarrhoea. The toxin from these organisms enters the gastrointestinal mucosa and preferentially localises to the endothelial cells of the kidney where it causes intravascular thrombogenesis. Coagulation cascade is activated and clotting is normal (unlike in disseminated intravascular coagulation, DIC). Platelets are consumed in this process and microangiopathic haemolytic anaemia results from damage to red blood cells as they circulate through the microcirculation, which is occluded. Other organs such as the brain, pancreas and heart may also be involved.
+
+With early supportive therapy, including dialysis, the typical diarrhoea-associated HUS usually has a good prognosis, although follow-up is necessary as there may be persistent proteinuria and the development of hypertension and declining renal function in subsequent years. In contrast, atypical HUS has no diarrhoeal prodrome, may be familial and frequently relapses. It has a high risk of hypertension and chronic renal failure and has a high mortality. Children with intracerebral involvement or with atypical HUS may be treated with plasma exchange or plasma infusions, but their efficacy is unproven.
+
+Haemolytic uraemic syndrome (HUS) – the triad of:
+• Acute renal failure
+• Haemolytic anaemia
+• Thrombocytopenia.
+
+Summary: Acute renal failure
+
+• Prerenal: commonest cause in children, from hypovolaemia and circulatory failure
+• Renal: most often haemolytic uraemic syndrome or multisystem failure
+• Postrenal: from urinary obstruction
+• Management: treat underlying cause, metabolic abnormalities, dialysis if necessary.
+
+Chronic kidney disease
+
+Chronic renal failure, with GFR <15 ml/min per 1.73 m², is much less common in children than in adults, with an incidence of only 10 per million of the child population each year. Congenital and familial causes are more common in childhood than are acquired diseases (Table 18.6).
+
+Table 18.6 Causes of chronic renal failure
+Structural malformations — 40%
+Glomerulonephritis — 25%
+Hereditary nephropathies — 20%
+Systemic diseases — 10%
+Miscellaneous/unknown — 5%
+
+Clinical features
+
+Chronic renal failure presents with:
+• Anorexia and lethargy
+• Polydipsia and polyuria
+• Failure to thrive/growth failure
+• Bony deformities from renal osteodystrophy (renal rickets)
+• Hypertension
+• Acute-on-chronic renal failure (precipitated by infection or dehydration)
+• Incidental finding of proteinuria
+• Unexplained normochromic, normocytic anaemia.
+
+Many children with chronic renal failure have had their renal disease detected before birth by antenatal ultrasound or have previously identified renal disease. Symptoms rarely develop before renal function falls to less than one-third of normal.
+
+Management
+
+The aims of management are to prevent the symptoms and metabolic abnormalities of chronic renal failure, to allow normal growth and development and to preserve residual renal function. The management of these children should be conducted in a specialist paediatric nephrology centre.
+
+Diet
+
+Anorexia and vomiting are common. Improving nutrition using calorie supplements and nasogastric or gastrostomy feeding is often necessary to optimise growth. Protein intake should be sufficient to maintain growth and a normal albumin, whilst preventing the accumulation of toxic metabolic byproducts.
+
+Prevention of renal osteodystrophy
+
+Phosphate retention and hypocalcaemia due to decreased activation of vitamin D leads to secondary hyperparathyroidism, which results in osteitis fibrosa and osteomalacia. Phosphate restriction by decreasing the dietary intake of milk products, calcium carbonate as a phosphate binder, and activated vitamin D supplements help to prevent renal osteodystrophy.
+
+Control of salt and water balance and acidosis
+
+Many children with chronic renal failure caused by congenital structural malformations and renal dysplasia have an obligatory loss of salt and water. They need
+
+
+PAGE 345
+
+salt supplements and free access to water. Treatment with bicarbonate supplements is necessary to prevent acidosis.
+
+Anaemia
+
+Reduced production of erythropoietin and circulation of metabolites that are toxic to the bone marrow result in anaemia. This responds well to the administration of recombinant human erythropoietin.
+
+Hormonal abnormalities
+
+Many hormonal abnormalities occur in chronic renal failure. Most importantly, there is growth hormone resistance with high growth hormone levels but poor growth. Recombinant human growth hormone has been shown to be effective in improving growth for up to 5 years of treatment, but whether it improves final height remains unknown. Many children with chronic renal failure have delayed puberty and a subnormal pubertal growth spurt.
+
+Dialysis and transplantation
+
+It is now possible for all children to enter renal replacement therapy programmes when end-stage renal failure is reached. The optimum management is by renal transplantation. Technically, this is difficult in very small children and a minimum weight, e.g. 10 kg, needs to be reached before transplantation to avoid renal vein thrombosis. Kidneys obtained from living related donors have a higher success rate than deceased donor kidneys, which are matched as far as possible to the recipient’s HLA type. Patient survival is high and first-year graft survival is around 97% for living related and 93% for deceased kidneys in the UK. Graft losses from both acute and chronic rejection or recurrent disease mean that the 5-year graft survival is reduced to 91% for living related kidneys and 79% for deceased donor kidney transplants and some children need re-transplantation. Current immunosuppression is mainly with combinations of prednisolone, tacrolimus and azathioprine or mycophenolate mofetil.
+
+Ideally, a child is transplanted before dialysis is required, but if this is not possible, a period of dialysis may be necessary. Peritoneal dialysis, either by cycling overnight using a machine (continuous cycling peritoneal dialysis) or by manual exchanges over 24 h (continuous ambulatory peritoneal dialysis), can be done by the parents at home and is therefore less disruptive to family life and the child’s schooling. Haemodialysis is an alternative and is usually done in hospital 3–4 times a week.
+
+Summary: Chronic renal failure
+
+• Causes: congenital (structural malformations and hereditary nephropathies) most common
+• Presentation: abnormal antenatal ultrasound, anorexia and lethargy, polydipsia and polyuria, failure to thrive/growth failure, renal rickets, hypertension, proteinuria, anaemia
+• Management: diet and nasogastric or gastrostomy feeding, phosphate restriction and activated vitamin D to prevent renal osteodystrophy, salt supplements and free access to water to control salt and water balance, bicarbonate supplements to prevent acidosis, erythropoietin to prevent anaemia, growth hormone and dialysis and transplantation.
+
+Further reading
+
+Avner, ED, Harmon, WE, Niaudet, P, et al: Pediatric Nephrology. Philadelphia, 2009, Lippincott Williams & Wilkins.
+A comprehensive textbook.
+
+Rees, L, Brogan, P, Webb, N: Handbook of Paediatric Nephrology. Oxford, 2007, Oxford University Press.
+
+Websites (Accessed May 2011)
+
+Emedicine: Details about a range of paediatric nephrology conditions. http://emedicine.medscape.com/pediatrics_general#nephrology.
+British Association of Paediatric Nephrology: http://www.bapn.org/.
+American Society of Pediatric Nephrology: http://www.aspneph.com/patient_info_websites.asp.
+
+
+PAGE 346
+
+This page intentionally left blank
+
+
+PAGE 347
+
+19
+Genitalia
+
+Genital disorders in boys 347
+Inguinoscrotal disorders 347
+Abnormalities of the penis 351
+Genital disorders in girls 354
+
+Genital disorders in boys
+
+Most disorders of the genitalia in childhood are in boys.
+
+Inguinoscrotal disorders
+
+Embryology
+
+The testis is formed from the urogenital ridge on the posterior abdominal wall close to the developing kidney. Gonadal induction to form a testis is regulated by genes on the Y chromosome. During gestation, the testis migrates down towards the inguinal canal, guided by mesenchymal tissue known as the gubernaculum, probably under the influence of anti-Müllerian hormone (Fig. 19.1a).
+
+Inguinoscrotal descent of the testis requires the release of testosterone from the fetal testis. A tongue of peritoneum, the processus vaginalis, precedes the migrating testis through the inguinal canal. This peritoneal extension normally becomes obliterated after birth, but failure of this process may lead to the development of an inguinal hernia or hydrocele (Fig. 19.1b–d).
+
+Figure 19.1 (a) Embryology of testicular descent. (b) The normal testis. (c) Inguinal hernia and (d) hydrocele are the result of incomplete obliteration of the processus vaginalis.
+
+Diagram labels:
+(a) Testis (retroperitoneal) (on posterior abdominal wall); abdominal descent; inguinoscrotal descent (third trimester); phallus; processus vaginalis; bowel.
+(b) Pubic tubercle; vas deferens; anterior superior iliac spine; peritoneum; internal inguinal ring; gubernaculum; scrotum; obliterated patent processus vaginalis; tunica vaginalis; normal.
+(c) Inguinal hernia.
+(d) Thinly patent track; hydrocele.
+
+
+PAGE 348
+
+Inguinal hernia in infants
+
+Figure 19.2 Left inguinal hernia in an infant. The left groin is only slightly swollen.
+
+Figure 19.3 Bilateral inguinal hernias in a preterm infant. Inguinal hernia is primarily a groin swelling; only when it is large does it extend into the scrotum.
+
+Figure 19.4 Right-sided hydrocele. The scrotal swelling often has a bluish discoloration and will transilluminate in a darkened room.
+
+Inguinal hernia
+
+Inguinal hernias in children are almost always indirect and due to a patent processus vaginalis. They are much more frequent in boys and are particularly common in premature infants. Hernias are more common on the right side. At least 1 in 50 boys will develop an inguinal hernia.
+
+Inguinal hernias usually present as an intermittent swelling in the groin or scrotum on crying or straining. Unless the hernia is observed as an inguinal swelling (Figs 19.2, 19.3), diagnosis relies on the history and the identification of thickening of the spermatic cord (or round ligament in girls). The groin swelling may become visible on raising the intra-abdominal pressure by gently pressing on the abdomen or asking the child to cough.
+
+An inguinal hernia in an infant may present as an irreducible lump in the groin or scrotum. The lump is firm and tender. The infant may be unwell with irritability and vomiting. Most ‘irreducible’ hernias can be successfully reduced following opioid analgesia and sustained gentle compression. Surgery is delayed for 24–48 hours to allow resolution of oedema. If reduction is impossible, emergency surgery is required because of the risk of strangulation of bowel and damage to the testis. A hernia associated with an undescended testis should be operated early to minimise risks to the testis.
+
+Surgery
+
+The operation is carried out via an inguinal skin crease incision and involves ligation and division of the hernial sac (processus vaginalis). Except in small infants, this can usually be undertaken as a day-case procedure, provided there is appropriate anaesthetic and surgical support.
+
+Inguinal hernias in infants should be repaired promptly to avoid the risk of strangulation.
+
+Hydrocele
+
+A patent processus vaginalis, which is sufficiently narrow to prevent the formation of an inguinal hernia, may still allow peritoneal fluid to track down around the testis to form a hydrocele (Fig. 19.4). Hydroceles are asymptomatic scrotal swellings, often bilateral, and sometimes with a bluish discoloration. They may be tense or lax but are non-tender and transilluminate. Some hydroceles are not evident at birth but present in early childhood after a viral or gastrointestinal illness. The majority resolve spontaneously as the processus continues to obliterate, but surgery is considered if it persists beyond 18–24 months of age. A hydrocele of the cord forms a non-tender mobile swelling in the spermatic cord.
+
+Undescended testis
+
+An undescended testis has been arrested along its normal pathway of descent (Fig. 19.5). At birth, about 4% of full-term male infants will have a unilateral or bilateral undescended testis (cryptorchidism). It is more common in preterm infants because testicular descent through the inguinal canal occurs in the third trimester. Testicular descent may continue during early infancy and by 3 months of age the overall rate of cryptorchidism in boys is 1.5%, with little change thereafter. Contrary to previous teaching, it is now recognised that occasionally a testis which is fully descended at birth can ascend to an inguinal position during childhood,
+
+
+PAGE 349
+
+Figure 19.5 A left undescended testis with an empty hemiscrotum.
+
+Figure 19.6 Laparoscopic appearance of an intra-abdominal testis.
+Image labels: Internal inguinal ring; Testis; Vas deferens; Testicular vessels.
+
+Accounting for some late-presenting ‘undescended’ or ‘ascended’ testes. This phenomenon may be due to a relative shortening of cord structures during growth of the child.
+
+Examination
+
+This should be carried out in a warm room, with warm hands and a relaxed child. The testes can then be brought down into a palpable position by gently massaging the contents of the inguinal canal towards the scrotum.
+
+Classification
+
+Retractile
+
+The testis can be manipulated into the bottom of the scrotum without tension, but subsequently retracts into the inguinal region, pulled up by the cremasteric muscle. The testis has usually been found in the scrotum at a neonatal check and been noted by parents on bathing their baby. With age, the testis resides permanently in the scrotum. Follow-up is advisable as, rarely, the testis subsequently ascends into the inguinal canal.
+
+Palpable
+
+The testis can be palpated in the groin but cannot be manipulated into the scrotum. Occasionally, a testis is ectopic, when it lies outside its normal line of descent and may then be found in the perineum or femoral triangle.
+
+Impalpable
+
+No testis can be felt on detailed examination. The testis may be in the inguinal canal, intra-abdominal or absent.
+
+Investigations
+
+Useful investigations include:
+• Ultrasound – this has a limited role in identifying testes in the inguinal canal in obese boys but cannot reliably distinguish between an intra-abdominal or absent testis. It is performed in children with bilateral impalpable testes to verify internal pelvic organs.
+• Hormonal – for bilateral impalpable testes, the presence of testicular tissue can be confirmed by recording a rise in serum testosterone in response to intramuscular injections of human chorionic gonadotrophin (HCG); these boys may require specialist endocrine review.
+• Laparoscopy (Fig. 19.6) – the investigation of choice for the impalpable testis. Under anaesthesia, inguinal examination is first carried out to check that the testis is not in the inguinal canal.
+
+Management
+
+Surgical placement of the testis in the scrotum (orchidopexy) is undertaken for several reasons:
+
+• Fertility – to optimise spermatogenesis, the testis needs to be in the scrotum below body temperature. The timing of orchidopexy is controversial, but orchidopexy during the second year of life may optimise reproductive potential. After 6 months of age descent of testis is unlikely and referral for paediatric surgical review at that age is recommended. Fertility after orchidopexy for a unilateral undescended testis is close to normal. In contrast, fertility is reduced to around 50% after bilateral orchidopexy for palpable undescended testes, and men with a history of bilaterally impalpable testes are usually sterile.
+
+• Malignancy – undescended testes have histological abnormalities and an increased risk of malignancy. The risk is greater for bilateral undescended testes and the greatest risk is for testes which are intra-abdominal. Although the evidence is somewhat contradictory, some studies have suggested that early orchidopexy for a unilateral undescended testis reduces the risk to nearly the same as a normal testis. A scrotal testis can also be more easily self-examined than an inguinal or ectopic one.
+
+
+PAGE 350
+
+Figure 19.7 (a) Testicular torsion. (b) Hydatid torsion. (c) Epididymitis. (d) Incidence in relation to age.
+
+Diagram labels:
+(a) Testicular torsion: twisted epididymis and testis; black testis.
+(b) Hydatid torsion: twisted hydatid; small hydrocele.
+(c) Epididymitis: inflamed epididymis; small hydrocele; slightly swollen testis.
+(d) Incidence according to age: epididymitis, hydatid torsion, testicular torsion; age in years, 5, 10, 15.
+
+• Cosmetic and psychological – if a testis is absent, a prosthesis can be used but this is best delayed until a larger adult-sized prosthesis can be inserted.
+
+Surgery
+
+Most boys with an undescended testis undergo an orchidopexy via an inguinal incision. The testis is mobilised, preserving the vas deferens and testicular vessels, the associated patent processus vaginalis is ligated and divided, and the testis is placed in the scrotal pouch. The operation is usually performed as a day-case procedure.
+
+Most intra-abdominal testes are amenable to laparoscopic staged orchidopexy. Orchidectomy is considered in rare circumstances of a very high testis in an older child or a unilateral intra-abdominal testis in a postpubertal adolescent with a normal contralateral testis. Before conducting laparoscopy in a peripubertal boy, baseline abdominal ultrasound scan and serum tumour markers are checked. Although intra-abdominal testes have profoundly defective spermatogenesis, they are capable of producing male hormones.
+
+Varicocele
+
+Varicosities of the testicular veins may develop in boys around puberty. They are usually on the left side and there is an association with subfertility. Treatment is indicated for symptoms (dragging, aching), impaired testicular growth and, in later life, for infertility. Obliteration of the testicular veins can be achieved by conventional surgery, laparoscopic techniques or radiological embolisation. The role of such interventions in asymptomatic boys is uncertain.
+
+The acute scrotum
+
+Torsion of the testis
+
+Testicular torsion is most common in adolescents but may occur at any age, including the perinatal period (Fig. 19.7). The pain is not always centred on the scrotum but may be in the groin or lower abdomen. Atypical presentation is not unusual and the testes must always be examined whenever a boy or young man presents with inguinal or lower abdominal pain of sudden onset (see Case History 19.1). There may be a history of previous self-limiting episodes. Torsion of the testis must be relieved within 6–12 h of the onset of symptoms for there to be a good chance of testicular viability. Surgical exploration is mandatory unless torsion can be excluded. If torsion is confirmed, fixation of the contralateral testis is essential because there may be an anatomical predisposition to torsion, for example the ‘bell clapper’ testis, where the testis is not anchored properly. An undescended testis is at increased risk of torsion and at increased risk of delayed diagnosis. It may also be confused with an incarcerated hernia. Expert Doppler ultrasound looking at flow in the testicular blood vessels may allow torsion of the testis to be differentiated from epididymitis, but should not be used to diagnose torsion as only early surgical correction may salvage the testis. If there is any doubt about the cause of a painful scrotum, surgery should be performed.
+
+Torsion of testicular appendage
+
+A hydatid of Morgagni is an embryological remnant found on the upper pole of the testis. Torsion of this appendage characteristically affects boys just prior to puberty. This may be because of rapid enlargement of the hydatid in response to gonadotrophins. The pain may increase over 1 or 2 days and occasionally the torted hydatid can be seen or felt (the blue dot sign). Surgical exploration and excision of the appendage leads to rapid resolution of the problem.
+
+Other causes
+
+Viral or bacterial epididymo-orchitis or epididymitis may cause an acute scrotum in infants and toddlers, and scrotal exploration is often necessary to confirm the diagnosis. If an associated urinary tract infection is present, antibiotic treatment and full investigation of the urinary tract will be required. Other conditions which may cause scrotal symptoms and signs are idiopathic scrotal oedema (usually painless, bilateral

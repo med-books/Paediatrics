@@ -1,0 +1,552 @@
+PAGE 331
+
+Table 18.3 Methods and interpretation of dipstick testing in children
+
+Methods of dipstick testing
+
+Nitrite stick testing
+Positive result useful as very likely to indicate a true UTI
+But some children with a UTI are nitrite-negative
+
+Leucocyte esterase stick testing (for WBCs)
+May be present in children with UTI but may also be negative
+Present in children with febrile illness without UTIs
+Positive in balanitis and vulvovaginitis
+
+Interpretation of results
+
+Leucocyte esterase and nitrite positive
+Regard as UTI
+
+Leucocyte esterase negative and nitrite positive
+Start antibiotic treatment
+Diagnosis depends on urine culture
+
+Leucocyte esterase positive and nitrite negative
+Only start antibiotic treatment if clinical evidence of UTI
+Diagnosis depends on urine culture
+
+Leucocyte esterase and nitrite negative
+UTI unlikely. Repeat or send urine for culture if clinical history suggests UTI
+
+Blood, protein, and glucose present on stick testing
+Useful in any unwell child to identify other diseases, e.g. nephritis, diabetes mellitus, but will not discriminate between children with and without UTIs
+
+The commonest error in the management of UTI in children, and especially in infants, is failure to establish the diagnosis properly in the first place. If the diagnosis of a UTI is not made, the opportunity to prevent renal damage may be missed, or, if incorrectly diagnosed, may lead to unnecessary invasive investigations.
+
+For the child in nappies, urine can be collected by:
+• A ‘clean-catch’ sample into a waiting clean pot when the nappy is removed. This is the recommended method
+• An adhesive plastic bag applied to the perineum after careful washing, although there may be contamination from the skin
+• A urethral catheter if there is urgency in obtaining a sample and no urine has been passed
+• Suprapubic aspiration (SPA), when a fine needle attached to a syringe is inserted directly into the bladder just above the symphysis pubis under ultrasound guidance; it may be used in severely ill infants requiring urgent diagnosis and treatment, but it is an invasive procedure, and is increasingly replaced by urethral catheter sampling.
+
+In the older child, urine can be obtained by collecting a midstream sample. Careful cleaning and collection are necessary, as contamination with both white cells and bacteria can occur from under the foreskin in boys, and from reflux of urine into the vagina during voiding in girls.
+
+Ideally, the urine sample should be microscoped to identify organisms and cultured straight away. This is indicated in all infants and children <3 years old with a suspected UTI. If this is not possible, the urine sample should be refrigerated to prevent the overgrowth of contaminating bacteria. Urinary white cells are not a reliable feature of a UTI, as they may lyse during storage and may be present in febrile children without a UTI and in children with balanitis or vulvovaginitis.
+
+Dipsticks can be used as a screening test. Urine culture should still be performed unless both leucocyte esterase and nitrite are negative or if the clinical symptoms and dipstick tests do not correlate (Table 18.3).
+
+A bacterial culture of >10⁵ colony-forming units of a single organism per millilitre in a properly collected specimen gives a 90% probability of infection. If the same result is found in a second sample, the probability rises to 95%. A growth of mixed organisms usually represents contamination, but if there is doubt, another sample should be collected. Any bacterial growth of a single organism per millilitre in a catheter sample or suprapubic aspirate is considered diagnostic of infection.
+
+A urine sample should be tested in all infants with an unexplained fever >38°C.
+
+Bacterial and host factors that predispose to infection
+
+Infecting organism
+
+UTI is usually the result of bowel flora entering the urinary tract via the urethra, except in the newborn when it is more likely to be haematogenous. The commonest organism is E. coli, followed by Klebsiella, Proteus and Pseudomonas and Strep. faecalis. Proteus infection is more commonly diagnosed in boys than in girls, possibly because of its presence under the prepuce. Proteus infection predisposes to the formation of phosphate stones by splitting urea to ammonia and thus alkalinising the urine. Pseudomonas infection may indicate the presence of some structural abnormality in the urinary tract affecting drainage.
+
+
+PAGE 332
+
+Antenatally diagnosed renal or urinary tract abnormality
+
+Increases risk of infection.
+
+Incomplete bladder emptying
+
+Contributing factors in some children are:
+• Infrequent voiding, resulting in bladder enlargement
+• Vulvitis
+• Incomplete micturition with residual post-micturition bladder volumes
+• Obstruction by a loaded rectum from constipation
+• Neuropathic bladder
+• Vesicoureteric reflux.
+
+Vesicoureteric reflux
+
+Vesicoureteric reflux (VUR) is a developmental anomaly of the vesicoureteric junctions. The ureters are displaced laterally and enter directly into the bladder rather than at an angle, with a shortened or absent intramural course. Severe cases may be associated with renal dysplasia. It is familial, with a 30–50% chance of occurring in first-degree relatives. It may also occur with bladder pathology, e.g. a neuropathic bladder or urethral obstruction, or temporarily after a UTI. Its severity varies from reflux into the lower end of an undilated ureter during micturition to the severest form with reflux during bladder filling and voiding, with a distended ureter, renal pelvis and clubbed calyces (Fig. 18.12). Mild reflux is unlikely to be of significance, but the more severe degrees of VUR may be associated with intrarenal reflux (IRR), the backflow of urine from the renal pelvis into the papillary collecting ducts; intrarenal reflux is associated with a particularly high risk of renal scarring if UTIs occur. The incidence of renal defects increases with increasing severity of reflux.
+
+There is considerable controversy as to whether renal scarring is a congenital abnormality already present in children with reflux and which predisposes to infection or if children with reflux have normal kidneys at birth which are damaged by UTIs and that preventing UTIs in these children prevents scars. Reflux tends to resolve with age especially lower grades of VUR.
+
+Reflux with associated ureteric dilatation is important, as:
+• Urine returning to the bladder from the ureters after voiding results in incomplete bladder emptying, which encourages infection
+• The kidneys may become infected (pyelonephritis), particularly if there is intrarenal reflux
+• Bladder voiding pressure is transmitted to the renal papillae; this may contribute to renal damage if voiding pressures are high.
+
+Infection may destroy renal tissue, leaving a scar, resulting in a shrunken, poorly functioning segment of kidney (reflux nephropathy). If scarring is bilateral and severe, chronic renal failure may develop. The risk for hypertension in childhood or early adult life is variously estimated to be up to 10%.
+
+Figure 18.12 Vesicoureteric reflux.
+
+Diagram labels:
+Mild reflux — reflux into ureter only
+Severe reflux — gross dilatation of ureter, renal pelvis and calyces; predisposes to intrarenal reflux and renal scarring with UTI
+Urine refluxes on micturition
+Reflux is due to a developmental anomaly of the vesicoureteric junction:
+• Familial
+• Secondary to bladder pathology
+• After UTI (temporary)
+
+Investigation
+
+The extent to which a child with a UTI should be investigated is controversial. This is not only because of the invasive nature and radiation burden of the tests but also because of the lack of an evidence base to show that outcome is improved (unless urinary obstruction is demonstrated). Mild reflux usually resolves spontaneously, and operative intervention to stop reflux has not been shown to decrease renal damage. Furthermore, there is no evidence that antibiotic prophylaxis is any better than prompt treatment. There has, therefore, been a move away from extensive investigation of all children with UTIs to those who have had atypical or recurrent UTIs. Atypical UTI includes:
+• Seriously ill or septicaemia
+• Poor urine flow
+• Abdominal or bladder mass
+• Raised creatinine
+• Failure to respond to suitable antibiotics within 48 h
+• Infection with non-E. coli organism.
+
+An initial ultrasound will identify:
+• Serious structural abnormalities and urinary obstruction
+• Renal defects (but poor at identifying renal scars).
+
+Subsequent investigations will depend on the results of the ultrasound. The need for any investigations in a child with only bladder symptoms (lower urinary tract infection/cystitis) is also controversial. If urethral obstruction is suspected (abnormal bladder in a boy), MCUG should be performed promptly.
+
+
+PAGE 333
+
+Case History 18.2 Urinary tract infection
+
+Jack, a 2-month-old infant, stopped feeding and had a high, intermittent fever. He was referred to hospital, where he had an infection screen. Urine examination showed >100 white blood cells, >10⁵ E. coli/ml. He was treated with intravenous antibiotics. An ultrasound showed that the left kidney was smaller than the right kidney with dilated ureters. He was started on prophylactic antibiotics. A DMSA scan (Fig. 18.14) performed 3 months later confirmed bilateral renal scarring, with the left kidney contributing 33% of renal function. The MCUG (Fig. 18.15) showed bilateral vesicoureteric reflux. At 4 years of age, the reflux had resolved and antibiotic prophylaxis was stopped. His blood pressure and renal growth and function continue to be monitored.
+
+Figure 18.14 DMSA scan showing bilateral renal scarring, more severe on left upper pole.
+
+Figure 18.15 Micturating cystourethrogram showing bilateral vesicoureteric reflux with ureteric dilatation and dilated, clubbed calyces on the right.
+Image labels: right; left.
+
+First urinary tract infection – a protocol for initial management and investigation
+
+Figure 18.13 An example of a protocol for the initial management and investigation of a first urinary tract infection. This is a controversial area. The UK NICE guidelines, 2007 do not recommend ultrasound examination for first UTI if there was response to antibiotic treatment within 48 h, unless <6 months old or atypical or recurrent, but many paediatric nephrologists consider this approach too conservative and follow protocols like the one shown here.
+
+Flowchart text:
+First proven urinary tract infection
+↓
+Antibiotic therapy
+Ultrasound of kidneys and urinary tract
+↓
+Ultrasound
+• <1 year → MCUG and DMSA
+• >1 year–<3 years → DMSA
+• >3 years, ultrasound normal → No further investigations
+
+
+PAGE 334
+
+MCUG should be performed promptly. Functional scans should be deferred for 3 months after a UTI, unless the ultrasound is suggestive of obstruction, to avoid missing a newly developed scar and because of false-positive results from transient inflammation. Medical measures for the prevention of UTI should be initiated.
+
+A suggested schema for investigation of the first proven UTI is shown in Figure 18.13, but varies between centres.
+
+Management
+
+All infants <3 months old with suspicion of a UTI or if seriously ill should be referred immediately to a hospital. They require intravenous antibiotic therapy (e.g. cefotaxime) until the temperature has settled, when oral treatment is substituted (see Case History 18.2).
+
+Infants >3 months and children with acute pyelonephritis/upper urinary tract infection (bacteriuria and fever ≥38°C or bacteriuria and loin pain/tenderness even if fever is <38°C) are usually treated with oral antibiotics with low resistance patterns (e.g. co-amoxiclav for 7–10 days); or else intravenous antibiotics, e.g. cefotaxime is given for 2–4 days followed by oral antibiotics for a total of 7–10 days. The choice of antibiotic is adjusted according to sensitivity on urine culture.
+
+Children with cystitis/lower urinary tract infection (dysuria but no systemic symptoms or signs) can be treated with oral antibiotics for 3 days.
+
+Medical measures for the prevention of UTI
+
+The aim is to ensure washout of organisms that ascend into the bladder from the perineum; and to reduce the presence of aggressive organisms in the stool, perineum and under the foreskin:
+• High fluid intake to produce a high urine output
+• Regular voiding
+• Ensuring complete bladder emptying by encouraging the child to try a second time to empty his bladder after a minute or two, commonly known as double micturition; this empties any urine residue or refluxed urine returning to the bladder
+• Prevention or treatment of constipation
+• Good perineal hygiene
+• Lactobacillus acidophilus
+• Advise to check urine culture if develops clinical features suggestive of non-specific illness
+• If renal scarring or reflux on investigation, or develops recurrent UTIs:
+  • Consider low-dose antibiotic prophylaxis
+  • Monitor blood pressure, renal growth and function
+
+Summary: A child with a first urinary tract infection
+
+Why important?
+Up to half have a structural abnormality of their urinary tract.
+Pyelonephritis may damage the growing kidney by forming a renal scar, which may result in hypertension and chronic renal failure.
+
+Predisposing factors?
+Incomplete bladder emptying
+Constipation
+Vesicoureteric reflux
+
+Diagnosis secure?
+• Suggestive clinical features?
+• Upper or lower urinary tract infection?
+• Urine sample properly collected and processed?
+• Culture of single organism >10⁵/ml if clean catch or mid-stream urine or else any organisms on suprapubic aspirate or catheter sample?
+
+Why investigate?
+To identify serious structural abnormalities, urinary obstruction, renal scars, vesicoureteric reflux.
+
+What investigation?
+Consider:
+• Ultrasound of kidneys and urinary tract
+• DMSA to check for renal scars 3 months after UTI
+• MAG3 or MCUG to detect obstruction and vesicoureteric reflux.
+
+Management
+Treat infection with antibiotics.
+Advice about medical preventative measures:
+• High fluid intake
+• Regular voiding, double micturition
+• Prevent or treat constipation
+• Good perineal hygiene
+• Lactobacillus acidophilus
+Advise to check urine culture if develops clinical features suggestive of non-specific illness.
+
+If renal scarring or reflux on investigation, or develops recurrent UTIs:
+• Consider low-dose antibiotic prophylaxis
+• Monitor blood pressure, renal growth and function
+
+Illustration labels: Fever, feeling unwell; Frequency, dysuria for 2 days.
+
+
+PAGE 335
+
+Medical measures for the prevention of UTI (continued)
+
+• Ensuring complete bladder emptying by encouraging the child to try a second time to empty his bladder after a minute or two, commonly known as double micturition; this empties any urine residue or refluxed urine returning to the bladder
+• Prevention or treatment of constipation
+• Good perineal hygiene
+• Lactobacillus acidophilus, a probiotic to encourage colonisation of the gut by this organism and reduce the number of pathogenic organisms that might potentially cause invasive disease
+• Antibiotic prophylaxis, although this is controversial. It is often used in those under 2 years of age with a congenital abnormality of the kidneys or urinary tract or who have had an upper urinary tract infection and those with severe reflux. Trimethoprim (2 mg/kg at night) is used most often, but nitrofurantoin or cephalexin may be given. Broad-spectrum, poorly absorbed antibiotics such as amoxicillin should be avoided.
+
+Follow-up of children with recurrent UTIs, renal scarring or reflux
+
+In these children:
+• Urine culture should be checked with any non-specific illness in case it is caused by a UTI (urine should not be cultured routinely).
+• Long-term, low-dose antibiotic prophylaxis can be used. There is no evidence for when antibiotic prophylaxis should be stopped.
+• Circumcision in boys may sometimes be considered, as there is evidence that it reduces the incidence of urinary tract infection.
+• Anti-reflux surgery may be indicated if there is progression of scarring with ongoing reflux, but it has not been shown to improve outcome.
+• Blood pressure should be checked annually if renal defects are present.
+• Regular assessment of renal growth and function is necessary if there are bilateral defects because of the risk of chronic renal failure.
+
+If there are further symptomatic UTIs in younger children, investigations are required to determine whether there are new scars or continuing reflux.
+
+Enuresis
+
+Primary nocturnal enuresis
+
+This is considered in Chapter 23.
+
+Daytime enuresis
+
+This is a lack of bladder control during the day in a child old enough to be continent (over the age of 3–5 years). Nocturnal enuresis is also usually present. It may be caused by:
+• Lack of attention to bladder sensation: a manifestation of a developmental or psychogenic problem, although it may occur in otherwise normal children who are too preoccupied with what they are doing to respond to the sensation of a full bladder
+• Detrusor instability (sudden, urgent urge to void induced by sudden bladder contractions)
+• Bladder neck weakness
+• A neuropathic bladder (bladder is enlarged and fails to empty properly, irregular thick wall and is associated with spina bifida and other neurological conditions)
+• A urinary tract infection (rarely in the absence of other symptoms)
+• Constipation
+• An ectopic ureter, causes constant dribbling and child is always damp.
+
+Examination may reveal evidence of a neuropathic bladder, i.e. the bladder may be distended, there may be abnormal perineal sensation and anal tone or abnormal leg reflexes and gait. Sensory loss in the distribution of the S2, 3 and 4 dermatomes should be sought. A spinal lesion may be present. Girls who are dry at night but wet on getting up are likely to have pooling of urine from an ectopic ureter opening into the vagina.
+
+A urine sample should be examined for microscopy, culture and sensitivity. Other investigations are performed if indicated. An ultrasound may show bladder pathology, with incomplete bladder emptying or thickening of the bladder wall. Urodynamic studies may be required. An X-ray of the spine may reveal a vertebral anomaly. An MRI scan may be required to confirm or exclude a non-bony spinal defect such as tethering of the cord.
+
+Affected children in whom a neurological cause has been excluded may benefit from star charts, bladder training and pelvic floor exercises. Constipation should be treated. A small portable alarm with a pad in the pants, which is activated by urine, can be used when there is lack of attention to bladder sensation. Anticholinergic drugs, such as oxybutynin, to damp down bladder contractions, may be helpful if other measures fail.
+
+Secondary (onset) enuresis
+
+The loss of previously achieved urinary continence may be due to:
+• Emotional upset, the commonest cause
+• UTI
+• Polyuria from an osmotic diuresis in diabetes mellitus or a renal concentrating disorder, e.g. sickle cell disease or chronic renal failure.
+
+Investigation should include:
+• Testing a urine sample for infection, glycosuria and proteinuria
+• Assessment of urinary concentrating ability by measuring the osmolality of an early morning urine sample. Rarely, a formal water deprivation test may be needed to exclude a urinary concentrating defect
+• Ultrasound of the renal tract.
+
+
+PAGE 336
+
+Summary: Enuresis
+
+Daytime enuresis
+• Consider causes – developmental or psychogenic, bladder instability or neuropathy, urinary tract infection, constipation, ectopic ureter.
+
+Secondary (onset) enuresis
+• Consider – emotional upset, UTI, polyuria from an osmotic diuresis in diabetes mellitus or a renal concentrating disorder.
+
+Proteinuria
+
+Transient proteinuria may occur during febrile illnesses or after exercise and does not require investigation. Persistent proteinuria is significant and should be quantified by measuring the urine protein/creatinine ratio in an early morning sample (protein should not exceed 20 mg/mmol of creatinine).
+
+A common cause is orthostatic (postural) proteinuria, where proteinuria is only found when the child is upright, i.e. during the day. It can be diagnosed by measuring the urine protein/creatinine ratio in a series of early morning urine specimens. The prognosis is excellent and further investigations are not necessary.
+
+Other causes of proteinuria, which needs further evaluation, are listed in Box 18.2.
+
+Box 18.2 Causes of proteinuria
+• Orthostatic proteinuria
+• Glomerular abnormalities
+  – Minimal change disease
+  – Glomerulonephritis
+  – Abnormal glomerular basement membrane (familial nephritides)
+• Increased glomerular filtration pressure
+• Reduced renal mass
+• Hypertension
+• Tubular proteinuria.
+
+Nephrotic syndrome
+
+In nephrotic syndrome, heavy proteinuria results in a low plasma albumin and oedema. The cause of the condition is unknown, but a few cases are secondary to systemic diseases such as Henoch–Schönlein purpura (HSP) and other vasculitides, e.g. systemic lupus erythematosus (SLE), infections (e.g. malaria) or allergens (e.g. bee sting).
+
+Clinical signs of the nephrotic syndrome are:
+• Periorbital oedema (particularly on waking), the earliest sign (Fig. 18.16)
+• Scrotal or vulval, leg and ankle oedema (Fig. 18.17)
+• Ascites
+• Breathlessness due to pleural effusions and abdominal distension.
+
+The initial investigations are listed in Box 18.3.
+
+Box 18.3 Investigations performed at presentation of nephrotic syndrome
+• Urine protein – on test strips (‘dipstick’)
+• Full blood count and ESR
+• Urea, electrolytes, creatinine, albumin
+• Complement levels – C3, C4
+• Antistreptolysin O or anti-DNAse B titres and throat swab
+• Urine microscopy and culture
+• Urinary sodium concentration
+• Hepatitis B and C screen
+• Malaria screen if travel abroad.
+
+Figure 18.16 Facial oedema in nephrotic syndrome.
+Figure 18.17 Gross oedema of the scrotum and legs as well as abdominal distension from ascites.
+
+
+PAGE 337
+
+Steroid-sensitive nephrotic syndrome
+
+In 85–90% of children with nephrotic syndrome, the proteinuria resolves with corticosteroid therapy (steroid-sensitive nephrotic syndrome). These children do not progress to renal failure. It is commoner in boys than in girls, in Asian children than in Caucasians, and there is a weak association with atopy. It is often precipitated by respiratory infections. Features suggesting steroid-sensitive nephrotic syndrome are:
+• Age between 1 and 10 years
+• No macroscopic haematuria
+• Normal blood pressure
+• Normal complement levels
+• Normal renal function.
+
+Management
+
+The most widely used protocol is to initially give oral corticosteroids (60 mg/m² per day of prednisolone), unless there are atypical features. After 4 weeks, the dose is reduced to 40 mg/m² on alternate days for 4 weeks and then stopped. The median time for the urine to become free of protein is 11 days. However, there is now good evidence that extending the initial course of steroids, by gradually tapering the alternate-day part of the course, leads to a marked reduction in the proportion of children who develop a frequently relapsing or steroid-dependent course, and this scheme is increasingly being adopted. Children who do not respond to 4–8 weeks of corticosteroid therapy or have atypical features may have a more complex diagnosis and require a renal biopsy. Renal histology in steroid-sensitive nephrotic syndrome is usually normal on light microscopy but fusion of the specialised epithelial cells that invest the glomerular capillaries (podocytes) is seen on electron microscopy. For this reason, it is called minimal change disease.
+
+The child with nephrotic syndrome is susceptible to several serious complications at presentation or relapse:
+
+• Hypovolaemia. During the initial phase of oedema formation the intravascular compartment may become volume depleted. The child who becomes hypovolaemic characteristically complains of abdominal pain and may feel faint. There is peripheral vasoconstriction and urinary sodium retention. A low urinary sodium (<20 mmol/L) and a high packed cell volume of red blood cells are indications of hypovolaemia, which requires urgent treatment with intravenous albumin as the child is at risk of vascular thrombosis and shock. Increasing peripheral oedema, assessed clinically and by daily weight, may cause discomfort and respiratory compromise. If severe, this may need treatment with intravenous albumin. Care must be taken with the use of colloid, as it may precipitate pulmonary oedema and hypertension from fluid overload, and also with diuretics, which may cause or worsen hypovolaemia.
+
+• Thrombosis. A hypercoagulable state, due to urinary losses of antithrombin, thrombocytosis which may be exacerbated by steroid therapy, increased synthesis of clotting factors and increased blood viscosity from the raised haematocrit, predisposes to thrombosis. This may affect the brain, limbs and splanchnic circulation with potentially catastrophic results.
+
+• Infection. Children in relapse are at risk of infection with capsulated bacteria, especially Pneumococcus. Spontaneous peritonitis may occur. Pneumococcal and seasonal influenza vaccination is widely recommended. Chickenpox and shingles should be treated with aciclovir.
+
+• Hypercholesterolaemia. This correlates inversely with the serum albumin, but the cause of the hyperlipidaemia is not fully understood.
+
+Prognosis
+
+This is summarised in Figure 18.18. Relapses are identified by parents on urine testing. The side-effects of corticosteroid therapy may be reduced by an alternate-day regimen. If relapses are frequent, or if a high maintenance dose is required, involvement of a paediatric nephrologist is advisable as other drug therapy may be considered to enable reduction in steroid use. Possible steroid-sparing agents include the immunomodulator levamisole, alkylating agents (e.g. cyclophosphamide), calcineurin inhibitors such as tacrolimus and ciclosporin A and the immunosuppressant mycophenolate mofetil.
+
+Steroid-resistant nephrotic syndrome (Table 18.4)
+
+These children should be referred to a paediatric nephrologist. Management of the oedema is by diuretic therapy, salt restriction, ACE inhibitors and sometimes NSAIDs (non-steroidal anti-inflammatory drugs), which may reduce proteinuria.
+
+Summary: Nephrotic syndrome
+
+• Clinical signs – oedema (periorbital, scrotal or vulval, leg and ankle oedema, ascites, pleural effusions)
+• Diagnosis – heavy proteinuria and low plasma albumin.
+
+Steroid-sensitive nephrotic syndrome
+• Characteristic features – 1 to 10 years old, no macroscopic haematuria, and blood pressure, complement levels and renal function are normal
+• Management – oral corticosteroids, renal biopsy if unresponsive or atypical features
+• Complications – hypovolaemia, thrombosis, infection (pneumococcal), hypercholesterolaemia
+• Prognosis – may resolve or else there may be infrequent or frequent relapse.
+
+Figure 18.18 Clinical course in steroid-responsive nephrotic syndrome.
+Diagram labels: Steroid-sensitive nephrotic syndrome; ⅓ resolve directly; ⅓ infrequent relapses; ⅓ frequent relapses – steroid-dependent.
+
+
+PAGE 338
+
+Table 18.4 Steroid-resistant nephrotic syndrome
+
+Cause: Focal segmental glomerulosclerosis
+Specific features: Most common; familial or idiopathic
+Prognosis: 30% progress to end-stage renal failure in 5 years; 20% respond to cyclophosphamide, ciclosporin, tacrolimus or rituximab. Recurrence post-transplant is common.
+
+Cause: Mesangiocapillary glomerulonephritis (membranoproliferative glomerulonephritis)
+Specific features: More common in older children; haematuria and low complement level present
+Prognosis: Decline in renal function over many years.
+
+Cause: Membranous nephropathy
+Specific features: Associated with hepatitis B; may precede SLE
+Prognosis: Most remit spontaneously within 5 years.
+
+Congenital nephrotic syndrome
+
+Congenital nephrotic syndrome presents in the first 3 months of life. It is rare. The commonest kind is recessively inherited and the gene frequency is particularly high in Finns. In the UK, it is more common in consanguineous families. It is associated with a high mortality, usually due to complications of hypoalbuminaemia rather than renal failure. The albuminuria is so severe that unilateral nephrectomy may be necessary for its control, followed by dialysis for renal failure, which is continued until the child is large and fit enough for renal transplantation.
+
+An oedematous child – test for proteinuria to diagnose nephrotic syndrome.
+
+Haematuria
+
+Urine that is red in colour or tests positive for haemoglobin on urine sticks should be examined under the microscope to confirm haematuria (>10 red blood cells per high-power field). Glomerular haematuria is suggested by brown urine, the presence of deformed red cells (which occurs as they pass through the basement membrane) and casts, and is often accompanied by proteinuria. Lower urinary tract haematuria is usually red, occurs at the beginning or end of the urinary stream, is not accompanied by proteinuria and is unusual in children.
+
+Urinary tract infection is the most common cause of haematuria (Box 18.4), although seldom as the only symptom. The history and examination may suggest the diagnosis, e.g. a family history of stone formation or nephritis or a history of trauma. A plan of investigation is outlined in Box 18.5.
+
+A renal biopsy may be indicated if:
+• There is significant persistent proteinuria.
+• There is recurrent macroscopic haematuria.
+• Renal function is abnormal.
+• The complement levels are persistently abnormal.
+
+Acute nephritis
+
+The causes of acute nephritis in childhood are listed in Box 18.6. Increased glomerular cellularity restricts glomerular blood flow and therefore filtration is decreased. This leads to:
+• Decreased urine output and volume overload
+• Hypertension, which may cause seizures
+• Oedema, characteristically around the eyes
+• Haematuria and proteinuria.
+
+Management is by attention to both water and electrolyte balance and the use of diuretics when necessary. Rarely, there may be a rapid deterioration in renal function (rapidly progressive glomerulonephritis). This may occur with any cause of acute nephritis, but is uncommon when the cause is post-streptococcal. If left untreated, irreversible renal failure may occur over weeks or months, so renal biopsy and subsequent treatment with immunosuppression and plasma exchange may be necessary.
+
+Post-streptococcal and post-infectious nephritis
+
+Usually follows a streptococcal sore throat or skin infection and is diagnosed by evidence of a recent streptococcal infection (culture of the organism, raised ASO/anti-DNAse B titres) and low complement C3 levels that return to normal after 3–4 weeks. Streptococcal nephritis is a common condition in developing countries, but has become uncommon in developed countries. Long-term prognosis is good.
+
+Henoch–Schönlein purpura
+
+Henoch–Schönlein purpura is the combination of some of the following features:
+• Characteristic skin rash
+• Arthralgia
+• Periarticular oedema
+• Abdominal pain
+• Glomerulonephritis.
+
+It usually occurs between the ages of 3 and 10 years, is twice as common in boys, peaks during the winter months and is often preceded by an upper respiratory infection.
+
+
+PAGE 339
+
+Box 18.4 Causes of haematuria
+
+Non-glomerular
+• Infection (bacterial, viral, TB, schistosomiasis)
+• Trauma to genitalia, urinary tract or kidneys
+• Stones
+• Tumours
+• Sickle cell disease
+• Bleeding disorders
+• Renal vein thrombosis
+• Hypercalciuria.
+
+Glomerular
+• Acute glomerulonephritis (usually with proteinuria)
+• Chronic glomerulonephritis (usually with proteinuria)
+• IgA nephropathy
+• Familial nephritis, e.g. Alport syndrome
+• Thin basement membrane disease.
+
+Box 18.5 Investigation of haematuria
+
+All patients
+• Urine microscopy (with phase contrast) and culture
+• Protein and calcium excretion
+• Kidney and urinary tract ultrasound
+• Plasma urea, electrolytes, creatinine, calcium, phosphate, albumin
+• Full blood count, platelets, clotting screen, sickle cell screen.
+
+If suggestive of glomerular haematuria
+• ESR, complement levels and anti-DNA antibodies
+• Throat swab and antistreptolysin O/anti-DNAse B titres
+• Hepatitis B and C screen
+• Renal biopsy if indicated
+• Test mother’s urine for blood (if Alport syndrome suspected)
+• Hearing test (if Alport syndrome suspected).
+
+Box 18.6 Causes of acute nephritis
+• Post-infectious (including streptococcus)
+• Vasculitis (Henoch–Schönlein purpura or, rarely, SLE, Wegener granulomatosis, microscopic polyarteritis, polyarteritis nodosa)
+• IgA nephropathy and mesangiocapillary glomerulonephritis
+• Anti-glomerular basement membrane disease (Goodpasture syndrome) – very rare.
+
+Despite much research, the cause is unknown. It is postulated that genetic predisposition and antigen exposure increase circulating IgA levels and disrupt IgG synthesis. The IgA and IgG interact to produce complexes that activate complement and are deposited in affected organs, precipitating an inflammatory response with vasculitis.
+
+Clinical findings (Fig. 18.19)
+
+At presentation, affected children often have a fever. The rash is the most obvious feature. It is symmetrically distributed over the buttocks, the extensor surfaces of the arms and legs, and the ankles. The trunk is spared unless lesions are induced by trauma. The rash may initially be urticarial, rapidly becoming maculopapular and purpuric, is characteristically palpable and may recur over several weeks. The rash is the first clinical feature in about 50% and is the cornerstone of the diagnosis, which is clinical.
+
+Joint pain occurs in two-thirds of patients, particularly of the knees and ankles. There is periarticular oedema. Long-term damage to the joints does not occur, and symptoms usually resolve before the rash goes.
+
+Figure 18.19 Main clinical manifestations of Henoch–Schönlein purpura.
+(a) Rash on buttocks. (Courtesy of Dr Michael Markiewicz.)
+(b) Rash around the extensor surfaces of the legs and slight joint swelling. (Courtesy of Professor Tauny Southwood.)
+
+Diagram labels:
+Rash: Buttocks (a); extensor surfaces of legs and arms; ankles (b)
+Joint pain and swelling: Knees and ankles (b)
+Abdominal pain: Haematemesis and melaena; intussusception
+Renal: Microscopic/macroscopic haematuria (80%); nephrotic syndrome (rare)
+
+
+PAGE 340
+
+Colicky abdominal pain occurs in many children and, if severe, can be treated with corticosteroids. Gastrointestinal petechiae can cause haematemesis and melaena. Intussusception can occur and can be particularly difficult to diagnose under these circumstances. Ileus, protein-losing enteropathy, orchitis and occasionally central nervous system involvement are rare complications.
+
+Renal involvement is common, but is rarely the first symptom. Over 80% have microscopic or macroscopic haematuria or mild proteinuria. These children usually make a complete recovery. If proteinuria is more severe, nephrotic syndrome may result. Risk factors for progressive renal disease are heavy proteinuria, oedema, hypertension and deteriorating renal function, when a renal biopsy will determine if treatment is necessary. All children with renal involvement are followed for a year to detect those with persisting urinary abnormalities (5–10%), who require long-term follow-up. This is necessary as hypertension and declining renal function may develop after an interval of several years.
+
+IgA nephropathy
+
+This may present with episodes of macroscopic haematuria, commonly in association with upper respiratory tract infections. Histological findings and management are as for Henoch–Schönlein purpura, which may be a variant of the same pathological process but not restricted to the kidney. The prognosis in children is better than that in adults.
+
+Familial nephritis
+
+The commonest familial nephritis is Alport syndrome. This is usually an X-linked recessive disorder that progresses to end-stage renal failure by early adult life in males and is associated with nerve deafness and ocular defects. The mother may have haematuria.
+
+Vasculitis
+
+The commonest vasculitis to involve the kidney is Henoch–Schönlein purpura (see above). However, renal involvement may occur in rarer vasculitides such as polyarteritis nodosa, microscopic polyarteritis and Wegener granulomatosis. Characteristic symptoms are fever, malaise, weight loss, skin rash and arthropathy with prominent involvement of the respiratory tract in Wegener disease. ANCA (antineutrophil cytoplasm antibodies) are present and diagnostic in these diseases. Renal arteriography, to demonstrate the presence of aneurysms, will diagnose polyarteritis nodosa. Renal involvement may be severe and rapidly progressive. Treatment is with steroids, plasma exchange and intravenous cyclophosphamide, which may need to be continued for many months.
+
+Systemic lupus erythematosus (SLE)
+
+SLE is a disease that presents mainly in adolescent girls and young women. It is much commoner in Asians and Afro-Caribbeans than Caucasians. It is characterised by the presence of multiple autoantibodies, including antibodies to double-stranded DNA. The C3 and C4 components of complement may be low, particularly during active phases of the disease. Haematuria and proteinuria are indications for renal biopsy, as immunosuppression is always necessary and its intensity will depend on the severity of renal involvement.
+
+Summary: Acute nephritis
+
+• Cause: usually post-infectious or follows a streptococcal infection, but also vasculitis (including Henoch–Schönlein purpura), IgA nephropathy and familial nephritis
+• Clinical features: oedema (around the eyes), hypertension, decreased urine output, haematuria and proteinuria
+• Management: fluid and electrolyte balance, diuretics, monitor for rapid deterioration in renal function.
+
+Hypertension
+
+Blood pressure in children needs to be measured with a cuff over two-thirds the length of the upper arm (see Ch. 2). Blood pressure increases with age and height and readings should be plotted on a centile chart (see Appendix). Hypertension is blood pressure above 95th percentile for height, age and sex. Symptomatic hypertension in children is usually secondary to renal, cardiac or endocrine causes (Box 18.7).
+
+Presentation includes vomiting, headaches, facial palsy, hypertensive retinopathy, convulsions or proteinuria. Failure to thrive and cardiac failure are the most common features in infants. Phaeochromocytoma may also cause paroxysmal palpitations and sweating.
+
+Some causes are correctable, e.g. nephrectomy for unilateral scarring, angioplasty for renal artery stenosis, surgical repair of coarctation of the aorta, resection of a phaeochromocytoma, but in most cases medical treatment is necessary with antihypertensive drugs.
+
+Box 18.7 Causes of hypertension
+
+• Renal
+  – Renal parenchymal disease
+  – Renovascular, e.g. renal artery stenosis
+  – Polycystic kidney disease (ARPKD and ADPKD)
+  – Renal tumours
+• Coarctation of the aorta
+• Catecholamine excess
+  – Phaeochromocytoma
+  – Neuroblastoma
+• Endocrine
+  – Congenital adrenal hyperplasia
+  – Cushing syndrome or corticosteroid therapy
+  – Hyperthyroidism
+• Essential hypertension
+  – A diagnosis of exclusion.

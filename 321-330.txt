@@ -1,0 +1,437 @@
+PAGE 321
+
+Figure 17.19 ECG of congenital complete heart block.
+The P waves and QRS complexes are dissociated.
+
+Congenital complete heart block
+
+This is a rare condition (Fig. 17.19) which is usually related to the presence of anti-Ro or anti-La antibodies in maternal serum. These mothers will have either manifest or latent connective tissue disorders. Subsequent pregnancies are often affected. This antibody appears to prevent normal development of the electrical conduction system in the developing heart, with atrophy and fibrosis of the atrioventricular node. It may cause fetal hydrops, death in utero and heart failure in the neonatal period. However, most remain symptom-free for many years, but a few become symptomatic with presyncope or syncope. All children with symptoms require insertion of an endocardial pacemaker. There are other rare causes of complete heart block.
+
+Other arrhythmias
+
+Long QT syndrome may be associated with sudden loss of consciousness during exercise, stress or emotion, usually in late childhood. It may be mistakenly diagnosed as epilepsy. If unrecognised, sudden death from ventricular tachycardia may occur. Inheritance is autosomal dominant; there are several phenotypes. It has been associated with erythromycin therapy, electrolyte disorders and head injury.
+
+It is one of the group of channelopathies caused by specific gene mutations. Abnormalities of the sodium, potassium or calcium channels lead to gain or loss of function. Anyone with a family history of sudden unexplained death, or a history of syncope on exertion should be assessed.
+
+Atrial fibrillation, atrial flutter, ectopic atrial tachycardia, ventricular tachycardia and ventricular fibrillation occur in children, but all are rare. They are most often seen in children who have undergone surgery for complex congenital heart disease.
+
+Syncope
+
+This is a common symptom in teenagers and usually does not represent cardiac disease.
+
+The causes are:
+• Neurocardiogenic – prolonged standing and vagal symptoms
+• Situational – defecation, urination, cough or swallowing
+• Orthostatic – BP fall > 20 mmHg after 3 min
+• Ischaemic
+• Arrhythmic – heart block, supraventricular tachycardia, ventricular tachycardia.
+
+In most, the cause is non-cardiac. Features suggestive of a cardiac cause are:
+• Symptoms on exercise – potentially dangerous
+• Family history of sudden unexplained death
+• Palpitations.
+
+Check blood pressure and signs of cardiac disease (murmur, femoral pulses, Marfan syndrome).
+Investigate with an ECG.
+
+Chest pains
+
+Rarely due to cardiac disease in children. Only those occurring with palpitations or on exertion suggest a possible cardiac origin.
+
+Rheumatic fever
+
+This is now rare in the developed world, but remains the most important cause of heart disease in children worldwide. Improvements in sanitation, social factors, the more liberal use of antibiotics and changes in streptococcal virulence have led to its virtual disappearance in developed countries. In susceptible individuals, there is an abnormal immune response to a preceding infection with group A β-haemolytic streptococcus. The disease mainly affects children aged 5–15 years.
+
+Clinical features
+
+After a latent interval of 2–6 weeks following a pharyngeal infection, polyarthritis, mild fever and malaise develop. The clinical features and diagnostic criteria are shown in Figure 17.20.
+
+Chronic rheumatic heart disease
+
+The most common form of long-term damage from scarring and fibrosis of the valve tissue of the heart is mitral stenosis. If there have been repeated attacks of rheumatic fever with carditis, this may occur as early as the second decade of life, but usually symptoms do not develop until early adult life. Although the mitral valve is the most frequently affected, aortic, tricuspid and, rarely, pulmonary valve disease may occur.
+
+Management
+
+The acute episode is usually treated with bed rest and anti-inflammatory agents. While there is evidence of active myocarditis (echocardiographic changes with a raised ESR), bed rest and limitation of exercise are essential. Aspirin is very effective at suppressing the inflammatory response of the joints and heart. It needs to be given in high dosage and serum levels monitored. If the fever and inflammation do not resolve rapidly, corticosteroids will be required. Symptomatic heart failure is treated with diuretics and ACE inhibitors, and significant pericardial effusions will require pericardiocentesis. Anti-streptococcal antibiotics may be given if there is any evidence of persisting infection.
+
+
+PAGE 322
+
+Jones criteria for diagnosis of rheumatic fever
+
+Required to make the diagnosis
+
+Two major, or one major and two minor, criteria plus supportive evidence of preceding group A streptococcal infection (markedly raised ASO titre or other streptococcal antibodies, or group A streptococcus on throat culture)
+
+Major manifestations
+
+Pancarditis (50%)
+Endocarditis
+• significant murmur
+• valvular dysfunction
+Myocarditis
+• may lead to heart failure and death
+Pericarditis
+• pericardial friction rub
+• pericardial effusion
+• tamponade
+
+Polyarthritis (80%)
+Ankles, knees and wrists
+Exquisite tenderness, moderate redness and swelling
+‘Flitting’, lasting <1 week in a joint, but migrating to other joints over 1–2 months
+
+Sydenham chorea (10%)
+2–6 months after the streptococcal infection
+Involuntary movements and emotional lability for 3–6 months
+
+Erythema marginatum (<5%)
+Uncommon, early manifestation
+Rash on trunk and limbs
+Pink macules spread outwards, causing pink border with fading centre. Borders may unite to give a map-like outline
+
+Subcutaneous nodules (rare)
+Painless, pea-sized, hard
+Mainly on extensor surfaces
+
+Minor manifestations
+
+Fever
+Polyarthralgia
+History of rheumatic fever
+Raised acute-phase reactants: ESR, C-reactive protein, leucocytosis
+Prolonged P–R interval on ECG
+
+Figure 17.20 Jones criteria for diagnosis of rheumatic fever.
+
+Following resolution of the acute episode, recurrence should be prevented. Monthly injections of benzathine penicillin is the most effective prophylaxis. Alternatively, the penicillin can be given orally every day, but compliance may be a problem. Oral erythromycin can be substituted in those sensitive to penicillin. The length of treatment is controversial. Most recommend treatment to the age of 18 or 21 years, but, more recently, lifelong prophylaxis has been advocated. The severity of eventual rheumatic valvular disease relates to the number of childhood episodes of rheumatic fever.
+
+Infective endocarditis
+
+All children of any age with congenital heart disease (except secundum ASD), including neonates, are at risk of infective endocarditis. The risk is highest when there is a turbulent jet of blood, as with a VSD, coarctation of the aorta and persistent ductus arteriosus or if prosthetic material has been inserted at surgery. It may be difficult to diagnose, but should be suspected in any child or adult with a sustained fever, malaise, raised ESR, unexplained anaemia or haematuria. The presence of the classical peripheral stigmata of infective endocarditis should not be relied upon.
+
+Clinical signs
+• Fever
+• Anaemia and pallor
+• Splinter haemorrhages in nailbed
+• Clubbing (late)
+• Necrotic skin lesions (Fig. 17.21)
+• Changing cardiac signs
+• Splenomegaly
+• Neurological signs from cerebral infarction
+• Retinal infarcts
+• Arthritis/arthralgia
+• Haematuria (microscopic).
+
+
+PAGE 323
+
+Figure 17.21 Widespread infected emboli and infarcts in a child with bacterial endocarditis. The tip of the third toe is gangrenous.
+
+Figure 17.22 Kawasaki disease. Angiogram showing coronary artery aneurysm.
+
+Diagnosis
+
+Multiple blood cultures should be taken before antibiotics are started. Detailed cross-sectional echocardiography may confirm the diagnosis by identification of vegetations but can never exclude it. The vegetations consist of fibrin and platelets and contain infecting organisms. Acute-phase reactants are raised and can be useful to monitor response to treatment.
+
+The most common causative organism is α-haemolytic streptococcus (Streptococcus viridans). Bacterial endocarditis is usually treated with high-dose penicillin in combination with an aminoglycoside, giving 6 weeks of intravenous therapy and checking that the serum level of the antibiotic will kill the organism. If there is infected prosthetic material, e.g. prosthetic valves, VSD patches or shunts, there is less chance of complete eradication and surgical removal may be required.
+
+Prophylaxis
+
+The most important factor in prophylaxis against endocarditis is good dental hygiene, and this should be strongly encouraged in all children with congenital heart disease.
+
+Antibiotic prophylaxis is no longer recommended in the UK, but may be required in other countries for:
+• Dental treatment, however trivial
+• Surgery, which is likely to be associated with bacteraemia.
+
+Myocarditis/cardiomyopathy
+
+Dilated cardiomyopathy (a large, poorly contracting heart) may be inherited, secondary to metabolic disease or may result from a direct viral infection of the myocardium. It should be suspected in any child with an enlarged heart and heart failure who has previously been well. The diagnosis is readily made on echocardiography. Treatment is symptomatic with diuretics and ACE inhibitors and carvedilol, a β-adrenoceptor blocking agent. The role of steroids and immunoglobulin infusion is controversial. Myocarditis usually improves spontaneously, but some children ultimately require heart transplantation. Other cardiomyopathies (hypertrophic/restrictive) are rare in childhood and are usually related to a systemic disease (e.g. Hurler, Pompe or Noonan syndromes).
+
+Kawasaki disease
+
+This mainly affects children of 6 months to 5 years. Clinical features are described in Chapter 14. It is uncommon but can cause significant cardiac disease. An echocardiogram is performed at diagnosis which may show a pericardial effusion, myocardial disease (poor contractility), endocardial disease (valve regurgitation) or coronary disease with aneurysm formation, which can be giant (>8 mm in diameter). If the coronary arteries are abnormal, angiography (Fig. 17.22) or MRI will be required.
+
+Pulmonary hypertension
+
+This is of increasing importance in paediatric cardiology, as there is now effective medication for most causes. It can be caused by a number of different diseases (Box 17.4). From the cardiac perspective, most children with pulmonary hypertension (high pulmonary artery pressure, mean >25 mmHg), have a large post-tricuspid shunt with high pulmonary blood flow and low resistance, e.g. VSD, AVSD or PDA. The pressure falls to normal if the defect is corrected by surgery within 6 months of age. If these children are left untreated, however, the high flow and pressure causes irreversible damage to the pulmonary vascular bed (pulmonary vascular disease), which is not correctable other than by heart/lung transplantation.
+
+Many medical therapies are now available, which may act on the pulmonary vasculature on the cyclic
+
+
+PAGE 324
+
+Box 17.4 Causes of pulmonary hypertension
+
+• Pulmonary arterial hypertension
+  Idiopathic: sporadic or familial
+  Post-tricuspid shunts (e.g. VSD, AVSD, PDA)
+  HIV infection
+  Persistent pulmonary hypertension of the newborn
+
+• Pulmonary venous hypertension
+  Left-sided heart disease
+  Pulmonary vein stenosis or compression
+
+• Pulmonary hypertension with respiratory disease
+  Chronic obstructive or premature lung disease
+  Interstitial lung disease
+  Obstructive sleep apnoea or upper airway obstruction
+
+• Pulmonary thromboembolic disease
+
+• Pulmonary inflammatory or capillary disease.
+
+GMP (guanosine monophosphate) pathway (e.g. inhaled nitric oxide, intravenous magnesium sulphate and oral phosphodiesterase inhibitors including sildenafil) or on the cyclic AMP pathway (intravenous prostacyclin or inhaled iloprost). In addition, endothelin receptor antagonists are valuable but expensive therapy, e.g. oral Bosentan. Anticoagulation is often given with heparin, aspirin or warfarin. These medications allow transplantation to be delayed for many years.
+
+Further reading
+
+Anderson RH, Baker E, Penny D, Redington A, Rigby M, et al: Paediatric Cardiology, ed 3. Edinburgh, 2010, Churchill Livingstone.
+
+Website (Accessed May 2011)
+Children’s Heart Federation: http://www.childrens-heart-fed.org.uk/.
+
+
+PAGE 325
+
+18
+Kidney and urinary tract disorders
+
+Congenital abnormalities 325
+Urinary tract infection 330
+Enuresis 335
+Proteinuria 336
+Haematuria 338
+Hypertension 340
+Renal masses 341
+Renal calculi 341
+Renal tubular disorders 341
+Acute kidney injury 342
+Chronic kidney disease 344
+
+The spectrum of renal disease in children differs from that in adults:
+• Many structural abnormalities of the kidneys and urinary tract are identified on antenatal ultrasound screening
+• Urinary tract infection, vesicoureteric reflux and urinary obstruction have the potential to damage the growing kidney
+• Nephrotic syndrome is usually steroid-sensitive and only rarely leads to chronic renal failure
+• Chronic renal disorders and the drugs used to treat them may affect growth and development.
+
+Assessment of the kidneys and urinary tract
+
+The glomerular filtration rate (GFR) is low in the newborn infant and is especially low in premature infants; the GFR at 28 weeks’ gestation is only 10% of the term infant. In term infants, the corrected GFR (15–20 ml/min per 1.73 m²) rapidly rises to 1–2 years of age when the adult rate of 80 to 120 ml/min per 1.73 m² is achieved (Fig. 18.1). The assessment of renal function in children is listed in Table 18.1 and the radiological investigations of the kidneys and urinary tract in Table 18.2.
+
+Congenital abnormalities
+
+Before antenatal ultrasound scanning became routine, few congenital abnormalities of the kidneys and urinary tract were diagnosed until they caused symptoms in infancy, childhood or, occasionally, adult life. Now the majority are identified in utero and can be managed prospectively. Abnormalities are identified in 1 in 200–400 births. They are potentially important because they may:
+• be associated with abnormal renal development or function
+• predispose to postnatal infection
+• involve urinary obstruction which requires surgical treatment.
+
+The antenatal detection and early treatment of urinary tract anomalies provide an opportunity to minimise or prevent progressive renal damage. A disadvantage is that minor abnormalities are also detected, most commonly mild unilateral pelvic dilatation, which do not require intervention but may lead to over-investigation, unnecessary treatment and unwarranted parental anxiety.
+
+Anomalies detectable on antenatal ultrasound screening
+
+Absence of both kidneys (renal agenesis) – as amniotic fluid is mainly derived from fetal urine, there is severe oligohydramnios resulting in Potter syndrome (Fig. 18.2a, 18.2b), which is fatal.
+
+Figure 18.1 Increase in renal function (GFR) with age.
+Graph labels: GFR (glomerular filtration rate); Age; Days; Months; Years.
+
+
+PAGE 326
+
+Table 18.1 Assessment of renal function in children
+
+Plasma creatinine concentration (PCr)
+Main test of renal function. Rises progressively throughout childhood according to height and muscle bulk. May not be outside laboratory ‘normal range’ until renal function has fallen to less than half normal.
+
+Estimated glomerular filtration rate (eGFR)
+The formula eGFR = k × height (cm) ÷ creatinine (µmol/L) provides estimate of GFR. Better measure of renal function than creatinine and useful to monitor renal function serially in children with renal impairment (k is 40 if creatinine measured using Jaffe method or 30 if measured enzymatically).
+
+Inulin or EDTA glomerular filtration rate
+More accurate as clearance from the plasma of substances freely filtered at the glomerulus, and is not secreted or reabsorbed by the tubules. Need for repeated blood tests limits use in children.
+
+Creatinine clearance
+Requires timed urine collection and blood tests. Rarely done in children as inconvenient and inaccurate.
+
+Plasma urea concentration
+Increased in renal failure, often before creatinine starts rising, and raised levels may be symptomatic. Urea levels also increased by high protein diet and if in a catabolic state.
+
+Table 18.2 Radiological investigation of the kidneys and urinary tract
+
+Ultrasound (US)
+Standard imaging procedure of the kidneys and urinary tract, provides anatomical assessment but not function. Excellent at visualising urinary tract dilatation, stones and nephrocalcinosis (small, multiple calcium deposits in renal parenchyma).
+Advantages: non-invasive, mobile
+Disadvantages: operator-dependent, will not detect all renal scars
+
+DMSA scan (⁹⁹ᵐTc dimercaptosuccinic acid)
+Static scan of the renal cortex.
+Detects functional defects, such as scars, but very sensitive, so need to wait at least 2 months after a urinary tract infection to avoid diagnosing false ‘scars’.
+
+Micturating cystourethrogram (MCUG)
+Contrast introduced into bladder through urethral catheter.
+Can visualise bladder and urethral anatomy. Detects vesicoureteric reflux (VUR) and urethral obstruction.
+Disadvantages: invasive and unpleasant investigation especially beyond infancy, high radiation dose.
+
+MAG3 renogram (mercapto-acetyl-triglycine, labelled with ⁹⁹ᵐTc)
+Dynamic scan, isotope-labelled substance MAG3 excreted from the blood into the urine. Measures drainage, best performed with a high urine flow.
+In children old enough to cooperate (usually >4 years), scan during micturition is used to identify VUR.
+
+Plain abdominal X-ray
+Identifies unsuspected spinal abnormalities.
+May identify renal stones, but poor at showing nephrocalcinosis.
+
+Multicystic dysplastic kidney (MCDK) – results from the failure of union of the ureteric bud (which forms the ureter, pelvis, calyces and collecting ducts) with the nephrogenic mesenchyme. It is a non-functioning structure with large fluid-filled cysts with no renal tissue and no connection with the bladder (Fig. 18.3). Half will have involuted by 2 years of age, and nephrectomy is indicated only if it remains very large or hypertension develops, but this is rare. Since they produce no urine, Potter syndrome will result if the lesion is bilateral. Other causes of large cystic kidneys are autosomal recessive polycystic kidney disease (ARPKD) (Fig. 18.4), autosomal dominant polycystic kidney disease (ADPKD) (Fig. 18.5) and tuberous sclerosis. In contrast to a multicystic dysplastic kidney, in these disorders some or normal renal function is maintained but both kidneys are always affected. Autosomal dominant polycystic kidney disease has an incidence of 1 in 1000; the main symptoms in childhood are hypertension and haematuria and it causes renal failure in late adulthood.
+
+
+PAGE 327
+
+Some congenital abnormalities of the kidneys and urinary tract
+
+Figure 18.2a Potter syndrome. Intrauterine compression of the fetus from oligohydramnios caused by lack of fetal urine causes a characteristic facies, lung hypoplasia and postural deformities including severe talipes. The infant may be stillborn or die soon after birth from respiratory failure.
+
+Diagram labels:
+Bilateral renal agenesis or bilateral multicystic dysplastic kidneys
+↓
+Reduced fetal urine excretion
+↓
+Oligohydramnios causing fetal compression
+Potter facies:
+Low-set ears
+Beaked nose
+Prominent epicanthic folds and downward slant to eyes
+Pulmonary hypoplasia causing respiratory failure
+Limb deformities
+
+Figure 18.2b Facies in Potter syndrome.
+
+Figure 18.3 (a) Multicystic renal dysplasia. The kidney is replaced by cysts of variable size, with atresia of the ureter. (b) Renal ultrasound showing discrete cysts of variable size.
+
+Figure 18.4 Autosomal recessive polycystic kidney disease (ARPKD). There is diffuse bilateral enlargement of both kidneys.
+
+Figure 18.5 Autosomal dominant polycystic kidney disease (ADPKD). There are separate cysts of varying size between normal renal parenchyma. The kidneys are enlarged.
+
+Figure 18.6 (left) Horseshoe kidney.
+Figure 18.7 (right) Duplex kidney showing ureterocele of upper moiety and reflux into lower pole moiety.
+
+Figure 18.8 Absent musculature syndrome (prune-belly syndrome). The name arises from the wrinkled appearance of the abdomen. It is associated with a large bladder, dilated ureters and cryptorchidism. (Courtesy of Dr Jane Deal.)
+
+
+PAGE 328
+
+Urinary tract obstruction
+
+Unilateral hydronephrosis
+– Pelviureteric junction obstruction
+– Vesicoureteric junction obstruction
+
+Bilateral hydronephrosis
+– Bladder neck obstruction
+– Posterior urethral valves
+
+Diagram labels:
+Hydronephrosis
+Hydroureters
+Thickened bladder wall with diverticula
+Pelviureteric junction obstruction
+Vesicoureteric junction obstruction
+Posterior urethral valve
+Bladder neck obstruction
+
+Figure 18.9a Obstruction to urine flow results in dilatation of the urinary tract proximal to the site of obstruction. Obstruction may be at the pelviureteric or vesicoureteric junction (left), the bladder neck or urethra (right).
+
+Figure 18.9b An ultrasound showing a dilated renal pelvis from pelviureteric junction obstruction.
+
+Figure 18.9c A normal ultrasound of the kidney is shown for comparison.
+
+Figure 18.9d Graph from dynamic nuclear medicine scan MAG3 showing delayed excretion from a pelviureteric junction obstruction.
+Graph labels: Furosemide (frusemide) given; Counts/second; Right kidney; Delayed urinary drainage; Left kidney; Normal urinary drainage; Minutes.
+
+
+PAGE 329
+
+It is associated with several extra-renal features including cysts in liver and pancreas, cerebral aneurysms and mitral valve prolapse.
+
+Abnormal caudal migration may result in a pelvic kidney or a horseshoe kidney (Fig. 18.6), when the lower poles are fused in the midline. The abnormal position may predispose to infection or obstruction to urinary drainage.
+
+Premature division of the ureteric bud gives rise to a duplex system, which can vary from simply a bifid renal pelvis to complete division with two ureters. These ureters frequently have an abnormal drainage so that the ureter from the lower pole moiety often refluxes, whereas the upper pole ureter may drain ectopically into the urethra or vagina or may prolapse into the bladder (ureterocele) and urine flow may be obstructed (Fig. 18.7).
+
+Failure of fusion of the infraumbilical midline structures results in exposed bladder mucosa (bladder exstrophy). Absence or severe deficiency of the anterior abdominal wall muscles is frequently associated with a large bladder and dilated ureters (megacystis-megaureters) and cryptorchidism, the absent musculature syndrome (prune-belly syndrome) (Fig. 18.8).
+
+Obstruction to urine flow may occur at the pelviureteric or vesicoureteric junction, at the bladder neck (e.g. due to disruption of the nerve supply, neuropathic bladder) or at the posterior urethra in a boy due to mucosal folds or a membrane, known as posterior urethral valves. The consequences of obstruction to urine flow are shown in Figures 18.9a–18.9d. At worst, this results in a dysplastic kidney which is small, poorly functioning and may contain cysts and aberrant embryonic tissue such as cartilage. In the most severe and bilateral cases Potter syndrome is present. Renal dysplasia can also occur in association with severe intrauterine vesicoureteric reflux, in isolation or in certain rare, inherited syndromes affecting multiple systems.
+
+Antenatal treatment
+
+The male fetus with posterior urethral valves may develop severe urinary outflow obstruction resulting in progressive bilateral hydronephrosis, poor renal growth and declining liquor volume with the potential to lead to pulmonary hypoplasia. Intrauterine bladder drainage procedures to prevent severe renal damage have been attempted but results have been disappointing. Early delivery is rarely indicated.
+
+Postnatal management
+
+An example of a protocol for infants with antenatally diagnosed anomalies is shown in Figure 18.10. Prophylactic antibiotics may be started at birth to try to prevent urinary tract infection, although practice varies between centres. As the newborn kidney has a low GFR, urine flow is low and mild outflow obstruction may not be evident in the first few days of life. The ultrasound scan should therefore be delayed for several weeks. However, bilateral hydronephrosis in a male infant warrants an ultrasound shortly after birth to exclude posterior urethral valves, which always requires urological intervention such as cystoscopic ablation (Case History 18.1).
+
+Figure 18.10 An example of a protocol for the management of infants with antenatally diagnosed urinary tract anomalies. (MCUG, micturating cystourethrogram.)
+
+Flowchart text:
+Antenatal diagnosis of urinary tract anomaly
+↓
+Start prophylactic antibiotics
+
+Bilateral hydronephrosis and/or dilated lower urinary tract in a male:
+Ultrasound within 48 h of birth to exclude posterior urethral valves
+• Abnormal → MCUG → Surgery if required
+• Normal → Stop antibiotics; repeat ultrasound after 2–3 months
+
+Unilateral hydronephrosis in a male / Any anomaly in female:
+Ultrasound at 4–6 weeks
+• Normal → Stop antibiotics; repeat ultrasound after 2–3 months
+• Abnormal → Further investigations
+
+
+PAGE 330
+
+Case History 18.1 Posterior urethral valves
+
+Bilateral hydronephrosis was noted on antenatal ultrasound at 20 weeks’ gestation in a male fetus. There was poor renal growth, progressive hydronephrosis and decreasing volume of amniotic fluid (Fig. 18.11a) on repeated scans. After birth, prophylactic antibiotics were started. An urgent ultrasound showed bilateral hydronephrosis with small dysplastic kidneys. The bladder and ureters were grossly distended. The plasma creatinine was raised. A micturating cystourethrogram (MCUG) (Fig. 18.11b) showed vesicoureteric reflux, a dilated posterior urethra and posterior urethral valves which was treated endoscopically. Renal function initially improved but then progressed to chronic renal failure. He had a renal transplant at 10 years of age.
+
+Bilateral hydronephrosis in a male infant requires urgent investigation to exclude posterior urethral valve.
+
+Figure 18.11a Antenatal ultrasound scan in an infant with urinary outflow obstruction from posterior urethral valve. (Courtesy of Mr Karl Murphy.)
+
+Figure 18.11b Micturating cystourethrogram (MCUG) in the same patient.
+Labels: Gross vesicoureteric reflux; Distended bladder with trabeculated wall; Dilated posterior urethra; Posterior urethral valve.
+
+Urinary tract infection
+
+About 3–7% of girls and 1–2% of boys have at least one symptomatic urinary tract infection (UTI) before the age of 6 years, and 12–30% of them have a recurrence within a year. UTI may involve the kidneys (pyelonephritis), when it is usually associated with fever and systemic involvement, or may be due to cystitis, when there may be no fever. UTI in childhood is important because:
+• up to half of patients have a structural abnormality of their urinary tract
+• pyelonephritis may damage the growing kidney by forming a scar, predisposing to hypertension and to chronic renal failure if the scarring is bilateral.
+
+There are NICE guidelines on urinary tract infection in children, published in 2007, although they have proved to be controversial.
+
+Clinical features
+
+Presentation of UTI varies with age (Box 18.1). In infants, symptoms are non-specific; fever is usually but not always present, and septicaemia may develop rapidly. The classical symptoms of dysuria, frequency and loin pain become more common with increasing age. Serious illness from septicaemia is described in the child with a fever in Chapter 14. Dysuria alone is usually due to cystitis, or vulvitis in girls or balanitis in uncircumcised boys. Symptoms suggestive of a UTI may also occur following sexual abuse.
+
+Box 18.1 Presentation of UTI in infants and children
+
+Infants
+• Fever
+• Vomiting
+• Lethargy or irritability
+• Poor feeding/failure to thrive
+• Jaundice
+• Septicaemia
+• Offensive urine
+• Febrile convulsion (>6 months).
+
+Children
+• Dysuria and frequency
+• Abdominal pain or loin tenderness
+• Fever with or without rigors (exaggerated shivering)
+• Lethargy and anorexia
+• Vomiting, diarrhoea
+• Haematuria
+• Offensive/cloudy urine
+• Febrile convulsion
+• Recurrence of enuresis.
+
+Collection of samples
+
+The commonest error in the management of UTI in children, and especially in infants, is failure to establish

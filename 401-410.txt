@@ -1,0 +1,431 @@
+PAGE 401
+
+bleeding (e.g. intracranial or gastrointestinal haemorrhage) or persistent minor bleeding that affects daily lives such as excessive epistaxis or menstrual bleeding. The treatment options include oral prednisolone, intravenous anti-D or intravenous immunoglobulin and all have significant side-effects. Platelet transfusions are reserved for life-threatening haemorrhage as they raise the platelet count only for a few hours. The parents need immediate 24-hour access to hospital treatment, and the child should avoid trauma, as far as possible, and contact sports while the platelet count is very low.
+
+Chronic ITP
+
+In 20% of children, the platelet count remains low 6 months after diagnosis; this is known as chronic ITP. In the majority of children, treatment is mainly supportive; drug treatment is only offered to children with chronic persistent bleeding that affects daily activities or impairs quality of life. Children with significant bleeding are rare and require specialist care. A variety of treatment modalities are available, including rituximab, a monoclonal antibody directed against B lymphocytes. Newer agents such as thrombopoietic growth factors have shown clinical response in adults and may be used in children with severe non-responsive disease. Splenectomy can be effective for this group but is mainly reserved for children who fail drug therapy as it significantly increases the risk of infections and patients require lifelong antibiotic prophylaxis. If ITP in a child becomes chronic, regular screening for SLE should be performed, as the thrombocytopenia may predate the development of autoantibodies.
+
+Summary: The child with petechiae or purpura
+
+Non-thrombocytopenic
+
+Henoch–Schönlein purpura
+• Lesions confined to buttocks, extensor surfaces of legs and arms
+• Swollen painful knees and ankles
+• Abdominal pain
+• Haematuria
+
+Sepsis
+• Meningococcal or viral
+• Clinical features – fever, septicaemia, meningitis
+• If suspected, give parenteral penicillin immediately
+
+Trauma
+• Accidental or non-accidental
+
+Other causes (rare)
+
+Positive glass test – rash does not blanch when pressed
+
+Thrombocytopenia
+
+Immune thrombocytopenia (ITP)
+• 2–10 years
+• Widespread petechiae and purpura and superficial bruising
+• Distinguish from acute leukaemia and aplastic anaemia – clinical features, full blood count and blood film
+• Bone marrow examination not required if only the platelet count is low, characteristic clinical features and no steroid treatment
+• Is acute, benign and self-limiting in about 80% of children
+• Treatment – controversial, usually not required unless there is bleeding
+
+Leukaemia
+• Clinical features – malaise, infection, pallor, hepatosplenomegaly, lymphadenopathy
+• Blood count – also low Hb, blasts on film, confirmed on bone marrow
+
+Disseminated intravascular coagulation (DIC)
+• Critically ill – severe sepsis or shock or extensive tissue damage
+
+Other causes (uncommon)
+
+
+PAGE 402
+
+Disseminated intravascular coagulation
+
+Disseminated intravascular coagulation (DIC) describes a disorder characterised by coagulation pathway activation leading to diffuse fibrin deposition in the microvasculature and consumption of coagulation factors and platelets.
+
+The commonest causes of activation of coagulation are severe sepsis or shock due to circulatory collapse, e.g. in meningococcal septicaemia, or extensive tissue damage from trauma or burns. DIC may be acute or chronic and is likely to be initiated through the tissue factor pathway. The predominant clinical feature is bruising, purpura and haemorrhage. However, the pathophysiological process is characterised by microvascular thrombosis and purpura fulminans may occur.
+
+No single test reliably diagnoses DIC. However, DIC should be suspected when the following abnormalities coexist – thrombocytopenia, prolonged prothrombin time (PT), prolonged APTT, low fibrinogen, raised fibrinogen degradation products and D-dimers and microangiopathic haemolytic anaemia. There is also usually a marked reduction in the naturally occurring anticoagulants, proteins C and S and antithrombin.
+
+The most important aspect of management is to treat the underlying cause of the DIC (usually sepsis) while providing intensive care. Supportive care may be provided with fresh frozen plasma (to replace clotting factors), cryoprecipitate and platelets. Antithrombin and protein C concentrates have been used, particularly in severe meningococcal septicaemia with purpura fulminans. The use of heparin remains controversial.
+
+Thrombosis in children
+
+Thrombosis is uncommon in children and about 95% of venous thromboembolic events are secondary to underlying disorders associated with hypercoagulable states (see below). Thrombosis of cerebral vessels usually presents with signs of a stroke. (The condition is considered further in Chapters 10 and 27.) Rarely, children may inherit abnormalities in the coagulation and fibrinolytic pathway that increase their risk of developing clots even in the absence of underlying predisposing factors. These conditions are termed congenital prothrombotic disorders (thrombophilias). They are:
+• Protein C deficiency
+• Protein S deficiency
+• Antithrombin deficiency
+• Factor V Leiden
+• Prothrombin gene G20210A mutation.
+
+Proteins C and S and antithrombin are natural anticoagulants and their deficiencies are inherited in an autosomal dominant manner. Heterozygotes are also predisposed to thrombosis, usually venous, during the second or third decade of life and only rarely in childhood. Homozygous deficiency of protein C and protein S are very uncommon and present with life-threatening thrombosis with widespread haemorrhage and purpura into the skin (known as ‘purpura fulminans’) in the neonatal period. Homozygous antithrombin deficiency is not seen, probably because it is lethal in the fetus.
+
+Factor V Leiden is an inherited abnormality in the structure of the coagulation protein factor V, which makes it resistant to degradation by activated protein C as part of the body’s normal anticoagulant mechanism. The prothrombin gene mutation is associated with high levels of plasma prothrombin.
+
+Acquired disorders are:
+• Catheter-related thrombosis
+• DIC (disseminated intravascular coagulation)
+• Hypernatraemia
+• Polycythaemia (e.g. due to congenital heart disease)
+• Malignancy
+• SLE (systemic lupus erythematosus) and persistent antiphospholipid antibody syndrome.
+
+Diagnosis
+
+Although inherited thrombophilia is very uncommon, these disorders predispose to life-threatening thrombosis and so it is important not to miss the diagnosis in any child presenting with an unexplained thrombotic event. Therefore, screening tests for the presence of an inherited thrombophilia should be carried out in the following situations:
+• Any child with unanticipated or extensive venous thrombosis, ischaemic skin lesions or neonatal purpura fulminans
+• Any child with a positive family history of neonatal purpura fulminans.
+
+The screening tests are assays for proteins C and S, antithrombin assay, polymerase chain reaction (PCR) for factor V Leiden and for the prothrombin gene mutation.
+
+Mutations in factor V (factor V Leiden) and the prothrombin gene, respectively, are present in 5% and 2% of the northern European population. Children with protein C deficiency or factor V Leiden have 4–6 times higher risk of developing recurrent thromboses. The risk increases significantly if these conditions are inherited together. Therefore it is reasonable to screen children who develop thrombosis for all of these factors in order to plan the best management to prevent thrombosis. In the UK, current practice is not to screen asymptomatic children for genetic defects, which are not going to affect their medical management, e.g. on the basis of family history alone, until they are old enough to receive appropriate counselling and make decisions for themselves.
+
+Summary: Thrombosis
+
+All children with thrombosis should be screened for inherited or acquired predisposing disorders.
+
+
+PAGE 403
+
+Further reading
+
+Bailey S, Skinner R: Paediatric Haematology and Oncology. Oxford Specialist Handbooks in Paediatrics. Oxford, 2009, Oxford University Press.
+
+Lilleyman JS, Hann IM, Blanchette VS, editors: Pediatric Haematology, ed 3, Edinburgh, 2005, Churchill Livingstone.
+A single-volume, comprehensive textbook
+
+Orkin SH, Fisher DE, Look T, et al., editors: Nathan and Oski’s Hematology of Infancy and Childhood, ed 7, Philadelphia, PA, 2008, Saunders.
+Comprehensive, two-volume textbook.
+
+Websites (Accessed May 2011)
+
+British Committee for Standards in Haematology guidelines: Available at: http://www.bcshguidelines.com.
+
+Diamond–Blackfan syndrome: UK Diamond Blackfan Anaemia Support Group. Available at: http://www.diamondblackfan.org.uk.
+
+Haemophilia: World Federation of Haemophilia. Available at: http://www.wfh.org/index.asp?lang=EN or The Haemophilia Society. Available at: http://www.haemophilia.org.uk.
+
+Shwachman–Diamond syndrome: Shwachman–Diamond Support UK. Available at: http://sdsuk.org.
+
+Sickle Cell Society: Available at: http://www.sicklecellsociety.org.
+
+UK Thalassaemia Society: Available at: http://www.ukts.org.
+
+
+PAGE 404
+
+This page intentionally left blank
+
+
+PAGE 405
+
+23
+Emotions and behaviour
+
+Principles of normal development 405
+Adversities in the family 408
+Problems of the preschool years 409
+Problems of middle childhood 412
+Adolescence 416
+Management of emotional and behavioural problems 420
+
+Knowledge of children’s emotions and behaviour is important in order to:
+• know what constitutes the normal range
+• understand common, normative and usually minor deviations and responses to stress, physical illness and injuries
+• recognise and manage emotional and behavioural disorders.
+
+Principles of normal development
+
+Normal parenting
+
+A child’s behaviour, emotional responses and personality are the end result of interplay between genetic predisposition and environmental influences. The environment provides experience from which stems knowledge, learned behaviour or emotional responses and attitudes to oneself and the world. Interpersonal relationships are major environmental factors in promoting psychosocial development and the child’s family is a principal source of these. Within the family, children should be protected, nurtured, educated and contained so that their development is supported optimally. Many societies are going through major demographic changes, including rising numbers of family breakdowns, lone-parent families and same gender parents. However, irrespective of the family structure, the essential elements of competent parenting or what is commonly referred to as ‘good-enough parenting’ are the same for all families (Box 23.1). Beyond this, the parents’ attitude towards their children and how they handle their individual children help to determine how their personalities develop.
+
+Normal early relationships
+
+In the first 2 months of a baby’s life, infants are not fussy about who responds to their needs. From 3 to 6 months they become more selective, demanding comfort from one or two caregivers. By 6–8 months they are particular about who responds to their needs or holds them, especially when distressed, and show tearful separation anxiety if their main caregiver, usually the mother, is not there. If tired, fearful, unhappy or in pain, they will cling to her and be comforted by her presence as an attachment figure. At this time, the child learns to crawl, and so is able to leave a primary caregiver and possibly encounter danger. The development of attachment behaviour allows the infant to keep track of their parent’s whereabouts and resist separation. This close attachment relationship derives from social interaction and the mother’s sensitive responsiveness to the baby’s needs, not from any blood tie. It need not be with the biological mother, although it usually is. Its importance lies in it being:
+• a particularly close relationship within which the child’s development of trust, empathy, conscience and ideals is promoted, forming a prototype for future close relationships
+• the child’s primary source of comfort, providing the principal method of coping with stress (fear, anxiety, pain, etc.).
+
+This underscores the importance of having a young child’s parent ‘rooming in’ if admitted to hospital. Otherwise the child would be doubly distressed both by the absence of their attachment figure as well as by the threat of strange surroundings or procedures and by the stress of pain or illness.
+
+If a young child is placed in strange, impersonal surroundings and separated from the mother for more than several hours, a triphasic acute separation reaction may set in (Fig. 23.1):
+
+
+PAGE 406
+
+Box 23.1 Competent parents
+
+• Are available physically and emotionally when needed
+• Protect their children from harm
+• Love their children – provide affection, support, comfort, food and shelter
+• Exercise parental authority firmly, calmly and fairly, by setting clear and realistic limits for their children using rewards and praise to encourage compliance and non-physical sanctions to reduce non-compliance
+• Respect their children’s immature status and judge it accurately
+• Keep adult business (sex, etc.) away from their children
+• Model calm, positive and constructive problem-solving strategies for their children
+• Have their own lives and do not live through their children
+• Maintain their own self-esteem and personal development.
+
+The three stages of the acute separation response in children
+
+Protest
+Crying, distress
+Angry refusal to be comforted
+Asking for mummy
+
+Despair
+Moping
+Not playing
+Not eating
+
+Detachment
+Apparent cheering up and recovery
+Indifferent to parents on return to them
+
+The above sequence develops over a period of days, but with considerable variation between children.
+
+Figure 23.1 The three stages of the acute separation response in young children.
+
+• Mounting anxiety about the fact that the child’s mother fails to reappear produces distressed, irritable tearfulness (protest), which is hard to comfort
+• After a day or two, this turns into a withdrawn state with no play, no interest in food and little speech or willingness for personal contact (despair)
+• The child gradually cheers up from this but the close contact with the mother has been lost and the child is relatively indifferent to her when she reappears (detachment).
+
+Recreating the original closeness can take weeks and is accompanied by a phase of irritability, misbehaviour and clinging. This can sometimes be seen when children who have been admitted to hospital as an emergency return home.
+
+Children who have never had the opportunity for a close, secure attachment relationship in their early years are at risk of growing up as self-centred individuals who seek the affection and attention of others but have difficulty with close personal relationships and with learning to conform with social rules of conduct.
+
+The selective clinging of early attachment behaviour diminishes over time so that in the second year of life children extend their emotional attachments to other family members and carers. By school age, they can tolerate separations from their parents for several hours. Children vary in their ability to do this depending on their temperament and social circumstances. For example, a child who is constitutionally apprehensive, who has an exceptionally anxious mother, or who has parents who threaten abandonment is likely to continue to cling to his/her mother for protection and comfort. A series of frightening events will tend to perpetuate clinging, which may persist well into middle childhood (age 5–12 years). This interferes with children’s capacity to learn how to cope with anxiety on their own (Fig. 23.2).
+
+Figure 23.2 A 6-year-old with separation anxiety, showing what it feels like to leave her mother to go to school.
+
+With entry into school, the importance of teachers and other children in shaping psychosocial development increases and their influence must be taken into account in understanding any schoolchild’s development.
+
+Summary: Early relationships
+
+Young children:
+• develop a close attachment relationship with their mother (or main caregiver)
+• if separated from their mother, may develop separation anxiety
+• if admitted to hospital, should be able to have their parents stay with them.
+
+
+PAGE 407
+
+Temperament
+
+Children differ from each other in personality from birth, just as they do in physical appearance. This individuality in behavioural style or temperament is partly genetically determined. It is not fixed but changes slowly in the light of experience. It affects how other people deal with them.
+
+A child born with a difficult temperament is prone to:
+• predominantly negative moods – whinging, moaning, crying
+• intense emotional reactions – screaming rather than whimpering, jumping for joy rather than smiling
+• irregular biological functions – a lack of rhythm in sleeping, hunger or toileting
+• negative initial responses to novel situations, e.g. pushing a new toy away
+• protracted adjustment to new situations – taking weeks or months to settle into a new playgroup.
+
+Such a pattern is a vulnerability factor for future emotional and behavioural problems. It may be hard for parents to maintain an affectionate relationship with a child who has a difficult temperament. Their self-confidence falters as they feel guilty that they have failed as parents. Such parents need support to maintain a positive, loving relationship with their child who will, if this can be done, soften and become easier to handle over a period of months. If parents lapse into irritable intolerance themselves, this is likely to maintain the child’s grouchy and unsatisfied manner and may lead eventually to low self-esteem or the development of behavioural problems.
+
+Self-esteem
+
+Children develop views and make attributions about themselves. Most children experience praise and success in enough areas of their lives to develop a sense of inner self-confidence and self-worth. Those who do not are at increased risk of developing emotional and behavioural disorders which in turn may breed further shame and failure. A child who does not consider him/herself worthwhile and valued by others will play safe and not attempt new activities or explore new situations because of a fear of failure. This restricts the development of coping skills and knowledge of the world generally. It may also be a vulnerability factor for depression and anxiety disorders. Children who lack a belief in their own worth may adopt extraordinary and problematic behaviours in order to attract the attention and acclaim of others. For instance, one child took to openly eating dog faeces because it attracted a crowd of amazed children around her. Repeated failure, academically or socially, will undermine self-esteem, as will some disorders themselves (dyspraxia, enuresis and faecal soiling in particular). An important source of low self-esteem, however, is the child’s parents, either because of their own low self-esteem or because of abuse (emotional, sexual or physical) and neglect.
+
+Box 23.2 The quality of preschool thought
+
+• The child is at the centre of his world (‘I’m tired so it’s getting dark’)
+• Everything has a purpose (‘The sea is there for us to swim in’)
+• Inanimate objects are alive (‘Naughty table hurt me’) and have feelings and motives
+• Poor categorisation (all men are Daddies)
+• Use of magical thinking (‘If I close my eyes, she’ll go away’)
+• Use of sequences or routines rather than a sense of time
+• The use of toys and other aspects of imaginative play as aids to thought (particularly in making sense of experience and social relationships).
+
+Cognitive style
+
+As children grow older, their thinking style evolves from one that is concrete to one that is able to cope with abstract thought. Below the age of about 5 years, thought is fundamentally egocentric, with the child being at the centre of his world (Box 23.2). During middle childhood, the dominant mode of thought is practical and orderly but tied to immediate circumstances and specific experiences rather than hypothetical possibilities or metaphors. Not until the mid-teens does the adult style of abstract thought begin to appear.
+
+Adjust the way you talk to children to be compatible with their thinking style.
+
+Coping with chronic or serious illness or adversities in childhood
+
+Children can respond to adversity, including illness, in a number of ways:
+• Cognitive response – can lie anywhere along the spectrum of over-acceptance to denial, with fluctuation over time. In over-acceptance, the child may allow the illness to overtake their life resulting in more impairment than is expected for level of symptoms, and high levels of anxiety about the slightest symptom. With denial, symptoms and warning signs may be ignored and treatment poorly adhered to.
+• Emotional response – to diagnosis of illness and at times of relapse, may have similarities to a bereavement reaction or reaction to loss, with shock, denial, anger, followed by acceptance and adjustment (Fig. 23.3). Such responses to a serious illness are normal as long as the child proceeds through the phases.
+• Behavioural response – young children tend to regress when stressed and behave younger than they actually are. A toddler may become
+
+
+PAGE 408
+
+Figure 23.3 Drawing by a 10-year-old girl with asthma, showing how she felt about her illness. She was struggling to take her medicines and had multiple hospital admissions. Family therapy helped her to come to terms with her illness and take her medications.
+
+overactive or clingy and display sleep and feeding difficulties. Regressive responses in older children predominantly manifest as problems with toileting, academic performance and peer relationships.
+• Somatic response – can include expression of worry and distress through bodily symptoms such as recurrent abdominal pain.
+
+Children suffering from chronic or serious illness are more vulnerable to mental health problems. This is related to:
+• Nature of illness – this includes severity, chronicity, presence of constant discomfort and demands of treatment. Children with neurological disorders involving the brain, e.g. epilepsy, are at increased risk.
+• Stage of illness – for example, diagnosis, deteriorations signalled by the need for new demanding treatments or by admissions to hospital.
+• Age of the child – in infancy, illness may affect attachment and developmental milestones such as autonomy and mobility. Over 5 years of age there is a greater impact on educational progress, athletic activities and achievement. In adolescence, social adjustment, individual identity, independence from the family and poor adherence to treatment become more of an issue. Prolonged separation from parents resulting from illness will have a particularly negative impact between the age of 6 months and 3 years.
+• Temperament – a child who is more adaptable to new situations will fare better. In contrast, a child who from early life has been difficult to soothe will fare worse
+• Intellectual capacity – brighter children generally cope better.
+• Family factors – the illness can have detrimental effects on the family and family difficulties can aggravate adaptation to illness.
+
+Summary: Responses of children to illness or adversity include:
+• Over-acceptance or refusal to accept the situation
+• The sequence of shock, denial, anger, followed by acceptance and adjustment
+• Regression of behaviour
+• Somatic symptoms.
+
+Adversities in the family
+
+Family relationships are, for most children, the source of their most powerful emotions. Similarly, parents have more effect than anyone else on children’s social learning and behaviour. The ecological model of child development indicates that families are generally the most potent environmental influence on a child’s mental health. They are not all-powerful, since a predisposition to particular childhood emotional and behavioural problems can be inherited, but family influences interact with this so that overt disorder may or may not emerge. Not all disorders have their origin in family adversities: hyperkinetic disorder, tics and autism arise independently of them. Nevertheless, the non-genetic contribution of family interactions to emotional and behavioural disorders is often substantial and the mechanisms whereby they produce disorder are various. The following are some of the known risk factors:
+• Angry discord between family members
+• Parental mental ill health, especially maternal depression
+• Divorce (Boxes 23.3 and 23.4) and bereavement
+• Intrusive overprotection
+• Lack of parental authority
+• Physical and sexual abuse
+• Emotional rejection or unremitting criticism
+• Use of violence, terror, threats of abandonment or excessive guilt as disciplinary devices
+• Taunting or belittlement of the child
+• Inconsistent, unpredictable discipline
+• Using the child to fulfil the unreasonable personal emotional needs of a parent
+• Inappropriate responsibilities or expectations for the child’s level of maturity.
+
+Many of these risk factors can be aggravated by a difficult or unrewarding child whose behaviour or difficult temperament may make the adverse environment worse. While parents need to be made aware of changes required to improve the situation, it is unwise to blame them for causing their child’s problem as it makes them less likely to engage in treatment.
+
+Adversities may also arise outside the family. Experiences with other children are increasingly recognised as highly significant in psychosocial development. Bullying is a known adversity, as are instances of targeted peer rejection, and other forms of peer-mediated persecution. With widespread access to the internet, cyber bullying is becoming an increasing problem. Merely being left out of things by other children (as opposed to being driven away) is much less pernicious.
+
+
+PAGE 409
+
+Conversely, having a number of steady, good-quality peer relationships is a marker for good prognosis in an emotional or behavioural problem which has resulted from environmental influences.
+
+Summary: Regarding adversities
+• The child’s family is the most potent influence on the child’s mental health
+• Many but not all mental health problems originate from adversities in the family
+• The child’s temperament and adversities outside the family, e.g. bullying, may aggravate the situation.
+
+Box 23.3 Reactions to parental divorce
+
+Preschool
+• Fear of further abandonment:
+  – Intensified clinging at threatened separations
+  – Sleep disturbances
+  – Tearful, irritable and demanding
+  – Disorganised play
+
+Middle childhood
+• Miserable at loss of parent, pining for restitution of family
+• Self-blame in younger (age 6–8) age group
+• Angry blaming of one parent for divorce in older (age 9–12) age group
+• Loyalty conflicts
+• Anxiety and jealousy at parents’ new partners
+• Educational underachievement
+
+Adolescents
+• Wide variation in response
+• Various attempts to master the situation:
+  – Detachment from family
+  – Rapid maturation
+  – Moral idealism
+  – Critical of parents
+• Educational underachievement
+• Depression in some.
+
+Box 23.4 Adjustment tasks facing children of divorced parents
+
+• Acknowledgement of parental separation
+• Regaining sense of direction in life activities
+• Dealing with sense of loss and rejection
+• Forgiving parents for break-up
+• Accepting permanence of divorce, relinquishing wish for the previously intact family
+• Feeling able to enter into new emotional relationships.
+
+Problems of the preschool years
+
+Meal refusal
+
+A common scenario is a mother complaining that her child refuses to eat any or much of what she provides; mealtimes have become a battleground. Examination reveals a healthy, well-nourished child whose height and weight are securely within normal limits on a centile growth chart, or a small and thin child with faltering growth.
+
+An account of what goes on at a typical mealtime may reveal:
+• A past history of force-feeding
+• Irregular meals so that the child is not predictably hungry
+• Unsuitable meals
+• Unreasonably large portions
+• Multiple opportunities for distraction, e.g. TV.
+
+Most importantly, how much does the child eat between meals? A well-nourished child is getting food from somewhere. Not all parents regard sweets and crisps as being food. Some mothers, while concerned about their child’s apparently poor food intake, provide little variety in the child’s diet. For strategies for dealing with meal refusal, see Box 23.5. Children with faltering growth may require specialist referral if they do not respond to this advice.
+
+Sleep-related problems
+
+Difficulty in settling to sleep at bedtime
+
+This is a common problem in the toddler years. The child will not go to sleep unless the parent is present. Most instances are normal expressions of separation anxiety, but there may be other obvious reasons for it which can be explored in taking a history (Box 23.6), supplemented if necessary by the parents keeping a prospective sleep diary. Many cases will respond to simple advice:
+• Creating a bedtime routine which cues the child to what is required
+• Telling the child to lie quietly in bed until he/she falls asleep, recognising that children cannot fall asleep to order (although that is what everyone tells them to do).
+
+If that advice does not resolve the problem, a more active intervention may be required. This involves parents imposing a graded pattern of lengthening periods between tucking their child up in bed and coming back after a few minutes to visit, but leaving the room before the child falls asleep, even if they are protesting. The object is to provide the opportunity for the child to learn how to fall asleep alone, a skill not yet
+
+
+PAGE 410
+
+Box 23.5 Strategy for meal refusal
+
+Mealtime history
+
+What is the parent most concerned about?
+• Nutrition?
+  – Refer to growth chart
+• Discipline and parenting?
+  – Family history of eating problems
+  – Parenting style
+  – What do others say?
+  – Is it part of a broader behavioural problem?
+
+How much food is eaten between meals?
+• Food diary to record child’s intake over a number of days.
+
+Advice
+
+• As long as offered wholesome food with adequate range, children are remarkably good at eating a constant and appropriate quantity of food when allowed a reasonable choice.
+• As it is impossible to force a child to eat, avoid confrontation at mealtimes.
+• Develop a relaxed atmosphere.
+• Use favourite foods as a reward. Introduce other rewards for compliance at mealtimes (e.g. additional privileges such as extra TV time).
+• Reduce eating between meals if necessary, although many young children prefer small, frequent snacks.
+
+Box 23.6 Reasons for a child not settling at night
+
+• Too much sleep in the late afternoon
+• Displaced sleep/wake cycle – not waking child in morning because did not settle until late on the previous night
+• Separation anxiety
+• Overstimulated or overwrought in the evening
+• Kept awake by siblings or noisy neighbours or TV in the bedroom
+• Erratic parental practices: no bedtime or routine to cue child into sleep readiness, sudden removal from play to go to bed without prior warning to wind down
+• Use of bedroom as punishment
+• Dislike of darkness and silence – night light and playing story tapes can be helpful
+• Some chronic physical conditions may be associated with sleep problems, e.g. painful crisis in sickle cell disease.
+
+developed. More refractory cases may require specialist referral.
+
+Waking at night
+
+This is normal, but some children cry because they cannot settle themselves back to sleep without their parent’s presence. This is often associated with difficulty settling in the evenings, which should be treated first. Some children who can settle in the evening may be unable to settle when they wake in the night because the circumstances are different – it is quieter, darker, etc. The graded approach described above for evening settling can also be used in the middle of the night. Parents will find it helpful to take alternate nights on duty to share the burden.
+
+Nightmares
+
+These are bad dreams which can be recalled by the child. They are common, rarely requiring professional attention unless they occur frequently or are stereotyped in content, indicating a morbid preoccupation or symptomatic of a psychiatric disorder such as post-traumatic stress disorder. Unless a disorder is suspected, reassuring the child and his family will usually suffice.
+
+Night (sleep) terrors
+
+These are different from nightmares, occurring about 1.5 hours after settling. The parents find the child sitting up in bed, eyes open, seemingly awake but obviously disorientated, confused and distressed and unresponsive to their questions and reassurances. The child settles back to sleep after a few minutes and has no recollection of the episode in the morning. A night terror is a parasomnia, a disturbance of the structure of sleep wherein a very rapid emergence from the first period of deep slow-wave sleep produces a state of high arousal and confusion. Sleepwalking has similar origins and the two may be combined. Most night terrors need little more than reassurance directed towards the parents. The most important intervention for sleepwalking is to make the environment safe to prevent injury to the child (e.g. not sleeping on the upper bunk of a double-bunk bed, putting gates before the staircase, locking the kitchen, etc.). Given that a common cause of night terrors and sleepwalking is a poor and erratic sleep schedule, a sleep routine can be helpful in preventing recurrence. Once parents have implemented the safety suggestions highlighted above, they can be reassured, as the natural course of these disorders is to decrease over time.
+
+Disobedience, defiance and tantrums
+
+Normal toddlers often go through a phase of refusing to comply with parents’ demands, sometimes angrily (‘the terrible 2s’). This is an understandable reaction to the discovery that the world is not organised around them. They also become confused and angered by the fact that the parent who provides them with comfort when they are distressed is also the person who is making them do things they do not wish to do. This seems exceptionally unfair to them. That is one reason why children play their parents up but may be fine with others. All this can exhaust and demoralise parents, not least because many people offer advice or criticism (everyone thinks themselves an expert in the area of children’s development and behaviour). The points listed in Box 23.7 can be made.

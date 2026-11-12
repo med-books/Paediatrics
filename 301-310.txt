@@ -1,0 +1,493 @@
+301
+17
+Cardiac disorders
+
+Epidemiology 301
+Aetiology 302
+Circulatory changes at birth 302
+Presentation 303
+Diagnosis 306
+Nomenclature 306
+Left-to-right shunts 306
+Right-to-left shunts 310
+Common mixing (blue and breathless) 314
+Outflow obstruction in the well child 315
+Outflow obstruction in the sick infant 318
+Care following cardiac surgery 320
+Cardiac arrhythmias 320
+Syncope 321
+Chest pains 321
+Rheumatic fever 321
+Infective endocarditis 322
+Myocarditis/cardiomyopathy 323
+Kawasaki disease 323
+Pulmonary hypertension 323
+
+Recent developments in paediatric cardiac disease are:
+• Lesions are being increasingly identified on antenatal ultrasound screening
+• Most lesions are diagnosed by echocardiography, the mainstay of diagnostic imaging
+• MRI allows three-dimensional reconstruction of complex cardiac disorders, assessment of haemodynamics and flow patterns and assists interventional cardiology, reducing the need for cardiac catheterisation
+• Most defects can be corrected by definitive surgery at the initial operation
+• An increasing number of defects (60%) are treated non-invasively, e.g. persistent ductus arteriosus
+• New therapies are available to treat pulmonary hypertension and delay transplantation
+• The overall infant cardiac surgical mortality has been reduced from approximately 20% in 1970 to 2% in 2010.
+• About 1 in 10 stillborn infants have a cardiac anomaly.
+
+The nine most common anomalies account for 80% of all lesions (Box 17.1), but:
+• about 10–15% have complex lesions with more than one cardiac abnormality and
+• about 10–15% also have a non-cardiac abnormality.
+
+Box 17.1 The most common congenital heart lesions
+
+Left-to-right shunts (breathless)
+• Ventricular septal defect 30%
+• Persistent arterial duct 12%
+• Atrial septal defect 7%
+
+Right-to-left shunts (blue)
+• Tetralogy of Fallot 5%
+• Transposition of the great arteries 5%
+
+Common mixing (breathless and blue)
+• Atrioventricular septal defect (complete) 2%
+
+Outflow obstruction in a well child (asymptomatic with a murmur)
+• Pulmonary stenosis 7%
+• Aortic stenosis 5%
+
+Outflow obstruction in a sick neonate (collapsed with shock)
+• Coarctation of the aorta 5%.
+
+Epidemiology
+
+Heart disease in children is mostly congenital. It is the most common single group of structural malformations in infants:
+• 8 per 1000 liveborn infants have significant cardiac malformations
+• Some abnormality of the cardiovascular system, e.g. a bicuspid aortic valve, is present in 1–2% of live births.
+
+
+302
+Aetiology
+
+Genetic causes are increasingly recognised in the aetiology of congenital heart disease, now in more than 10%. These might affect whole chromosomes, point mutations or microdeletions (Table 17.1). Polygenic abnormalities probably explain why having a child with congenital heart disease doubles the risk for subsequent children and the risk is higher still if either parent has congenital heart disease. A small proportion are related to external teratogens.
+
+Circulatory changes at birth
+
+In the fetus, the left atrial pressure is low, as relatively little blood returns from the lungs. The pressure in the right atrium is higher than in the left, as it receives all the systemic venous return including blood from the placenta. The flap valve of the foramen ovale is held open, blood flows across the atrial septum into the left atrium and then into the left ventricle, which in turn pumps it to the upper body (Fig. 17.1).
+
+With the first breaths, resistance to pulmonary blood flow falls and the volume of blood flowing through the lungs increases six-fold. This results in a rise in the left atrial pressure. Meanwhile, the volume of blood returning to the right atrium falls as the placenta is excluded from the circulation. The change in the pressure difference causes the flap valve of the foramen ovale to be closed. The ductus arteriosus, which connects the pulmonary artery to the aorta in fetal life, will normally close within the first few hours or days. Some babies with congenital heart lesions rely on blood flow through the duct (duct-dependent circulation). Their clinical condition will deteriorate dramatically when the duct closes, which is usually at 1–2 days of age but occasionally later.
+
+Figure 17.1 Changes in the circulation from the fetus to the newborn. When congenital heart lesions rely on blood flow through the duct (a duct-dependent circulation), there will be a dramatic deterioration in the clinical condition when the duct closes.
+
+Table 17.1 Causes of congenital heart disease
+
+Maternal disorders
+Rubella infection — Peripheral pulmonary stenosis, PDA — 30–35%
+Systemic lupus erythematosus (SLE) — Complete heart block (anti-Ro and anti-La antibody) — 35%
+Diabetes mellitus — Incidence increased overall — 2%
+
+Maternal drugs
+Warfarin therapy — Pulmonary valve stenosis, PDA — 5%
+Fetal alcohol syndrome — ASD, VSD, tetralogy of Fallot — 25%
+
+Chromosomal abnormality
+Down syndrome (trisomy 21) — Atrioventricular septal defect, VSD — 30%
+Edwards syndrome (trisomy 18) — Complex — 60–80%
+Patau syndrome (trisomy 13) — Complex — 70%
+Turner syndrome (45XO) — Aortic valve stenosis, coarctation of the aorta — 15%
+Chromosome 22q11.2 deletion — Aortic arch anomalies, tetralogy of Fallot, common arterial trunk — 80%
+Williams syndrome (7q11.23 microdeletion) — Supravalvular aortic stenosis, peripheral pulmonary artery stenosis — 85%
+Noonan syndrome (PTPN11 mutation and others) — Hypertrophic cardiomyopathy, atrial septal defect, pulmonary valve stenosis — 50%
+
+ASD, atrial septal defect; PDA, persistent ductus arteriosus; VSD, ventricular septal defect.
+
+
+303
+Presentation
+
+Congenital heart disease presents with:
+• Antenatal cardiac ultrasound diagnosis
+• Detection of a heart murmur
+• Heart failure
+• Shock.
+• Cyanosis.
+
+Antenatal diagnosis
+
+Checking the anatomy of the fetal heart has become a routine part of the fetal anomaly scan performed in developed countries between 18 and 20 weeks’ gestation and can lead to 70% of those infants who require surgery in the first 6 months of life being diagnosed antenatally. If an abnormality is detected, detailed fetal echocardiography is performed by a paediatric cardiologist. Any fetus at increased risk, e.g. suspected Down syndrome, where the parents have had a previous child with heart disease or where the mother has congenital heart disease, is also checked. Early diagnosis allows the parents to be counselled. Depending on the diagnosis, some choose termination of pregnancy; the majority continue with the pregnancy and can have their child’s management planned antenatally. Mothers of infants with duct-dependent lesions likely to need treatment within the first 2 days of life may be offered delivery at or close to the cardiac centre.
+
+Heart murmurs
+
+The most common presentation of congenital heart disease is with a heart murmur. Even so, the vast majority of children with murmurs have a normal heart. They have an ‘innocent murmur’, which can be heard at some time in almost 30% of children. It is obviously important to be able to distinguish an innocent murmur from a pathological one.
+
+Hallmarks of an innocent ejection murmur are (all have an ‘S’, ‘innoSent’):
+• aSymptomatic patient
+• Soft blowing murmur
+• Systolic murmur only, not diastolic
+• left Sternal edge.
+
+Also:
+• Normal heart sounds with no added sounds
+• No parasternal thrill
+• No radiation.
+
+During a febrile illness or anaemia, innocent or flow murmurs are often heard because of increased cardiac output. Therefore it is important to examine the child when such other illnesses have been corrected.
+
+Differentiating between innocent and pathological murmurs can be difficult. If a murmur is thought to be significant, or if there is uncertainty about whether it is innocent, the child should be seen by an experienced paediatrician to decide about referral to a paediatric cardiologist for echocardiography. A chest radiograph and ECG may help with the diagnosis beyond the neonatal period.
+
+Many newborn infants with potential shunts have neither symptoms nor a murmur at birth, as the pulmonary vascular resistance is still high. Therefore, conditions such as a ventricular septal defect or ductus arteriosus may only become apparent at several weeks of age when the pulmonary vascular resistance falls.
+
+The features of an innocent murmur can be remembered as the five Ss:
+‘InnoSent’ murmur = Soft, Systolic, aSymptomatic, left Sternal edge.
+
+Heart failure
+
+Symptoms
+• Breathlessness (particularly on feeding or exertion)
+• Sweating
+• Poor feeding
+• Recurrent chest infections.
+
+Signs
+• Poor weight gain or ‘faltering growth’
+• Tachypnoea
+• Tachycardia
+• Heart murmur, gallop rhythm
+• Enlarged heart
+• Hepatomegaly
+• Cool peripheries.
+
+Signs of right heart failure (ankle oedema, sacral oedema and ascites) are rare in developed countries, but may be seen with long-standing rheumatic fever or pulmonary hypertension, with tricuspid regurgitation and right atrial dilatation.
+
+In the first week of life, heart failure (Box 17.2) usually results from left heart obstruction, e.g. coarctation of the aorta. If the obstructive lesion is very severe then
+
+Box 17.2 Causes of heart failure
+
+1. Neonates – obstructed (duct-dependent) systemic circulation
+• Hypoplastic left heart syndrome
+• Critical aortic valve stenosis
+• Severe coarctation of the aorta
+• Interruption of the aortic arch
+
+2. Infants (high pulmonary blood flow)
+• Ventricular septal defect
+• Atrioventricular septal defect
+• Large persistent ductus arteriosus
+
+3. Older children and adolescents (right or left heart failure)
+• Eisenmenger syndrome (right heart failure only)
+• Rheumatic heart disease
+• Cardiomyopathy.
+
+
+304
+Arterial perfusion may be predominantly by right-to-left flow of blood via the arterial duct, so-called duct-dependent systemic circulation (Fig. 17.2). Closure of the duct under these circumstances rapidly leads to severe acidosis, collapse and death unless ductal patency is restored (Case History 17.1).
+
+After the first week of life, progressive heart failure is most likely due to a left-to-right shunt (Case History 17.2). During the subsequent weeks, as the pulmonary vascular resistance falls, there is a progressive increase in left-to-right shunt and increasing pulmonary blood flow. This causes pulmonary oedema and breathlessness.
+
+Such symptoms of heart failure will increase up to the age of about 3 months, but may subsequently improve as the pulmonary vascular resistance rises in response to the left-to-right shunt. If left untreated, these children will develop Eisenmenger syndrome, which is irreversibly raised pulmonary vascular resistance resulting from chronically raised pulmonary arterial pressure and flow. Now the shunt is from right to left and the teenager is blue. If this develops, the only surgical option is a heart-lung transplant, if available, although medication is now available to palliate the symptoms.
+
+Figure 17.2 The pulmonary circulation is maintained by blood flowing left to right across the duct – an example of a duct-dependent pulmonary circulation.
+Pulmonary atresia with intact septum.
+
+Cyanosis
+
+• Peripheral cyanosis (blueness of the hands and feet) may occur when a child is cold or unwell from any cause or with polycythaemia
+• Central cyanosis, seen on the tongue as a slate blue colour, is associated with a fall in arterial blood oxygen tension. It can only be recognised clinically if the concentration of reduced haemoglobin in the blood exceeds 5 g/dl, so it is less pronounced if the child is anaemic
+• Check with a pulse oximeter that an infant’s oxygen saturation is normal (≥94%). Persistent cyanosis in an otherwise well infant is nearly always a sign of structural heart disease.
+
+Cyanosis in a newborn infant with respiratory distress (respiratory rate >60 breaths/min) may be due to:
+• Cardiac disorders – cyanotic congenital heart disease
+• Respiratory disorders, e.g. surfactant deficiency, meconium aspiration, pulmonary hypoplasia, etc.
+• Persistent pulmonary hypertension of the newborn (PPHN) – failure of the pulmonary vascular resistance to fall after birth
+• Infection – septicaemia from group B streptococcus and other organisms
+• Metabolic disease – metabolic acidosis and shock.
+
+Whether the presentation of congenital heart disease is with a heart murmur, heart failure, cyanosis or shock depends on the underlying anatomic lesion causing:
+• left to right shunt
+• right to left shunt
+• common mixing
+• outflow obstruction in the well or sick child.
+
+This is summarised in Table 17.2.
+
+Table 17.2 Types of presentation with congenital heart disease
+
+Type of lesion | Left-to-right shunt | Right-to-left shunt | Common mixing | Well children with obstruction | Sick neonates with obstruction
+
+Symptoms | Breathless or asymptomatic | Blue | Breathless and blue | Asymptomatic | Collapsed with shock
+
+Examples
+Left-to-right shunt: ASD, VSD, PDA
+Right-to-left shunt: Tetralogy of Fallot, TGA
+Common mixing: AVSD, complex congenital heart disease
+Well children with obstruction: AS, PS, adult-type CoA
+Sick neonates with obstruction: Coarctation, HLHS
+
+ASD, atrial septal defect; VSD, ventricular septal defect; PDA, patent ductus arteriosus; TGA, transposition of the great arteries; AVSD, atrioventricular; AS, aortic stenosis; PS, pulmonary stenosis; CoA, coarctation of the aorta; HLHS, hypoplastic left heart syndrome.
+
+
+305
+Case History
+17.1 Shock
+
+A 2-day-old baby had been discharged home the day after delivery following a normal routine examination. He suddenly collapsed and was rushed to hospital. He was pale, with grey lips. The right brachial pulse could just be felt, the femoral pulses were impalpable and his liver was significantly enlarged. Blood gases showed a severe metabolic acidosis. The differential diagnosis was:
+• Congenital heart disease
+• Septicaemia
+• Inherited disorder of metabolism.
+
+He was ventilated and treated with volume support. Blood cultures were taken and antibiotics started for possible sepsis. Blood and urine samples were taken for an amino acid screen and urine for organic acids. As the femoral pulses remained impalpable, a prostaglandin infusion was started. Within 2 hours, he was pink and well perfused and the acidosis was resolving. Severe coarctation of the aorta (Fig. 17.3) was diagnosed on echocardiography. He had developed shock from a left heart outflow tract obstruction once the arterial duct had closed.
+
+Maintaining ductal patency is the key to early survival in neonates with a duct-dependent circulation.
+
+Figure 17.3 The systemic circulation is maintained by blood flowing right to left across the ductus arteriosus – a duct-dependent systemic circulation.
+Duct-dependent coarctation.
+
+Case History
+17.2 Heart failure
+
+A 5-week-old female infant was referred to hospital because of wheezing, poor feeding and poor weight gain during the previous 2 weeks. Before this, she had been well. Her routine neonatal examination had been normal. She was tachypnoeic (50–60 breaths/min) and there was some sternal and intercostal recession. The pulses were normal. There was a thrill, a pansystolic murmur at the lower left sternal edge and a slightly accentuated pulmonary component to the second heart sound. There were scattered wheezes. The liver was enlarged, palpable at two fingerbreadths below the costal margin. The ECG was unremarkable. The chest radiograph showed cardiomegaly and increased pulmonary vascular markings. An echocardiogram showed a moderate-sized ventricular septal defect (VSD) (Fig. 17.4). Treatment was medical with diuretics and captopril. The VSD closed spontaneously at 18 months.
+
+This infant developed heart failure from a moderate VSD presenting at several weeks of age when the pulmonary resistance fell, causing increased left-to-right shunting of blood. The defect closed spontaneously.
+
+Figure 17.4 (a) Echocardiogram showing a medium-sized muscular ventricular septal defect (arrow). (b) The colour Doppler shows a left-to-right shunt (blue) during systole. (c) There is also a small right-to-left shunt (red) during diastole (RA, right atrium; LA, left atrium; RV, right ventricle; LV, left ventricle).
+
+
+306
+Summary
+
+Presentation of congenital heart disease
+• Antenatal ultrasound screening – increasing proportion detected
+• Detection of a heart murmur – need to differentiate innocent from pathological murmur
+• Cyanosis – if duct dependent, prostaglandin to maintain ductal patency is vital for initial survival
+• Heart failure – usually from left-to-right shunt when pulmonary vascular resistance falls
+• Shock – when duct closes in severe left heart obstruction.
+
+Diagnosis
+
+If congenital heart disease is suspected, a chest radiograph and ECG (Box 17.3) should be performed. Although rarely diagnostic, they may be helpful in establishing that there is an abnormality of the cardiovascular system and as a baseline for assessing future changes. Echocardiography, combined with Doppler ultrasound, enables almost all causes of congenital heart disease to be diagnosed. Even when a paediatric cardiologist is not available locally a specialist echocardiography opinion may be available via telemedicine, or else transfer to the cardiac centre will be necessary. A specialist opinion is required if the child is haemodynamically unstable, if there is heart failure, if there is cyanosis, when the oxygen saturations are <94% due to heart disease and when there are reduced volume pulses.
+
+Box 17.3 ECGs in children
+
+Important features
+• Arrhythmias
+• Superior QRS axis (negative deflection in AVF) (see Fig. 17.5f)
+• Right ventricular hypertrophy (upright T wave in V1, over 1 month of age) (see Fig. 17.6e)
+• Left ventricular strain (inverted T wave in V6) (see Fig. 17.13d)
+
+Pitfalls
+• P-wave morphology is rarely helpful in children
+• Partial right bundle branch block – most are normal children, although it is common in ASD
+• Sinus arrhythmia is a normal finding.
+
+ASD, atrial septal defect.
+
+Nomenclature
+
+The European (as opposed to American) system for naming congenital heart disease is referred to as sequential segmental arrangement. The advantage is that it is not necessary to remember the pattern of an eponymous syndrome, e.g. tetralogy of Fallot. The disadvantage is that it is longwinded. The idea is that each component is described in turn, naming the way the atria, then the ventricles and then the great arteries are connected. Hence, a normal heart will be described as situs solitus (i.e. the atria are in the correct orientation), concordant atrioventricular connection and concordant ventriculo–arterial connection. Therefore a heart of any complexity can be described in a logical step-by-step process. This system is not described here, as it is beyond the scope of this book.
+
+Left-to-right shunts
+
+These are:
+• Atrial septal defects
+• Ventricular septal defects
+• Persistent ductus arteriosus.
+
+Atrial septal defect
+
+There are two main types of atrial septal defect (ASD):
+• Secundum ASD (80% of ASDs) (Fig. 17.5a)
+• Partial atrioventricular septal defect (primum ASD, pAVSD) (Fig 17.5b).
+
+Both present with similar symptoms and signs, but their anatomy is quite different. The secundum ASD is a defect in the centre of the atrial septum involving the foramen ovale.
+
+Partial AVSD is a defect of the atrioventricular septum and is characterised by:
+• An inter-atrial communication between the bottom end of the atrial septum and the atrioventricular valves (primum ASD)
+• Abnormal atrioventricular valves, with a left atrioventricular valve which has three leaflets and tends to leak (regurgitant valve).
+
+Clinical features
+
+Symptoms
+• None (commonly)
+• Recurrent chest infections/wheeze
+• Arrhythmias (fourth decade onwards).
+
+Physical signs (Fig. 17.5c)
+• An ejection systolic murmur best heard at the upper left sternal edge – due to increased flow across the pulmonary valve because of the left-to-right shunt
+• A fixed and widely split second heart sound (often difficult to hear) – due to the right ventricular stroke volume being equal in both inspiration and expiration
+• With a partial AVSD, an apical pansystolic murmur from atrioventricular valve regurgitation.
+
+Investigations
+
+Chest radiograph (Fig. 17.5d)
+Cardiomegaly, enlarged pulmonary arteries and increased pulmonary vascular markings.
+
+
+307
+Atrial septal defect
+
+(a) Secundum atrial septal defect
+(b) Partial AVSD
+(c) Murmur: A2 P2; fixed split; 2–3/6 and 1/6.
+(d) Chest radiograph: enlarged heart; enlarged pulmonary arteries; increased pulmonary vascular markings.
+(e) Secundum ASD: RSR′ in V1; right axis deviation; right bundle branch block.
+(f) Partial AVSD: superior axis (negative deflection in lead AVF).
+(g) Examples of an occlusion device used to close secundum atrial septal defects.
+
+Figure 17.5 Atrial septal defect (a) The ostium secundum atrial septal defect (ASD) is a deficiency of the foramen ovale and surrounding atrial septum. (b) Partial atrioventricular septal defect (AVSD) is a deficiency of the atrioventricular septum. (c) Murmur. (d) Chest radiograph. (e,f) ECG. (g) Examples of an occlusion device used to close secundum atrial septal defects.
+
+ECG
+• Secundum ASD – partial right bundle branch block is common (but may occur in normal children), right axis deviation due to right ventricular enlargement (Fig. 17.5e)
+• Partial AVSD – a ‘superior’ QRS axis (mainly negative in AVF) (Fig 17.5f). This occurs because there is a defect of the middle part of the heart where the atrioventricular node is. The displaced node then conducts to the ventricles superiorly, giving the abnormal axis.
+
+Echocardiography
+
+This will delineate the anatomy and is the mainstay of diagnostic investigations.
+
+Management
+
+Children with significant atrial septal defect (large enough to cause right ventricle dilation) will require treatment. For secundum ASDs, this is by cardiac catheterisation with insertion of an occlusion device (Fig. 17.5g), but for partial AVSD, surgical correction is required. Treatment is usually undertaken at about 3–5 years of age in order to prevent right heart failure and arrhythmias in later life.
+
+
+308
+Ventricular septal defects
+
+Ventricular septal defects (VSDs) are common, accounting for 30% of all cases of congenital heart disease. There is a defect anywhere in the ventricular septum, perimembranous (adjacent to the tricuspid valve) or muscular (completely surrounded by muscle). They can most conveniently be considered according to the size of the lesion.
+
+Small VSDs
+
+These are smaller than the aortic valve in diameter, perhaps up to 3 mm.
+
+Clinical features
+
+Symptoms
+• Asymptomatic.
+
+Physical signs
+• Loud pansystolic murmur at lower left sternal edge (loud murmur implies smaller defect)
+• Quiet pulmonary second sound (P2).
+
+Investigations
+
+Chest radiograph
+• Normal.
+
+ECG
+• Normal.
+
+Echocardiography
+• Demonstrates the precise anatomy of the defect. It is possible to assess its haemodynamic effects using Doppler echocardiography. There is no pulmonary hypertension.
+
+Management
+
+These lesions will close spontaneously. This is ascertained by the disappearance of the murmur with a normal ECG on follow-up by a paediatrician or paediatric cardiologist and by a normal echocardiogram. While the VSD is present, prevention of bacterial endocarditis is by maintaining good dental hygiene.
+
+Large VSDs
+
+These defects are the same size or bigger than the aortic valve (Fig. 17.6a).
+
+Clinical features
+
+Symptoms
+• Heart failure with breathlessness and failure to thrive (faltering growth) after 1 week old
+• Recurrent chest infections.
+
+Physical signs (Fig. 17.6b)
+• Tachypnoea, tachycardia and enlarged liver from heart failure
+• Active precordium
+• Soft pansystolic murmur or no murmur (implying large defect)
+• Apical mid-diastolic murmur (from increased flow across the mitral valve after the blood has circulated through the lungs).
+
+Summary
+
+Left-to-right shunts
+
+Lesion | Symptoms | Signs | Management
+
+ASD
+Secundum | None | ESM at ULSE; Fixed split S₂ | Catheter device closure at 3–5 years
+Partial AVSD | None | ESM at ULSE; Fixed split S₂; Pansystolic murmur at apex | Surgery at 3 years
+
+VSD
+Small (80–90% of cases) | None | Pansystolic murmur at LLSE | None
+Large (10–20% if cases) | Heart failure | Active precordium, loud P₂, soft murmur, tachypnoea, hepatomegaly | Diuretics, captopril, calories; Surgery at 3–6 months old
+
+PDA | None | Continuous murmur at ULSE ± bounding pulses | Coil or device closure at cardiac catheter at 1 year, or ligation
+
+ASD, atrial septal defect; AVSD, atrioventricular septal defect; VSD, ventricular septal defect; PDA, persistent ductus arteriosus; ESM, ejection systolic murmur; ULSE, upper left sternal edge; LLSE, lower left sternal edge.
+
+
+309
+Large ventricular septal defect
+
+Figure 17.6 Ventricular septal defect. (a) Ventricular septal defect showing a left-to-right shunt. (b) Murmur. (c) Chest radiograph. (d) ECG.
+(c) Chest radiograph: enlarged heart; enlarged pulmonary arteries; increased pulmonary vascular markings.
+(d) Inverted T wave suggests no pulmonary hypertension. Upright T wave indicates pulmonary hypertension.
+
+• Loud pulmonary second sound (P2) – from raised pulmonary arterial pressure.
+
+Investigations
+
+Chest radiograph (Fig. 17.6c)
+• Cardiomegaly
+• Enlarged pulmonary arteries
+• Increased pulmonary vascular markings
+• Pulmonary oedema.
+
+ECG (Fig. 17.6d)
+• Biventricular hypertrophy by 2 months of age.
+
+Echocardiography
+• Demonstrates the anatomy of the defect, haemodynamic effects and pulmonary hypertension (due to high flow).
+
+Management
+
+Drug therapy for heart failure is with diuretics, often combined with captopril. Additional calorie input is required. There is always pulmonary hypertension in children with large VSD and left-to-right shunt. This will ultimately lead to irreversible damage of the pulmonary capillary vascular bed (see Eisenmenger syndrome, below). To prevent this, surgery is usually performed at 3–6 months of age in order to:
+• Manage heart failure and failure to thrive
+• Prevent permanent lung damage from pulmonary hypertension and high blood flow.
+
+Persistent ductus arteriosus
+(PDA, persistent arterial duct)
+
+The ductus arteriosus connects the pulmonary artery to the descending aorta. In term infants, it normally closes shortly after birth. In persistent ductus arteriosus it has failed to close by 1 month after the expected date of delivery due to a defect in the constrictor mechanism of the duct. The flow of blood across a persistent ductus arteriosus (PDA) is then from the aorta to the pulmonary artery (i.e. left to right), following the fall in pulmonary vascular resistance after birth. In the preterm infant, the presence of a persistent ductus
+
+
+310
+Persistent ductus arteriosus
+
+Figure 17.7 Persistent ductus arteriosus. (a) Murmur. (b) Chest radiograph. (c) ECG. (d) A persistent ductus arteriosus visualised on angiography. (e) A coil used to close ducts. It is passed through a catheter via the femoral artery or vein. (f) Angiogram to show coil in the duct. (PT, pulmonary trunk; AO, aorta.)
+
+(a) Murmur: A2 P2.
+(b) Normal or enlarged heart; enlarged pulmonary arteries; increased pulmonary vasculature.
+(c) ECG:
+• Usually normal
+• Left ventricular hypertrophy with large left-to-right shunt
+• Right ventricular hypertrophy with pulmonary hypertension.
+
+Arteriosus is not from congenital heart disease but due to prematurity. This is described in Chapter 9.
+
+Clinical features
+
+Most children present with a continuous murmur beneath the left clavicle (Fig. 17.7a). The murmur continues into diastole because the pressure in the pulmonary artery is lower than that in the aorta throughout the cardiac cycle. The pulse pressure is increased, causing a collapsing or bounding pulse. Symptoms are unusual, but when the duct is large there will be increased pulmonary blood flow with heart failure and pulmonary hypertension.
+
+Investigations
+
+The chest radiograph and ECG are usually normal, but if the PDA is large and symptomatic the features on chest radiograph (Fig. 17.7b) and ECG (Fig. 17.7c) are indistinguishable from those seen in a patient with a large VSD. However, the duct is readily identified on echocardiography.
+
+Management
+
+Closure is recommended to abolish the lifelong risk of bacterial endocarditis and of pulmonary vascular disease. Closure is with a coil or occlusion device introduced via a cardiac catheter at about 1 year of age (Fig. 17.7d–f). Occasionally, surgical ligation is required.
+
+Right-to-left shunts
+
+These are:
+• Tetralogy of Fallot
+• Transposition of the great arteries.
+
+Presentation is with cyanosis (blue, oxygen saturations ≤94% or collapsed), usually in the first week of life.
+
+Hyperoxia (nitrogen washout) test
+
+The test is used to help determine the presence of heart disease in a cyanosed neonate. The infant is placed in 100% oxygen (headbox or ventilator) for 10 min. If the right radial arterial PaO₂ from a blood gas remains low (<15 kPa, 113 mmHg) after this time, a diagnosis of ‘cyanotic’ congenital heart disease can be made if lung disease and persistent pulmonary hypertension of the newborn (persistent fetal circulation) have been excluded. If the PaO₂ is >20 kPa, it is not cyanotic heart disease. Blood gas analysis must be performed as oxygen saturations are not reliable enough in this range of values.
+
+Management
+• Stabilise the airway, breathing and circulation (ABC), with artificial ventilation if necessary

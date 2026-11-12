@@ -1,0 +1,403 @@
+201
+12 Nutrition
+
+3 The nutritional vulnerability of infants and children 201
+  Infant feeding 203
+  Failure to thrive 206
+  Malnutrition 209
+4 Vitamin D deficiency 213
+  Vitamin A deficiency 215
+  Obesity 215
+  Dental caries 217
+
+Notable features of nutrition in children are:
+• The optimal nutrition for newborn infants is from breast-feeding.
+• Inadequate nutrition in infants and young children rapidly leads to weight loss followed by growth failure, commonly called failure to thrive, which if severe and prolonged leads to malnutrition.
+• Whereas malnutrition is a major cause of morbidity and death in developing countries, obesity is the major nutritional problem in developed countries.
+
+The nutritional vulnerability of infants and children
+
+Infants and children are more vulnerable to poor nutrition than are adults. There are a number of reasons for this.
+
+Low nutritional stores
+
+Newborn infants, particularly those born before term, have poor stores of fat and protein (Fig. 12.1). The smaller the child, the less the calorie reserve and the shorter the period the child will be able to withstand starvation.
+
+High nutritional demands for growth
+
+The nourishment children require, per unit body size, is greatest in infancy (Table 12.1), because of their rapid growth during this period. At 4 months of age, 30% of an infant’s energy intake is used for growth, but by 1 year of age, this falls to 5%, and by 3 years to 2%. The risk of growth failure from restricted energy intake is therefore greater in the first 6 months of life than in later childhood. Even small but recurrent deficits in early childhood will lead to a cumulative deficit in weight and height.
+
+Rapid neuronal development
+
+The brain grows rapidly during the last trimester of pregnancy and throughout the first 2 years of life. The complexity of interneuronal connections also increases substantially during this time. This process appears to be sensitive to undernutrition. Even modest energy deprivation during periods of rapid brain growth and differentiation is thought to lead to an increased risk of adverse neurodevelopmental outcome. This is not surprising when one considers that at birth the brain accounts for approximately two-thirds of basal metabolic rate, and at 1 year for about 50% (Fig. 12.2). Many studies have drawn attention to the delayed development seen in children suffering from protein-energy malnutrition due to inadequate food intake, although inadequate psychosocial stimulation may also contribute.
+
+Figure 12.1 Body composition of preterm and term infants, children and adults. Newborn infants, particularly the preterm, have poor stores of fat and protein.
+Labels: Body weight (%); Preterm infant (1.0 kg); Term infant (3.5 kg); 1-year-old child (10.5 kg); Adult (70 kg); Carbohydrate; Fat; Protein; Water.
+
+202
+Table 12.1 Reference values for energy and protein requirements
+
+Age                 Energy (kcal/kg per 24 h)    Protein (g/kg per 24 h)
+0–6 months          115                         2.2
+6–12 months         95                          2.0
+1–3 years           95                          1.8
+4–6 years           90                          1.5
+7–10 years          75                          1.2
+Adolescence (male/female)
+11–14 years         65/55                       1.0
+15–18 years         60/40                       0.8
+
+Figure 12.2 The relative contribution to basal metabolic rate derived from brain, liver and muscle changes with growth. Whereas the brain accounts for two-thirds of the basal metabolic rate at birth, this falls to 25% in adults. (Adapted from Halliday MA. 1971. Pediatrics 47(1 Suppl 2):169.)
+Labels: Contribution to basal metabolic rate (%); Muscle; Other; Liver; Brain; Body weight (kg).
+
+Acute illness or surgery
+
+A child’s nutrition may be compromised following an acute illness or surgery. Infants are prone to recurrent infections, which reduce food intake and increase nutritional demands. Following surgery, after a brief anabolic phase, catecholamine secretion is increased, causing the metabolic rate and energy requirement to increase. Urinary nitrogen losses may become so great that it is impossible to achieve a positive nitrogen balance and weight is lost. After uncomplicated surgery, this phase may last for a week, but it can last several weeks after extensive burns, complicated surgery or severe sepsis. Thereafter, previously lost tissue is replaced and a positive energy and nitrogen balance can be achieved. However, infants may not show catch-up growth unless their energy intake is as high as 150–200 kcal/kg per day compared with the normal of 95–115 kcal/kg per day.
+
+Long-term outcome of early nutritional deficiency
+
+Linear growth of populations
+
+Growth and nutrition are closely related, such that the mean height of a population reflects its nutritional status. Thus, in the developed world, people have become taller. Height is adversely affected by lower socioeconomic status and increasing number of children in families. Children’s size increases amongst populations emigrating from poor to more affluent countries.
+
+Disease in adult life
+
+Evidence suggests that undernutrition in utero resulting in growth restriction is associated with an increased incidence of coronary heart disease, stroke, non-insulin-dependent diabetes and hypertension in later life (Fig. 12.3). There is also a similar but weaker association with low weight at 1 year of age. The mechanism is unclear, but it is recognised that fetal undernutrition leads to redistribution of blood flow and changes in fetal hormones, such as insulin-like growth factors and cortisol. Alternatively, it may be the rapid, postnatal growth (catch-up) seen in babies suffering from intrauterine growth restriction that is the causal factor.
+
+Figure 12.3 Death rates from coronary heart disease according to birthweight showing increased rate in low birthweight babies. (After Barker DJ. 1999. Fetal origins of adult disease. Growing up in Britain: Ensuring the Healthy Future for our Children. A Study of 4–5 year olds. BMJ Books, London.)
+Labels: Standardised mortality ratio; Birthweight (kg); <2.5; 2.5–3.0; 3.0–3.4; 3.4–3.9; 3.9–4.3; >4.3.
+
+Summary
+
+Nutritional vulnerability
+
+Infants are more vulnerable to poor nutrition because of:
+• Poor stores of fat and protein
+• Extra nutritional demands for growth – the weight of a term infant doubles by 4 months and trebles by 1 year.
+• More frequent intercurrent illnesses that reduce food intake and increase nutritional demands.
+
+203
+Figure 12.4 Successful breast-feeding of preterm twins.
+
+Infant feeding
+
+Breast-feeding
+
+There can be no doubt that breastmilk is the best diet for babies, although the popularity of breast-feeding has frequently reflected fashion. The prevalence of breast-feeding in the UK has increased, and 78% of mothers breast-feed their infants at birth. The Department of Health guidelines in the UK, endorsing the World Health Organization recommendation, is that mothers should breast-feed exclusively for the first 6 months of life, though most are weaned to solid food before this age.
+
+Advantages (see Box 12.1)
+
+In developing countries, where the environment is often highly contaminated, breast-feeding dramatically improves survival during infancy as a result of reduced gastrointestinal infection. Consequently, breast-feeding is one of the four most important World Health Organization strategies for improving infant and child survival. The superiority of breast milk over modern adapted cow’s milk formulae is less easy to prove in developed countries. This is partly because it is impossible to conduct randomised studies and partly because of confounders such as social class, education and smoking.
+
+However, there is convincing evidence that gastrointestinal infection is less common in breast-fed infants even in developed countries. There is also evidence that human milk feeds reduce the incidence of necrotising enterocolitis in preterm infants.
+
+Many mothers who breast-feed find that it helps them establish an intimate, loving relationship with their baby. However, establishing breast-feeding is not always straightforward, and many mothers need help and encouragement.
+
+Breast-feeding is associated with a reduced incidence of obesity, diabetes mellitus and hypertension in later life. There is also a reduction in breast cancer in mothers who breast-feed.
+
+Exclusive breast-feeding in early infancy is life-saving in developing countries.
+
+Potential complications (Box 12.2)
+
+As one cannot readily tell how much milk a baby is taking from the breast, the baby’s weight should be checked regularly, every few days in the first couple of weeks, then weekly until feeding is well established. Successful breast-feeding of twins can be achieved, but is more difficult (Fig. 12.4). It is rarely possible to totally breast-feed triplets and higher-order births. Preterm infants can be breast-fed, but the milk will need to be expressed from the breast until the infant can suck. Maintaining the supply of milk can be a problem for mothers of preterm babies.
+
+While two-thirds of mothers in the UK initially breast-feed, this proportion rapidly declines during the first few months (Fig. 12.5). Nearly 90% of social class I mothers start breast-feeding, but only 60% of mothers from social class V. Breast-feeding is restrictive for the mother, as others cannot take charge of her baby for any length of time. This is particularly important if she goes to work and may delay her return, which may cause financial hardship for the family. Facilities for breast-feeding in public places remain limited. Failure to establish breast-feeding will sometimes cause significant emotional upset in the mother.
+
+Establishing breast-feeding
+
+Colostrum, rather than milk, is produced for the first few days. Colostrum differs from mature milk in that the content of protein and immunoglobulin is much higher. Volumes are low, but water or formula supplements are not required while the supply of breast milk is becoming established.
+
+The first breast-feed should take place as soon as possible after birth. Subsequently, frequent suckling is beneficial as it enhances the secretion of the hormones initiating and promoting lactation (Fig. 12.6).
+
+204
+Box 12.1 Why breast is best – the advantages of breast milk
+
+Advantages of breast-feeding for the infant are that it:
+• provides the ideal nutrition for infants during the first 4–6 months of life
+• is life-saving in developing countries
+• reduces the risk of gastrointestinal infection, and, in preterm infants, of necrotising enterocolitis
+• enhances mother–child relationship
+• reduces risk of insulin-dependent diabetes, hypertension and obesity in later life.
+
+Advantages for the mother are that it:
+• promotes close attachment between mother and baby
+• increases the time interval between children, which is important in reducing birth rate in developing countries
+• helps with a possible reduction in premenopausal breast cancer.
+
+Scientific explanation of some of the properties of breast milk
+
+Anti-infective properties
+
+Humoral
+Secretory IgA: Comprises 90% of immunoglobulin in human milk. Provides mucosal protection, but of uncertain benefit.
+Bifidus factor: Promotes growth of Lactobacillus bifidus, which metabolises lactose to lactic and acetic acids. The resulting low pH may inhibit growth of gastrointestinal pathogens.
+Lysozyme: Bacteriolytic enzyme.
+Lactoferrin: Iron-binding protein. Inhibits growth of Escherichia coli.
+Interferon: Antiviral agent.
+
+Cellular
+Macrophages: Phagocytic. Synthesise lysozyme, lactoferrin, C3, C4.
+Lymphocytes: T cells may transfer delayed hypersensitivity responses to infant. B cells synthesise IgA.
+
+Nutritional properties
+Protein quality: More easily digested curd (60 : 40 whey : casein ratio).
+Lipid quality: Rich in oleic acid (with palmitate in C-2 position). Improved digestibility and fat absorption. Enhanced lipolysis lipase.
+Calcium:phosphorus ratio of 2 : 1: Prevents hypocalcaemic tetany and improves calcium absorption.
+Renal solute load: Low.
+Iron content: Bioavailable (40–50% absorption).
+Long-chain polyunsaturated fatty acids: Structural lipids; important in retinal development.
+
+Box 12.2 Potential complications of breast-feeding
+
+Unknown intake: Volume of milk intake not known.
+Transmission of infection: Maternal CMV, hepatitis B and HIV – increases risk of transmission to the baby.
+Breast-milk jaundice: Mild, self-limiting, unconjugated hyperbilirubinaemia; continue breast-feeding.
+Transmission of drugs: Antimetabolites and some other drugs contra-indicated. Check formulary.
+Nutrient inadequacies: Breast-feeding beyond 6 months without timely introduction of appropriate solids may lead to poor weight gain and rickets.
+Vitamin K deficiency: Insufficient vitamin K in breast milk to prevent haemorrhagic disease of the newborn. Supplementation is required.
+Potential transmission of environmental contaminants: Nicotine, alcohol, caffeine, etc.
+Less flexible: Other family members cannot help or take part. More difficult in public places.
+Emotional upset: If difficulties or lack of success can be upsetting.
+
+205
+Primates probably do not breast-feed instinctively. Monkeys bred in captivity in zoos have to be taught how to breast-feed by their keepers. It is therefore important that breast-feeding should have as high a public profile as possible. Women who have never seen an infant being breast-fed are less likely to want to breast-feed themselves. Education in schools and during pregnancy about the advantages of breast-feeding is advantageous. Advice and support from other women who have breast-fed may be important in dealing with early problems such as engorgement or cracked nipples.
+
+Newborn infants of mothers planning to breast-feed should ideally not be given any formula feeds.
+
+Figure 12.5 Prevalence of breast-feeding and proportion of infants given solid feeds during the first 9 months of life in the UK. Over the last 10 years there has been a marked increase in the prevalence of breast-feeding and delay in weaning onto solid food (Infant Feeding Survey, 2005).
+Labels: % Breast-feeding; % Giving solid food; Solid food; Breast-feeding; Birth; Age of infant (months).
+
+Formula-feeding
+
+Infants who are not breast-fed require a formula feed based on cow’s milk. Unmodified cow’s milk is unsuitable for feeding in infancy as it contains too much protein and electrolytes and inadequate iron and vitamins. Even after considerable modification, differences remain between formula feeds and breastmilk (Table 12.2).
+
+All milks currently available in the UK have been modified to make their mineral content and renal solute load comparable with that of mature human milk. Since these changes were introduced in the UK (in the 1970s), there has been an impressive reduction in the incidence of hypernatraemic dehydration in infants with gastroenteritis. There is no evidence that any one of the many brands is superior to any other.
+
+Introduction of whole, pasteurised cow’s milk
+
+Breast-feeding or formula-feeding is recommended until the age of 12 months, and there are advantages in continuing to 18 months of age. Pasteurised cow’s milk may be given from 1 year of age but is deficient
+
+Physiology of breast-feeding
+
+1. Baby uses rooting, sucking and swallowing reflexes to locate nipple and feed.
+2. Tactile receptors in nipple activated.
+3. Hypothalamus sends efferent impulses to anterior and posterior pituitary.
+4. Anterior pituitary: Prolactin secretion stimulates milk secretion by cuboidal cells in the acini of the breast.
+5. Posterior pituitary: Oxytocin secretion results in contraction of myoepithelial cells in the alveoli, forcing milk into larger ducts – the so-called ‘let-down’ reflex.
+Labels: Prolactin; Oxytocin; ‘Let-down’ reflex; Increased milk production; Hormone stimulation from nipple and emotions.
+
+206
+Table 12.2 A comparison of human milk, cow’s milk and infant formula (per 100 ml)
+
+                         Mature breast milk    Cow’s milk    Infant formula (modified cow’s milk)
+Energy (kcal)            62                    67            60–65
+Protein (g)              1.3                   3.5           1.5–1.9
+Carbohydrate (g)         6.7                   4.9           7.0–8.6
+Casein : whey            40 : 60               63 : 37       40 : 60 to 63 : 37
+Fat (g)                  3.0                   3.6           2.6–3.8
+Sodium (mmol)            0.65                  2.3           0.65–1.1
+Calcium (mmol)           0.88                  3.0           0.88–2.1
+Phosphorus (mmol)        0.46                  3.2           0.9–1.8
+Iron (µmol)              1.36                  0.9           8–12.5
+
+in vitamins A, C and D and in iron, and supplementation will be required unless the infant is having a good diet of mixed solids. Alternatively, ‘follow-on’ formulae can be used. They contain more protein and sodium than infant formulae and, in contrast to cow’s milk, are fortified with iron and vitamins. Children on cow’s milk should receive full fat milk up to the age of 5 years.
+
+Infant formula, not unmodified cow’s milk, should be used in the first year of life.
+
+Specialised infant formula
+
+A specialised formula may be used for cow’s milk protein allergy/intolerance, lactose intolerance (primary lactase deficiency or post-gastroenteritis intolerance), cystic fibrosis, neonatal cholestatic liver disease and following neonatal intestinal resection.
+
+In a cow’s milk-based formula, the protein is derived from cow’s milk protein, the carbohydrate is lactose and the fat mainly long-chain triglycerides. In a specialised formula, the protein is either hydrolysed cow’s milk protein, amino acids or from soya, the carbohydrate is glucose polymer and the fat a combination of medium- and long-chain triglycerides. Medium-chain triglycerides are directly absorbed into small intestine and need neither pancreatic enzymes nor bile salts for this process.
+
+A soya formula should not be used below 6 months of age as it has a high aluminium content and contains phytoestrogens (plant substances that mimic the effects of endogenous oestrogens). There is no compelling evidence that the use of a specialised formula prevents the development of atopy (eczema, asthma, etc.).
+
+Weaning
+
+Solid foods are recommended to be introduced after 6 months of age, although they are often introduced earlier as parents often consider that their infant is hungry. It is done gradually, initially with small quantities of pureed fruit, root vegetables, or rice. If weaning takes place before 6 months of age, wheat, eggs and fish should be avoided. Foods high in salt and sugar should also be avoided and honey should not be given until 1 year of age because of risk of infantile botulism. After 6 months of age, breastmilk becomes increasingly nutritionally inadequate as a sole feed, as it does not provide sufficient energy, vitamins or iron.
+
+Failure to thrive
+
+The term ‘failure to thrive’ is used to describe suboptimal weight gain in infants and toddlers. It may also be referred to as weight or growth faltering in case parents consider the term critical of their care. Recognition of the entity depends upon demonstration of inadequate weight gain when plotted on a centile chart, mild failure to thrive being a fall across two centile lines and severe being a fall across three centile lines. Between 6 weeks and 1 year of age, only 5% of children will cross two lines, and only 1% will cross three. Most children with ‘failure to thrive’ have a weight below the 2nd centile. However, the weight of some children with failure to thrive, i.e. they are failing to gain or are losing weight, may still be above the 2nd centile. Repeated observations are therefore essential and are usually available from the child’s personal child health record. A single observation of weight is difficult to interpret unless markedly discrepant from the head circumference or length, although the further the weight is below the 2nd centile, the more likely the child is ‘failing to thrive’. A weight below the 0.4th centile should always trigger an evaluation.
+
+Differentiating the infant who is failing to thrive from a normal but small or thin baby is often a problem (Fig. 12.7). Normal but short infants have no symptoms, are alert, responsive and happy, and their development is satisfactory. The parents may be short (low mid-parental height) or the infant may have been extremely preterm or growth-restricted at birth. Any intercurrent illness may be accompanied by a temporary failure to gain weight.
+
+An additional diagnostic problem is ‘catch-down’ (as opposed to ‘catch-up’) weight. This is when an infant’s weight falls from the birth centile, which is
+
+207
+Figure 12.7 Growth chart showing normal weight gain and growth in a constitutionally small infant. The further below the 2nd, and especially the 0.4th, centile, the more likely it is that there will be an organic cause. (Chart © RCPCH, WHO, Department of Health.)
+Labels: Age in weeks/months; Head (cm); Length (cm); Weight (kg); centile curves.
+
+determined by the intrauterine environment, to a lower, genetically determined growth centile. These infants need only close monitoring of their growth over a few months.
+
+While children with recent-onset failure to thrive usually maintain their height, this may become compromised by prolonged, inadequate weight gain. The child’s developmental progress may also be adversely affected.
+
+Causes
+
+Failure to thrive is usually classified as organic or non-organic (Fig. 12.8). Traditionally non-organic failure to thrive is believed to be associated with a broad spectrum of psychosocial and environmental deprivation. It is estimated that 5–10% of children with failure to thrive will be on a child protection register or be subjected to abuse or neglect, while in a larger proportion, socioeconomic deprivation is an important contributing factor.
+
+The mother may be depressed, have an eating disorder herself or have poor understanding of her baby’s needs. There may be poor housing, poverty, inadequate social support and lack of an extended family, which make good child care even more difficult. However, some studies suggest that failure to thrive is not more common in deprived than in non-deprived communities, and that identification of deprivation leads to the inappropriate application of that diagnostic label. Undernutrition is the final common pathway for poor weight gain in most cases of organic and non-organic failure to thrive, and in many cases both organic and environmental factors are present.
+
+Organic causes are listed in Figure 12.8. Less than 5% of children with failure to thrive will be found to have an organic cause.
+
+Clinical features and investigation
+
+Studying the growth chart in combination with the history and examination of the child is key to its evaluation. The history should focus on:
+• A detailed dietary history, including a food diary over several days
+• Feeding, including details of exactly what happens at mealtimes
+• Is the child well with lots of energy or does the child have other symptoms such as diarrhoea, vomiting, cough, lethargy?
+• Was the child premature or had intrauterine growth restriction at birth or any significant medical problems?
+• The growth of other family members and any illnesses in the family
+• Is the child’s development normal?
+• Are there psychosocial problems at home?
+
+Examination should focus on identifying signs of organic disease – dysmorphic features, signs suggestive of malabsorption (distended abdomen, thin buttocks, misery), signs suggestive of chronic respiratory disease (chest deformity, clubbing), signs of heart failure and evidence of nutritional deficiencies.
+
+Further information about the child and family from the health visitor, general practitioner or other professionals involved with the family can be particularly helpful. Investigations to be considered are listed in Box 12.3.
+
+In some children who are failing to thrive, a full blood count and serum ferritin may be helpful to identify iron deficiency anaemia. This is usually secondary to inadequate iron intake and correcting it may improve appetite. In most instances, no investigations are required.
+
+Management
+
+The management of most non-organic failure to thrive is multidisciplinary and is carried out in primary care. The health visitor is well placed to make home visits to assess eating behaviour and provide support. Direct practical advice following observation may well be beneficial. A paediatric dietician may be helpful in assessing the quantity and composition of food intake, and recommending strategies for increasing energy intake and a speech and language therapist has specialist skills with feeding disorders. Input from a clinical psychologist and from social services may also be appropriate. Nursery placement may be helpful in alleviating stress at home and assist with feeding.
+
+Hospital admission is usually only necessary in children under 6 months with severe failure to thrive, requiring active refeeding. While hospital admission may offer the opportunity to observe and improve the mother’s method and skill in feeding, this rarely transfers from the artificial hospital environment to home. In extreme cases, hospital admission can be used to demonstrate that the child will gain weight when fed appropriately.
+
+208
+Figure 12.8 The main causes of failure to thrive.
+
+Causes of failure to thrive
+
+Causes: Inadequate intake
+Non-organic/environmental
+
+Inadequate availability of food
+• Feeding problems – insufficient breast milk or poor technique, incorrect preparation of formula
+• Insufficient or unsuitable food offered
+• Lack of regular feeding times
+• Infant difficult to feed – resists feeding or disinterested
+• Conflict over feeding, intolerance of normal feeding behaviour, e.g. messiness, throwing food around, leading to an early cessation of meals
+• Problems with budgeting, shopping, cooking food, famine
+• Low socioeconomic status
+
+Psychosocial deprivation
+• Poor maternal–infant interaction
+• Maternal depression
+• Poor maternal education
+
+Neglect or child abuse
+• Includes factitious illness: deliberate underfeeding to generate failure to thrive
+
+Organic
+
+Impaired suck/swallow
+• Oro-motor dysfunction, neurological disorder, e.g. cerebral palsy
+• Cleft palate
+
+Chronic illness leading to anorexia
+• Crohn disease, chronic renal failure, cystic fibrosis, liver disease, etc.
+
+Inadequate retention: Vomiting, severe gastro-oesophageal reflux
+
+Malabsorption: Coeliac disease, cystic fibrosis, cow’s milk protein intolerance, cholestatic liver disease, short gut syndrome, post-necrotising enterocolitis (NEC)
+
+Failure to utilise nutrients
+
+Syndromes
+Chromosomal disorders, e.g. Down syndrome, IUGR (intrauterine growth restriction) or extreme prematurity, congenital infection, metabolic disorders, e.g. congenital hypothyroidism, storage disorders, amino and organic acid disorders
+
+Increased requirements: Thyrotoxicosis, cystic fibrosis, malignancy, chronic infection (HIV, immune deficiency), congenital heart disease, chronic renal failure.
+
+Outcome
+
+Follow-up studies suggest that children with non-organic failure to thrive continue to under-eat (see Case History 12.1). Although there is usually a gradual improvement in the preschool years, a lasting deficit is common and these children tend to remain underweight. In contrast, impairment of development is only short term.
+
+209
+Box 12.3 Investigations to be considered in ‘failure to thrive’
+
+Investigation — Significance of an abnormality
+Full blood count and differential white cell count — Anaemia, neutropenia, lymphopenia (immune deficiency)
+Serum creatinine urea, electrolytes, acid–base status, calcium, phosphate — Renal failure, renal tubular acidosis, metabolic disorders, William syndrome
+Liver function tests — Liver disease, malabsorption, metabolic disorders
+Thyroid function tests — Hypothyroidism or hyperthyroidism
+Acute phase reactant, e.g. C-reactive protein — Inflammation
+Ferriaztin — Iron deficiency anaemia
+Immunoglobulins — Immune deficiency
+IgA tissue transglutaminase antibodies — Coeliac disease
+Urine microscopy, culture and dipsticks — Urinary tract infection, renal disease
+Stool microscopy, culture and elastase — Intestinal infection, parasites, elastase decreased in pancreatic insufficiency
+Karyotype in girls — Turner syndrome
+Chest X-ray and sweat test — Cystic fibrosis
+
+Summary
+
+Failure to thrive
+• is a description, not a diagnosis
+• weights of infants are only helpful if accurate and plotted on a centile chart
+• is present if an infant’s weight falls across two centile lines
+• is likely to be present the further the weight is below the 2nd centile
+• is mostly due to inadequate food intake
+• is accompanied by abnormal symptoms or signs if there is organic disease
+• most affected infants and toddlers do not require any investigations and are managed in primary care by increasing energy intake by dietary and behavioural modification and monitoring growth.
+
+Malnutrition
+
+Worldwide, malnutrition is common and is responsible directly or indirectly for about a third of all deaths of children under 5 years of age. Primary malnutrition also continues to occur in developed countries as a result of poverty, parental neglect or poor education. Specific nutritional deficiencies, particularly of iron, remain common in developed countries. Restrictive diets may be iatrogenic as a result of exclusion diets or parental food fads, or may be self-inflicted.
+
+Malnutrition also occurs in 20–40% of children in specialist children’s hospitals. At particular risk are those with chronic illness: e.g. the preterm, congenital heart disease, malignant disease during chemotherapy or bone marrow transplantation, chronic gastrointestinal conditions such as short gut syndrome following extensive bowel resection or inflammatory bowel disease, chronic renal failure or cerebral palsy. Malnutrition results from a combination of anorexia, malabsorption and increased energy requirements because of infection or inflammation. Malnutrition in older children and adolescents may also result from eating disorders.
+
+Assessment of nutritional status
+
+Malnutrition must be recognised and accurately defined for rational decisions to be made about refeeding. Evaluation is divided into assessment of past and present dietary intake, anthropometry and laboratory assessments (Fig. 12.10).
+
+Dietary assessment
+
+Parents are asked to record the food the child eats during several days. This gives a guide to food intake.
+
+Anthropometry
+
+In addition to weight and height, skinfold thickness of the triceps reflects subcutaneous fat stores and can be assessed by measuring it. While it is difficult to measure skinfold thickness accurately in young children, mid-upper arm circumference, which is related to skeletal muscle mass, can be measured easily and repeatedly and is independent of age in children 6 months to 6 years. It is especially useful for screening children for malnutrition in the community.
+
+Laboratory investigations
+
+These are useful in the detection of early physiological adaptation to malnutrition, but clinical history, examination and anthropometry are of greater value than any single biochemical or immunological measurement.
+
+210
+Case History 12.1 Non-organic failure to thrive
+
+Jamie, aged 11 months, was causing concern to his health visitor as he was not putting on any weight (Fig. 12.9). She arranged for him to be assessed by his general practitioner, who found that he was otherwise well. His mother was a single parent who left school at 16 years and had Jamie at the age of 18. They lived in a high-rise flat and Jamie’s mother received income support. Her own mother lived on the other side of the city.
+
+On visiting the home, the health visitor found Jamie’s mother to be tense and anxious. In particular, she was worried about making ends meet. She fed Jamie the same food as she ate herself, together with pasteurised milk, which she had started at 6 months of age. The meals were chaotic. After a few mouthfuls, Jamie stopped eating and his mother did not coax him but became frustrated and angry.
+
+Jamie’s health visitor suggested strategies for increasing Jamie’s food intake (Box 12.4). She continued to provide support and encouragement to his mother and arranged a nursery placement for Jamie. By 2 years of age, he had caught up by one centile line, but still ate erratically.
+
+Figure 12.9 Jamie’s growth chart. (Chart © RCPCH, WHO, Department of Health.)
+Labels: Age in weeks/months; Head (cm); Length (cm); Weight (kg); centile curves.
+
+Box 12.4 Strategies for increasing energy intake
+
+Dietary
+• Three meals and two snacks each day
+• Increase number and variety of foods offered
+• Increase energy density of usual foods (e.g. add cheese, margarine and cream)
+• Decrease fluid intake, particularly squash
+
+Behavioural
+• Have meals at regular times, eaten with other family members
+• Praise when food is eaten
+• Gently encourage child to eat, but avoid conflict
+• Never force-feed.
+
+After Wright CM. 2000. Identification and management of failure to thrive: a community perspective. Archives of Disease in Childhood 82:5–9.
+
+Consequences of malnutrition
+
+Malnutrition is a multisystem disorder. When severe, immunity is impaired, wound healing is delayed and operative morbidity and mortality increased. Malnutrition worsens the outcome of illness, e.g. respiratory muscle dysfunction may delay a child being weaned from mechanical ventilation. Malnourished children are less active, less exploratory and more apathetic. These behavioural abnormalities are rapidly reversed with proper feeding, but prolonged and profound malnutrition can cause permanent delay in intellectual development.
+
+The role of intensive nutritional support
+
+Children with chronic disorders who are malnourished will grow better if given supplemental nutritional support, which may be provided by the enteral or parenteral route.
+
+Enteral nutrition
+
+Enteral nutrition is used when the digestive tract is functioning, as it maintains gut function, and is safe. Feeds are given nasogastrically, by gastrostomy or

@@ -1,0 +1,374 @@
+231
+
+Table 13.1 Clinical assessment of dehydration
+
+                              No clinical dehydration           Clinical dehydration          Shock
+General appearance           Appears well                      Appears unwell or             Appears unwell or
+                                                                deteriorating                 deteriorating
+Conscious level              Alert and responsive              Altered responsiveness,       Decreased level of
+                                                                e.g. irritable, lethargic     consciousness
+Urine output                 Normal                            Decreased                     Decreased
+Skin colour                  Normal                            Normal                        Pale or mottled
+Extremities                  Warm                              Warm                          Cold
+Eyes                         Normal                            Sunken                        Grossly sunken
+Mucous membranes             Moist                             Dry                           Dry
+Heart rate                   Normal                            Tachycardia                   Tachycardia
+Breathing                    Normal                            Tachypnoea                    Tachypnoea
+Peripheral pulses            Normal                            Normal                        Weak
+Capillary refill time        Normal                            Normal                        Prolonged (>2 s)
+Skin turgor                  Normal                            Reduced                       Reduced
+Blood pressure               Normal                            Normal                        Hypotension (indicates
+                                                                                              decompensated shock)
+
+‘Red Flag’ sign – helps to identify children at risk of progression to shock.
+The more numerous and more pronounced the symptoms and signs, the greater the severity of dehydration.
+From NICE Guideline, Diarrhoea and vomiting in children, 2009.
+
+With hyperreflexia, altered consciousness, seizures and multiple, small cerebral haemorrhages. Transient hyperglycaemia occurs in some patients with hypernatraemic dehydration; it is self-correcting and does not require insulin.
+
+Investigation
+
+Usually, no investigations are indicated. Stool culture is required if the child appears septic, if there is blood or mucus in the stools or the child is immunocompromised. It may be indicated following recent foreign travel, if the diarrhoea has not improved by day 7 or the diagnosis is uncertain. Plasma electrolytes, urea, creatinine and glucose should be checked if intravenous fluids are required or there are features suggestive of hypernatraemia. If antibiotics are started, a blood culture should be taken.
+
+Management
+
+This is shown in Figure 13.10.
+
+Hypernatraemic dehydration
+
+The management of hypernatraemic dehydration can be particularly difficult. Oral rehydration solution can be used to rehydrate hypernatraemic children with clinical dehydration. If intravenous fluids are required, a rapid reduction in plasma sodium concentration and osmolality will lead to a shift of water into cerebral cells and may result in seizures and cerebral oedema. The reduction in plasma sodium should therefore be slow. The fluid deficit should be replaced over at least 48 h and the plasma sodium measured regularly, aiming to reduce it at <0.5 mmol/L per hour.
+
+Anti-diarrhoeal drugs (e.g. loperamide, Lomotil) and antiemetics
+
+There is no place for medications for the vomiting or diarrhoea of gastroenteritis as they:
+• are ineffective
+• may prolong the excretion of bacteria in stools
+• can be associated with side-effects
+• add unnecessarily to cost
+• focus attention away from oral rehydration.
+
+Antibiotics
+
+Antibiotics are not routinely required to treat gastroenteritis, even if there is a bacterial cause. They are only indicated for suspected or confirmed sepsis, extra-intestinal spread of bacterial infection, for salmonella gastroenteritis if <6 months old, in malnourished or immunocompromised children or for specific bacterial or protozoal infections (e.g. Clostridium difficile-associated with pseudomembranous colitis, cholera, shigellosis, giardiasis).
+
+
+232
+
+Figure 13.10 Fluid management of dehydration
+
+Fluid management of dehydration
+
+No clinical dehydration
+Prevent dehydration
+Continue breast-feeding and other milk feeds
+Encourage fluid intake to compensate for increased gastrointestinal losses
+Discourage fruit juices and carbonated drinks
+Oral rehydration solution (ORS) as supplemental fluid if at increased risk of dehydration (see list above)
+
+Clinical dehydration
+Oral rehydration solution (ORS)
+Give fluid deficit replacement fluids (50 ml/kg) over 4 hours as well as maintenance fluid requirement. Give ORS often and in small amounts.
+Continue breast-feeding.
+Consider supplementing ORS with usual fluids if inadequate intake of ORS.
+If inadequate fluid intake or vomits persistently, consider giving ORS via nasogastric tube.
+
+Shock
+Intravenous therapy
+Give rapid infusion of 0.9% sodium chloride solution. Repeat if necessary. If remains shocked, consider consulting paediatric intensive care specialist.
+
+Deterioration or persistent vomiting / Symptoms and signs of shock improve
+
+Intravenous therapy for rehydration
+Replace fluid deficit and give maintenance fluids.
+Fluid deficit is 100 ml/kg (10% body weight) if initially shocked, 50 ml/kg (5% body weight) if not shocked.
+For maintenance fluids see Table 6.1.
+Give 0.9% sodium chloride solution or 0.9% sodium chloride solution with 5% glucose.
+Monitor plasma electrolytes, urea, creatinine and glucose. Consider intravenous potassium supplementation.
+Continue breast-feeding if possible.
+
+After rehydration
+Give full strength milk and reintroduce usual solid food.
+Avoid fruit juices and carbonated drinks.
+Advise parents – diligent hand washing, towels used by infected child not to be shared, do not return to childcare facility or school until 48 hours after last episode.
+
+In gastroenteritis, death is from dehydration; its prevention or correction is the mainstay of treatment.
+
+Figure 13.10 Fluid management of dehydration. (Adapted from Diarrhoea and vomiting in children, National Institute for Health and Clinical Excellence, 2009).
+
+Nutrition
+
+In developing countries, multiple episodes of diarrhoea are a major contributing factor to the development of malnutrition. Following diarrhoea, nutritional intake should be increased. Diarrhoea may be associated with zinc deficiency and supplementation may be helpful in both acute diarrhoea and as prophylaxis.
+
+Post-gastroenteritis syndrome
+
+Infrequently, following an episode of gastroenteritis, the introduction of a normal diet results in a return of watery diarrhoea. Temporary lactose intolerance may have developed, which can be confirmed by the presence of non-absorbed sugar in the stools giving a positive ‘Clinitest’ result. In such circumstances, a return to an oral rehydration solution for 24 h, followed by a further introduction of a normal diet, is usually successful.
+
+Rarely, multiple dietary intolerances may result, such that specialist dietary management is required in the implementation of a diet which excludes cow’s milk, disaccharides and gluten. In very severe cases, a period of parenteral nutrition is required to enable the injured small intestinal mucosa to recover sufficiently to absorb luminal nutrients.
+
+
+233
+
+Summary
+
+Gastroenteritis
+
+Gastroenteritis in developing countries:
+• results in death from dehydration of hundreds of thousands of children worldwide every year
+• is mostly bacterial from contaminated drinking water and food
+• oral rehydration solution – saves the lives of millions of children worldwide each year.
+
+Gastroenteritis in developed countries:
+• is mostly viral, but it can be caused by Campylobacter, Shigella and Salmonella
+• infants are particularly susceptible to dehydration
+• dehydration is assessed as no clinical dehydration, clinical dehydration or shock according to symptoms and signs, but clinical assessment of severity is problematic
+• oral rehydration solution is effective in most, but intravenous fluid is required for shock, ongoing vomiting or clinical deterioration.
+
+Malabsorption
+
+Disorders affecting the digestion or absorption of nutrients manifest as:
+• abnormal stools
+• failure to thrive or poor growth in most but not all cases
+• specific nutrient deficiencies, either singly or in combination.
+
+In general, parents know when their children’s stools have become abnormal. The true malabsorption stool is difficult to flush down the toilet and has an odour which pervades the whole house. In general, colour is a poor guide to abnormality. Reliable dietetic assessment is important. It is inappropriate to investigate children for malabsorption as a cause of their failure to thrive when dietary energy intake is demonstrably low and other symptoms are absent. Some disorders affecting the small intestinal mucosa or pancreas may lead to the malabsorption of many nutrients (pan-malabsorption), whereas others are highly specific, e.g. zinc malabsorption in acrodermatitis enteropathica.
+
+Coeliac disease
+
+Coeliac disease is an enteropathy in which the gliadin fraction of gluten provokes a damaging immunological response in the proximal small intestinal mucosa. As a result, the rate of migration of absorptive cells moving up the villi (enterocytes) from the crypts is massively increased but is insufficient to compensate for increased cell loss from the villous tips. Villi become progressively shorter and then absent, leaving a flat mucosa.
+
+The incidence of ‘classical’ coeliac disease, diagnosed in childhood on the basis of characteristic clinical symptoms, has been about 1 in 3000 in Europe, including the UK. The age at presentation is partly influenced by the age of introduction of gluten into the diet.
+
+The classical presentation is of a profound malabsorptive syndrome at 8–24 months of age after the introduction of wheat-containing weaning foods. There is failure to thrive, abdominal distension and buttock wasting, abnormal stools and general irritability (see Case History 13.2). However, this is no longer the most common presentation and children are now more likely to present less acutely in later childhood. The clinical features of coeliac disease can be highly variable and include mild, non-specific gastrointestinal symptoms, anaemia (iron and/or folate deficiency) and growth failure. Alternatively, it is identified on screening of children at increased risk (type 1 diabetes mellitus, autoimmune thyroid disease, Down syndrome) and first-degree relatives of individuals with known coeliac disease.
+
+The introduction of highly sensitive and specific serological screening tests (IgA tissue transglutaminase antibodies and endomysial antibodies) has provided evidence that coeliac disease is much more common than previously thought and as many as 1 in 100 UK school-age children may be antibody positive.
+
+Diagnosis
+
+Although the diagnosis is strongly suggested by positive serology, confirmation depends upon the demonstration of mucosal changes (increased intraepithelial lymphocytes and a variable degree of villous atrophy and crypt hypertrophy) on small intestinal biopsy performed endoscopically followed by the resolution of symptoms and catch-up growth upon gluten withdrawal.
+
+There is no place for the empirical use of a gluten-free diet as a diagnostic test for coeliac disease in the absence of a small intestinal biopsy. Serological tests such as IgA tissue transglutaminase antibodies and endomysial antibodies are not currently considered sufficiently sensitive and specific to replace biopsy, particularly as the diet is lifelong.
+
+Management
+
+All products containing wheat, rye and barley are removed from the diet and this results in resolution of symptoms. Supervision by a dietician is essential. In children in whom the initial biopsy or the response to gluten withdrawal is doubtful, or when the disease presents before the age of 2 years, a gluten challenge is required in later childhood to demonstrate continuing susceptibility of the small intestinal mucosa to damage by gluten. This is done by either giving food containing gluten or gluten powder. At the start of the challenge, the serological markers should be negative. The gluten challenge is positive if the serology becomes positive again. Repeat small intestinal biopsy is not required. The gluten-free diet should be adhered to for
+
+
+234
+
+Case History 13.2 ‘Classical’ coeliac disease
+
+This 2-year-old boy (Fig. 13.11a) had a history of poor growth from 12 months of age (Fig. 13.11b). His parents had noticed that he tended to be crotchety and had three or four foul-smelling stools a day. A jejunal biopsy at 2 years of age showed subtotal villous atrophy (Fig. 13.11c,d) and he was started on a gluten-free diet. Within a few days, his parents commented that his mood had improved and within a month he was a ‘different child’. He subsequently exhibited good catch-up growth.
+
+Figure 13.11a Coeliac disease causing wasting of the buttocks and distended abdomen.
+
+Figure 13.11b Growth chart showing failure to thrive and response to a gluten-free diet. (Adapted from Chart© RCPCH/WHO/Department of Health.)
+Graph labels: Weight (kg); Age (months); Jejunal biopsy; Gluten-free diet. Percentile lines: 99.6th, 98th, 91st, 75th, 50th, 25th, 9th, 2nd, 0.4th.
+
+Figure 13.11c Histology of a jejunal biopsy showing lymphocytic infiltration and villous atrophy confirming coeliac disease. (Courtesy of Dr Marie-Anne Brundler.)
+
+Figure 13.11d Normal jejunal histology is shown for comparison. (Courtesy of Dr Marie-Anne Brundler.)
+
+Summary
+
+Coeliac disease
+• A gluten-sensitive enteropathy
+• Classical presentation is at 8–24 months with abnormal stools, failure to thrive, abdominal distension, muscle wasting and irritability
+• Other modes of presentation – short stature, anaemia, screening, e.g. children with diabetes mellitus
+• Diagnosis – positive serology (IgA tissue transglutaminase and endomysial antibodies), flat mucosa on jejunal biopsy and resolution of symptoms and catch-up growth upon gluten withdrawal
+• Treatment – gluten-free diet for life.
+
+The gluten-free diet should be adhered to for life. The incidence of small bowel malignancy in adulthood is increased in coeliac disease, although a gluten-free diet probably reduces the risk to normal.
+
+Food allergy and intolerance
+
+This is described in Chapter 15. Allergy.
+
+Other causes of nutrient malabsorption
+
+These are summarised in Figure 13.12.
+
+Toddler diarrhoea
+
+This condition, also called chronic non-specific diarrhoea, is the commonest cause of persistent loose stools in preschool children. Characteristically, the
+
+
+235
+
+Figure 13.12 Causes of nutrient malabsorption
+
+Cholestatic liver disease or biliary atresia
+Bile salts no longer enter duodenum in the bile. This leads to defective solubilisation of the products of triglyceride hydrolysis. Fat and fat-soluble malabsorption result.
+
+Lymphatic leakage or obstruction
+Chylomicrons (containing absorbed lipids) unable to reach thoracic duct and the systemic circulation, e.g. intestinal lymphangiectasia (abnormal lymphatics).
+
+Short bowel syndrome
+Small-intestinal resection, due to congenital anomalies or necrotising enterocolitis, leads to nutrient, water and electrolyte malabsorption.
+
+Loss of terminal ileal function
+e.g. resection or Crohn disease.
+Absent bile acid and vitamin B12 absorption.
+
+Exocrine pancreatic dysfunction, e.g. cystic fibrosis
+Absent lipase, proteases and amylase lead to defective digestion of triglyceride, protein and starch (‘pan-nutrient malabsorption’).
+
+Small-intestinal mucosal disease
+• Loss of absorptive surface area, e.g. coeliac disease
+• Specific enzyme defects, e.g. lactase deficiency following gastroenteritis is common in Black and Oriental races
+• Specific transport defects, e.g. glucose-galactose malabsorption (severe life-threatening diarrhoea with first milk feed), acrodermatitis enteropathica (zinc malabsorption, also erythematous rash of mouth and anus)
+
+Figure 13.12 Causes of nutrient malabsorption. They are uncommon.
+
+The stools are of varying consistency, sometimes well formed, sometimes explosive and loose. The presence of undigested vegetables in the stools is common, giving rise to the alternative title ‘peas and carrots diarrhoea’. Affected children are well and thriving and there are no precipitating dietary factors.
+
+Toddler diarrhoea probably results from an underlying maturational delay in intestinal motility which leads to intestinal hurry. The loose stools are not due to malabsorption. Most children have grown out of their symptoms by 5 years of age but achieving faecal continence may be significantly delayed. Some relief of symptoms can be achieved by ensuring that the child’s diet contains adequate fat (which slows gut transit) and fibre. Excessive consumption of fresh fruit juice, particularly those high in non-absorbable sorbitol, can exacerbate symptoms.
+
+Summary
+
+Chronic diarrhoea
+• In an infant with failure to thrive, consider coeliac disease and cow’s milk protein allergy
+• Following gastroenteritis, consider post-gastroenteritis syndrome and associated temporary lactose intolerance
+• Following bowel resection, cholestatic liver disease or exocrine pancreatic dysfunction, consider malabsorption
+• In an otherwise well toddler with undigested vegetables in the stool, consider toddler diarrhoea.
+
+Inflammatory bowel disease
+
+The incidence of inflammatory bowel disease (IBD) in children has increased markedly in the last two decades. The reason for this is unclear. Approximately a quarter of patients present in childhood or adolescence. Crohn disease can affect any part of the gastrointestinal tract from mouth to anus, whereas in ulcerative colitis the inflammation is confined to the colon. Inflammatory bowel disease results from environmental triggers in a genetically predisposed individual. It may cause poor general health, restrict growth and have an adverse effect on psychological well-being. Management requires a specialist multidisciplinary team.
+
+Crohn disease
+
+The clinical features of Crohn disease are summarised in Figure 13.13. Lethargy and general ill health without gastrointestinal symptoms can be the presenting features, particularly in older children. There may be considerable delay in diagnosis as it may be mistaken for
+
+
+236
+
+Figure 13.13 Presentation of Crohn disease in children and adolescents
+
+Growth failure
+Puberty delayed
+
+Classical presentation (25%):
+• abdominal pain
+• diarrhoea
+• weight loss
+
+General ill health:
+• fever
+• lethargy
+• weight loss
+
+Extra-intestinal manifestations:
+• oral lesions or perianal skin tags
+• uveitis
+• arthralgia
+• erythema nodosum
+
+Psychological problems. It may also mimic anorexia nervosa. The presence of raised inflammatory markers (platelet count, ESR and CRP), iron deficiency anaemia and low serum albumin are helpful in both making a diagnosis and confirming a relapse.
+
+Crohn disease is a transmural, focal, subacute or chronic inflammatory disease, most commonly affecting the distal ileum and proximal colon. Initially there are areas of acutely inflamed, thickened bowel. Subsequently, strictures of the bowel and fistulae may develop between adjacent loops of bowel, between bowel and skin or to other organs (e.g. vagina, bladder).
+
+Diagnosis is based on endoscopic and histological findings on biopsy. Upper gastrointestinal endoscopy, ileocolonoscopy and small bowel imaging are required. The histological hallmark is the presence of non-caseating epithelioid cell granulomata, although this is not identified in up to 30% at presentation. Small bowel imaging may reveal narrowing, fissuring, mucosal irregularities and bowel wall thickening.
+
+Remission is induced with nutritional therapy, when the normal diet is replaced by whole protein modular feeds (polymeric diet) for 6–8 weeks. This is effective in 75% of cases. Systemic steroids are required if ineffective.
+
+Relapse is common and immunosuppressant medication (azathioprine, mercaptopurine or methotrexate) may be required to maintain remission. Anti-tumour necrosis factor agents (infliximab or adalimumab) may be needed when conventional treatments have failed. Long-term supplemental enteral nutrition (often with overnight nasogastric or gastrostomy feeds) may be helpful in correcting growth failure. Surgery is necessary for complications of Crohn disease – obstruction, fistulae, abscess formation or severe localised disease unresponsive to medical treatment, often manifesting as growth failure. In general, the long-term prognosis for Crohn disease beginning in childhood is good and most patients lead normal lives, despite occasional relapsing disease.
+
+Growth failure and delayed puberty are features of Crohn disease in children.
+
+Ulcerative colitis
+
+Ulcerative colitis is a recurrent, inflammatory and ulcerating disease involving the mucosa of the colon. Characteristically, the disease presents with rectal bleeding, diarrhoea and colicky pain. Weight loss and growth failure may occur, although this is less frequent than in Crohn disease. Extraintestinal complications include erythema nodosum and arthritis.
+
+The diagnosis is made on endoscopy (upper and ileocolonoscopy) and on the histological features, after exclusion of infective causes of colitis. There is a confluent colitis extending from the rectum proximally for a variable length. In contrast to adults, in whom the colitis is usually confined to the distal colon, 90% of children have a pancolitis. Histology reveals mucosal inflammation, crypt damage (cryptitis, architectural distortion, abscesses and crypt loss) and ulceration. Small bowel imaging is required to check that extracolonic inflammation suggestive of Crohn disease is not present.
+
+In mild disease, aminosalicylates (balsalazide and mesalazine) are used for induction and maintenance therapy. Disease confined to the rectum and sigmoid colon may be managed with topical steroids. More aggressive or extensive disease requires systemic steroids for acute exacerbations and immunomodulatory therapy, e.g. azathioprine to maintain remission alone or in combination with low-dose corticosteroid therapy.
+
+Severe fulminating disease is a medical emergency and requires treatment with intravenous fluids and steroids. If this fails to induce remission, ciclosporin may be used.
+
+Colectomy with an ileostomy or ileorectal pouch is undertaken for severe fulminating disease which may be complicated by a toxic megacolon, or for chronic
+
+
+237
+
+Poorly controlled disease. There is an increased incidence of adenocarcinoma of the colon in adults (1 in 200 risk for each year of disease between 10 and 20 years from diagnosis). Regular colonoscopic screening is performed after 10 years from diagnosis.
+
+Constipation
+
+Constipation is an extremely common reason for consultation in children. Parents may use the term to describe decreased frequency of defecation; the degree of hardness of the stool and painful defecation. The ‘normal’ frequency of defecation is highly variable and varies with age. Infants have an average of four stools per day in the first week of life, but this falls to an average of two per day by 1 year of age. Breast-fed infants may not pass stools for several days and be entirely healthy. By 4 years of age, children usually have a stool pattern similar to adults, in whom the normal range varies from three stools per day to three stools per week. A pragmatic definition of constipation is the infrequent passage of dry, hardened faeces often accompanied by straining or pain. There may be abdominal pain which waxes and wanes with passage of stool or overflow soiling (see Chapter 23, Emotions and behaviour).
+
+The cause of constipation is often unclear and multifactorial. In babies, Hirschsprung disease, anorectal abnormalities, hypothyroidism and hypercalcaemia need to be considered. Constipation may be precipitated by dehydration or reduced fluid intake or an anal fissure causing pain. In older children, it may relate to problems with toilet training, unpleasant toilets or stress.
+
+Examination often reveals a palpable abdominal mass in a well-looking child. Digital rectal examination should only be performed by a paediatric specialist and only if a pathological cause is suspected. ‘Red Flag’ symptoms and signs indicative of more significant pathology are detailed in Box 13.4. Investigations are not usually required to diagnose idiopathic constipation, but are carried out as indicated by history or clinical findings.
+
+Constipation arising acutely in young children, for example after an acute febrile illness, usually resolves spontaneously or with the use of mild laxatives and extra fluids.
+
+In more long-standing constipation, the rectum becomes overdistended, with a subsequent loss of feeling the need to defecate. Involuntary soiling may occur as contractions of the full rectum inhibit the internal sphincter, leading to overflow. Management of these children is likely to be more difficult and protracted (Fig. 13.14). Children of school age are frequently teased as a result and secondary behavioural problems are common.
+
+It should be explained to the child and the parents that the soiling is involuntary and that recovery of normal rectal size and sensation can be achieved but may take a long time. The initial aim is to evacuate the overloaded rectum completely. This can generally be achieved using a disimpaction regimen of stool softeners, initially with a macrogol laxative, e.g. polyethylene glycol + electrolytes (Movicol Paediatric Plain). An escalating dose regimen is administered over 1–2 weeks or until impaction resolves. If this proves unsuccessful, a stimulant laxative, e.g. senna, or sodium picosulphate, may also be required. If the polyethylene glycol + electrolytes is not tolerated, an osmotic laxative can be substituted.
+
+Disimpaction must be followed by maintenance treatment to ensure ongoing regular, pain-free defecation. Polyethylene glycol (with or without a stimulant laxative) is generally the treatment of choice. The dose should be gradually reduced over a period of months in response to improvement in stool consistency and frequency.
+
+Dietary interventions alone are unlikely to be successful in managing constipation in this situation, although the child should receive sufficient fluid and a balanced diet including adequate fibre. The child should be encouraged to sit on the toilet after mealtimes to utilise the physiological gastrocolic reflex and improve the likelihood of success.
+
+The outcome is more likely to be successful if the child is engaged in the treatment process. This requires exploring the child’s concerns and motivation to change. Sometimes use of a star chart is helpful to record and reward progress, as well as motivating the child.
+
+Encouragement by family and health professionals is essential, as relapse is common and psychological support is sometimes required. Occasionally, the faecal
+
+
+238
+
+Figure 13.14 Summary of the management of constipation
+
+Constipation management algorithm
+
+Faeces palpable per abdomen?
+Yes → Macrogol laxative, e.g. polyethylene glycol + electrolytes (Movicol Paediatric Plain) – 2 weeks
+Pass stool spontaneously?
+Yes → Balanced diet and sufficient fluids; maintenance laxatives
+No → Stimulant laxative (e.g. senna or picosulphate) +/- osmotic laxative (e.g. lactulose)
+Success → Balanced diet and sufficient fluids; maintenance laxatives
+No success → Consider enema (+/- sedation) or manual evacuation under general anaesthetic by paediatric specialist
+Relapse of rectal loading → Further stimulant laxative treatment
+Encouragement and close supervision; psychological support if indicated.
+Success.
+
+Retention is so severe that evacuation is only possible using enemas or by manual evacuation under an anaesthetic. They should only be performed under specialist supervision, paying particular attention to avoiding distress and embarrassment for the child.
+
+Hirschsprung disease
+
+The absence of ganglion cells from the myenteric and submucosal plexuses of part of the large bowel results in a narrow, contracted segment. The abnormal bowel extends from the rectum for a variable distance proximally, ending in a normally innervated, dilated colon. In 75% of cases, the lesion is confined to the rectosigmoid, but in 10% the entire colon is involved. Presentation is usually in the neonatal period with intestinal obstruction heralded by failure to pass meconium within the first 24 h of life. Abdominal distension and later bile-stained vomiting develop (Fig. 13.15). Rectal examination may reveal a narrowed segment and withdrawal of the examining finger often releases a gush of liquid stool and flatus. Temporary improvement in the obstruction following the dilatation caused by the rectal examination can lead to a delay in diagnosis.
+
+Occasionally, infants present with severe, life-threatening Hirschsprung enterocolitis during the first few weeks of life, sometimes due to Clostridium difficile infection. In later childhood, presentation is with chronic constipation, usually profound, and associated with abdominal distension but usually without soiling. Growth failure may also be present.
+
+Figure 13.15 Abdominal distension from Hirschsprung disease.
+
+Summary
+
+Hirschsprung disease
+• Absence of myenteric plexuses of rectum and variable distance of colon
+• Presentation – usually intestinal obstruction in the newborn period following delay in passing meconium. In later childhood – profound chronic constipation, abdominal distension and growth failure
+• Diagnosis – suction rectal biopsy.
+
+
+239
+
+Diagnosis is made by demonstrating the absence of ganglion cells, together with the presence of large, acetylcholinesterase-positive nerve trunks on a suction rectal biopsy. Anorectal manometry or barium studies may be useful in giving the surgeon an idea of the length of the aganglionic segment but are unreliable for diagnostic purposes. Management is surgical and usually involves an initial colostomy followed by anastomosing normally innervated bowel to the anus.
+
+Further reading
+
+NICE: Guideline. Diarrhoea and vomiting in children under 5, 2009.
+
+NICE: Guideline. Coeliac disease, 2009.
+
+NICE: Guideline. Constipation in children and young people, 2010.
+
+Beattie M, Dhawan A, Puntis J: Paediatric Gastroenterology, Hepatology and Nutrition (Oxford Specialist Handbooks in Paediatrics), Oxford, 2009, Oxford University Press.
+Short handbook
+
+Kleinman RE, Goulet OJ, Mieli-Vergani G, et al: editors: Walker’s Pediatric Gastrointestinal Disease: Physiology, Diagnosis, Management, ed 5, Ontario, 2008, Decker.
+Comprehensive 2-volume textbook.
+
+
+240
+
+This page intentionally left blank

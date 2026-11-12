@@ -1,0 +1,390 @@
+221
+Severe reflux is more common in:
+• children with cerebral palsy or other neurodevelopmental disorders, when energetic management, surgical if necessary, may transform the child’s quality of life
+• preterm infants, especially if coexistent bronchopulmonary dysplasia
+• following surgery for oesophageal atresia or diaphragmatic hernia.
+
+Box 13.2 Complications of gastro-oesophageal reflux
+• Failure to thrive from severe vomiting
+• Oesophagitis – haematemesis, discomfort on feeding or heartburn, iron deficiency anaemia
+• Recurrent pulmonary aspiration – recurrent pneumonia, cough or wheeze, apnoea in preterm infants
+• Dystonic neck posturing (Sandifer syndrome)
+• Apparent life-threatening events (ALTE)
+
+Investigation
+
+Gastro-oesophageal reflux is usually diagnosed clinically and no investigations are required. However, they may be indicated if the history is atypical, complications are present or there is failure to respond to treatment. Investigations include:
+• 24-hour oesophageal pH monitoring to quantify the degree of acid reflux (see Case History 13.1).
+• 24-hour impedance monitoring. Available in some centres. Weakly acidic or non-acid reflux, which may cause disease, is also measured.
+• Endoscopy with oesophageal biopsies to identify oesophagitis and exclude other causes of vomiting.
+
+Case History 13.1 Severe gastro-oesophageal reflux
+
+This infant (Fig. 13.2a) had a history of frequent regurgitation from the first few days of life. He developed two chest infections. Some of the vomits contained altered blood. A 24-hour oesophageal pH study showed severe gastro-oesophageal reflux (Fig. 13.2b,c). Endoscopy showed oesophagitis. He had probably had episodes of aspiration pneumonia. Symptoms resolved on treatment with feed thickeners and omeprazole. His parents also commented on how much better he slept at night. Treatment was reduced from 14 months of age and the symptoms did not recur.
+
+Figure 13.2a A pH sensor has been placed in the lower oesophagus.
+
+Figure 13.2b A section of the 24-hour oesophageal pH study showing severe reflux, with frequent drops in pH below 4.
+
+Figure 13.2c A section of a normal oesophageal pH study. The lower oesophageal pH is above 4 for most of the time.
+Labels: pH; 12.00; 13.00; 16.00; 17.00.
+
+Contrast studies of the upper gastrointestinal tract may support the diagnosis but are neither sensitive nor specific. They may be required to exclude underlying anatomical abnormalities in the oesophagus, stomach and duodenum, and to identify malrotation.
+
+Management
+
+Uncomplicated gastro-oesophageal reflux has an excellent prognosis and can be managed by parental reassurance, adding inert thickening agents to feeds (e.g. Nestargel, Carobel) and positioning in a 30° head-up prone position after feeds.
+
+More significant gastro-oesophageal reflux disease is managed with acid suppression with either H2 receptor antagonists (e.g. ranitidine) or proton pump inhibitors (e.g. omeprazole). These drugs reduce the volume of gastric contents and treat acid-related oesophagitis. Although the evidence for their use is poor, drugs which enhance gastric emptying (e.g. domperidone) may be tried. If the child fails to respond to these measures, other diagnoses such as cow’s milk protein allergy should be considered and further investigations performed.
+
+Surgical management is reserved for children with complications unresponsive to intensive medical treatment or oesophageal stricture. A Nissen fundoplication, in which the fundus of the stomach is wrapped around the intra-abdominal oesophagus, is performed either as an abdominal or laparoscopic procedure.
+
+Summary
+
+Gastro-oesophageal reflux
+• Occurs in otherwise normal infants, but risk is increased if neuromuscular problems or surgery to the oesophagus or diaphragm.
+• Is treated if troublesome with upright positioning, feed thickening, medication and sometimes fundoplication.
+• Investigations are performed if diagnosis is unclear or complications occur.
+
+Pyloric stenosis
+
+In pyloric stenosis, there is hypertrophy of the pyloric muscle causing gastric outlet obstruction. It presents at between 2 and 7 weeks of age, irrespective of gestational age. It is more common in boys (4 : 1), particularly first-borns, and there may be a family history, especially on the maternal side.
+
+Clinical features are:
+• Vomiting, which increases in frequency and forcefulness over time, ultimately becoming projectile.
+• Hunger after vomiting until dehydration leads to loss of interest in feeding.
+• Weight loss if presentation is delayed.
+
+A hypochloraemic metabolic alkalosis with a low plasma sodium and potassium occurs as a result of vomiting stomach contents.
+
+Diagnosis
+
+Unless immediate fluid resuscitation is required, a test feed is performed. The baby is given a milk feed, which will calm the hungry infant, allowing examination. Gastric peristalsis may be seen as a wave moving from left to right across the abdomen (Fig. 13.3a). The pyloric mass, which feels like an olive, is usually palpable in the right upper quadrant (Fig. 13.3b). If the stomach is overdistended with air, it will need to be emptied by a nasogastric tube to allow palpation. Ultrasound examination is helpful (Fig. 13.3c) if the diagnosis is in doubt.
+
+Management
+
+The initial priority is to correct any fluid and electrolyte disturbance with intravenous fluids (0.45% saline and 5% dextrose with potassium supplements). Once hydration and acid–base and electrolytes are normal, definitive treatment by pyloromyotomy can be performed. This involves division of the hypertrophied muscle down to, but not including, the mucosa (Fig. 13.3d). The operation can be performed either as an open procedure via a periumbilical incision or laparoscopically. Postoperatively, the child can usually be fed within 6 h and discharged within 2 days of surgery.
+
+Summary
+
+Pyloric stenosis
+• More common in boys and those with a maternal family history.
+• Signs are: visible gastric peristalsis, palpable abdominal mass on test feed and possible dehydration.
+• Associated with hyponatraemia, hypokalaemia and hypochloraemic alkalosis.
+• Diagnosis may be confirmed by ultrasound.
+• Treated by surgery after rehydration and correction of electrolyte imbalance.
+
+222
+Crying
+
+The time healthy babies cry for is highly variable. In most, it represents the baby’s response to hunger and discomfort. Reassurance and advice on appropriate feeding, wrapping and care will usually suffice.
+
+Some babies cry for prolonged periods in spite of feeding and comforting and this is distressing for all concerned. It can engender a feeling of anxiety, helplessness and depression in the carer, particularly if they are inexperienced or poorly supported. It has also been suggested that the emotional climate within a home may be transmitted to a baby, and that in some instances, tense, anxious or irritable caregivers are more likely to have fretful babies. The complaint that a baby is ‘always crying’ may also be a pointer to potential or actual non-accidental injury.
+
+A significant cause for the crying is identified in a minority of infants. If of sudden onset, it may be due to a urinary tract, middle ear or meningeal infection, to pain from an unrecognised fracture, oesophagitis or torsion of the testis. Severe nappy rash, constipation or coeliac disease may produce a miserable, crying infant. Preterm infants who have spent several weeks in hospital can be difficult to settle, as can infants with a chronic neurological disorder, e.g. cerebral palsy. On the basis of countless reports of parents, eruption of teeth is painful in some infants. However, teething does not cause vomiting, diarrhoea, high fever or seizures.
+
+Infant ‘colic’
+
+The term ‘colic’ is used to describe a common symptom complex which occurs during the first few months of life. Paroxysmal, inconsolable crying or screaming often accompanied by drawing up of the knees and passage of excessive flatus takes place several times a day, particularly in the evening. There is no firm evidence that the cause is gastrointestinal, but this is often suspected. The condition occurs in up to 40% of babies.
+
+It typically occurs in the first few weeks of life and resolves by 4 months of age. The condition is benign but it is very frustrating and worrying for parents and may precipitate non-accidental injury in infants already at risk. Support and reassurance should be given. Gripe water is often recommended but is of unproven benefit. If severe and persistent, it may be due to a cow’s milk protein allergy or gastro-oesophageal reflux and an empirical 2-week trial of a whey hydrolysate formula followed by a trial of anti-reflux treatment may be considered.
+
+Figure 13.3 (a) Visible gastric peristalsis in an infant with pyloric stenosis. (b) Diagram showing a test feed being performed to diagnose pyloric stenosis. The pyloric mass feels like an ‘olive’ on gentle, deep palpation halfway between the midpoint of the anterior margin of the right ribcage and the umbilicus. (c) Ultrasound examination showing pyloric stenosis. (d) Pyloric stenosis at operation showing pale, thick pyloric muscle and pyloromyotomy incision.
+
+223
+Acute abdominal pain
+
+Assessment of the child with acute abdominal pain requires considerable skill. The differential diagnosis of acute abdominal pain in children is extremely wide, encompassing non-specific abdominal pain, surgical causes and medical conditions (Fig. 13.4). In nearly half of the children admitted to hospital, the pain resolves undiagnosed. In young children it is essential not to delay the diagnosis and treatment of acute appendicitis, as progression to perforation can be rapid. It is easy to belittle the clinical signs of abdominal tenderness in young children. Of the surgical causes, appendicitis is by far the most common. The testes, hernial orifices and hip joints must always be checked.
+
+Figure 13.4 Causes of acute abdominal pain.
+
+Surgical:
+• Acute appendicitis
+• Intestinal obstruction including intussusception
+• Inguinal hernia
+• Peritonitis
+• Inflamed Meckel diverticulum
+• Pancreatitis
+• Trauma
+
+Intra-abdominal medical:
+• Non-specific abdominal pain
+• Gastroenteritis
+• Urinary tract:
+  • urinary tract infection
+  • acute pyelonephritis
+  • hydronephrosis
+  • renal calculus
+• Henoch–Schönlein purpura
+• Diabetic ketoacidosis
+• Sickle cell disease
+• Hepatitis
+• Inflammatory bowel disease
+• Constipation
+• Recurrent abdominal pain of childhood
+• Gynaecological in pubertal females
+• Psychological
+• Lead poisoning
+• Acute porphyria (rare)
+• Unknown
+
+Extra-abdominal:
+• Upper respiratory tract infection
+• Lower lobe pneumonia
+• Torsion of the testis
+• Hip and spine
+
+It is noteworthy that:
+• Lower lobe pneumonia may cause pain referred to the abdomen.
+• Primary peritonitis is seen in patients with ascites from nephrotic syndrome or liver disease.
+• Diabetic ketoacidosis may cause severe abdominal pain.
+• Urinary tract infection, including acute pyelonephritis, is a relatively uncommon cause of acute abdominal pain, but must not be missed. It is important to test a urine sample, in order to identify not only diabetes mellitus but also conditions affecting the liver and urinary tract.
+
+Acute appendicitis
+
+Acute appendicitis is the commonest cause of abdominal pain in childhood requiring surgical intervention (Fig. 13.5). Although it may occur at any age, it is very uncommon in children <3 years old. The clinical features of acute uncomplicated appendicitis are:
+
+• Symptoms
+  – Anorexia
+  – Vomiting (usually only a few times)
+  – Abdominal pain, initially central and colicky (appendicular midgut colic), but then localising to the right iliac fossa (from localised peritoneal inflammation)
+
+• Signs
+  – Flushed face with oral fetor
+  – Low-grade fever 37.2–38°C
+  – Abdominal pain aggravated by movement, e.g. on walking, coughing, jumping, bumps on the road during a car journey
+  – Persistent tenderness with guarding in the right iliac fossa (McBurney’s point).
+
+In preschool children:
+• The diagnosis is more difficult, particularly early in the disease.
+• Faecoliths are more common and can be seen on a plain abdominal X-ray.
+• Perforation may be rapid, as the omentum is less well developed and fails to surround the appendix, and the signs are easy to underestimate at this age.
+
+Figure 13.5 Appendicitis at operation showing a perforated acutely inflamed appendix covered in fibrin.
+
+224
+With a retrocaecal appendix, localised guarding may be absent, and in a pelvic appendix there may be few abdominal signs.
+
+Appendicitis is a progressive condition and so repeated observation and clinical review every few hours are key to making the correct diagnosis, avoiding delay on the one hand and unnecessary laparotomy on the other.
+
+No laboratory investigation or imaging is consistently helpful in making the diagnosis. A neutrophilia is not always present on a full blood count. White blood cells or organisms in the urine are not uncommon in appendicitis as the inflamed appendix may be adjacent to the ureter or bladder. Although ultrasound is no substitute for regular clinical review, it may support the clinical diagnosis (thickened, non-compressible appendix with increased blood flow); demonstrate associated complications such as abscess, perforation or appendix mass; and exclude other pathology causing the symptoms. In some centres, laparoscopy is available to see whether or not the appendix is inflamed.
+
+Appendicectomy is straightforward in uncomplicated appendicitis. Complicated appendicitis includes the presence of an appendix mass, an abscess or perforation. If there is generalised guarding consistent with perforation, fluid resuscitation and intravenous antibiotics are given prior to laparotomy. If there is a palpable mass in the right iliac fossa and there are no signs of generalised peritonitis, it may be reasonable to elect for conservative management with intravenous antibiotics, with appendicectomy being performed after several weeks. If symptoms progress, laparotomy is indicated.
+
+Non-specific abdominal pain and mesenteric adenitis
+
+Non-specific abdominal pain (NSAP) is abdominal pain which resolves in 24–48 h. The pain is less severe than in appendicitis, and tenderness in the right iliac fossa is variable. It is often accompanied by an upper respiratory tract infection with cervical lymphadenopathy. In some of these children, the abdominal signs do not resolve and an appendicectomy is performed. The diagnosis of mesenteric adenitis can only be made definitively in those children in whom large mesenteric nodes are seen at laparotomy or laparoscopy and whose appendix is normal.
+
+Summary
+
+Acute abdominal pain in older children and adolescents
+• Exclude medical causes, in particular lower lobe pneumonia, diabetic ketoacidosis, hepatitis, pyelonephritis.
+• Check for strangulated inguinal hernia or torsion of the testis in boys.
+• On palpating the abdomen in children with acute appendicitis, guarding and rebound tenderness are often absent or unimpressive, but pain from peritoneal inflammation may be demonstrated on coughing, walking or jumping.
+• To distinguish between acute appendicitis and non-specific abdominal pain may require close monitoring and repeated evaluation in hospital.
+
+225
+Intussusception
+
+Intussusception describes the invagination of proximal bowel into a distal segment. It most commonly involves ileum passing into the caecum through the ileocaecal valve (Fig. 13.6a). Intussusception is the commonest cause of intestinal obstruction in infants after the neonatal period. Although it may occur at any age, the peak age of presentation is between 3 months and 2 years. The most serious complication is stretching and constriction of the mesentery resulting in venous obstruction, causing engorgement and bleeding from the bowel mucosa, fluid loss and subsequently bowel perforation, peritonitis and gut necrosis. Prompt diagnosis, immediate fluid resuscitation and urgent reduction of the intussusception are essential to avoid complications.
+
+Presentation is typically with:
+• Paroxysmal, severe colicky pain and pallor – during episodes of pain, the child becomes pale, especially around the mouth, and draws up his legs. He initially recovers between painful episodes, but subsequently becomes increasingly lethargic.
+• May refuse feeds, may vomit, which may become bile-stained depending on the site of the intussusception.
+• A sausage-shaped mass – often palpable in the abdomen (Fig. 13.6b).
+• Passage of a characteristic redcurrant jelly stool comprising blood-stained mucus – this is a characteristic sign but tends to occur later in the illness and may be first seen after a rectal examination.
+• Abdominal distension and shock.
+
+Usually, no underlying intestinal cause for the intussusception is found, although there is some evidence that viral infection leading to enlargement of Peyer’s patches may form the lead point of the intussusception. An identifiable lead point such as a Meckel diverticulum or polyp is more likely to be present in children over 2 years old. Intravenous fluid resuscitation is likely to be required immediately, as there is often pooling of fluid in the gut, which may lead to hypovolaemic shock.
+
+An X-ray of the abdomen may show distended small bowel and absence of gas in the distal colon or rectum. Sometimes the outline of the intussusception itself can be visualised. Abdominal ultrasound is helpful both to confirm the diagnosis and to check response to treatment. Unless there are signs of peritonitis, reduction of the intussusception by rectal air insufflation is usually attempted by a radiologist (Fig. 13.6c). This procedure should only be carried out once the child has been resuscitated and is under the supervision of a paediatric surgeon in case the procedure is unsuccessful or bowel perforation occurs. The success rate of this procedure is about 75%. The remaining 25% require operative reduction (Fig. 13.6d). Recurrence of the intussusception occurs in less than 5% but is more frequent after hydrostatic reduction.
+
+Figure 13.6a Intussusception, showing why the blood supply to the gut rapidly becomes compromised, making relief of this form of obstruction urgent.
+
+Figure 13.6b A child with an intussusception. The mass can be seen in the upper abdomen. The child has become shocked.
+
+Figure 13.6c An abdominal X-ray demonstrating an intussusception (see arrowhead), taken during reduction by air insufflated per rectum.
+
+Figure 13.6d Intussusception at operation showing the ileum entering the caecum. The surgeon is squeezing the colon to reduce the intussusception.
+
+Summary
+
+Intussusception
+• Usually occurs between 3 months and 2 years of age.
+• Clinical features are paroxysmal, colicky pain with pallor, abdominal mass, redcurrant jelly stool.
+• Shock is an important complication and requires urgent treatment.
+• Reduction is attempted by rectal air insufflation unless peritonitis is present.
+• Surgery is required if reduction with air is unsuccessful or for peritonitis.
+
+226
+Meckel diverticulum
+
+Around 2% of individuals have an ileal remnant of the vitello-intestinal duct, a Meckel diverticulum, which contains ectopic gastric mucosa or pancreatic tissue. Most are asymptomatic but they may present with severe rectal bleeding, which is classically neither bright red nor true melaena. Other forms of presentation include intussusception, volvulus around a band, or diverticulitis which mimics appendicitis. A technetium scan will demonstrate increased uptake by ectopic gastric mucosa in 70% of cases (Fig. 13.7). Treatment is by surgical resection.
+
+Figure 13.7 Technetium scan showing uptake by ectopic gastric mucosa in a Meckel diverticulum in the right iliac fossa.
+
+Summary
+
+Meckel diverticulum
+• Occurs in 2% of individuals.
+• Generally asymptomatic, but may present with bleeding (which may be life-threatening), intussusception, volvulus or diverticulitis.
+• Treatment is by surgical resection.
+
+Malrotation
+
+During rotation of the small bowel in fetal life, if the mesentery is not fixed at the duodenojejunal flexure or in the ileocaecal region, its base is shorter than normal, and is predisposed to volvulus. Ladd bands may cross the duodenum, contributing to bowel obstruction (Fig. 13.8).
+
+There are two presentations:
+• Obstruction.
+• Obstruction with a compromised blood supply.
+
+Obstruction with bilious vomiting is the usual presentation in the first few days of life but can be seen at a later age. Any child with dark green vomiting needs an urgent upper gastrointestinal contrast study to assess intestinal rotation, unless signs of vascular compromise are present, when an urgent laparotomy is needed.
+
+At operation, the volvulus is untwisted, the duodenum mobilised and the bowel placed in the non-rotated position with the duodenojejunal flexure on the right and the caecum and appendix on the left. The malrotation is not ‘corrected’, but the mesentery broadened. The appendix is generally removed to avoid diagnostic confusion in the event the child subsequently has symptoms suggestive of appendicitis.
+
+Figure 13.8 The commonest form of malrotation, with the caecum remaining high and fixed to the posterior abdominal wall. There are Ladd bands obstructing the duodenum. Dotted lines show normal anatomy.
+
+Summary
+
+Malrotation
+• Uncommon but important to diagnose.
+• Usually presents in the first 1–3 days of life with intestinal obstruction from Ladd bands obstructing the duodenum or volvulus.
+• May present at any age with volvulus causing obstruction and ischaemic bowel.
+• Clinical features are bilious vomiting, abdominal pain and tenderness from peritonitis or ischaemic bowel.
+• An urgent upper gastrointestinal contrast study is indicated if there is bilious vomiting.
+• Treatment is urgent surgical correction.
+
+227
+Recurrent abdominal pain
+
+Recurrent abdominal pain (RAP) is a common childhood problem. It is often defined as pain sufficient to interrupt normal activities and lasts for at least 3 months. It occurs in about 10% of school-age children. A cause (see Summary box) is identified in <10%. The pain is characteristically periumbilical and the children are otherwise entirely well. The widely held belief that they have psychogenic pain is without foundation, a number of studies having failed to show a difference between such children and their families and controls. In some children, it may however be a manifestation of stress (see Chapter 23) or it may become part of a vicious cycle of anxiety with escalating pain leading to family distress and demands for increasingly invasive investigations. There is evidence that anxiety may lead to altered bowel motility, which may be perceived by the child as pain.
+
+It is increasingly recognised that many will have one of three distinct symptom constellations resulting from functional abnormalities of gut motility or enteral neurons – irritable bowel syndrome (most common), abdominal migraine or functional dyspepsia.
+
+Management
+
+The aim is to identify any serious cause without subjecting the child to unnecessary investigation, while providing reassurance to the child and parents. To do this, a full history and thorough examination is required, which includes inspection of the perineum for anal fissures. The child’s growth should be checked.
+
+A urine microscopy and culture is mandatory as urinary tract infections may cause pain in the absence of other symptoms or signs. An abdominal ultrasound is particularly helpful in excluding gall stones and pelvi-ureteric junction (PUJ) obstruction.
+
+Although there are many potential organic causes, most are rare and further investigations should be performed only if clinically indicated.
+
+With irritable bowel syndrome and functional dyspepsia, it can be helpful to explain to both the child and parents that ‘sometimes the insides of the intestine become so sensitive that some children can feel the food going round the bends’. It is also necessary to make a distinction between ‘serious’ and ‘dangerous’. These disorders can be serious, if, for example, they lead to substantial loss of schooling, but they are not dangerous.
+
+The long-term prognosis is that:
+• about half of affected children rapidly become free of symptoms
+• in one-quarter, the symptoms take some months to resolve
+• in one-quarter, symptoms continue or return in adulthood as migraine, irritable bowel syndrome, or functional dyspepsia.
+
+Abdominal migraine
+
+Abdominal migraine is often associated with abdominal pain in addition to headaches, and in some children the abdominal pain predominates. The attacks of abdominal pain are midline associated with vomiting and facial pallor. There is usually a personal or family history of migraine.
+
+228
+Irritable bowel syndrome
+
+This disorder, also common in adults, is associated with altered gastrointestinal motility and an abnormal sensation of intra-abdominal events. Symptoms may occur following a gastrointestinal infection. Studies of pressure changes within the small intestine of children with irritable bowel syndrome suggest that abnormally forceful contractions occur. It has also been shown that affected adults experience pain on inflation of balloons in the intestine at substantially lower volumes than do controls. There is therefore an interplay between these two factors, both of which are modulated by psychosocial factors such as stress and anxiety.
+
+There is often a positive family history and a characteristic set of symptoms, although not all patients experience every symptom:
+• Abdominal pain, often worse before or relieved by defecation.
+• Explosive, loose or mucousy stools.
+• Bloating.
+• Feeling of incomplete defecation.
+• Constipation (often alternating with normal or loose stools).
+
+Peptic ulceration, gastritis and functional dyspepsia
+
+The greater use of endoscopy in children and the identification of the Gram-negative organism Helicobacter pylori (H. pylori) in association with antral gastritis have focused attention on it as a potential cause of abdominal pain in children. In adults, there is substantial evidence that H. pylori is a strong predisposing factor to duodenal ulcers. This association in children is much less clear. Duodenal ulcers are uncommon in children but should be considered in those with epigastric pain, particularly if it wakes them at night, or when there is a history of peptic ulceration in a first-degree relative.
+
+H. pylori causes a nodular antral gastritis which may be associated with abdominal pain and nausea. It is usually identified in gastric antral biopsies. The organism produces urease, which forms the basis for a laboratory test on biopsies, and the 13C breath test following the administration of 13C-labelled urea by mouth. Stool antigen for H. pylori may be positive in infected children. Serological tests are unreliable in children.
+
+Children in whom peptic ulceration is suspected should be treated with proton pump inhibitors, e.g. omeprazole, and if investigations suggest they have an H. pylori infection, eradication therapy should be given (amoxicillin and metronidazole or clarithromycin). Those that fail to respond to treatment or whose symptoms recur on stopping treatment should have an upper GI endoscopy and, if this is normal, functional dyspepsia is diagnosed.
+
+As well as having symptoms of peptic ulceration, children with functional dyspepsia have rather more non-specific symptoms, including early satiety, bloating and postprandial vomiting and may have delayed gastric emptying as a result of gastric dysmotility. Treatment is difficult but some children respond to a hypoallergenic diet.
+
+229
+Summary
+
+Causes and assessment of the child with recurrent abdominal pain
+
+>90% no structural cause identified
+
+Gastrointestinal
+• Irritable bowel syndrome
+• Constipation
+• Non-ulcer dyspepsia
+• Abdominal migraine
+• Gastritis and peptic ulceration
+• Inflammatory bowel disease
+• Malrotation
+
+Gynaecological
+• Dysmenorrhoea
+• Ovarian cysts
+• Pelvic inflammatory disease
+
+Psychosocial – bullying, abuse, stress, etc. – a small proportion
+
+Hepatobiliary/pancreatic
+• Hepatitis
+• Gall stones
+• Pancreatitis
+
+Urinary tract
+• Urinary tract infection
+• Pelvi-ureteric junction (PUJ) obstruction
+
+Symptoms and signs that suggest organic disease:
+• Epigastric pain at night, haematemesis (duodenal ulcer)
+• Diarrhoea, weight loss, growth failure, blood in stools (inflammatory bowel disease)
+• Vomiting (pancreatitis)
+• Jaundice (liver disease)
+• Dysuria, secondary enuresis (urinary tract infection)
+• Bilious vomiting and abdominal distension (malrotation)
+
+Gastroenteritis
+
+In developing countries, gastroenteritis remains a major cause of child mortality. In developed countries, it is a cause of significant morbidity, particularly in younger children. In the UK, approximately 10% of under 5 year olds annually present to health services with gastroenteritis and it remains a common reason for hospital admission in young children.
+
+The most frequent cause of gastroenteritis in developed countries is rotavirus infection, which accounts for up to 60% of cases in children <2 years of age, particularly during the winter and early spring. An effective vaccine against rotavirus is now available, but has not been adopted into the national immunisation programme. Other viruses, particularly adenovirus, norovirus, calicivirus, coronavirus and astrovirus, may cause outbreaks.
+
+Bacterial causes are less common in developed countries and are suggested by the presence of blood in the stools. Campylobacter jejuni infection, the commonest of the bacterial infections in developed countries, is often associated with severe abdominal pain. Shigella and some salmonellae produce a dysenteric type of infection, with blood and pus in the stool, pain and tenesmus. Shigella may be accompanied by high fever. Cholera and enterotoxigenic E. coli infection are associated with profuse, rapidly dehydrating diarrhoea. However, clinical features act as a poor guide to the pathogen.
+
+Box 13.3 Conditions which can mimic gastroenteritis
+
+Systemic infection — Septicaemia, meningitis
+Local infections — Respiratory tract infection, otitis media, hepatitis A, urinary tract infection
+Surgical disorders — Pyloric stenosis, intussusception, acute appendicitis, necrotising enterocolitis, Hirschsprung disease
+Metabolic disorder — Diabetic ketoacidosis
+Renal disorder — Haemolytic uraemic syndrome
+Other — Coeliac disease, cow’s milk protein intolerance, adrenal insufficiency
+
+In gastroenteritis there is a sudden change to loose or watery stools often accompanied by vomiting. There may be contact with a person with diarrhoea and/or vomiting or recent travel abroad. A number of disorders may masquerade as gastroenteritis (Box 13.3) and, when in doubt, hospital referral is essential. Dehydration leading to shock is the most serious complication and its prevention or correction is the main aim of treatment.
+
+230
+The following children are at increased risk of dehydration:
+• Infants, particularly those under 6 months of age or those born with low birthweight.
+• If they have passed ≥6 diarrhoeal stools in the previous 24 h.
+• If they have vomited three or more times in the previous 24 h.
+• If they have been unable to tolerate (or not been offered) extra fluids.
+• If they have malnutrition.
+
+Infants are at particular risk of dehydration because they have a greater surface area to weight ratio than older children, leading to greater insensible water losses (300 ml/m2 per day, equivalent in infants to 15–17 ml/kg per day). They have higher basal fluid requirements (100–120 ml/kg per day, i.e. 10–12% of bodyweight) and immature renal tubular reabsorption. In addition, they are unable to obtain fluids for themselves when thirsty.
+
+Assessment
+
+Clinical assessment of dehydration is important but difficult. The most accurate measure of dehydration is the degree of weight loss during the diarrhoeal illness. A recent weight measurement is useful but is often not available and may be misleading if the child had clothes on or the different measuring scales are not accurate. The history and examination are used to assess the degree of dehydration as:
+• No clinically detectable dehydration (usually <5% loss of body weight).
+• Clinical dehydration (usually 5–10%).
+• Shock (usually >10%) (Fig. 13.9 and Table 13.1). Shock must be identified without delay.
+
+Isonatraemic and hyponatraemic dehydration
+
+In dehydration, there is a total body deficit of sodium and water. In most instances, the losses of sodium and water are proportional and plasma sodium remains within the normal range (isonatraemic dehydration). When children with diarrhoea drink large quantities of water or other hypotonic solutions, there is a greater net loss of sodium than water, leading to a fall in plasma sodium (hyponatraemic dehydration). This leads to a shift of water from extra- to intracellular compartments. The increase in intracellular volume leads to an increase in brain volume, which may result in convulsions, whereas the marked extracellular depletion leads to a greater degree of shock per unit of water loss. This form of dehydration is more common in poorly nourished infants in developing countries.
+
+Hypernatraemic dehydration
+
+Infrequently, water loss exceeds the relative sodium loss and plasma sodium concentration increases (hypernatraemic dehydration). This usually results from high insensible water losses (high fever or hot, dry environment) or from profuse, low-sodium diarrhoea. The extracellular fluid becomes hypertonic with respect to the intracellular fluid, which leads to a shift of water into the extracellular space from the intracellular compartment. Signs of extracellular fluid depletion are therefore less per unit of fluid loss, and depression of the fontanelle, reduced tissue elasticity and sunken eyes are less obvious. This makes this form of dehydration more difficult to recognise clinically, particularly in an obese infant. It is a particularly dangerous form of dehydration as water is drawn out of the brain and cerebral shrinkage within a rigid skull may lead to jittery movements, increased muscle tone.
+
+Figure 13.9 Clinical features of shock from dehydration in an infant.
+Labels: Decreased level of consciousness; Sunken fontanelle; Dry mucous membranes; Eyes sunken and tearless; Tachypnoea; Prolonged capillary refill time; Tachycardia; Weak peripheral pulses; Pale or mottled skin; Hypotension; Reduced tissue turgor; Sudden weight loss; Reduced urine output; Cold extremities.

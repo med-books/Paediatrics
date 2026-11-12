@@ -1,0 +1,448 @@
+211
+Nutritional assessment
+
+Nutritional assessment
+
+Anthropometry
+• Weight
+• Height
+• Mid-arm circumference
+• Skinfold thickness
+
+Laboratory
+• Low plasma albumin
+• Low concentration of specific minerals and vitamins
+
+Food intake
+• Dietary recall
+• Dietary diary
+
+Immunodeficiency
+• Low lymphocyte count
+• Impaired cell-mediated immunity
+
+Figure 12.10 Assessment of nutritional status. This cannot be determined by a single measurement but is a composite of a number of variables.
+
+Normal   Wasted   Stunted
+Weight/age %       100       70       70
+Weight/height %    100       70       100
+Height/age %       100       100      84
+
+Figure 12.11 Comparison of a normal, wasted and stunted child at 1 year. Low weight for height reveals a child of normal height, but who is thin and wasted, whereas low height for age reveals a short, non-wasted child.
+
+occasionally via a feeding tube in the jejunum. Feeds are often given continuously overnight, allowing the child to feed normally during the day. Gastrostomies can either be created endoscopically or surgically. If long-term supplemental enteral nutrition is required, a gastrostomy is preferred as it avoids repeated replacements of nasogastric tubes, which is distressing for the child.
+
+Parenteral nutrition
+
+Parenteral nutrition can be used exclusively or as an adjunct to enteral feeds to maintain and/or enhance nutrition. The aim is to provide a nutritionally complete feed in an appropriate volume of intravenous fluid. It can be delivered at home. However, it is a complex and expensive form of therapy, requiring a multidisciplinary approach incorporating the skills not only of medical and nursing staff but also pharmacists and dieticians. Short term, it is possible to deliver it via peripherally sited cannulae; long term, it is delivered via a central venous catheter as this allows infusion of hyperosmolar solutions and does not require repeated resiting of the cannula. It may be inserted surgically or under radiological guidance. Complications include catheter sepsis or blockage, problems of vascular access on repeated line placement and liver disease from the parenteral nutrition itself.
+
+Marasmus and kwashiorkor
+
+Globally, over one-third of childhood deaths are attributable to undernutrition, which leaves the child susceptible and unable to survive common infections.
+
+The World Health Organization recommends that nutritional status is expressed as:
+• Weight for height – a measure of wasting and an index of acute malnutrition (Fig. 12.11). Severe malnutrition is defined as a weight for height more than −3 standard deviations below the median plotted on the WHO standard growth chart. This corresponds to a weight for height <70% below the median.
+• Mid upper-arm circumference (MUAC) – <115 mm is severe malnutrition.
+• Height for age – a measure of stunting and an index of chronic malnutrition.
+
+Severe protein-energy malnutrition in children usually leads to marasmus, with a weight for height more than −3 standard deviations below the median, corresponding to <70% weight for height, and a wasted, wizened appearance (Fig. 12.12). Oedema is not present. Skinfold thickness and mid-arm circumference are markedly reduced, and affected children are often withdrawn and apathetic.
+
+Kwashiorkor is another manifestation of severe protein malnutrition (Fig. 12.13), in which there is generalised oedema as well as severe wasting. Because of the oedema, the weight may not be as severely reduced. In addition, there may be:
+• a ‘flaky-paint’ skin rash with hyperkeratosis (thickened skin) and desquamation
+• a distended abdomen and enlarged liver (usually due to fatty infiltration)
+• angular stomatitis
+• hair which is sparse and depigmented
+• diarrhoea, hypothermia, bradycardia and hypotension
+
+Figure 12.12 Marasmus in a 3-month-old baby who was unable to establish breast-feeding because of a cleft palate.
+
+Figure 12.13 Kwashiorkor, a particular manifestation of severe protein-energy malnutrition in some developing countries where infants are weaned late from the breast and the young child’s diet is high in starch. There is oedema around the eyes and feet and legs, hyperkeratosis and depigmentation of the skin and redness of the hair.
+
+212
+• low plasma albumin, potassium, glucose and magnesium.
+
+It is unclear why some children with protein-energy malnutrition develop kwashiorkor and others develop marasmus. Kwashiorkor is a feature of children reared in traditional, polygamous societies, where infants are not weaned from the breast until about 12 months of age. The subsequent diet tends to be relatively high in starch. Kwashiorkor often develops after an acute intercurrent infection, such as measles or gastroenteritis.
+
+There is some evidence that kwashiorkor is a manifestation of primary protein deficiency with energy intake relatively well maintained or, alternatively, that it results from excess generation of free radicals.
+
+Management
+
+Severe acute malnutrition has a high mortality; about 30% in children require hospital care. In addition to protein and energy deficiency, there is electrolyte and mineral deficiency (potassium, zinc, magnesium) as well as micronutrient and vitamin deficiency (vitamin A).
+
+Acute management includes:
+• Hypoglycaemia – common; correct urgently, particularly if coma or severely ill.
+• Hypothermia – wrap, especially at night.
+• Dehydration – correct, but avoid being overzealous with intravenous fluids, as may lead to heart failure.
+• Electrolytes – correct deficiencies, especially potassium.
+• Infection – give antibiotics; fever and other signs may be absent. Treat oral candida if present.
+• Micronutrients – give vitamin A and other vitamins.
+• Initiate feeding – small volumes, frequently, including through the night.
+
+Children with no appetite or medical complications need hospital care. Otherwise care can be community based. Although protein deficient, diet is initially low in protein as high protein feeds are not tolerated. Too rapid feeding may result in diarrhoea. Specialised feeds are widely available. Initially Formula 75 (75 kcal/100 ml), subsequently Formula 100 (100 kcal/100 ml) or Ready-to-Use Therapeutic Food (RUTF). During recovery phase, growth is monitored, sensory stimulation should be provided and discharge preparation undertaken.
+
+Summary
+
+Malnutrition
+• Worldwide – contributes to about a third of all childhood deaths; often a consequence of war and social disruption, as well as famine and natural disasters.
+• In developed countries – results from poverty, parental neglect or poor education, restrictive diets, children with feeding disorders or chronic illness or anorexia nervosa.
+• Can be identified by anthropometric measurement; laboratory tests are not usually required.
+• Marasmus – weight for height more than 3 Standard Deviations below the median; wasted, wizened appearance; apathetic.
+• Kwashiorkor – generalised oedema, sparse and depigmented hair, skin rash, angular stomatitis, distended abdomen and enlarged liver, diarrhoea.
+
+213
+Vitamin D deficiency
+
+Vitamin D deficiency usually results from deficient intake or defective metabolism of vitamin D, causing a low serum calcium (Fig. 12.14). This triggers the secretion of parathyroid hormone and normalises the serum calcium but demineralises the bone. Parathyroid hormone causes renal losses of phosphate and consequently low serum phosphate levels, further reducing the potential for bone calcification.
+
+Vitamin D deficiency usually presents with bony deformity and the classical picture of rickets. It can also present without bone abnormalities but with symptoms of hypocalcaemia, i.e. seizures, neuromuscular irritability (tetany), apnoea, stridor. This presentation is more common before 2 years of age and in adolescence, when a high demand for calcium in rapidly growing bone results in hypocalcaemia before rickets develops.
+
+Figure 12.14 Vitamin D metabolism. In most countries, sunlight is the most important source of vitamin D. Vitamin D is not abundant naturally in food, except in fish liver oil, fatty fish and egg yolk. Vitamin D2 (ergocalciferol) is the form used to fortify food such as margarine. Vitamin D3 is hydroxylated in the liver and again in the kidney to produce 1,25-dihydroxyvitamin D (1,25(OH)2D3), the most active form of the vitamin. It is produced following parathyroid hormone secretion in response to a low plasma calcium.
+Labels: Skin; 7-dehydrocholesterol; Ultraviolet light; Vitamin D3 (cholecalciferol); Liver; 25 (OH) D3; 1,25 (OH)2 D3; Intestine; Kidney; Bone; Absorption; Reabsorption; Blood; ↑Ca↑↑.
+
+Rickets
+
+Rickets signifies a failure in mineralisation of the growing bone or osteoid tissue. Failure of mature bone to mineralise is osteomalacia.
+
+Aetiology
+
+The causes of rickets are listed in Box 12.5. The predominant cause of rickets during the early twentieth century was nutritional vitamin D deficiency due to inadequate intake or insufficient exposure to direct sunlight. Nutritional rickets still remains the major cause in developing countries. In developed countries, nutritional rickets has become rare, as formula milk and many foods such as breakfast cereals are supplemented with vitamin D. However, nutritional rickets has re-emerged in developed countries in black or Asian infants totally breast-fed in late infancy. It is also seen in extremely preterm infants from dietary deficiency of phosphorus, together with low stores of calcium and phosphorus.
+
+Children with malabsorptive conditions such as cystic fibrosis, coeliac disease and pancreatic insufficiency can develop rickets due to deficient absorption of vitamin D, calcium or both. Drugs, especially anticonvulsants such as phenobarbital and phenytoin, interfere with the metabolism of vitamin D and may also cause rickets. Rickets may also result from impaired metabolic conversion or activation of vitamin D (hepatic and renal disease).
+
+Clinical manifestations
+
+The earliest sign of rickets is a ping-pong ball sensation of the skull (craniotabes) elicited by pressing firmly over the occipital or posterior parietal bones. The costochondral junctions may be palpable (rachitic rosary), wrists (especially in crawling infants) and ankles (especially in walking infants) may be widened and there may be a horizontal depression on the lower chest corresponding to attachment of the softened ribs and with the diaphragm (Harrison sulcus) (Figs 12.15, 12.16). The legs may become bowed (see Fig. 12.15). The clinical features are listed in Box 12.6 (see also Case History 12.2).
+
+Diagnosis
+
+This is made from:
+• Dietary history for vitamin and calcium intake
+• Blood tests – serum calcium is low or normal, phosphorus low, plasma alkaline phosphatase activity greatly increased, 25-hydroxyvitamin D may be low and parathyroid hormone elevated.
+• X-ray of the wrist joint – shows cupping and fraying of the metaphyses and a widened epiphyseal plate.
+
+214
+Box 12.5 Causes of rickets
+
+Nutritional (primary) rickets – risk factors
+• Living in northern latitudes
+• Dark skin
+• Decreased exposure to sunlight, e.g. in some Asian children living in the UK
+• Maternal vitamin D deficiency
+• Diets low in calcium, phosphorus and vitamin D, e.g. exclusive breast-feeding into late infancy or, rarely, toddlers on unsupervised ‘dairy-free’ diets
+• Macrobiotic, strict vegan diets
+• Prolonged parenteral nutrition in infancy with an inadequate supply of parenteral calcium and phosphate
+
+Intestinal malabsorption
+• Small bowel enteropathy (e.g. coeliac disease)
+• Pancreatic insufficiency (e.g. cystic fibrosis)
+• Cholestatic liver disease
+• High phytic acids in diet (e.g. chapattis)
+
+Defective production of 25(OH)D2
+• Chronic liver disease
+
+Increased metabolism of 25(OH)D3
+• Enzyme induction by anticonvulsants (e.g. phenobarbital)
+
+Defective production of 1,25(OH)2D3
+• Hereditary type I vitamin D-resistant (or dependent) rickets (mutation which abolishes activity of renal hydroxylase)
+• Familial (X-linked) hypophosphataemic rickets (renal tubular defect in phosphate transport)
+• Chronic renal disease
+• Fanconi syndrome (renal loss of phosphate)
+
+Target organ resistance to 1,25(OH)2D3
+• Hereditary vitamin D-dependent rickets type II (due to mutations in vitamin D receptor gene).
+
+Figure 12.15 Rickets in a 3-year-old boy secondary to coeliac disease. He has frontal bossing, a Harrison sulcus and bow legs.
+
+Figure 12.16 Harrison sulcus, indentation of the softened lower ribcage at the site of attachment of the diaphragm. (Courtesy of Dr Nick Shaw.)
+
+Box 12.6 Clinical features of rickets
+• Misery
+• Failure to thrive/short stature
+• Frontal bossing of skull
+• Craniotabes
+• Delayed closure of anterior fontanelle
+• Delayed dentition
+• Rickety rosary
+• Harrison sulcus (Fig. 12.16)
+• Expansion of metaphyses (especially wrist)
+• Bowing of weight-bearing bones
+• Hypotonia
+• Seizures (late).
+
+215
+Case History 12.2 Seizures and rickets
+
+Mohammed, a 13-month-old Somalian boy, was admitted to the A&E department with a generalised afebrile seizure. This was initially controlled with per rectum diazepam. Some 20 minutes later he had another generalised seizure and needed intravenous anticonvulsant to control his seizure.
+
+His mother said that he was a healthy child. He was born at term, birthweight 3.1 kg, and was still breast-fed. Some weaning foods were started at 7–8 months, but he preferred feeding at the breast. He had only recently begun to sit without support.
+
+His weight and head circumference were on the 2nd–9th centile. He had marked frontal bossing, widened wrist (Fig. 12.17) and other epiphyses, Harrison sulci, wide anterior fontanelle, craniotabes and a rachitic rosary. He would not take his weight on standing.
+
+Investigations showed a low calcium and phosphate level, a high alkaline phosphatase and parathyroid hormone level and a very low vitamin D level, confirming rickets. Liver and renal function tests were normal and coeliac screen was negative. His wrist X-ray showed characteristic features (Fig. 12.18). A detailed dietetic history revealed a diet deficient in calcium and vitamin D, confirming nutritional rickets as the cause.
+
+Dietetic input was provided. He was started on oral vitamin D and his solid food intake was increased to ensure that he was receiving sufficient calcium and vitamin D in his diet. His rickets resolved.
+
+Figure 12.17 Wrist expansion from rickets. (Courtesy of Dr Nick Shaw.)
+
+Figure 12.18 X-ray of the child’s wrist showing rickets. The ends of the radius and ulna are expanded, rarefied and cup-shaped and the bones are poorly mineralised.
+
+Management
+
+Nutritional rickets is managed by advice about a balanced diet, correction of predisposing risk factors and by the daily administration of vitamin D3 (cholecalciferol). If compliance is an issue, a single oral high dose of vitamin D3 can be given, followed by the daily maintenance dose. Healing occurs in 2–4 weeks and can be monitored from the lowering of alkaline phosphatase, increasing vitamin D levels and healing on X-rays, but complete reversal of bony deformities may take years.
+
+Summary
+
+Rickets
+• Nutritional – has re-emerged in the UK in Asian and black infants exclusively breast-fed into late infancy.
+• Diagnosis – serum calcium is low or normal, phosphorus low, plasma alkaline phosphatase greatly increased, 25-hydroxyvitamin D low and parathyroid hormone elevated.
+• X-ray features – cupping and fraying of the metaphyses and widened epiphyseal plate.
+
+Vitamin A deficiency
+
+In developed countries, vitamin A (retinol) deficiency is seen as a complication of fat malabsorption when supplementation has been inadequate. Clinical manifestations under these circumstances are rare, except for impaired adaptation to dark light. Vitamin A deficiency is the commonest cause of blindness in developing countries. It causes eye damage (xerophthalmia), which may progress from night blindness to corneal ulceration and scarring. It also results in increased susceptibility to infection, especially measles. Prevention in developing countries with high prevalence is by giving young children a dose of vitamin A; in some countries food is fortified. Supplementation is recommended for children with measles.
+
+Obesity
+
+Obesity is the most common nutritional disorder affecting children and adolescents in the developed world. Its importance is in its short- and long-term complications (Box 12.7) and that obese children tend to become obese adults.
+
+216
+Box 12.7 Complications of obesity
+• Orthopaedic – slipped upper femoral epiphysis, tibia vara (bow legs), abnormal foot structure and function
+• Idiopathic intracranial hypertension (headaches, blurred optic disc margins)
+• Hypoventilation syndrome (daytime somnolence; sleep apnoea; snoring; hypercapnia; heart failure)
+• Gallbladder disease
+• Polycystic ovarian syndrome
+• Type 2 diabetes mellitus
+• Hypertension
+• Abnormal blood lipids
+• Other medical sequelae, e.g. asthma, changes in left ventricular mass, increased risk of certain malignancies (endometrial, breast and colonic carcinoma)
+• Psychological sequelae – low self-esteem, teasing, depression.
+
+Figure 12.19 Body mass index (BMI) centile chart (Child Growth Foundation, reproduced with permission. Further supplies and information available at: http://www.healthforallchildren.co.uk. Accessed January 2011).
+Labels: Name; D.O.B; NHS No.; Mother weight; Height; BMI; Father weight; Height; BMI; Body mass index (kg/m2); Years; centile curves (99.6th, 98th, 91st, 75th, 50th, 25th, 9th, 2nd, 0.4th).
+
+Definitions
+
+In children, the body mass index (BMI = weight in kg/height in metres2) is expressed as a BMI centile in relation to age and sex-matched population. By convention in the UK, the 1990 chart is used (Fig. 12.19). For clinical use, overweight is a BMI >91st centile, obese is a BMI >98th centile. Very severe obesity is >3.5 standard deviations above the mean; extreme obesity >4 standard deviations. For children over 12 years old, overweight is BMI ≥25, obese ≥30, very severe obesity BMI ≥35 and extreme obesity BMI ≥40 kg/m2.
+
+In 1995, 11% of males and 12.5% of females aged 2–15 years were obese. By 2006, these figures were 17.5% and 14.5%, respectively.
+
+Aetiology
+
+The reasons for this marked increase in prevalence are unclear but are due to changes in the environment and behaviour relating to diet and activity.
+
+Energy-dense foods are now widely consumed, including high-fat fast foods and processed foods. However, there is no conclusive evidence that obese children eat more than children of normal weight. The National Food Survey showed that UK household energy intake has fallen since the 1970s, the amount of fruit purchased has increased by 75% and the intake of full fat milk decreased by 80%.
+
+Children’s energy expenditure has undoubtedly decreased. Fewer children walk to school; transport in
+
+217
+cars has increased; less time at school is spent doing physical activities; and children spend more time in front of small screens (video-games, mobile phones, computers and television), rather than playing outside.
+
+Children from low socioeconomic homes are more likely to be obese; females from the lowest socioeconomic quintile are 2.5 times more likely to be overweight when compared with the highest quintile.
+
+Prevention
+
+There are few randomised controlled trials and most involve complex packages of interventions. Interventions include decreased fat intake, increased fruit and vegetables, reduction in time spent in front of small screens, increased physical activity, and education. Of these, a reduction in time spent on small screens appears to be the most effective single factor.
+
+Endogenous causes
+
+Overnutrition accelerates linear growth and puberty. Obese children are therefore relatively tall and will usually be above the 50th centile for height. An endogenous cause, i.e. hypothyroidism and Cushing syndrome should be sought in short, obese children, in whom height velocity is decreased as height remains static in these conditions.
+
+In children who are obese with learning disabilities, or who are dysmorphic, a syndrome should be considered. The commonest of these is Prader–Willi (obesity, hyperphagia, poor linear growth, dysmorphic facial features, hypotonia and undescended testes in males; see Chapter 8 and Figure 8.19). In severely obese children under the age of 3 years, gene defects, e.g. leptin deficiency, should be considered.
+
+Management
+
+Most obese children are managed in primary care. Specialist paediatric assessment is indicated in any child with complications (Box 12.7) or if an endogenous cause is suspected.
+
+In the absence of evidence from randomised controlled trials, a pragmatic approach in any individual child based on consensus criteria has to be adopted (Box 12.8). Treatment should be considered where the child is above the 98th centile for BMI and the family are willing to make the necessary difficult lifestyle changes. Weight maintenance is a more realistic goal than weight reduction and will result in a demonstrable fall in BMI on centile chart as height increases. It can only be achieved by sustained changes in lifestyle:
+• Healthier eating – no sugar-containing juices or fizzy drinks; decrease food portion size by 10–20%; increase protein- and non-carbohydrate-containing vegetables, discourage snacking and encourage family meals.
+• An increase in habitual physical activity to 60 min of moderate to vigorous daily physical activity.
+• Reduce physical inactivity (e.g. small screen time) during leisure time to less than an average of 2 h per day.
+
+Box 12.8 Main messages for patients and parents about obesity
+• Incidence of obesity in children is increasing.
+• Obesity is a health concern in itself and also increases the risk of other serious health problems, such as high blood pressure, diabetes and psychological distress.
+• An obese child tends to become an obese adult.
+• Obesity in children may be prevented and treated by increasing physical activity/decreasing physical inactivity (e.g. small screen time) and encouraging a well-balanced and healthy diet.
+• Lifestyle changes involve making small gradual changes to behaviour.
+• Family support is necessary for treatment to succeed.
+• Generally, the aim of treatment is to help children maintain their weight (so that they can ‘grow into it’).
+• Most children are not obese because of an underlying medical problem but as a result of their lifestyle.
+
+Adapted from Scottish Intercollegiate Guidelines Network, SIGN.
+
+Drug treatment and surgery
+
+Drug treatment has a part to play in children over the age of 12 who have extreme obesity (BMI>40 kg/m2) or have a BMI>35 kg/m2 and complications of obesity. It is recommended that drug treatment should only be considered after dietary, exercise and behavioural approaches have been started (NICE 2006).
+
+Orlistat is a lipase inhibitor, which reduces the absorption of dietary fat and thus produces steatorrhoea. Fat intake should be reduced to avoid the unpleasant gastrointestinal side-effects. Metformin is a biguanide that increases insulin sensitivity, decreases gluconeogenesis and decreases gastrointestinal glucose absorption.
+
+If there is evidence of insulin insensitivity (Acanthosis nigricans, see Fig. 25.2), metformin should be considered. Orlistat may be appropriate if fat intake is high.
+
+Bariatric surgery is generally not considered appropriate in children or young people unless they have almost achieved maturity, have very severe or extreme obesity with complications, e.g. type 2 diabetes or hypertension, and all other interventions have failed to achieve or maintain weight loss. American data would suggest that laparoscopic adjustable gastric banding is the most appropriate operation.
+
+Dental caries
+
+Dental caries occurs as a result of exposure to organic acids produced by bacterial fermentation of carbohydrate, particularly sucrose (Fig. 12.20). Prevalence is now rising in young children. It is strongly related to socioeconomic deprivation.
+
+218
+Summary
+
+Obesity
+• An increasing major health issue for children, predisposing them to a wide range of medical and psychological problems in childhood and adult life, especially type 2 diabetes mellitus and cardiovascular disease.
+• Defined as a BMI >98th centile of the UK 1990 reference chart for age and sex; overweight is BMI >91st centile.
+• Exogenous causes (hypothyroidism and Cushing syndrome) of obesity are rare, and more likely in a child who is also short with falling height velocity; there are also some rare genetic syndromes.
+• Successful management requires sustained changes in lifestyle, with healthier eating, increased physical activity and reduction in physical inactivity.
+• Drug treatment and surgical intervention are only appropriate in a small number of children.
+• Lifestyle changes are difficult to achieve and even harder to maintain.
+• A cultural change in our society should be considered, e.g. removal of ‘tuck shops’ and vending machines with unhealthy food and drinks from schools.
+
+Prevention involves:
+• A reduction in plaque bacteria (brushing and flossing)
+• Less frequent ingestion of carbohydrates
+• Regular inspection by a dentist
+• An optimal intake of fluoride up to puberty to improve the resistance of the tooth to damage; water fluoridation is one of the most effective ways of achieving this.
+
+Incorporation of fluoride in enamel by ionic substitution leads to replacement of calcium hydroxyapatite with calcium fluorapatite, which is less soluble in organic acids. In areas where drinking water contains a low concentration of fluoride, supplementation with fluoride drops or tablets is needed. Additionally, topical fluoride in toothpaste or mouthwashes is also advisable. Excess fluoride administration, before enamel has formed, may lead to mottled enamel (dental fluorosis).
+
+Infants and children who are put to bed with a bottle containing fermentable liquid (milk or a sucrose-containing fruit juice) are at particular risk of developing severe dental caries. Characteristically, fluid collects around the upper anterior and posterior teeth, which become extensively damaged. Because of reduced salivation and swallowing during sleep, clearance and neutralisation of organic acids are also reduced. So-called ‘prop feeding’ should therefore be energetically discouraged. Infants fed on specialised formulae are also more at risk of developing dental caries because the carbohydrate in the milk is a glucose polymer.
+
+Figure 12.20 Dental caries. Prop-feeding infants when put to sleep with a bottle containing milk or other fermentable liquids places them at high risk of severe dental caries and should be discouraged.
+
+Further reading
+
+Beattie M, Dhawan A, Puntis J: Paediatric Gastroenterology, Hepatology and Nutrition (Oxford Specialist Handbooks in Paediatrics), Oxford, 2009, Oxford University Press.
+
+Short handbook.
+
+Websites (Accessed May 2011)
+
+The Baby Friendly Initiative: Available at: http://www.babyfriendly.org.
+Practical information on breast-feeding.
+
+World Health Organization: Guidelines for malnutrition in developing countries. Available at: www.who.int.
+
+Infant Feeding Survey: 2005. Available at: http://www.ic.nhs.uk/pubs/ifs2005.
+
+NICE Guideline 43. Obesity: the prevention, identification, assessment and management of overweight and obesity in adults and children. 2006. Available at: http://guidance.nice.org.uk/CG43/Guidance/Section.
+
+219
+13 Gastroenterology
+
+Vomiting 219
+Crying 222
+Acute abdominal pain 223
+Recurrent abdominal pain 227
+Gastroenteritis 229
+Malabsorption 233
+Toddler diarrhoea 234
+Inflammatory bowel disease 235
+Constipation 237
+
+Features of gastrointestinal disorders in children are:
+• Vomiting, abdominal pain and diarrhoea are common and usually transient; serious causes are uncommon but important to identify.
+• Worldwide, gastroenteritis is responsible for 1.2 million deaths/year, one of the commonest causes of death in children <5 years old.
+• The number of children and adolescents developing inflammatory bowel disease is increasing.
+• In contrast to adults, bowel cancer is extremely rare.
+
+Vomiting
+
+Posseting and regurgitation are terms used to describe the non-forceful return of milk, but differ in degree. Posseting describes the small amounts of milk which often accompany the return of swallowed air (‘wind’), whereas regurgitation describes larger, more frequent losses. Posseting occurs in nearly all babies from time to time, whereas regurgitation may indicate the presence of more significant gastro-oesophageal reflux.
+
+Vomiting is the forceful ejection of gastric contents. It is a common problem in infancy and childhood (Fig. 13.1 and Box 13.1).
+
+Box 13.1 ‘Red Flag’ clinical features in the vomiting child
+
+Bile-stained vomit — Intestinal obstruction
+Haematemesis — Oesophagitis, peptic ulceration, oral/nasal bleeding
+Projectile vomiting, in first few weeks of life — Pyloric stenosis
+Vomiting at the end of paroxysmal coughing — Whooping cough (pertussis)
+Abdominal tenderness/abdominal pain on movement — Surgical abdomen
+Abdominal distension — Intestinal obstruction, including strangulated inguinal hernia
+Hepatosplenomegaly — Chronic liver disease
+Blood in the stool — Intussusception, gastroenteritis – salmonella or campylobacter
+Severe dehydration, shock — Severe gastroenteritis, systemic infection (urinary tract infection, meningitis), diabetic ketoacidosis
+Bulging fontanelle or seizures — Raised intracranial pressure
+Failure to thrive — Gasto-oesophageal reflux, coeliac disease and other chronic gastrointestinal conditions
+
+220
+Figure 13.1 Causes of regurgitation/vomiting.
+
+Infants:
+• Gastro-oesophageal reflux
+• Feeding problems
+• Infection:
+  • Gastroenteritis
+  • Respiratory tract/otitis media
+  • Whooping cough (pertussis)
+  • Urinary tract
+  • Meningitis
+• Dietary protein intolerances
+• Intestinal obstruction:
+  • Pyloric stenosis
+  • Atresia – duodenal, other sites
+  • Intussusception
+  • Malrotation
+  • Volvulus
+  • Duplication cysts
+  • Strangulated inguinal hernia
+  • Hirschsprung disease
+• Inborn errors of metabolism
+• Congenital adrenal hyperplasia
+• Renal failure
+
+Preschool children:
+• Gastroenteritis
+• Infection:
+  • Respiratory tract/otitis media
+  • Urinary tract
+  • Meningitis
+  • Whooping cough (pertussis)
+• Appendicitis
+• Intestinal obstruction:
+  • Intussusception
+  • Malrotation
+  • Volvulus
+  • Adhesions
+  • Foreign body – bezoar
+• Raised intracranial pressure
+• Coeliac disease
+• Renal failure
+• Inborn errors of metabolism
+• Torsion of the testis
+
+School-age and adolescents:
+• Gastroenteritis
+• Infection – including pyelonephritis, septicaemia, meningitis
+• Peptic ulceration and H. pylori infection
+• Appendicitis
+• Migraine
+• Raised intracranial pressure
+• Coeliac disease
+• Renal failure
+• Diabetic ketoacidosis
+• Alcohol/drug ingestion or medications
+• Cyclical vomiting syndrome
+• Bulimia/anorexia nervosa
+• Pregnancy
+• Torsion of the testis
+
+It is usually benign and is often caused by feeding disorders or mild gastro-oesophageal reflux or gastroenteritis. Potentially serious disorders need to be excluded if the vomiting is bilious or prolonged, or if the child is systemically unwell or failing to thrive. In infants, vomiting may be associated with infection outside the gastrointestinal tract, especially in the urinary tract and central nervous system. In intestinal obstruction, the more proximal the obstruction, the more prominent the vomiting and the sooner it becomes bile-stained (unless the obstruction is proximal to the ampulla of Vater). Intestinal obstruction is associated with abdominal distension, more marked in distal obstruction. ‘Red Flag’ clinical features suggesting significant organic pathology are listed in Box 13.1.
+
+Summary
+
+Vomiting in infants
+• Common chronic causes are gastro-oesophageal reflux and feeding problems, e.g. force-feeding or overfeeding.
+• If transient, with other symptoms, e.g. fever, diarrhoea or runny nose and cough, most likely to be gastroenteritis or respiratory tract infection, but consider urine infection and meningitis.
+• If projectile at 2–7 weeks of age, exclude pyloric stenosis.
+• If bile stained, exclude intestinal obstruction, especially intussusception, malrotation and a strangulated inguinal hernia. Assess for dehydration and shock.
+
+Gastro-oesophageal reflux
+
+Gastro-oesophageal reflux is the involuntary passage of gastric contents into the oesophagus. It is extremely common in infancy. It is caused by inappropriate relaxation of the lower oesophageal sphincter as a result of functional immaturity. A predominantly fluid diet, a mainly horizontal posture and a short intra-abdominal length of oesophagus all contribute. While common in the first year of life, nearly all symptomatic reflux resolves spontaneously by 12 months of age. This is presumably due to a combination of maturation of the lower oesophageal sphincter, assumption of an upright posture and more solids in the diet.
+
+Most infants with gastro-oesophageal reflux have recurrent regurgitation or vomiting but are putting on weight normally and are otherwise well, although the mess, smell and frequent changes of clothes is frustrating for carers.
+
+Complications are listed in Box 13.2.

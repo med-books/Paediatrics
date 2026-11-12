@@ -1,0 +1,417 @@
+311
+• Start prostaglandin infusion (PGE, 5 ng/kg per min). Most infants with cyanotic heart disease presenting in the first few days of life are duct dependent; i.e. there is reduced mixing between the pink oxygenated blood returning from the lungs and the blue deoxygenated blood from the body. Maintenance of ductal patency is the key to early survival of these children. Observe for potential side-effects – apnoea, jitteriness and seizures, flushing, vasodilatation and hypotension.
+
+Tetralogy of Fallot
+
+This is the most common cause of cyanotic congenital heart disease (Fig. 17.8a).
+
+Clinical features
+
+In tetralogy of Fallot, as implied by the name, there are four cardinal anatomical features:
+• A large VSD
+• Overriding of the aorta with respect to the ventricular septum
+• Subpulmonary stenosis causing right ventricular outflow tract obstruction
+• Right ventricular hypertrophy as a result.
+
+Symptoms
+
+Most are diagnosed:
+• antenatally or
+• following the identification of a murmur in the first 2 months of life. Cyanosis at this stage may not be obvious, although a few present with severe cyanosis in the first few days of life.
+
+The classical description of severe cyanosis, hypercyanotic spells and squatting on exercise, developing in late infancy, is now rare in developed countries, but still common where access to the necessary paediatric cardiac services is not available. However, it is important to recognise hypercyanotic spells, as they may lead to myocardial infarction, cerebrovascular accidents and even death if left untreated. They are characterised by a rapid increase in cyanosis, usually associated with irritability or inconsolable crying because of severe hypoxia, and breathlessness and pallor because of tissue acidosis. On auscultation, there is a very short murmur during a spell.
+
+Signs
+• Clubbing of the fingers and toes will develop in older children
+• A loud harsh ejection systolic murmur at the left sternal edge from day 1 of life (Fig. 17.8b). With
+
+Figure 17.8 Tetralogy of Fallot. (a) Tetralogy of Fallot. The right ventricular outflow tract obstruction results in blood flowing from right to left across the ventricular septal defect. (b) Murmur. (c) Chest radiograph. (d) ECG.
+(c) Small heart; uptilted apex; pulmonary artery ‘bay’ (arrow); oligaemic lung fields.
+(d) Right ventricular hypertrophy. Upright T wave in V1 with ‘pure’ R wave (no S wave).
+
+
+312
+increasing right ventricular outflow tract obstruction, which is predominantly muscular and below the pulmonary valve, the murmur will shorten and cyanosis will increase.
+
+Investigations
+
+Chest radiograph (Fig. 17.8c)
+
+A radiograph will show a relatively small heart, possibly with an uptilted apex (boot-shaped) due to right ventricular hypertrophy, more prominent in the older child. There may be a right-sided aortic arch, but characteristically, there is a pulmonary artery ‘bay’, a concavity on the left heart border where the convex-shaped main pulmonary artery and right ventricular outflow tract would normally be profiled. There may also be decreased pulmonary vascular markings reflecting reduced pulmonary blood flow.
+
+ECG (Fig. 17.8d)
+
+Normal at birth. Right ventricular hypertrophy when older.
+
+Echocardiography
+
+This will demonstrate the cardinal features, but cardiac catheterisation may be required to show the detailed anatomy of the coronary arteries.
+
+Management
+• Initial management is medical, with definitive surgery at around 6 months of age. It involves closing the VSD and relieving right ventricular outflow tract obstruction, sometimes with an artificial patch, which extends across the pulmonary valve.
+• Infants who are very cyanosed in the neonatal period require a shunt to increase pulmonary blood flow. This is usually done by surgical placement of an artificial tube between the subclavian artery and the pulmonary artery (a modified Blalock–Taussig shunt), or sometimes by balloon dilatation of the right ventricular outflow tract.
+• Hypercyanotic spells are usually self-limiting and followed by a period of sleep. If prolonged (beyond about 15 min), they require prompt treatment with:
+  – sedation and pain relief (morphine is excellent)
+  – intravenous propranolol (or an α adrenoceptor agonist), which probably works both as a peripheral vasoconstrictor and by relieving the subpulmonary muscular obstruction that is the cause of reduced pulmonary blood flow
+  – intravenous volume administration
+  – bicarbonate to correct acidosis
+  – muscle paralysis and artificial ventilation in order to reduce metabolic oxygen demand.
+
+Transposition of the great arteries
+
+The aorta is connected to the right ventricle, and the pulmonary artery is connected to the left ventricle (discordant ventriculo–arterial connection). The blue blood is therefore returned to the body and the pink blood is returned to the lungs (Fig. 17.9a). There are two parallel circulations – unless there is mixing of blood between them this condition is incompatible with life. Fortunately, there are a number of naturally occurring associated anomalies, e.g. VSD, ASD and PDA, as well as therapeutic interventions which can achieve this mixing in the short term.
+
+Clinical features
+
+Symptoms
+
+Cyanosis is the predominant symptom. It may be profound and life-threatening. Presentation is usually on day 2 of life when ductal closure leads to a marked reduction in mixing of the desaturated and saturated blood. Cyanosis will be less severe and presentation delayed if there is more mixing of blood from associated anomalies, e.g. an ASD.
+
+Physical signs (Fig. 17.9b)
+• Cyanosis is always present
+• The second heart sound is often loud and single
+• Usually no murmur, but may be a systolic murmur from increased flow or stenosis within the left ventricular (pulmonary) outflow tract.
+
+Investigations
+
+Chest radiograph (Fig. 17.9c)
+
+This may reveal the classic findings of a narrow upper mediastinum with an ‘egg on side’ appearance of the cardiac shadow (due to the anteroposterior relationship of the great vessels, narrow vascular pedicle and hypertrophied right ventricle, respectively). Increased pulmonary vascular markings are common due to increased pulmonary blood flow.
+
+ECG (Fig. 17.9d)
+
+This is usually normal.
+
+Echocardiography
+
+This is essential to demonstrate the abnormal arterial connections and associated abnormalities.
+
+Management
+• In the sick cyanosed neonate, the key is to improve mixing.
+• Maintaining the patency of the ductus arteriosus with a prostaglandin infusion is mandatory.
+• A balloon atrial septostomy may be a life-saving procedure which may need to be performed in 20% of those with transposition of the great arteries (Fig. 17.9e–g). A catheter, with an inflatable balloon at its tip, is passed through the umbilical or femoral vein and then on through the right atrium and foramen ovale. The balloon is inflated within the left atrium and then pulled back through the atrial septum. This tears the atrial septum, renders the flap valve of the foramen ovale incompetent, and so allows mixing of the systemic and pulmonary venous blood within the atrium.
+• All patients with transposition of the great arteries will require surgery, which is usually the arterial switch procedure in the neonatal period. In this operation, performed in the first few days of life, the pulmonary artery and aorta are transected
+
+
+313
+Transposition of the great arteries
+
+(a) Complete transposition of the great arteries
+(b) Heart sounds: variable systolic murmur; coincident A2P2 = single second sound
+(c) Chest radiograph: narrow pedicle; ‘egg on side’ cardiac contour; increased pulmonary vascular markings
+(d) ECG: usually normal neonatal pattern
+(e) Balloon atrial septostomy
+(f) Echocardiogram showing balloon in left atrium
+(g) Balloon has been pulled through the atrial septum and is now in the right atrium
+
+Figure 17.9 Transposition of the great arteries. (a) Transposition of the great arteries. There must be mixing of blood between the two circulations for this to be compatible with life. (b) Heart sounds. (c) Chest radiograph. (d) ECG. (e) Balloon atrial septostomy. A balloon (about 2 ml) is pulled through the atrial septum from the left atrium to the right atrium in order to increase the size of the atrial defect. This is done with echocardiographic guidance. (f) Echocardiogram showing balloon in left atrium. (g) Balloon has been pulled through the atrial septum and is now in the right atrium. (B, balloon; LA, left atrium; RA, right atrium; LV, left ventricle).
+
+
+314
+Summary
+
+Cyanotic congenital heart disease
+
+Lesion | Clinical features | Management
+
+Tetralogy of Fallot | Loud murmur at ULSE; clubbing of fingers and toes (older); hypercyanotic spells | Surgery at 6–9 months
+
+Transposition of the great arteries | Neonatal cyanosis; no murmur | Prostaglandin infusion; balloon atrial septostomy; arterial switch operation in neonatal period
+
+Eisenmenger syndrome | No murmur; right heart failure (late) | Medication to delay transplantation
+
+above the arterial valves and switched over. In addition, the coronary arteries have to be transferred across to the new aorta.
+
+Eisenmenger syndrome
+
+If high pulmonary blood flow due to a large left-to-right shunt or common mixing is not treated at an early stage, then the pulmonary arteries become thick walled and the resistance to flow increases (Fig. 17.10). Gradually, those children that survive, become less symptomatic, as the shunt decreases. Eventually, at about 10–15 years, the shunt reverses and the teenager becomes blue, which is Eisenmenger syndrome. This situation is progressive and the adult will die in right heart failure at a variable age, usually in the fourth or fifth decade of life. Treatment is aimed at prevention of this condition, with early intervention for high pulmonary blood flow. Transplantation is not easily available although there are now medicines to palliate such pulmonary vascular disease (see Pulmonary hypertension, below).
+
+Figure 17.10 Eisenmenger syndrome with right-to-left shunting from pulmonary vascular disease following increased pulmonary blood flow and pulmonary hypertension with large VSD.
+
+Common mixing (blue and breathless)
+
+These include:
+• Atrioventricular septal defect (complete)
+• Complex congenital heart disease e.g. tricuspid atresia
+
+Atrioventricular septal defect (complete)
+
+This occurs in:
+• Atrioventricular septal defect (complete)
+• Complex congenital heart disease
+
+This is most commonly seen in children with Down syndrome (Fig. 17.11). A complete atrioventricular septal defect (cAVSD) is a defect in the middle of the heart with a single five-leaflet (common) valve between
+
+Figure 17.11 Complete atrioventricular septal defect, with a common atrioventricula valve between a large atrial and ventricular component to the AVSD.
+
+
+315
+Summary
+
+Common mixing
+
+Lesion | Clinical features | Management
+
+Atrioventricular septal defect (complete) | Down syndrome (often); cyanosis at birth; breathless at 2–3 weeks of life | Treat heart failure medically; surgical repair at 3 months
+
+Complex diseases (e.g. tricuspid atresia) | Cyanosis; breathless | Shunt (Blalock–Taussig) or pulmonary artery banding, then surgery (Fontan operation)
+
+the atria and ventricles which stretches across the entire atrioventricular junction and tends to leak. As there is a large defect there is pulmonary hypertension.
+
+Features of a complete atrioventricular septal defect are:
+• Presentation on antenatal ultrasound screening
+• Cyanosis at birth or heart failure at 2–3 weeks of life
+• No murmur heard, the lesion being detected on routine echocardiography screening in a newborn baby with Down syndrome
+• There is always a superior axis on the ECG
+• Management is to treat heart failure medically (as for large VSD) and surgical repair at 3–6 months of age.
+
+Complex congenital heart disease
+
+It is difficult to generalise about these conditions, (tricuspid atresia, mitral atresia, double inlet left ventricle, common arterial trunk – truncus arteriosus) since their main presenting feature depends on whether cyanosis or heart failure is more predominant. Tricuspid atresia is the commonest.
+
+Tricuspid atresia
+
+In tricuspid atresia (Fig. 17.12), only the left ventricle is effective, the right being small and non-functional.
+
+Clinical features
+
+There is ‘common mixing’ of systemic and pulmonary venous return in the left atrium. Presentation is with cyanosis in the newborn period if duct dependent, or the child may be well at birth and become cyanosed or breathless.
+
+Management
+
+Early palliation (as with all the common mixing complex diseases) is performed to maintain a secure supply of blood to the lungs at low pressure, by:
+• A Blalock–Taussig shunt insertion (between the subclavian and pulmonary artery) in children who are severely cyanosed
+• Pulmonary artery banding operation to reduce pulmonary blood flow if breathless.
+
+Figure 17.12 In tricuspid atresia, there is only one effective ventricle because of complete absence of the tricuspid valve.
+
+Completely corrective surgery is not possible with most, as there is often only one effective functioning ventricle. Palliation is performed (Glenn or hemi-Fontan operation connecting the superior vena cava to the pulmonary artery after 6 months of age and a Fontan operation to also connect the inferior vena cava to the pulmonary artery at 3–5 years).
+
+Thus, the left ventricle drives blood around the body and systemic venous pressure supplies blood to the lungs. The Fontan operation results in a less than ideal functional outcome, but has the advantages of relieving cyanosis and removing the long-term volume load on the single functional ventricle.
+
+Outflow obstruction in the well child
+
+These lesions are:
+• Aortic stenosis
+• Pulmonary stenosis
+• Adult-type coarctation of the aorta.
+
+
+316
+Aortic stenosis
+
+The aortic valve leaflets are partly fused together, giving a restrictive exit from the left ventricle (Fig. 17.13a). There may be one to three aortic leaflets. Aortic stenosis may not be an isolated lesion. It is often associated with mitral valve stenosis and coarctation of the aorta, and their presence should always be excluded.
+
+Clinical features
+
+Most present with an asymptomatic murmur. Those with severe stenosis may present with reduced exercise tolerance, chest pain on exertion or syncope.
+
+In the neonatal period, those with critical aortic stenosis and a duct-dependent systemic circulation may present with severe heart failure leading to shock.
+
+Physical signs (Fig. 17.13b)
+• Small volume, slow rising pulses
+• Carotid thrill (always)
+• Ejection systolic murmur maximal at the upper right sternal edge radiating to the neck
+• Delayed and soft aortic second sound
+• Apical ejection click.
+
+Investigations
+
+Chest radiograph (Fig. 17.13c)
+
+Normal or prominent left ventricle with post-stenotic dilatation of the ascending aorta.
+
+ECG (Fig. 17.13d)
+
+There may be left ventricular hypertrophy.
+
+Management
+
+In children, regular clinical and echocardiographic assessment is required in order to assess when to intervene. Children with symptoms on exercise or who have a high resting pressure gradient (>64 mmHg) across the aortic valve will undergo balloon valvotomy. Balloon dilatation in older children is generally safe and uncomplicated, but in neonates this is much more difficult and dangerous.
+
+Most neonates and children with significant aortic valve stenosis requiring treatment in the first few years of life will eventually require aortic valve replacement. Early treatment is therefore palliative and directed towards delaying this for as long as possible.
+
+Figure 17.13 Aortic stenosis. (a) Aortic stenosis. (b) Murmur. (c) Chest radiograph. (d) ECG.
+(c) Prominent left ventricle; post-stenotic dilatation of the ascending aorta (arrow).
+(d) Deep S wave in V2 and tall R wave in V6 (>45 mm total) indicates left ventricular hypertrophy. Downgoing T wave suggests left ventricular strain and severe aortic stenosis.
+
+Pulmonary stenosis
+
+The pulmonary valve leaflets are partly fused together, giving a restrictive exit from the right ventricle.
+
+Clinical features
+
+Most are asymptomatic (Fig. 17.14a). It is diagnosed clinically. A small number of neonates with critical pulmonary stenosis have a duct-dependent pulmonary circulation and present in the first few days of life with cyanosis.
+
+
+317
+Physical signs (Fig. 17.14b)
+• An ejection systolic murmur best heard at the upper left sternal edge; thrill may be present
+• An ejection click best heard at the upper left sternal edge
+• When severe, there is a prominent right ventricular impulse (heave).
+
+Investigations
+
+Chest radiograph (Fig. 17.14c)
+
+Normal or post-stenotic dilatation of the pulmonary artery.
+
+ECG (Fig. 17.14d)
+
+Shows evidence of right ventricular hypertrophy (upright T wave in V1).
+
+Management
+
+Most children are asymptomatic and when the pressure gradient across the pulmonary valve becomes markedly increased (> about 64 mmHg), intervention will be required. Trans-catheter balloon dilatation is the treatment of choice in most children.
+
+Adult-type coarctation of the aorta
+
+This uncommon lesion (Fig. 17.15a) is not duct dependent. It gradually becomes more severe over many years.
+
+Clinical features (Fig. 17.15b)
+• Asymptomatic
+• Systemic hypertension in the right arm
+• Ejection systolic murmur at upper sternal edge
+• Collaterals heard with continuous murmur at the back
+• Radio-femoral delay. This is due to blood bypassing the obstruction via collateral vessels in the chest wall and hence the pulse in the legs is delayed.
+
+Investigations
+
+Chest radiograph (Fig. 17.15c)
+• ‘Rib notching’ due to the development of large collateral intercostal arteries running under the ribs posteriorly to bypass the obstruction
+• ‘3’ sign, with visible notch in the descending aorta at site of the coarctation
+
+ECG
+• Left ventricular hypertrophy (Fig. 17.15d).
+
+Management
+
+When the condition becomes severe, as assessed by echocardiography, a stent may be inserted at cardiac catheter. Sometimes surgical repair is required.
+
+Figure 17.14 Pulmonary valve stenosis. (a) Pulmonary valve stenosis. (b) Murmur. (c) Chest radiograph. (d) ECG.
+(c) Post-stenotic dilatation of the pulmonary artery (arrow).
+(d) Upright T wave in V1 indicates right ventricular hypertrophy in children.
+
+
+318
+Summary
+
+Outflow obstruction in the well child
+
+Lesion | Signs | Management
+Aortic stenosis | Murmur, upper right sternal edge; carotid thrill | Balloon dilatation
+Pulmonary stenosis | Murmur, upper left sternal edge; no carotid thrill | Balloon dilatation
+Coarctation (adult type) | Systemic hypertension; radio-femoral delay | Stent insertion or surgery
+
+Figure 17.15 Coarctation of the aorta. (a) Coarctation of the aorta. There is narrowing of the aorta distal to the left subclavian artery adjacent to the insertion of the arterial duct. (b) Murmur. (c) Chest radiograph. (d) ECG.
+(b) Ejection systolic murmur between shoulder blades or normal.
+(c) Usually normal. Rib notching from aortic-to-aortic collateral arteries in teenagers and adults.
+(d) Deep S wave in V2 and tall R wave in V6 (>45 mm total) and upright T wave indicates left ventricular hypertrophy. Downgoing T wave suggests left ventricular strain and severe coarctation and/or hypertension.
+
+Outflow obstruction in the sick infant
+
+These lesions include:
+• Coarctation of the aorta
+• Interruption of the aortic arch
+• Hypoplastic left heart syndrome.
+
+Clinical features are:
+• In all of these children, they usually present sick with heart failure and shock in the neonatal period, unless diagnosed on antenatal ultrasound
+• Management is to resuscitate first (ABC)
+• Prostaglandin should be commenced at the earliest opportunity
+• Referral is made to a cardiac centre for early surgical intervention.
+
+Coarctation of the aorta (Fig. 17.3)
+
+This is due to arterial duct tissue encircling the aorta just at the point of insertion of the duct. When the duct closes, the aorta also constricts, causing severe obstruction to the left ventricular outflow. This is the commonest cause of collapse due to left outflow obstruction.
+
+Clinical features
+
+Examination on the first day of life is usually normal. The neonates usually present with acute circulatory collapse at 2 days of age when the duct closes.
+
+
+319
+Physical signs
+• A sick baby, with severe heart failure
+• Absent femoral pulses
+• Severe metabolic acidosis.
+
+Investigations
+
+Chest radiograph
+
+Cardiomegaly from heart failure and shock.
+
+ECG
+
+Normal.
+
+Management
+
+As for all the children in this section with an obstructed left outflow tract (see above). Surgical repair is performed soon after diagnosis.
+
+Interruption of the aortic arch
+• Uncommon, with no connection between the proximal aorta and distal to the arterial duct, so that the cardiac output is dependent on right-to-left shunt via the duct (Fig. 17.16)
+• A VSD is usually present
+• Presentation is with shock in the neonatal period as above
+• Complete correction with closure of the VSD and repair of the aortic arch is usually performed within the first few days of life.
+• Association with other conditions (DiGeorge syndrome – absence of thymus, palatal defects, immunodeficiency and hypocalcaemia and 22q11.2 gene micro-deletion).
+
+Figure 17.16 Interruption of the aortic arch. The lower body circulation is maintained by right-to-left flow of blood across the duct.
+Interrupted aortic arch.
+
+Hypoplastic left heart syndrome
+
+In this condition there is underdevelopment of the entire left side of the heart (Fig. 17.17). The mitral valve is small or atretic, the left ventricle is diminutive and there is usually aortic valve atresia. The ascending aorta is very small, and there is almost invariably coarctation of the aorta.
+
+Figure 17.17 Hypoplastic left heart syndrome. The entire left side of the heart is underdeveloped.
+Hypoplastic left heart.
+
+Summary
+
+Left heart outflow obstruction in the sick infant – duct-dependent lesions
+
+Lesion | Clinical features | Management
+Coarctation of the aorta | Circulatory collapse; absent femoral pulses | Maintain ABC; prostaglandin infusion
+Interruption of the aortic arch | Circulatory collapse; absent femoral pulses and absent left brachial pulse | Maintain ABC; prostaglandin infusion
+Hypoplastic left heart syndrome | Circulatory collapse; all peripheral pulses absent | Maintain ABC; prostaglandin infusion
+
+
+320
+Clinical features
+
+These children may be detected antenatally at ultrasound screening. This allows for effective counselling and prevents the child from becoming sick after birth. If they do present after birth, they are the sickest of all neonates presenting with a duct-dependent systemic circulation. There is no flow through the left side of the heart, so ductal constriction leads to profound acidosis and rapid cardiovascular collapse. There is weakness or absence of all peripheral pulses, in contrast to weak femoral pulses in coarctation of the aorta.
+
+Management
+
+The management of this condition consists of a difficult neonatal operation called the Norwood procedure. This is followed by a further operation (Glenn or hemi-Fontan) at about 6 months and again (Fontan) at about 3 years.
+
+Care following cardiac surgery
+
+Most children recover rapidly following cardiac surgery and are back at nursery or school within a month. Exercise tolerance will be variable and most children can be allowed to find their own limits. Restricted exercise is advised only for children with severe residual aortic stenosis and for ventricular dysfunction.
+
+Most of the children are followed up in specialist cardiac clinics. Most lead normal, unrestricted lives, but any change in symptoms, e.g. decreasing exercise tolerance or palpitations, requires further investigation. An increasing number of adolescents and young adults require revision of surgery performed in early life. The most common reason for this is replacement of artificial valves and relief of post-surgical suture line stenosis, for example re-coarctation or pulmonary artery stenosis.
+
+Cardiac arrhythmias
+
+Sinus arrhythmia is normal in children and is detectable as a cyclical change in heart rate with respiration. There is acceleration during inspiration and slowing on expiration (the heart rate changing by up to 30 beats/min).
+
+Supraventricular tachycardia
+
+This is the most common childhood arrhythmia. The heart rate is rapid, between 250 and 300 beats/min. It can cause poor cardiac output and pulmonary oedema. It typically presents with symptoms of heart failure in the neonate or young infant. It is a cause of hydrops fetalis and intrauterine death. The term re-entry tachycardia is used because a circuit of conduction is set up, with premature activation of the atrium via an accessory pathway. There is rarely a structural heart problem, but an echocardiogram should be performed.
+
+Figure 17.18 Rhythm strip showing supraventricular re-entry tachycardia, in which there is a narrow complex tachycardia (<120 ms or three small squares) of 250–300 beats/min, and response to treatment with adenosine.
+
+Investigation
+
+The ECG will generally show a narrow complex tachycardia of 250–300 beats/min (Fig. 17.18). It may be possible to discern a P wave after the QRS complex due to retrograde activation of the atrium via the accessory pathway. If heart failure is severe, there may be changes suggestive of myocardial ischaemia, with T-wave inversion in the lateral precordial leads. When in sinus rhythm, a short P–R interval may be discernible. In the Wolff–Parkinson–White (WPW) syndrome, the early antegrade activation of the ventricle via the pathway results in a short P–R interval and a delta wave.
+
+Management
+
+In the severely ill child, prompt restoration of sinus rhythm is the key to improvement. This is achieved by:
+• Circulatory and respiratory support – tissue acidosis is corrected, positive pressure ventilation if required
+• Vagal stimulating manoeuvres, e.g. carotid sinus massage or cold ice pack to face, successful in about 80%
+• Intravenous adenosine – the treatment of choice. This is safe and effective, inducing atrioventricular block after rapid bolus injection. It terminates the tachycardia by breaking the re-entry circuit that is set up between the atrioventricular node and accessory pathway. It is given incrementally in increasing doses
+• Electrical cardioversion with a synchronised DC shock (0.5–2 J/kg body weight) if adenosine fails.
+
+Once sinus rhythm is restored, maintenance therapy will be required, e.g. with flecainide or sotalol. Digoxin can be used on its own when there is no overt pre-excitation wave (delta wave) on the resting ECG, but propranolol can be added in the presence of pre-excitation. Even though the resting ECG may remain abnormal, 90% of children will have no further attacks after infancy. Treatment is therefore stopped at 1 year of age. Those who have WPW syndrome need to be assessed to ensure they cannot conduct quickly and this may be undertaken in teenage life, with atrial pacing. This will reduce the small chance of sudden death in such patients. Those who relapse or are at risk are usually treated with percutaneous radiofrequency ablation or cryoablation of the accessory pathway.
