@@ -1,0 +1,424 @@
+421
+
+remain highly vulnerable to mental and social-economic adversities due to past and ongoing stressful experiences.
+
+The second implication relates to well-recognised ethnic differences in the epidemiology of some psychiatric disorders. For example, among people of African and Caribbean origin living in Western European countries, there is a clear increase in the incidence of schizophrenia but a lower incidence of anorexia nervosa compared with the indigenous Caucasian population.
+
+Another implication of culture relates to the presentation of psychiatric symptoms. It is well recognised that the content of obsessions in children with obsessive compulsive disorder is sometimes shaped by the child’s cultural and religious beliefs. This is also true of some delusions in young people with psychotic disorders. In these examples, understanding the child’s religious and cultural background is essential for making an accurate diagnosis.
+
+There are also important cultural differences about normative behaviour in children and thresholds for help-seeking. Differences in the level of stigma attached to mental illness across cultures also influence parent’s help-seeking behaviour and access to child and adolescent mental health services.
+
+The above implications suggest that cultural awareness and sensitivity are essential skills for all clinicians working or intending to work in ethnically diverse societies. The key message is that the presentation of psychiatric distress in children and young people may be coloured by their culture and language. It is therefore essential to avoid making assumptions about the significance of clinical information with cultural or religious meaning but instead to contextualise the information to the patient’s culture, for example, through the use of trained interpreters.
+
+Assessment
+
+It is best to interview both parents if possible. While doing so, consider the quality of their relationship and the parents’ mental state. Ask open questions where possible and feel able to ask directly about feelings. Assess the attitudes of the parents to the child. Obtain examples of the problem and estimate its frequency, severity, duration and the impact it has on both the child and family.
+
+Interview the child and ask to see the older child alone as part of the assessment. Explain to the parents that you always like to have a few words with children on their own as they may have things they may feel too embarrassed to discuss with parents present. Assess the extent of the child’s suffering (they may be somewhat brazen and minimise this). Keep your questions very simple and specific, making sure the child understands what it is you want to know. This also applies to teenagers. Ask about use of drugs and alcohol, experience of abuse, thoughts of self-harm and suicide. Consider whether reports from school or other involved agencies might help. In many instances, it is worth asking the parents to keep a prospective record of the problem by means of a diary or chart which you can inspect in a few days’ time. Tell them what headings you want this under (such as ‘antecedents, behaviour and consequences’ for temper tantrums).
+
+Treatment
+
+Figure 23.5 shows an approach to managing a child displaying an emotional or behavioural problem. The process of making a referral to a child and adolescent mental health service (CAMHS) is most likely to succeed if the referrer has already taken some of the history and engaged the parents and child in an attempt to alleviate the problem. Many doctors, general practitioners and paediatricians in particular, are good generalists in child mental health issues and the mental health specialist should be seen as a specialist extension of their expertise, rather than a completely different sort of person.
+
+In general, the management of children’s emotional and behavioural problems:
+
+• should be psychological rather than pharmacological
+• does not need the child to be admitted to hospital (unless required as a place of safety for suicidal children or for child protection)
+• involves parents as key participants
+• may involve a variety of health and social service professionals.
+
+Often more than one intervention is required and treatments are combined and several professionals become involved.
+
+Figure 23.5 An approach to children’s psychological problems.
+
+Flowchart text:
+Is this symptom normal for a child of this age?
+Yes → Why is it being complained about? Consider reassurance, once reason for concern identified.
+No → Is it a normal reaction to a stressor?
+Yes → Explain and advise.
+No → Can I manage it myself?
+Yes → Counselling parents; Counselling child; Behaviour programme; Medication.
+No → To whom do I refer?
+If no improvement → To whom do I refer?
+Paediatrician; Child psychiatrist; Clinical psychologist; Social services; Voluntary agency.
+
+422
+
+Box 23.15 Main psychological treatment interventions employed for emotional and behavioural problems
+
+Explanation and reassurance
+Suitable for mild problems with a good prognosis arising in children from supportive families who can work out for themselves a sensible way of managing the problem until it subsides.
+
+Counselling of child or parents
+Used to provide non-directive, unstructured supportive therapy for children and families to aid coping with difficulties that are not severe enough to require specialist psychological interventions (e.g. bereavement counselling).
+
+In parental counselling, the aim is to enhance parental coping not by telling the parent what to do but by helping them to find their own solutions, so increasing their confidence and effectiveness.
+
+Parenting groups
+Recently, parenting groups have become popular where a number of parents are seen together and given tools on how to play with their children and respond effectively to their challenging behaviour. Various approaches are rehearsed using role play and the facilitation of a therapist.
+
+Behavioural therapy
+A pragmatic approach to problems, which alters the environmental factors that trigger or maintain behaviours. It is particularly effective in the management of behavioural problems in young children.
+
+Family therapy
+Widely used by child mental health professionals. It uses a series of interviews with the entire household to alter dysfunctional patterns of relationships between family members on the basis that many children’s problems are perpetuated by the ways in which family members live with and deal with each other.
+
+Cognitive therapy
+Used by specialists to explore the way thinking affects feelings and behaviour. It helps the young person to identify and challenge unhelpful thinking styles that perpetuate negative feelings and behaviour. Good evidence for efficacy in a range of disorders including depression.
+
+Individual or group dynamic psychotherapy
+More structured and intense extension of counselling, which can help children who, for example, have unconscious conflicts, which are manifest as relationship difficulties with a parent. Once the mainstay of child psychiatry, it is now less commonly used.
+
+The main treatment interventions employed are described in Box 23.15.
+
+Medication plays a comparatively small role, although particular instances for which there is evidence for their efficacy are the use of stimulant and non-stimulant drugs in hyperkinetic disorder (ADHD), neuroleptics in psychosis and antidepressants for severely depressed adolescents. There is sometimes a temptation to sedate a child who is causing a problem but this is rarely effective and ethically questionable.
+
+Further reading
+
+Coghill D, Bonnar S, Duke S, et al: Child and Adolescent Psychiatry, Oxford Specialist Handbooks in Psychiatry, Oxford, 2009, Oxford University Press.
+
+Goodman R, Scott S: Child Psychiatry, ed 2, Chichester, 2005, Wiley.
+
+Lask B, Taylor S, Nunn K: Practical Child Psychiatry, London, 2003, BMJ Books.
+
+Rutter M, Bishop D, Pine D, et al: Rutter’s Child and Adolescent Psychiatry, Oxford, 2010, Blackwell.
+
+423
+
+24
+Skin disorders
+
+The newborn 423
+Rashes of infancy 425
+Infections and infestations 428
+Other childhood skin disorders 430
+Rashes and systemic disease 431
+
+Features of skin disorders in children include:
+
+• In the newborn, transient skin disorders are common but need to be distinguished from serious or permanent conditions
+• Atopic eczema affects up to 20% of children
+• Skin infections and infestations, especially viral warts and head lice, are common in school-aged children
+• Acne is troublesome for many during adolescence.
+
+The newborn
+
+The skin at birth is covered with vernix caseosa. This chalky-white greasy coat, mainly composed of water, proteins and lipids, protects the skin in utero from the amniotic fluid. Shedding of vernix towards the end of gestation coincides with maturation of the transepidermal barrier. In the preterm infant, the skin is thin, poorly keratinised and lacks subcutaneous fat. Transepidermal water loss is markedly increased when compared with a term infant. The preterm infant is also unable to sweat until a few weeks old, whereas the term infant can sweat from birth.
+
+Common naevi and rashes in the newborn period are described under the examination of the newborn infant (see Ch. 9). Some less common skin conditions presenting in the newborn period are described in this chapter.
+
+Bullous impetigo
+
+This is an uncommon but potentially serious blistering form of impetigo, the most superficial form of bacterial infection, seen particularly in the newborn (Fig. 24.1). It is most often caused by Staphylococcus aureus. Treatment is with systemic antibiotics, e.g. penicillinase-resistant penicillin (see also Ch. 14).
+
+Melanocytic naevi (moles)
+
+Congenital moles occur in up to 3% of neonates and any that are present are usually small. Congenital pigmented naevi involving extensive areas of skin (i.e. naevi >9 cm in diameter) are rare but disfiguring (Fig. 24.2) and carry a 4–6% lifetime risk of subsequent malignant melanoma. They require prompt referral to a paediatric dermatologist and plastic surgeon to assess the feasibility of removal.
+
+Melanocytic naevi become increasingly common as children get older and the presence of large numbers
+
+Figure 24.1 Bullous impetigo in a 2-week-old baby.
+
+Figure 24.2 A large (giant) congenital pigmented hairy naevus. Other smaller naevi are also visible.
+
+424
+
+Figure 24.3 A child with oculocutaneous albinism, with her parents. The hair is silvery-white.
+
+Figure 24.4 Severe, autosomal recessive form of epidermolysis bullosa. There is scarring following recurrent blistering.
+
+in an adult may be indicative of childhood sun exposure. Prolonged exposure to sunlight should be avoided and sunscreen preparations with a sun protection factor exceeding 20 should be applied liberally to exposed skin in bright weather and reapplied every few hours.
+
+Malignant melanoma is rare before puberty, except in giant naevi. However, in adults, the incidence of malignant melanoma has increased dramatically over the past 30 years. Risk factors for melanoma include a positive family history, having a large number of melanocytic naevi, fair skin, repeated episodes of sunburn and living in a hot climate with chronic skin exposure to the sun.
+
+Parents should prevent their children becoming sunburnt.
+
+Albinism
+
+This is due to a defect in biosynthesis and distribution of melanin. The albinism may be oculocutaneous, ocular or partial, depending on the distribution of depigmentation in the skin and eye (Fig. 24.3). The lack of pigment in the iris, retina, eyelids and eyebrows results in failure to develop a fixation reflex. There is pendular nystagmus and photophobia, which causes constant frowning. Correction of refractive errors and tinted lenses may be helpful. In a few children, the fitting of tinted contact lenses from early infancy allows the development of normal fixation. The disorder is an important cause of severe visual impairment. The pale skin is prone to sunburn and skin cancer. In sunlight, a hat should be worn and high factor barrier cream applied to the skin.
+
+Epidermolysis bullosa
+
+This is a rare group of genetic conditions with many types, characterised by blistering of the skin and mucous membranes. Autosomal dominant variants tend to be milder; autosomal recessive variants may be severe and even fatal. Blisters occur spontaneously or follow minor trauma (Fig. 24.4). They need to be differentiated from scalds. Management is directed to avoiding injury from even minor skin trauma and treating secondary infection. In the severe forms, the fingers and toes may become fused, and contractures of the limbs develop from repeated blistering and healing. Mucous membrane involvement may result in oral ulceration and stenosis from oesophageal erosions. Management, including maintenance of adequate nutrition, should be by a multidisciplinary team including a paediatric dermatologist, paediatrician, plastic surgeon and dietician.
+
+Figure 24.5 Collodion baby.
+
+Collodion baby
+
+This is a rare manifestation of the inherited ichthyoses, a group of conditions in which the skin is dry and scaly. Infants are born with a taut parchment-like or collodion-like membrane (Fig. 24.5). Emollients are
+
+425
+
+Box 24.1 Causes of napkin rashes
+
+Common
+• Irritant (contact) dermatitis
+• Infantile seborrhoeic dermatitis
+• Candida infection
+• Atopic eczema
+
+Rare
+• Acrodermatitis enteropathica (see p. 237)
+• Langerhans cell histiocytosis (see Fig. 21.18)
+• Wiskott–Aldrich syndrome (see p. 270).
+
+Figure 24.6 Napkin rash due to Candida infection. The skin flexures are involved and there are satellite pustules visible.
+
+Usually applied to moisturise and soften the skin. The membrane becomes fissured and separates within a few weeks, usually leaving either ichthyotic or less commonly, normal skin.
+
+Rashes of infancy
+
+Napkin rashes
+
+Napkin rashes are common, although irritant reactions are much less of a problem with the widespread use of disposable nappies, as they are more absorbent. Some causes are listed in Box 24.1. Irritant dermatitis, the most common napkin rash, may occur if nappies are not changed frequently enough or if the infant has diarrhoea. However, irritant dermatitis can occur even when the napkin area is cleaned regularly. The rash is due to the irritant effect of urine on the skin of susceptible infants. Urea-splitting organisms in faeces increase the alkalinity and likelihood of a rash.
+
+The irritant eruption affects the convex surfaces of the buttocks, perineal region, lower abdomen and top of thighs. Characteristically, the flexures are spared, which differentiates it from other causes of napkin rash. The rash is erythematous and may have a scalded appearance. More severe forms are associated with erosions and ulcer formation. Mild cases respond to the use of a protective emollient, whereas more severe cases may require mild topical corticosteroids. While leaving the child without a napkin will accelerate resolution, it is rarely practical at home.
+
+Candida infection may cause and often complicates napkin rashes. The rash is erythematous, includes the skin flexures and there may be satellite lesions (Fig. 24.6). Treatment is with a topical antifungal agent.
+
+Infantile seborrhoeic dermatitis
+
+This eruption of unknown cause presents in the first 2 months of life. It starts on the scalp as an erythematous scaly eruption. The scales form a thick yellow adherent layer, commonly called cradle cap (Fig. 24.7a). The scaly rash may spread to the face, behind the ears and then extend to the flexures and napkin area (Fig. 24.7b). In contrast to atopic eczema, it is not itchy and the child is unperturbed by it. However, it is associated with an increased risk of subsequently developing atopic eczema. Mild cases will resolve with emollients. The scales on the scalp can be cleared with an ointment containing low-concentration sulphur and salicylic acid applied to the scalp daily for a few hours and then washed off. Widespread body eruption will clear with a mild topical corticosteroid, either alone or mixed with an antibacterial and antifungal agent if appropriate.
+
+Figure 24.7 Infantile seborrhoeic dermatitis.
+(a) Cradle cap. (b) Involvement of face, axillae and napkin area.
+
+Atopic eczema (atopic dermatitis)
+
+The prevalence of atopic eczema in children in the UK is about 20%. A genetic deficiency of skin barrier function is important in the pathogenesis of atopic eczema. Onset of atopic eczema is usually in the first year of life. It is, however, uncommon in the first 2 months, unlike infantile seborrhoeic dermatitis, which is relatively common at this age. There is often a family history of
+
+426
+
+24
+Skin disorders
+
+Atopic disorders: eczema, asthma, allergic rhinitis (hay fever). Around one-third of children with atopic eczema will develop asthma. Exclusive breast-feeding may delay the onset of eczema in predisposed children but does not appear to have a significant impact on the prevalence of eczema during later childhood. Atopic eczema is mainly a disease of childhood, being most severe and troublesome in the first year of life and resolving in 50% by 12 years of age, and in 75% by 16 years.
+
+Diagnosis
+
+The diagnosis is made clinically. If tested, most affected children have an elevated total plasma IgE level. If there is a history to suggest a particular allergic cause, skin-prick and radioallergosorbent (RAST) tests may be helpful. This will also identify food and other allergens which may cause anaphylaxis. If the disease is unusually severe, atypical or associated with unusual infections or failure to thrive, an immune deficiency disorder should be excluded. Immunological changes in atopic disease are probably secondary to enhanced antigen penetration through a deficient epidermal barrier.
+
+Clinical features
+
+Rashes may itch in many conditions (Box 24.2), but in atopic eczema, itching (pruritus) is the main symptom at all ages and this results in scratching and exacerbation of the rash (Fig. 24.8). The excoriated areas become erythematous, weeping and crusted. Distribution of the eruption tends to change with age, as indicated in Figure 24.9.
+
+Atopic skin is usually dry, and prolonged scratching and rubbing of the skin may lead to lichenification, in which there is accentuation of the normal skin markings (Fig. 24.10).
+
+Complications
+
+Causes of exacerbations of eczema are listed in Box 24.3. However, flare-ups are common, often for no obvious reason. Eczematous skin can readily become infected, usually with Staphylococcus or Streptococcus (Fig. 24.11). Inflammation increases the avidity of skin for Staph. aureus and reduces the expression of antimicrobial peptides, which are needed to control microbial infections. Staph. aureus thrives on atopic skin and releases superantigens which seem to maintain and worsen eczema. Herpes simplex virus infection, although less frequent, is potentially very serious as it can spread rapidly on atopic skin, causing an extensive vesicular reaction, eczema herpeticum (see Ch. 14). Regional lymphadenopathy is common and often marked in active eczema; it usually resolves when the skin improves.
+
+Management
+
+A number of treatment modalities are available.
+
+Avoiding irritants and precipitants
+
+It is advisable to avoid soap and biological detergents. Clothing next to the skin should be of pure cotton where possible, avoiding nylon and pure woollen garments. Nails need to be cut short to reduce skin damage from scratching, and mittens at night may be helpful in the very young. When an allergen such as cow’s milk has been proven to be a precipitant, it should be avoided.
+
+Emollients
+
+These are the mainstay of management, moisturising and softening the skin. They should be applied liberally two or more times a day and after a bath. They include ointments such as one containing equal parts of white
+
+Itching
+
+Figure 24.8 Atopic dermatitis. Inflamed skin worsened by rubbing/scratching. Itch is the key clinical feature in eczema at all ages, leading to an ‘itch–scratch–itch’ cycle.
+
+Box 24.2 Some itchy rashes
+• Atopic eczema
+• Chickenpox
+• Urticaria/allergic reactions
+• Contact dermatitis
+• Insect bites/papular urticaria
+• Scabies
+• Fungal infections
+• Pityriasis rosea.
+
+No itch? – then it’s not eczema
+
+427
+
+Eczema
+
+Infant >2 months old
+(Predominantly face, also trunk)
+
+Older child
+(Predominantly flexor and friction surfaces)
+
+Figure 24.9 Distribution of atopic eczema. The distribution of eczema tends to change with age. In infants, the face and scalp are prominently affected, although the trunk may be involved. In older children, the skin flexures (cubital and popliteal fossae) and frictional areas, such as the neck, wrists and ankles, are characteristically involved.
+
+Figure 24.10 Lichenification.
+
+Box 24.3 Causes of exacerbation of eczema
+• Bacterial infection, e.g. Staphylococcus, Streptococcus spp.
+• Viral infection, e.g. herpes simplex virus
+• Ingestion of an allergen, e.g. egg
+• Contact with an irritant or allergen
+• Environment: heat, humidity
+• Change or reduction in medication
+• Psychological stress
+• Unexplained.
+
+Summary
+
+Assessment of the child with eczema
+
+Condition of the skin
+Distribution of the eczema: is the skin excoriated, weeping, crusted, lichenified?
+How troublesome is the itching?
+Worse or better than usual?
+What causes exacerbation – food or other allergens, irritants, medications, stress?
+Does it disturb sleep?
+Does it interfere with life?
+Family knowledgeable about condition and its management?
+
+Check:
+• Any evidence of infection – bacterial or herpes simplex virus?
+• Problems from other allergic disorders?
+• Is growth normal?
+
+Management
+Avoiding soap, frequently using emollients?
+Avoiding nylon and wool clothes?
+Is there a need to give or change medications:
+• Topical corticosteroids
+• Immunomodulators
+• Occlusive bandages
+• Antibiotics or antiviral agents
+• Antihistamines
+Allergy test to egg +/- other foods – is it indicated to identify coexistent IgE – mediated food allergy?
+On dietary elimination or is it indicated? If so, dietician supervision?
+Need for psychosocial support?
+
+Figure 24.11 Infected, excoriated atopic eczema.
+
+Skin disorders
+
+428
+
+24
+Skin disorders
+
+Soft paraffin and liquid paraffin. Ointments are preferable to creams when the skin is very dry. A daily or alternate day bath using an emollient oil as a soap substitute is also beneficial.
+
+Topical corticosteroids
+
+These are an effective treatment for eczema, but must be used with care. Mildly potent corticosteroids, such as 1% hydrocortisone ointment, can be applied to the eczematous areas twice daily. Moderately potent topical steroids play a pivotal role in the management of acute exacerbations, but their use must be kept to a minimum. They should be applied thinly and their use on the face should be generally avoided. Excessive use of topical steroids may cause thinning of the skin as well as systemic side-effects. However, fear of these side-effects should not deter their use in controlling exacerbations.
+
+Immunomodulators
+
+In children over 2 years old, short-term topical use of tacrolimus or pimecrolimus may be indicated for eczema not controlled by topical corticosteroids and where there is a risk of important adverse effects from further topical steroid use.
+
+Occlusive bandages
+
+These are helpful over limbs when scratching and lichenification are a problem. They may be impregnated with zinc paste or zinc and tar paste. The bandages are worn overnight or for 2–3 days at a time until the skin has improved. For widespread itching in young children, short-term use of wet stockinette wraps may be helpful; diluted topical steroids mixed with emollient are applied to the skin and damp wraps fashioned for trunk and limbs are then applied with overlying dry wraps or clothes.
+
+Antibiotics or antiviral agents
+
+Antibiotics with hydrocortisone can be applied topically for mildly infected eczema. Systemic antibiotics are indicated for more widespread or severe infection. Eczema herpeticum is treated with systemic aciclovir.
+
+Itch suppression is with an oral antihistamine. The newer second-generation antihistamines are not sedative. Antihistamines can be useful in raising the itching threshold so that scratching is reduced.
+
+Dietary elimination
+
+Food allergy may be present if the child reacted with immediate symptoms to a food, or in infants and young children with moderate or severe atopic eczema, particularly if associated with gut dysmotility (colic, vomiting, altered bowel habit) or failure to thrive. It may even occur in young infants with severe eczema who are exclusively breast-fed at the time. The most common food allergies are to egg, cow’s milk and peanut. However, any food may be implicated in an eczema flare-up. Dietary elimination for 4–6 weeks is required to detect a response. A trial of an extensively hydrolysed protein formula or amino acid formula in place of cow’s milk formula is also recommended for bottle-fed infants under 6 months old with severe atopic eczema that has not been controlled by optimal treatment with emollients and mild topical corticosteroids. Dietary elimination should be carried out with the advice of a dietician to ensure complete avoidance of specific food constituents and that the diet remains nutritionally adequate. A food challenge is required to be fully objective. Children can usually tolerate the offending foods by the age of 3–4 years with the important exception of peanut allergy, which usually persists.
+
+Psychosocial support
+
+In most children, eczema is mild and can be controlled with emollients and mildly potent topical steroids, and additional psychological support is not required. However, eczema can be sufficiently severe to be disrupting both to the child and to the whole family. The parents and the child need considerable advice, help and support from health professionals, other affected families or fellow sufferers. In the UK, the National Eczema Society provides support and education about the disorder.
+
+Infections and infestations
+
+Bullous impetigo has been considered earlier in this chapter and acute bacterial and viral infections of the skin are considered in Chapter 14.
+
+Viral infections
+
+Viral warts
+
+These are caused by the human papillomavirus, of which there are well over 100 types. Warts are common in children, usually on the fingers and soles (verrucae). Most disappear spontaneously over a few months or years and treatment is only indicated if the lesions are painful or are a cosmetic problem. They can be difficult to treat, but daily application of a proprietary salicylic acid and lactic acid paint or glutaraldehyde (10%) lotion can be used. Cryotherapy with liquid nitrogen is effective treatment but can be painful and often needs repeated application, and its use should be reserved for older children.
+
+Molluscum contagiosum
+
+This is caused by a poxvirus. The lesions are small, skin-coloured, pearly papules with central umbilication (Fig. 24.12). They may be single but are usually multiple. Lesions are often widespread but tend to disappear spontaneously within a year. If necessary, a topical antibacterial can be applied to prevent or treat secondary bacterial infection, and cryotherapy (2–3 s only) can be used in older children, away from the face, to hasten the disappearance of more chronic lesions.
+
+Fungal infections
+
+Ringworm
+
+Dermatophyte fungi invade dead keratinous structures, such as the horny layer of skin, nails and hair. The term ‘ringworm’ is used because of the often ringed
+
+Figure 24.12 Molluscum contagiosum. Some of the pearly lesions show characteristic umbilication.
+
+Figure 24.13 Ringworm of the scalp showing hair loss and kerion.
+
+429
+
+(annular) appearance of skin lesions. A severe inflammatory pustular ringworm patch is called a kerion (Fig. 24.13).
+
+Tinea capitis (scalp ringworm), sometimes acquired from dogs and cats, causes scaling and patchy alopecia with broken hairs. Examination under filtered ultraviolet (Wood’s) light may show bright greenish/yellow fluorescence of the infected hairs with some fungal species.
+
+Rapid diagnosis can be made by microscopic examination of skin scrapings for fungal hyphae. Definitive identification of the fungus is by culture. Treatment of mild infections is with topical antifungal preparations, but more severe infections require systemic antifungal treatment for several weeks. Any animal source of infection also needs to be treated.
+
+Summary
+
+Tinea capitis (scalp ringworm)
+• Annular scaling scalp lesion with patchy alopecia with broken hairs
+• Fungal hyphae on skin scrapings
+• Treated with topical or systemic antifungal
+• Treat the dog or cat, if infected.
+
+Parasitic infestations
+
+Scabies
+
+Scabies is caused by an infestation with the eight-legged mite Sarcoptes scabiei, which burrows down the epidermis along the stratum corneum. Severe itching occurs 2–6 weeks after infestation and is worse in warm conditions and at night.
+
+In older children, burrows, papules and vesicles involve the skin between the fingers and toes, axillae, flexor aspects of the wrists, belt line and around the nipples, penis and buttocks. In infants and young children, the distribution often includes the palms (Fig. 24.14), soles and trunk. The presence of lesions on the soles can be helpful in making the diagnosis. The head, neck and face can be involved in babies but is uncommon.
+
+Figure 24.14 Scabies in a young child affecting the palm.
+
+Diagnosis is made on clinical grounds with the history of itching and characteristic lesions. Although burrows are considered pathognomonic, they may be hard to identify because of secondary infection due to scratching. Itching in other family members is a helpful clinical indicator. Confirmation can be made by microscopic examination of skin scrapings from the lesions to identify mite, eggs and mite faeces.
+
+Complications
+
+The skin becomes excoriated due to scratching and there may be a secondary eczematous or urticarial reaction masking the true diagnosis. Secondary bacterial infection is common, giving crusted, pustular lesions. Sometimes slowly resolving nodular lesions are visible.
+
+Treatment
+
+As it is spread by close bodily contact, the child and whole family should be treated, whether or not they have evidence of infestation. Permethrin cream (5%) should be applied below the neck to all areas and washed off after 8–12 h. In babies, the face and scalp should be included, avoiding the eyes. Benzyl benzoate emulsion (25%) applied below the neck only, in diluted form according to age, and left on for 12 h, is also effective but smells and has an irritant action. Malathion lotion (0.5% aqueous) is another effective preparation applied below the neck and left on for 12 h.
+
+If a child and other members of the family are itching, suspect scabies.
+
+Skin disorders
+
+430
+
+24
+Skin disorders
+
+Summary
+
+Scabies
+• Very itchy burrows, papules and vesicles
+  – distribution varies with age
+• Scratching leads to excoriation, secondary eczematous or urticarial reaction often with secondary bacterial infection
+• Not only the child but the whole family need treatment.
+
+Pediculosis
+
+Pediculosis capitis (head lice infestation) is the most common form of lice infestation in children. It is widespread and troublesome among primary school children. Presentation may be itching of the scalp and nape or from identifying live lice on the scalp or nits (empty egg cases) on hairs (Fig. 24.15). Louse eggs are cemented to hair close to the scalp and the nits (small whitish oval capsules) remain attached to the hair shaft as the hair grows. There may be secondary bacterial infection, often over the nape of the neck, leading to a misdiagnosis of impetigo. Sub-occipital lymphadenopathy is common. Once infestation is confirmed by finding live lice, treatment is by applying a solution of 0.5% malathion to the hair and leaving it on overnight. The hair is then shampooed and the lice and nits removed with a fine-tooth comb. Treatment should be repeated a week later. Permethrin (1%) as a cream rinse would be an alternative application; it is left on for 10 min only. Flammability of alcohol-based lotions should be noted. Wet combing to remove live lice (bug-busting) every 3–4 days for at least 2 weeks is a useful and safe physical treatment, particularly when parents treat with enthusiasm.
+
+Figure 24.15 Head lice. Profuse nits (egg capsules) are visible on scalp hairs. Live lice were visible on the scalp.
+
+Other childhood skin disorders
+
+Psoriasis
+
+This familial disorder rarely presents before the age of 2 years. The guttate type (Fig. 24.16) is common in children and often follows a streptococcal or viral sore throat or ear infection. Lesions are small, raindrop-like, round or oval erythematous scaly patches on the trunk and upper limbs, and an attack usually resolves over 3–4 months. However, most get a recurrence of psoriasis within the next 3–5 years. Chronic psoriasis with plaques or annular lesions is less common. Fine pitting of the nails may be seen in chronic disease but is unusual in children. Treatment for guttate psoriasis is with bland ointments. Coal tar preparations are useful for plaque psoriasis and scalp involvement. Dithranol preparations are very effective in resistant plaque psoriasis. Calcipotriol, a vitamin D analogue, which does not stain the skin, can also be useful for plaque psoriasis in those over 6 years old. Occasionally, children with chronic psoriasis develop psoriatic arthritis. Chronic psoriasis may have a considerable effect on quality of life. The Psoriasis Association can be helpful in offering support and advice.
+
+Figure 24.16 Guttate psoriasis over the back in a 5-year-old.
+
+Pityriasis rosea
+
+This acute, benign self-limiting condition is thought to be of viral origin. It usually begins with a single round or oval scaly macule, the herald patch, 2–5 cm in diameter, on the trunk, upper arm, neck or thigh. After a few days, numerous smaller dull pink macules develop on the trunk, upper arms and thighs. The rash tends to follow the line of the ribs posteriorly, described as the ‘fir tree pattern’. Sometimes the lesions are itchy.
